@@ -2,7 +2,7 @@ import { ReactNode } from 'react';
 
 import NextLink, { LinkProps } from 'next/link';
 
-type Props = Omit<LinkProps, 'href'> & {
+export type Props = Omit<LinkProps, 'href'> & {
   children: ReactNode;
   className?: string;
   href?: LinkProps['href'];

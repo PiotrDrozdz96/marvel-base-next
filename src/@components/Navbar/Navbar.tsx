@@ -1,5 +1,5 @@
 import { ReactNode } from 'react';
-import { IoMdSettings, IoMdHome, IoIosTv } from 'react-icons/io';
+import { IoSettingsSharp, IoHome, IoTvOutline } from 'react-icons/io5';
 
 import { MenuItem } from 'types/Menu';
 import routes from 'config/routes';
@@ -12,8 +12,8 @@ type Props = {
 };
 
 const iconMap: Record<Required<MenuItem>['icon'], ReactNode> = {
-  home: <IoMdHome />,
-  tv: <IoIosTv />,
+  home: <IoHome />,
+  tv: <IoTvOutline />,
 };
 
 const Navbar = ({ menu }: Props): JSX.Element => (
@@ -31,7 +31,7 @@ const Navbar = ({ menu }: Props): JSX.Element => (
     <div>
       <Link href={routes.settings.href}>
         <a className={classes.settingsIcon}>
-          <IoMdSettings />
+          <IoSettingsSharp />
         </a>
       </Link>
     </div>

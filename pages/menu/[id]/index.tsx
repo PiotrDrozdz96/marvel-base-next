@@ -3,7 +3,6 @@ import Head from 'next/head';
 
 import { MenuItem } from 'types/Menu';
 import getMenu from 'requests/menu/getMenu';
-import Settings from '@pages/Settings/Settings';
 
 type Props = {
   menu: MenuItem[];
@@ -19,14 +18,14 @@ export const getServerSideProps: GetServerSideProps<Props> = async () => {
   };
 };
 
-const SettingsPage = ({ menu }: InferGetServerSidePropsType<typeof getServerSideProps>) => (
+const MenuPage = ({ menu }: InferGetServerSidePropsType<typeof getServerSideProps>) => (
   <>
     <Head>
-      <title>Marvel Base - Settings</title>
-      <meta name="description" content="Marvel Base - Settings" />
+      <title>Marvel Base - Menu</title>
+      <meta name="description" content="Marvel Base - Menu" />
     </Head>
-    <Settings menu={menu} />
+    <div>siema</div>
   </>
 );
 
-export default SettingsPage;
+export default MenuPage;

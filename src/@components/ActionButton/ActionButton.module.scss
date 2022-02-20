@@ -1,0 +1,19 @@
+@import 'styles/variables';
+
+.button {
+  display: flex;
+  padding: 4px 5px;
+  border-radius: 4px;
+  color: $color-button;
+  cursor: pointer;
+
+  &:hover {
+    background-color: $background-color-button-hover;
+  }
+};
+
+.text {
+  padding-left: 0.5em;
+  text-transform: uppercase;
+  font-size: 0.8125rem;
+};
