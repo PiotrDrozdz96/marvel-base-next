@@ -1,0 +1,27 @@
+@import 'styles/variables';
+
+.table {
+  margin: 16px;
+  width: calc(100% - 32px);
+  background-color: $background-color-secondary;
+  border-radius: 4px;
+  padding: 8px;
+  border-collapse: collapse;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+
+  & th, td {
+    font-size: 15px;
+    font-weight: 500;
+    text-align: start;
+    border-bottom: 1px solid $border-color-primary;
+    padding: 6px 24px 6px 16px;
+  }
+
+  & th {
+    line-height: 25px;
+  }
+
+  & td {
+    line-height: 31px;
+  }
+};
