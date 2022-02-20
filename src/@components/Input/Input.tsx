@@ -1,14 +1,15 @@
+import { DetailedHTMLProps, InputHTMLAttributes, ReactNode } from 'react';
 import classNames from 'classnames';
-import { DetailedHTMLProps, InputHTMLAttributes } from 'react';
 
 import classes from './Input.module.scss';
 
 type Props = DetailedHTMLProps<InputHTMLAttributes<HTMLInputElement>, HTMLInputElement> & {
   placeholder: string;
   error?: string;
+  endAdornment?: ReactNode;
 };
 
-const Input = ({ placeholder, error, ...props }: Props): JSX.Element => (
+const Input = ({ placeholder, error, endAdornment, ...props }: Props): JSX.Element => (
   // eslint-disable-next-line jsx-a11y/label-has-associated-control
   <label className={classes.label}>
     <input
@@ -18,6 +19,7 @@ const Input = ({ placeholder, error, ...props }: Props): JSX.Element => (
       placeholder=" "
     />
     <div className={classes.placeholder}>{placeholder}</div>
+    <div className={classes.endAdornment}>{endAdornment}</div>
     <div className={classes.error}>{error}</div>
   </label>
 );
