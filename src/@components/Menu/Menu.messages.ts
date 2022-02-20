@@ -2,7 +2,7 @@ export default {
   listName: 'Lista Menu',
   id: 'Id',
   name: 'Nazwa',
-  type: 'typ',
+  type: 'Typ',
   url: 'Url',
   icon: 'Ikonka',
   parent_id: 'Rodzic',

@@ -1,8 +1,7 @@
 @import 'styles/variables';
 
 .table {
-  margin: 16px;
-  width: calc(100% - 32px);
+  width: 100%;
   background-color: $background-color-secondary;
   border-radius: 4px;
   padding: 8px;

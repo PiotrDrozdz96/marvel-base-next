@@ -1,0 +1,59 @@
+@import 'styles/variables';
+
+.label {
+  position: relative;
+}
+
+.input {
+  appearance: textfield;
+  border: 0;
+  box-shadow: none;
+  color: white; 
+  padding: 0;
+  margin: 8px 0 4px 0;
+  flex: 1;
+  background-color: rgba(255, 255, 255, 0.09);
+  height: 48px;
+  outline: none;
+  width: 256px;
+  padding: 27px 12px 10px;
+  font-size: 1rem;
+  border-radius: 4px 4px 0 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.7);
+  transition: border 200ms;
+
+  &:focus, &:active {
+    border-bottom: 1px solid $color-secondary;
+  }
+
+  &:focus, &:active, &:not(:placeholder-shown) {
+    & + .placeholder {
+      top: -20px;
+      font-size: 0.8rem;
+    }
+  }
+};
+
+.errorInput {
+  border-bottom: 1px solid $color-secondary;
+
+  & + .placeholder {
+    color: $color-secondary;
+  }
+};
+
+.placeholder {
+  position: absolute;
+  top: -5px;
+  left: 12px;
+  font-size: 1rem;
+  transition: top 200ms, font-size 200ms;
+  color: rgba(255, 255, 255, 0.7);
+};
+
+.error {
+  height: 20px;
+  margin: 4px 14px 0 14px;
+  font-size: 0.75rem;
+  color: $color-secondary;
+};

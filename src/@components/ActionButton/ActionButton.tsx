@@ -1,16 +1,15 @@
 import { ReactNode } from 'react';
 import { IoAdd, IoPencil, IoTrash, IoEye } from 'react-icons/io5';
 
-import Link, { LinkProps } from '@components/Link';
+import Button, { ButtonProps } from '@components/Button';
 
 import messages from './ActionButton.messages';
-import classes from './ActionButton.module.scss';
 
 type Variant = 'add' | 'edit' | 'delete' | 'show';
 
 type Props = {
   variant: Variant;
-  href?: LinkProps['href'];
+  href?: ButtonProps['href'];
 };
 
 const iconMap: Record<Variant, ReactNode> = {
@@ -20,21 +19,10 @@ const iconMap: Record<Variant, ReactNode> = {
   show: <IoEye />,
 };
 
-const ActionButton = ({ variant, href }: Props): JSX.Element => {
-  const content = (
-    <>
-      {iconMap[variant]}
-      <div className={classes.text}>{messages[variant]}</div>
-    </>
-  );
-
-  return href ? (
-    <Link className={classes.button} href={href}>
-      {content}
-    </Link>
-  ) : (
-    <div className={classes.button}>{content}</div>
-  );
-};
+const ActionButton = ({ variant, href }: Props): JSX.Element => (
+  <Button type={href ? 'link' : 'button'} href={href} icon={iconMap[variant]}>
+    {messages[variant]}
+  </Button>
+);
 
 export default ActionButton;

@@ -3,6 +3,7 @@ import { MenuItem } from 'types/Menu';
 import List from '@components/List';
 import Toolbar from '@components/Toolbar';
 import ActionButton from '@components/ActionButton';
+import Container from '@components/Container';
 
 import menuMessages from '../Menu.messages';
 
@@ -13,7 +14,7 @@ type Props = {
 const labels: string[] = [menuMessages.id, menuMessages.name, menuMessages.url];
 
 const MenuList = ({ menu }: Props): JSX.Element => (
-  <>
+  <Container>
     <Toolbar name={menuMessages.listName}>
       <ActionButton variant="add" href={{ pathname: routes.menu.id.href, query: { id: 'create' } }} />
     </Toolbar>
@@ -26,7 +27,7 @@ const MenuList = ({ menu }: Props): JSX.Element => (
         </tr>
       ))}
     </List>
-  </>
+  </Container>
 );
 
 export default MenuList;

@@ -2,6 +2,7 @@ import { GetServerSideProps, InferGetServerSidePropsType } from 'next';
 import Head from 'next/head';
 
 import { MenuItem } from 'types/Menu';
+import MenuForm from '@components/Menu/MenuForm';
 import getMenu from 'requests/menu/getMenu';
 
 type Props = {
@@ -24,7 +25,7 @@ const MenuPage = ({ menu }: InferGetServerSidePropsType<typeof getServerSideProp
       <title>Marvel Base - Menu</title>
       <meta name="description" content="Marvel Base - Menu" />
     </Head>
-    <div>siema</div>
+    <MenuForm />
   </>
 );
 
