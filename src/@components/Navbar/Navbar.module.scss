@@ -1,0 +1,36 @@
+@import 'styles/variables';
+
+.navbar {
+  display: flex;
+  width: 100%;
+  background-color: $color-primary;
+  height: 56px;
+  overflow: auto;
+  justify-content: space-between;
+  font-size: 20px
+};
+
+.icon {
+  margin-top: 4px;
+  margin-right: 8px;
+};
+
+.settingsIcon {
+  display: flex;
+  align-items: center;
+  font-size: 25px;
+  height: 100%;
+  padding: 0 12px;
+};
+
+.menu {
+  display: flex;
+  margin: 0;
+}
+
+.menuItem {
+  display: flex;
+  align-items: center;
+  height: 56px;
+  padding: 0 16px;
+};
