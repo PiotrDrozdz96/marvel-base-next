@@ -25,12 +25,13 @@ const iconOptions: SelectOption[] = [
 
 type Props = {
   menuOptions: SelectOption[];
+  onSubmit: (values: FormValues) => void;
 };
 
-const MenuForm = ({ menuOptions }: Props): JSX.Element => (
+const MenuForm = ({ menuOptions, onSubmit }: Props): JSX.Element => (
   <Container>
     <Paper>
-      <Form<FormValues> onSubmit={() => {}}>
+      <Form<FormValues> onSubmit={onSubmit}>
         {({ handleSubmit, values }) => (
           <form onSubmit={handleSubmit}>
             <Input name="name" placeholder={menuMessages.name} required />
