@@ -12,12 +12,13 @@ type Props = {
   name: string;
   value?: string;
   error?: string;
+  required?: boolean;
   options: { value: string; label: string }[];
   placeholder: string;
   onChange?: (e: ChangeEvent<HTMLSelectElement>) => void;
 };
 
-const Select = ({ name, options, error, value, placeholder, onChange }: Props): JSX.Element => {
+const Select = ({ name, options, error, value, placeholder, required, onChange }: Props): JSX.Element => {
   const wrapperRef = useRef(null);
   const selectRef = useRef<HTMLSelectElement>(null);
   const [isOpen, setIsOpen] = useState(false);
@@ -46,6 +47,7 @@ const Select = ({ name, options, error, value, placeholder, onChange }: Props): 
       <div className={classes.input} onClick={() => setIsOpen(true)}>
         <Input
           error={error}
+          required={required}
           placeholder={placeholder}
           value={options.find((option) => option.value === value)?.label || ''}
           endAdornment={

@@ -17,7 +17,7 @@ const MenuForm = (): JSX.Element => (
       <Form<FormValues> onSubmit={() => {}}>
         {({ handleSubmit, values }) => (
           <form onSubmit={handleSubmit}>
-            <Input name="name" placeholder={menuMessages.name} />
+            <Input name="name" placeholder={menuMessages.name} required />
             <Select
               name="type"
               placeholder={menuMessages.type}
@@ -25,10 +25,11 @@ const MenuForm = (): JSX.Element => (
                 { value: 'SUB_MENU', label: 'SUB_MENU' },
                 { value: 'MAIN_MENU', label: 'MAIN_MENU' },
               ]}
+              required
             />
-            <Input name="url" placeholder={menuMessages.url} />
-            {values.type === 'MAIN_MENU' && <Input name="icon" placeholder={menuMessages.icon} />}
-            {values.type === 'SUB_MENU' && <Input name="parent_id" placeholder={menuMessages.parent_id} />}
+            <Input name="url" placeholder={menuMessages.url} required={values.type === 'SUB_MENU'} />
+            {values.type === 'MAIN_MENU' && <Input name="icon" placeholder={menuMessages.icon} required />}
+            {values.type === 'SUB_MENU' && <Input name="parent_id" placeholder={menuMessages.parent_id} required />}
             <FormActions />
           </form>
         )}
