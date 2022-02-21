@@ -1,3 +1,4 @@
+import { useRouter } from 'next/router';
 import { ApiMenuItem } from 'types/Menu';
 import SelectOption from 'types/SelectOption';
 
@@ -8,6 +9,7 @@ type Props = {
 };
 
 const MenuFormContainer = ({ menu }: Props): JSX.Element => {
+  const router = useRouter();
   const menuOptions: SelectOption[] = menu.map(({ id, name }) => ({ value: `${id}`, label: name }));
 
   const onSubmit = async (values: ApiMenuItem) => {
@@ -16,6 +18,7 @@ const MenuFormContainer = ({ menu }: Props): JSX.Element => {
       method: 'POST',
       body: JSON.stringify(values),
     });
+    router.back();
   };
 
   return <MenuForm menuOptions={menuOptions} onSubmit={onSubmit} />;
