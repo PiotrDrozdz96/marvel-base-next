@@ -3,9 +3,9 @@
     "1": {
       "name": "Strona Główna",
       "type": "MAIN_MENU",
-      "icon": "home",
-      "url": "/",
       "order": 0,
+      "url": "/",
+      "icon": "home",
       "parent_id": null
     }
   },
