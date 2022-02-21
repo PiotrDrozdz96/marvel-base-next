@@ -17,6 +17,7 @@ type Props = {
 export const getServerSideProps: AppServerSideProps<Props> = async ({ params, query }) => {
   const id = params?.id as number | 'create';
   const type = query?.type as string | undefined;
+  const parentId = query?.parent_id as string | undefined;
 
   const menuData = await request('get', 'menu');
   const { menu: rawMenu } = menuData;
@@ -34,7 +35,7 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
       id: isCreate ? null : id,
       initialValues: !isCreate
         ? (rawMenu[id] as unknown as FormPartial<ApiMenuItem>)
-        : { ...defaultValues, type: type || defaultValues.type },
+        : { ...defaultValues, type: type || defaultValues.type, parent_id: parentId || defaultValues.parent_id },
     },
   };
 };

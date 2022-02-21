@@ -12,11 +12,12 @@ import menuMessages from '../Menu.messages';
 
 type Props = {
   menu: MenuItem[];
+  query: Pick<MenuItem, 'type' | 'parent_id'>;
 };
 
 const labels: string[] = [menuMessages.id, menuMessages.name, menuMessages.url, menuMessages.order, ''];
 
-const MenuList = ({ menu }: Props): JSX.Element => {
+const MenuList = ({ menu, query }: Props): JSX.Element => {
   const router = useRouter();
 
   const onDelete = (id: number) => async () => {
@@ -32,7 +33,7 @@ const MenuList = ({ menu }: Props): JSX.Element => {
       <Toolbar name={menuMessages.listName}>
         <ActionButton
           variant="add"
-          href={{ pathname: routes.menu.id.href, query: { id: 'create', type: 'MAIN_MENU' } }}
+          href={{ pathname: routes.menu.id.href, query: { id: 'create', ...query } }}
           as={{ pathname: 'menu/create' }}
         />
       </Toolbar>

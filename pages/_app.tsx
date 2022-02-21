@@ -12,7 +12,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => (
       <meta name="description" content={`Marvel Base ${pageProps.title || ''}`} />
       <link rel="icon" href="/favicon.ico" />
     </Head>
-    <Navbar menu={pageProps.menu} />
+    {pageProps.menu && <Navbar menu={pageProps.menu} />}
     <Component {...pageProps} />
   </>
 );

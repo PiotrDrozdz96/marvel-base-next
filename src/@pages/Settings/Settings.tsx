@@ -5,6 +5,6 @@ type Props = {
   menu: MenuItem[];
 };
 
-const Settings = ({ menu }: Props): JSX.Element => <MenuList menu={menu} />;
+const Settings = ({ menu }: Props): JSX.Element => <MenuList menu={menu} query={{ type: 'MAIN_MENU' }} />;
 
 export default Settings;

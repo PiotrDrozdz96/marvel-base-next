@@ -18,7 +18,9 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) 
   const { menu: rawMenu } = menuData;
   const menu = mapRawMenu(rawMenu);
 
-  const item = menu[id] || rawMenu[id] ? { ...rawMenu[id], id, items: [] } : undefined;
+  const item =
+    menu.find(({ id: menuId }) => menuId === Number(id)) ||
+    (rawMenu[id] ? { ...rawMenu[id], id, items: [] } : undefined);
 
   if (!item) {
     return { notFound: true };
