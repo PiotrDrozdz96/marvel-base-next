@@ -13,7 +13,7 @@ const iconValidValues = ['home', 'tv', 'reader'];
 const menuValidation = (res: NextApiResponse, initialBody: Partial<ApiMenuItem>): ApiMenuItem | undefined => {
   const body = pick(initialBody, menuField);
 
-  const emptyField = menuRequiredField.find((key) => !body[key]);
+  const emptyField = menuRequiredField.find((key) => !body[key] && body[key] !== 0);
 
   if (emptyField) {
     res.status(400).send({ message: interpolate(messages.required, { field: emptyField }) });

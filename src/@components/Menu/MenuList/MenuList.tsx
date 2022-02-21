@@ -4,6 +4,7 @@ import routes from 'config/routes';
 import { MenuItem } from 'types/Menu';
 import List from '@components/List';
 import Toolbar from '@components/Toolbar';
+import ActionsButtons from '@components/ActionsButtons';
 import ActionButton from '@components/ActionButton';
 import Container from '@components/Container';
 
@@ -42,8 +43,11 @@ const MenuList = ({ menu }: Props): JSX.Element => {
             <td>{menuItem.name}</td>
             <td>{menuItem.url}</td>
             <td>{menuItem.order}</td>
-            <td style={{ width: 70 }}>
-              <ActionButton variant="delete" itemName={`#${menuItem.id}`} onDelete={onDelete(menuItem.id)} />
+            <td style={{ width: 140 }}>
+              <ActionsButtons>
+                <ActionButton variant="edit" href={{ pathname: routes.menu.id.href, query: { id: menuItem.id } }} />
+                <ActionButton variant="delete" itemName={`#${menuItem.id}`} onDelete={onDelete(menuItem.id)} />
+              </ActionsButtons>
             </td>
           </tr>
         ))}
