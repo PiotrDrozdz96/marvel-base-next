@@ -1,6 +1,6 @@
-import { GetServerSideProps, InferGetServerSidePropsType } from 'next';
-import Head from 'next/head';
+import { InferGetServerSidePropsType } from 'next';
 
+import AppServerSideProps from 'types/AppServerSideProps';
 import { ApiMenuItem, MenuItem } from 'types/Menu';
 import FormPartial from 'types/FormPartial';
 import MenuForm, { defaultValues } from '@components/Menu/MenuForm';
@@ -14,7 +14,7 @@ type Props = {
   initialValues: FormPartial<ApiMenuItem>;
 };
 
-export const getServerSideProps: GetServerSideProps<Props> = async ({ params, query }) => {
+export const getServerSideProps: AppServerSideProps<Props> = async ({ params, query }) => {
   const id = params?.id as number | 'create';
   const type = query?.type as string | undefined;
 
@@ -24,6 +24,7 @@ export const getServerSideProps: GetServerSideProps<Props> = async ({ params, qu
 
   return {
     props: {
+      title: `- Menu - ${isCreate ? 'Create' : `#${id}`}`,
       menu: mapRawMenu(rawMenu),
       variant: isCreate ? 'create' : 'edit',
       id: isCreate ? null : id,
@@ -35,13 +36,7 @@ export const getServerSideProps: GetServerSideProps<Props> = async ({ params, qu
 };
 
 const MenuPage = ({ menu, variant, initialValues, id }: InferGetServerSidePropsType<typeof getServerSideProps>) => (
-  <>
-    <Head>
-      <title>Marvel Base - Menu</title>
-      <meta name="description" content="Marvel Base - Menu" />
-    </Head>
-    <MenuForm menu={menu} initialValues={initialValues} variant={variant} itemId={id || undefined} />
-  </>
+  <MenuForm menu={menu} initialValues={initialValues} variant={variant} itemId={id || undefined} />
 );
 
 export default MenuPage;

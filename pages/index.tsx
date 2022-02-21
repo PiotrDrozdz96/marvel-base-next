@@ -1,15 +1,10 @@
-import { NextPage, GetServerSideProps } from 'next';
-import Head from 'next/head';
+import { NextPage } from 'next';
 
-import { MenuItem } from 'types/Menu';
+import AppServerSideProps from 'types/AppServerSideProps';
 import Home from '@pages/Home';
 import getMenu from 'requests/menu/getMenu';
 
-type Props = {
-  menu: MenuItem[];
-};
-
-export const getServerSideProps: GetServerSideProps<Props> = async () => {
+export const getServerSideProps: AppServerSideProps = async () => {
   const menu = await getMenu();
 
   return {
@@ -19,14 +14,6 @@ export const getServerSideProps: GetServerSideProps<Props> = async () => {
   };
 };
 
-const HomePage: NextPage = () => (
-  <>
-    <Head>
-      <title>Marvel Base</title>
-      <meta name="description" content="Marvel Base" />
-    </Head>
-    <Home />
-  </>
-);
+const HomePage: NextPage = () => <Home />;
 
 export default HomePage;
