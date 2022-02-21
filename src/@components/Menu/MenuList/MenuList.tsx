@@ -29,7 +29,11 @@ const MenuList = ({ menu }: Props): JSX.Element => {
   return (
     <Container>
       <Toolbar name={menuMessages.listName}>
-        <ActionButton variant="add" href={{ pathname: routes.menu.id.href, query: { id: 'create' } }} />
+        <ActionButton
+          variant="add"
+          href={{ pathname: routes.menu.id.href, query: { id: 'create', type: 'MAIN_MENU' } }}
+          as={{ pathname: 'menu/create' }}
+        />
       </Toolbar>
       <List labels={labels}>
         {menu.map((menuItem) => (

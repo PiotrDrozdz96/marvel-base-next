@@ -2,6 +2,7 @@ import { Form } from 'react-final-form';
 
 import { ApiMenuItem } from 'types/Menu';
 import SelectOption from 'types/SelectOption';
+import FormPartial from 'types/FormPartial';
 import Input from '@components/Input';
 import Select from '@components/Select';
 import Container from '@components/Container';
@@ -10,7 +11,7 @@ import FormActions from '@components/FormActions';
 
 import menuMessages from '../Menu.messages';
 
-type FormValues = ApiMenuItem;
+type FormValues = FormPartial<ApiMenuItem>;
 
 const typeOptions: SelectOption[] = [
   { value: 'SUB_MENU', label: 'SUB_MENU' },
@@ -25,13 +26,14 @@ const iconOptions: SelectOption[] = [
 
 type Props = {
   menuOptions: SelectOption[];
+  initialValues: FormValues;
   onSubmit: (values: FormValues) => void;
 };
 
-const MenuForm = ({ menuOptions, onSubmit }: Props): JSX.Element => (
+const MenuForm = ({ menuOptions, initialValues, onSubmit }: Props): JSX.Element => (
   <Container>
     <Paper>
-      <Form<FormValues> onSubmit={onSubmit}>
+      <Form<FormValues> initialValues={initialValues} onSubmit={onSubmit}>
         {({ handleSubmit, values }) => (
           <form onSubmit={handleSubmit}>
             <Input name="name" placeholder={menuMessages.name} required />

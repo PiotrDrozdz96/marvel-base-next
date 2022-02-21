@@ -10,6 +10,7 @@ type ButtonProps = DetailedHTMLProps<ButtonHTMLAttributes<HTMLButtonElement>, HT
 export type Props = {
   type: Exclude<ButtonProps['type'], undefined> | 'link';
   href?: LinkProps['href'];
+  as?: LinkProps['as'];
   icon?: ReactNode;
   children?: ReactNode;
   className?: string;
@@ -17,7 +18,7 @@ export type Props = {
   onClick?: () => void;
 };
 
-const Button = ({ type, href, icon, children, className, variant = 'primary', onClick }: Props): JSX.Element => {
+const Button = ({ type, href, icon, as, children, className, variant = 'primary', onClick }: Props): JSX.Element => {
   const content = (
     <>
       {icon}
@@ -28,7 +29,7 @@ const Button = ({ type, href, icon, children, className, variant = 'primary', on
   const finalClassName = classNames(classes.button, className, { [classes.secondary]: variant === 'secondary' });
 
   return type === 'link' ? (
-    <Link className={finalClassName} href={href}>
+    <Link className={finalClassName} href={href} as={as}>
       {content}
     </Link>
   ) : (

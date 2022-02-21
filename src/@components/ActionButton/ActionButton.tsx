@@ -13,6 +13,7 @@ type Variant = 'add' | 'edit' | 'delete' | 'show';
 type Props = {
   variant: Variant;
   href?: ButtonProps['href'];
+  as?: ButtonProps['as'];
   itemName?: string;
   onDelete?: () => void;
 };
@@ -24,7 +25,7 @@ const iconMap: Record<Variant, ReactNode> = {
   show: <IoEye />,
 };
 
-const ActionButton = ({ variant, itemName, href, onDelete }: Props): JSX.Element => {
+const ActionButton = ({ variant, itemName, href, as, onDelete }: Props): JSX.Element => {
   const [isOpen, setIsOpen] = useState(false);
 
   const isDeleteVariant = variant === 'delete';
@@ -34,6 +35,7 @@ const ActionButton = ({ variant, itemName, href, onDelete }: Props): JSX.Element
       <Button
         type={isDeleteVariant ? 'button' : 'link'}
         href={href}
+        as={as}
         icon={iconMap[variant]}
         onClick={isDeleteVariant ? () => setIsOpen(true) : undefined}
       >

@@ -5,23 +5,11 @@
       "type": "MAIN_MENU",
       "icon": "home",
       "url": "/",
-      "order": 0
-    },
-    "2": {
-      "name": "Filmy",
-      "type": "MAIN_MENU",
-      "icon": "tv",
-      "order": 1
-    },
-    "3": {
-      "name": "MCU",
-      "type": "SUB_MENU",
-      "url": "/",
-      "parent_id": 2,
-      "order": 0
+      "order": 0,
+      "parent_id": null
     }
   },
   "meta": {
-    "nextIndex": 4
+    "nextIndex": 2
   }
 }
