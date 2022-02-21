@@ -7,9 +7,25 @@
       "url": "/",
       "icon": "home",
       "parent_id": null
+    },
+    "2": {
+      "name": "Filmy",
+      "type": "MAIN_MENU",
+      "order": 1,
+      "url": "",
+      "icon": "tv",
+      "parent_id": null
+    },
+    "3": {
+      "name": "MCU",
+      "type": "SUB_MENU",
+      "order": 0,
+      "url": "/",
+      "icon": "",
+      "parent_id": 2
     }
   },
   "meta": {
-    "nextIndex": 2
+    "nextIndex": 4
   }
 }

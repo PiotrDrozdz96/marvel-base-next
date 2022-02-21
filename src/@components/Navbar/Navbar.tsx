@@ -15,11 +15,20 @@ const Navbar = ({ menu }: Props): JSX.Element => (
   <nav className={classes.navbar}>
     <div className={classes.menu}>
       {menu.map((menuItem) => (
-        <div key={menuItem.id}>
+        <div className={classes.menuWrapper} key={menuItem.id}>
           <Link className={classes.menuItem} href={menuItem.url}>
             {!!menuItem.icon && <div className={classes.icon}>{iconMap[menuItem.icon]}</div>}
             <div>{menuItem.name}</div>
           </Link>
+          {!!menuItem.items.length && (
+            <div className={classes.menuItems}>
+              {menuItem.items.map((item) => (
+                <Link key={item.id} className={classes.submenuItem} href={item.url}>
+                  {item.name}
+                </Link>
+              ))}
+            </div>
+          )}
         </div>
       ))}
     </div>

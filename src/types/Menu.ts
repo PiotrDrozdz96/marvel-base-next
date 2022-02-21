@@ -9,7 +9,7 @@ type ApiMenuItem = {
 
 type MenuItem = ApiMenuItem & {
   id: number;
-  items?: MenuItem[];
+  items: MenuItem[];
 };
 
 export type { ApiMenuItem, MenuItem };

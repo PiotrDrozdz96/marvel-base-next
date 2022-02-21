@@ -7,7 +7,8 @@
   height: 56px;
   overflow: auto;
   justify-content: space-between;
-  font-size: 20px
+  font-size: 20px;
+  overflow: unset;
 };
 
 .icon {
@@ -28,9 +29,39 @@
   margin: 0;
 }
 
+.menuWrapper {
+  position: relative;
+
+  &:hover > .menuItems {
+    display: block;
+  };
+};
+
 .menuItem {
   display: flex;
   align-items: center;
   height: 56px;
   padding: 0 16px;
+};
+
+.menuItems {
+  display: none;
+  position: absolute;
+  width: 100%;
+  padding: 8px 0;
+  background-color: $background-color-secondary;
+  box-shadow: 0px 5px 5px -3px rgb(0 0 0 / 20%), 0px 8px 10px 1px rgb(0 0 0 / 14%), 0px 3px 14px 2px rgb(0 0 0 / 12%);
+}
+
+.submenuItem {
+  display: flex;
+  align-items: center;
+  height: 46px;
+  padding: 0 16px;
+  font-size: 14px;
+  cursor: pointer;
+
+  &:hover {
+    background-color: $background-color-primary;
+  };
 };
