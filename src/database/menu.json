@@ -21,5 +21,7 @@
       "order": 0
     }
   },
-  "meta": { "nextIndex": 4 }
+  "meta": {
+    "nextIndex": 4
+  }
 }

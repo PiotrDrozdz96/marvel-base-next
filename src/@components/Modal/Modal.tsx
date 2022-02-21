@@ -33,17 +33,14 @@ const Modal = ({ isOpen, children, onClose }: Props): JSX.Element => {
     onClose();
   };
 
-  const container = document.querySelector('body');
-
   return (
     <>
-      {container &&
-        isOpen &&
+      {isOpen &&
         createPortal(
           <div className={classes.wrapper} ref={wrapperRef} onClick={handleOutsideClick}>
             <div className={classes.box}>{children}</div>
           </div>,
-          container
+          document.querySelector('body') as Element
         )}
     </>
   );
