@@ -34,9 +34,9 @@ const Navbar = ({ menu }: Props): JSX.Element => (
     </div>
     <div>
       <Link href={routes.settings.href}>
-        <a className={classes.settingsIcon}>
+        <span className={classes.settingsIcon}>
           <IoSettingsSharp />
-        </a>
+        </span>
       </Link>
     </div>
   </nav>
