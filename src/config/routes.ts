@@ -5,6 +5,9 @@ const routes = {
   menu: {
     id: {
       href: '/menu/[id]',
+      show: {
+        href: '/menu/[id]/show',
+      },
     },
   },
 };

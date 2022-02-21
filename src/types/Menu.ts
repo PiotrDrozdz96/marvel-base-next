@@ -7,7 +7,7 @@ type ApiMenuItem = {
   parent_id?: number;
 };
 
-type MenuItem = Omit<ApiMenuItem, 'parent_id'> & {
+type MenuItem = ApiMenuItem & {
   id: number;
   items?: MenuItem[];
 };

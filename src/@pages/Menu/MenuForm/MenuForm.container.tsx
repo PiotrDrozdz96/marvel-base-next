@@ -1,10 +1,12 @@
 import { useRouter } from 'next/router';
 
+import routes from 'config/routes';
 import FormPartial from 'types/FormPartial';
 import { ApiMenuItem } from 'types/Menu';
 import SelectOption from 'types/SelectOption';
 import Toolbar from '@components/Toolbar';
 import Container from '@components/Container';
+import ActionButton from '@components/ActionButton';
 import { interpolate } from 'utils/interpolate';
 
 import menuMessages from '../Menu.messages';
@@ -34,7 +36,11 @@ const MenuFormContainer = ({ menu, initialValues, variant, itemId }: Props): JSX
     <Container>
       <Toolbar
         name={variant === 'create' ? menuMessages.createName : interpolate(menuMessages.editName, { id: itemId })}
-      />
+      >
+        {variant === 'edit' && (
+          <ActionButton variant="show" href={{ pathname: routes.menu.id.show.href, query: { id: itemId } }} />
+        )}
+      </Toolbar>
       <MenuForm menuOptions={menuOptions} initialValues={initialValues} onSubmit={onSubmit} />
     </Container>
   );

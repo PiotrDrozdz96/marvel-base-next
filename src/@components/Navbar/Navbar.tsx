@@ -1,20 +1,14 @@
-import { ReactNode } from 'react';
-import { IoSettingsSharp, IoHome, IoTvOutline, IoReaderSharp } from 'react-icons/io5';
+import { IoSettingsSharp } from 'react-icons/io5';
 
 import { MenuItem } from 'types/Menu';
 import routes from 'config/routes';
+import iconMap from 'consts/menuIconMap';
 import Link from '@components/Link';
 
 import classes from './Navbar.module.scss';
 
 type Props = {
   menu: MenuItem[];
-};
-
-const iconMap: Record<Required<MenuItem>['icon'], ReactNode> = {
-  home: <IoHome />,
-  tv: <IoTvOutline />,
-  reader: <IoReaderSharp />,
 };
 
 const Navbar = ({ menu }: Props): JSX.Element => (

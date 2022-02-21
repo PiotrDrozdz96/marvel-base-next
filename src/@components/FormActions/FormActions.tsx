@@ -3,10 +3,14 @@ import SaveButton from '@components/SaveButton';
 
 import classes from './FormActions.module.scss';
 
-const FormActions = (): JSX.Element => (
+type Props = {
+  withoutSave?: boolean;
+};
+
+const FormActions = ({ withoutSave }: Props): JSX.Element => (
   <div className={classes.formActions}>
     <BackButton />
-    <SaveButton />
+    {!withoutSave && <SaveButton />}
   </div>
 );
 

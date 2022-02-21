@@ -3,7 +3,7 @@ import { InferGetServerSidePropsType } from 'next';
 import AppServerSideProps from 'types/AppServerSideProps';
 import { ApiMenuItem, MenuItem } from 'types/Menu';
 import FormPartial from 'types/FormPartial';
-import MenuForm, { defaultValues } from '@components/Menu/MenuForm';
+import MenuForm, { defaultValues } from '@pages/Menu/MenuForm';
 import { mapRawMenu } from 'requests/menu/getMenu';
 import request from 'utils/request';
 
@@ -21,6 +21,10 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
   const menuData = await request('get', 'menu');
   const { menu: rawMenu } = menuData;
   const isCreate = id === 'create';
+
+  if (!isCreate && !rawMenu[id]) {
+    return { notFound: true };
+  }
 
   return {
     props: {

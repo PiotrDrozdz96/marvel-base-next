@@ -2,7 +2,7 @@ export default {
   listName: 'Lista Menu',
   createName: 'Stwórz Menu',
   editName: 'Edytuj Menu #{id}',
-  itemName: 'menu #{id}',
+  itemName: 'Menu #{id}',
   id: 'Id',
   name: 'Nazwa',
   type: 'Typ',

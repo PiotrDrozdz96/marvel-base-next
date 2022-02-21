@@ -43,8 +43,12 @@ const MenuList = ({ menu }: Props): JSX.Element => {
             <td>{menuItem.name}</td>
             <td>{menuItem.url}</td>
             <td>{menuItem.order}</td>
-            <td style={{ width: 140 }}>
+            <td style={{ width: 290 }}>
               <ActionsButtons>
+                <ActionButton
+                  variant="show"
+                  href={{ pathname: routes.menu.id.show.href, query: { id: menuItem.id } }}
+                />
                 <ActionButton variant="edit" href={{ pathname: routes.menu.id.href, query: { id: menuItem.id } }} />
                 <ActionButton variant="delete" itemName={`#${menuItem.id}`} onDelete={onDelete(menuItem.id)} />
               </ActionsButtons>

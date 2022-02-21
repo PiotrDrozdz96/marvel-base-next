@@ -1,5 +1,5 @@
 import { MenuItem } from 'types/Menu';
-import MenuList from '@components/Menu/MenuList';
+import MenuList from '@pages/Menu/MenuList';
 
 type Props = {
   menu: MenuItem[];
