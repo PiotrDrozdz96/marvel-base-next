@@ -9,12 +9,14 @@ type Props = {
 
 const List = ({ labels, children }: Props) => (
   <table className={classes.table}>
-    <tr>
-      {labels.map((label) => (
-        <th key={label}>{label}</th>
-      ))}
-    </tr>
-    {children}
+    <thead>
+      <tr>
+        {labels.map((label) => (
+          <th key={label}>{label}</th>
+        ))}
+      </tr>
+    </thead>
+    <tbody>{children}</tbody>
   </table>
 );
 

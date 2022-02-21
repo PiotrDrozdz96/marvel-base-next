@@ -1,8 +1,8 @@
 import { ChangeEvent, useRef, useState } from 'react';
 import classNames from 'classnames';
-
 import { IoTriangle } from 'react-icons/io5';
 
+import SelectOption from 'types/SelectOption';
 import Input from '@components/Input/Input';
 import useOutsideClick from 'hooks/useOutsideClick';
 
@@ -13,7 +13,7 @@ type Props = {
   value?: string;
   error?: string;
   required?: boolean;
-  options: { value: string; label: string }[];
+  options: SelectOption[];
   placeholder: string;
   onChange?: (e: ChangeEvent<HTMLSelectElement>) => void;
 };

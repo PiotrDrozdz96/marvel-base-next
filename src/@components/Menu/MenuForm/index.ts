@@ -1,1 +1,1 @@
-export { default } from './MenuForm';
+export { default } from './MenuForm.container';

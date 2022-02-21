@@ -3,7 +3,7 @@ type ApiMenuItem = {
   type: 'SUB_MENU' | 'MAIN_MENU';
   order: number;
   url?: string;
-  icon?: 'home' | 'tv';
+  icon?: 'home' | 'tv' | 'reader';
   parent_id?: number;
 };
 

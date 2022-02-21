@@ -1,31 +1,38 @@
 import { GetServerSideProps, InferGetServerSidePropsType } from 'next';
 import Head from 'next/head';
 
-import { MenuItem } from 'types/Menu';
+import { ApiMenuItem, MenuItem } from 'types/Menu';
 import MenuForm from '@components/Menu/MenuForm';
-import getMenu from 'requests/menu/getMenu';
+import { mapRawMenu } from 'requests/menu/getMenu';
+import request from 'utils/request';
 
 type Props = {
   menu: MenuItem[];
+  menuItem: ApiMenuItem | null;
 };
 
-export const getServerSideProps: GetServerSideProps<Props> = async () => {
-  const menu = await getMenu();
+export const getServerSideProps: GetServerSideProps<Props> = async ({ params }) => {
+  const id = params?.id as string;
+  const currentId = id !== 'create' ? Number(id) : undefined;
+
+  const menuData = await request('get', 'menu');
+  const { menu: rawMenu } = menuData;
 
   return {
     props: {
-      menu,
+      menu: mapRawMenu(rawMenu),
+      menuItem: currentId ? rawMenu[currentId] : null,
     },
   };
 };
 
-const MenuPage = ({ menu }: InferGetServerSidePropsType<typeof getServerSideProps>) => (
+const MenuPage = ({ menu, menuItem }: InferGetServerSidePropsType<typeof getServerSideProps>) => (
   <>
     <Head>
       <title>Marvel Base - Menu</title>
       <meta name="description" content="Marvel Base - Menu" />
     </Head>
-    <MenuForm />
+    <MenuForm menu={menu} />
   </>
 );
 

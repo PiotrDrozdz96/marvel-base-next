@@ -5,5 +5,6 @@ export default {
   type: 'Typ',
   url: 'Url',
   icon: 'Ikonka',
+  order: 'Kolejność',
   parent_id: 'Rodzic',
 };

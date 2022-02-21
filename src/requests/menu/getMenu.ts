@@ -1,13 +1,12 @@
-import { MenuItem } from 'types/Menu';
+import { ApiMenuItem, MenuItem } from 'types/Menu';
 import mapObjectToArray from 'utils/mapObjectToArray';
 import request from 'utils/request';
 import sortBy from 'utils/sortBy';
 
-const getMenu = async (): Promise<MenuItem[]> => {
-  const menuData = await request('get', 'menu');
-  const { menu } = menuData;
+export const mapRawMenu = (menu: Record<number, ApiMenuItem>): MenuItem[] => {
   const menuArray = mapObjectToArray(menu);
-  const result = sortBy(
+
+  return sortBy(
     menuArray.filter(({ type }) => type === 'MAIN_MENU'),
     'order'
   ).map((element) => ({
@@ -17,8 +16,13 @@ const getMenu = async (): Promise<MenuItem[]> => {
       'order'
     ),
   }));
+};
 
-  return result;
+const getMenu = async (): Promise<MenuItem[]> => {
+  const menuData = await request('get', 'menu');
+  const { menu } = menuData;
+
+  return mapRawMenu(menu);
 };
 
 export default getMenu;

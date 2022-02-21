@@ -11,7 +11,7 @@ type Props = {
   menu: MenuItem[];
 };
 
-const labels: string[] = [menuMessages.id, menuMessages.name, menuMessages.url];
+const labels: string[] = [menuMessages.id, menuMessages.name, menuMessages.url, menuMessages.order];
 
 const MenuList = ({ menu }: Props): JSX.Element => (
   <Container>
@@ -24,6 +24,7 @@ const MenuList = ({ menu }: Props): JSX.Element => (
           <td>{menuItem.id}</td>
           <td>{menuItem.name}</td>
           <td>{menuItem.url}</td>
+          <td>{menuItem.order}</td>
         </tr>
       ))}
     </List>
