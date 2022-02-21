@@ -11,7 +11,7 @@ type Props = {
   menu: MenuItem[];
 };
 
-const labels: string[] = [menuMessages.id, menuMessages.name, menuMessages.url, menuMessages.order];
+const labels: string[] = [menuMessages.id, menuMessages.name, menuMessages.url, menuMessages.order, ''];
 
 const MenuList = ({ menu }: Props): JSX.Element => (
   <Container>
@@ -25,6 +25,9 @@ const MenuList = ({ menu }: Props): JSX.Element => (
           <td>{menuItem.name}</td>
           <td>{menuItem.url}</td>
           <td>{menuItem.order}</td>
+          <td style={{ width: 70 }}>
+            <ActionButton variant="delete" itemName={`#${menuItem.id}`} onDelete={() => console.log('usuń')} />
+          </td>
         </tr>
       ))}
     </List>

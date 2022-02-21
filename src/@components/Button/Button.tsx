@@ -1,4 +1,5 @@
 import { ButtonHTMLAttributes, DetailedHTMLProps, ReactNode } from 'react';
+import classNames from 'classnames';
 
 import Link, { LinkProps } from '@components/Link';
 
@@ -11,10 +12,12 @@ export type Props = {
   href?: LinkProps['href'];
   icon?: ReactNode;
   children?: ReactNode;
+  className?: string;
+  variant?: 'primary' | 'secondary';
   onClick?: () => void;
 };
 
-const Button = ({ type, href, icon, children, onClick }: Props): JSX.Element => {
+const Button = ({ type, href, icon, children, className, variant = 'primary', onClick }: Props): JSX.Element => {
   const content = (
     <>
       {icon}
@@ -22,13 +25,15 @@ const Button = ({ type, href, icon, children, onClick }: Props): JSX.Element => 
     </>
   );
 
+  const finalClassName = classNames(classes.button, className, { [classes.secondary]: variant === 'secondary' });
+
   return type === 'link' ? (
-    <Link className={classes.button} href={href}>
+    <Link className={finalClassName} href={href}>
       {content}
     </Link>
   ) : (
     // eslint-disable-next-line react/button-has-type
-    <button type={type} className={classes.button} onClick={onClick}>
+    <button type={type} className={finalClassName} onClick={onClick}>
       {content}
     </button>
   );

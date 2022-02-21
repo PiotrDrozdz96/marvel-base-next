@@ -1,5 +1,6 @@
 export default {
   listName: 'Lista Menu',
+  itemName: 'menu #{id}',
   id: 'Id',
   name: 'Nazwa',
   type: 'Typ',
