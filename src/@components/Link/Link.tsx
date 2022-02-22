@@ -11,9 +11,7 @@ export type Props = Omit<LinkProps, 'href'> & {
 const Link = ({ className, href, children, ...props }: Props): JSX.Element =>
   href ? (
     <NextLink href={href} {...props}>
-      <a style={{ cursor: 'pointer' }} className={className}>
-        {children}
-      </a>
+      <a className={className}>{children}</a>
     </NextLink>
   ) : (
     <span className={className}>{children}</span>
