@@ -19,7 +19,6 @@ const request = async <Db extends keyof DateBaseMap, Result = DateBaseMap[Db]>(
   method: Method,
   database: Db
 ): Promise<Result> => {
-  // eslint-disable-next-line compat/compat
   const response = await fetch(`${process.env.BASE_URL}/api/${method}/${database}`);
   const props: Result = await response.json();
 

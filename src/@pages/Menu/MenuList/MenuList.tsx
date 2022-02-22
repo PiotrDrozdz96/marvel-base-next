@@ -21,7 +21,6 @@ const MenuList = ({ menu, query }: Props): JSX.Element => {
   const router = useRouter();
 
   const onDelete = (id: number) => async () => {
-    // eslint-disable-next-line compat/compat
     await fetch(`/api/delete/menu/${id}`, {
       method: 'DELETE',
     });

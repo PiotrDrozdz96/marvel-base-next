@@ -19,7 +19,6 @@ const DatabaseFormContainer = ({ variant, initialValues }: Props): JSX.Element =
   const router = useRouter();
 
   const onSubmit = async (values: FormPartial<{ name: string }>) => {
-    // eslint-disable-next-line compat/compat
     await fetch(variant === 'create' ? '/api/add/db' : `/api/edit/db/${initialValues.name}`, {
       method: 'POST',
       body: JSON.stringify(values),

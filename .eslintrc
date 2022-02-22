@@ -48,6 +48,7 @@
     "react/react-in-jsx-scope": "off",
     "react/display-name": "off",
     "no-shadow": "off",
+    "compat/compat": "off",
     "@typescript-eslint/no-shadow": ["error"],
     "@typescript-eslint/no-empty-function": "off",
     "import/extensions": [

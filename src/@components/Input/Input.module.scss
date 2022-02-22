@@ -12,7 +12,7 @@
   padding: 0;
   margin: 8px 0 4px 0;
   flex: 1;
-  background-color: rgba(255, 255, 255, 0.09);
+  background-color: rgb(83, 83, 83);
   height: 48px;
   outline: none;
   width: 256px;
@@ -24,13 +24,19 @@
 
   &:focus, &:active {
     border-bottom: 1px solid $color-secondary;
-  }
+  };
 
   &:focus, &:active, &:not(:placeholder-shown) {
     & + .placeholder {
       top: -20px;
       font-size: 0.8rem;
-    }
+    };
+  };
+
+  &:-webkit-autofill {
+    -webkit-text-fill-color: white;
+    -webkit-box-shadow: 0 0 0 100px rgb(83, 83, 83) inset;
+    box-shadow: 0 0 0 100px rgb(83, 83, 83) inset;
   }
 };
 

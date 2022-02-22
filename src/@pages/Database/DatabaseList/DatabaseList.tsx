@@ -20,7 +20,6 @@ const DatabaseList = ({ databases, className }: Props): JSX.Element => {
   const router = useRouter();
 
   const onDelete = (id: string) => async () => {
-    // eslint-disable-next-line compat/compat
     await fetch(`/api/delete/db/${id}`, {
       method: 'DELETE',
     });

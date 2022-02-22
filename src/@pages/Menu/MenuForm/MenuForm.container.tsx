@@ -24,7 +24,6 @@ const MenuFormContainer = ({ menu, initialValues, variant, itemId }: Props): JSX
   const menuOptions: SelectOption[] = menu.map(({ id, name }) => ({ value: `${id}`, label: name }));
 
   const onSubmit = async (values: FormPartial<ApiMenuItem>) => {
-    // eslint-disable-next-line compat/compat
     await fetch(variant === 'create' ? '/api/add/menu' : `/api/edit/menu/${itemId}`, {
       method: 'POST',
       body: JSON.stringify(values),
