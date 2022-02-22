@@ -10,27 +10,27 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) => {
     return;
   }
 
-  const { baseName, id } = req.query as Record<string, string>;
+  const { id } = req.query as Record<string, string>;
 
-  const base = () => import(`database/${baseName}.json`);
+  const base = () => import(`database/menu.json`);
   base()
     .then(async (data) => {
-      const database = data.default[baseName];
+      const database = data.default.menu;
       const { meta } = data.default;
-      const result = database[id];
+      const result = database[id as keyof typeof database];
       if (!result) {
-        res.status(404).json({ message: interpolate(messages.notFound, { id, baseName }) });
+        res.status(404).json({ message: interpolate(messages.notFound, { id, baseName: 'menu' }) });
         return;
       }
-      delete database[id];
+      delete database[id as keyof typeof database];
       const newDatabase = {
-        [baseName]: database,
+        menu: database,
         meta,
       };
 
-      await fs.writeFile(`src/database/${baseName}.json`, JSON.stringify(newDatabase, null, 2), (err) => {
+      await fs.writeFile('src/database/menu.json', JSON.stringify(newDatabase, null, 2), (err) => {
         if (err) {
-          res.status(505).send({ message: messages.internal });
+          res.status(500).send(err);
           return;
         }
         res.status(200).json({ ...result, id });

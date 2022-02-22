@@ -40,8 +40,8 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
   };
 };
 
-const MenuPage = ({ menu, variant, initialValues, id }: InferGetServerSidePropsType<typeof getServerSideProps>) => (
+const MenuFormPage = ({ menu, variant, initialValues, id }: InferGetServerSidePropsType<typeof getServerSideProps>) => (
   <MenuForm menu={menu} initialValues={initialValues} variant={variant} itemId={id || undefined} />
 );
 
-export default MenuPage;
+export default MenuFormPage;

@@ -1,6 +1,5 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
 import fs from 'fs';
-import copydir from 'copy-dir';
 
 import messages from 'utils/apiValidators/apiValidators.messages';
 import { interpolate } from 'utils/interpolate';
@@ -11,35 +10,33 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) => {
     return;
   }
 
+  const { id } = req.query as Record<string, string>;
+
+  if (!fs.existsSync(`src/database/db/${id}`)) {
+    res.status(404).send({ message: interpolate(messages.notFound, { id, baseName: 'db' }) });
+    return;
+  }
+
   const body: { name?: string } = JSON.parse(req.body);
-  if (!body.name) {
+  const { name } = body;
+
+  if (!name) {
     res.status(400).send({ message: interpolate(messages.required, { field: 'name' }) });
     return;
   }
 
-  if (fs.existsSync(`src/database/db/${body.name}`)) {
-    res.status(409).send({ message: interpolate(messages.conflict, { id: body.name, basename: 'db' }) });
+  if (fs.existsSync(`src/database/db/${name}`)) {
+    res.status(409).send({ message: interpolate(messages.conflict, { id: name, basename: 'db' }) });
     return;
   }
 
-  const name = body.name.toLowerCase().replace(/\s/g, '-');
-
-  copydir(
-    'src/consts/emptyDatabase',
-    `src/database/db/${name}`,
-    {
-      utimes: false,
-      mode: false,
-      cover: true,
-    },
-    (err: unknown) => {
-      if (err) {
-        res.status(500).json(err);
-        return;
-      }
-      res.status(200).json({ name });
+  fs.rename(`src/database/db/${id}`, `src/database/db/${name}`, (err) => {
+    if (err) {
+      res.status(500).json(err);
+      return;
     }
-  );
+    res.status(200).json({ name });
+  });
 };
 
 export default handler;

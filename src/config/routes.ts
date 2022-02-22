@@ -10,6 +10,11 @@ const routes = {
       },
     },
   },
+  db: {
+    id: {
+      href: '/db/[id]',
+    },
+  },
 };
 
 export default routes;
