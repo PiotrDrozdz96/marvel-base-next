@@ -27,7 +27,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) =>
       for (let i = 0; i <= files.length - 1; i += 1) {
         fastFolderSize(`src/database/db/${files[i]}`, (sizeErr, bytes) => {
           if (sizeErr) {
-            resolve(res.status(500).json(err));
+            resolve(res.status(500).json(sizeErr));
             return;
           }
           result[i].size = bytes;
