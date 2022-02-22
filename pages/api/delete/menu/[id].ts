@@ -3,6 +3,7 @@ import fs from 'fs';
 
 import messages from 'utils/apiValidators/apiValidators.messages';
 import { interpolate } from 'utils/interpolate';
+import keysOf from 'utils/keysOf';
 
 const handler = async (req: NextApiRequest, res: NextApiResponse) =>
   new Promise((resolve) => {
@@ -23,7 +24,11 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) =>
           resolve(res.status(404).json({ message: interpolate(messages.notFound, { id, baseName: 'menu' }) }));
           return;
         }
-        delete database[id as keyof typeof database];
+
+        [id, ...keysOf(database).filter((key) => database[key].parent_id === Number(id))].forEach((key) => {
+          delete database[key as keyof typeof database];
+        });
+
         const newDatabase = {
           menu: database,
           meta,
