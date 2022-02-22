@@ -14,7 +14,7 @@ export const mapRawMenu = (menu: Record<number, ApiMenuItem>): MenuItem[] => {
     items: sortBy(
       menuArray.filter(({ parent_id: parentId }) => parentId === element.id),
       'order'
-    ),
+    ).map((item) => ({ ...item, items: [] })),
   }));
 };
 

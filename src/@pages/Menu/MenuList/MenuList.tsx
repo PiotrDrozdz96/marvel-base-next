@@ -34,7 +34,7 @@ const MenuList = ({ menu, query }: Props): JSX.Element => {
         <ActionButton
           variant="add"
           href={{ pathname: routes.menu.id.href, query: { id: 'create', ...query } }}
-          as={{ pathname: 'menu/create' }}
+          as={{ pathname: '/menu/create' }}
         />
       </Toolbar>
       <List labels={labels}>
