@@ -2,8 +2,7 @@ import { MenuItem } from 'types/Menu';
 import Database from 'types/Database';
 import MenuList from '@pages/Menu/MenuList';
 import DatabaseList from '@pages/Database/DatabaseList';
-
-import classes from './Settings.module.scss';
+import Spacing from '@components/Spacing';
 
 type Props = {
   menu: MenuItem[];
@@ -13,7 +12,8 @@ type Props = {
 const Settings = ({ menu, databases }: Props): JSX.Element => (
   <>
     <MenuList menu={menu} query={{ type: 'MAIN_MENU' }} />
-    <DatabaseList className={classes.spacing} databases={databases} />
+    <Spacing />
+    <DatabaseList databases={databases} />
   </>
 );
 

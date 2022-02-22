@@ -10,7 +10,7 @@ import classes from './ActionButton.module.scss';
 
 type Variant = 'add' | 'edit' | 'delete' | 'show';
 
-type Props = {
+export type Props = {
   variant: Variant;
   href?: ButtonProps['href'];
   as?: ButtonProps['as'];

@@ -7,6 +7,7 @@ import TextField from '@components/TextField';
 import FormActions from '@components/FormActions';
 import Toolbar from '@components/Toolbar';
 import ActionButton from '@components/ActionButton';
+import Spacing from '@components/Spacing';
 import { interpolate } from 'utils/interpolate';
 
 import menuMessages from '../Menu.messages';
@@ -37,7 +38,12 @@ const MenuShow = ({ menu, item }: Props): JSX.Element => (
         <FormActions withoutSave />
       </Paper>
     </Container>
-    {item.type === 'MAIN_MENU' && <MenuList menu={item.items || []} query={{ type: 'SUB_MENU', parent_id: item.id }} />}
+    {item.type === 'MAIN_MENU' && (
+      <>
+        <Spacing />
+        <MenuList menu={item.items || []} query={{ type: 'SUB_MENU', parent_id: item.id }} />
+      </>
+    )}
   </>
 );
 
