@@ -3,8 +3,8 @@ import { InferGetServerSidePropsType } from 'next';
 import AppServerSideProps from 'types/AppServerSideProps';
 import { MenuItem } from 'types/Menu';
 import MenuShow from '@pages/Menu/MenuShow';
-import { mapRawMenu } from 'requests/menu/getMenu';
-import request from 'utils/request';
+import { mapRawMenu } from 'requests/helpers/getMenu';
+import getMenu from 'requests/api/getMenu';
 
 type Props = {
   menu: MenuItem[];
@@ -14,8 +14,7 @@ type Props = {
 export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) => {
   const id = params?.id as unknown as number;
 
-  const menuData = await request('get', 'menu');
-  const { menu: rawMenu } = menuData;
+  const { menu: rawMenu } = await getMenu();
   const menu = mapRawMenu(rawMenu);
 
   const item =

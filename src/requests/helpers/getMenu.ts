@@ -1,7 +1,8 @@
 import { ApiMenuItem, MenuItem } from 'types/Menu';
+
 import mapObjectToArray from 'utils/mapObjectToArray';
-import request from 'utils/request';
 import sortBy from 'utils/sortBy';
+import getApiMenu from 'requests/api/getMenu';
 
 export const mapRawMenu = (menu: Record<number, ApiMenuItem>): MenuItem[] => {
   const menuArray = mapObjectToArray(menu);
@@ -19,8 +20,7 @@ export const mapRawMenu = (menu: Record<number, ApiMenuItem>): MenuItem[] => {
 };
 
 const getMenu = async (): Promise<MenuItem[]> => {
-  const menuData = await request('get', 'menu');
-  const { menu } = menuData;
+  const { menu } = await getApiMenu();
 
   return mapRawMenu(menu);
 };

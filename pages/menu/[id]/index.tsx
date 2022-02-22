@@ -4,8 +4,8 @@ import AppServerSideProps from 'types/AppServerSideProps';
 import { ApiMenuItem, MenuItem } from 'types/Menu';
 import FormPartial from 'types/FormPartial';
 import MenuForm, { defaultValues } from '@pages/Menu/MenuForm';
-import { mapRawMenu } from 'requests/menu/getMenu';
-import request from 'utils/request';
+import getMenu from 'requests/api/getMenu';
+import { mapRawMenu } from 'requests/helpers/getMenu';
 
 type Props = {
   menu: MenuItem[];
@@ -19,8 +19,7 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
   const type = query?.type as string | undefined;
   const parentId = query?.parent_id as string | undefined;
 
-  const menuData = await request('get', 'menu');
-  const { menu: rawMenu } = menuData;
+  const { menu: rawMenu } = await getMenu();
   const isCreate = id === 'create';
 
   if (!isCreate && !rawMenu[id]) {

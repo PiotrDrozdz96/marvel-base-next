@@ -2,9 +2,9 @@ import { InferGetServerSidePropsType } from 'next';
 
 import AppServerSideProps from 'types/AppServerSideProps';
 import Database from 'types/Database';
-import getMenu from 'requests/menu/getMenu';
+import getMenu from 'requests/helpers/getMenu';
+import getDatabases from 'requests/api/getDatabases';
 import Settings from '@pages/Settings/Settings';
-import request from 'utils/request';
 
 type Props = {
   databases: Database[];
@@ -12,7 +12,7 @@ type Props = {
 
 export const getServerSideProps: AppServerSideProps<Props> = async () => {
   const menu = await getMenu();
-  const databases = await request('get', 'db');
+  const databases = await getDatabases();
 
   return {
     props: {

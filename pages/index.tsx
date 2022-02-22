@@ -2,7 +2,7 @@ import { NextPage } from 'next';
 
 import AppServerSideProps from 'types/AppServerSideProps';
 import Home from '@pages/Home';
-import getMenu from 'requests/menu/getMenu';
+import getMenu from 'requests/helpers/getMenu';
 
 export const getServerSideProps: AppServerSideProps = async () => {
   const menu = await getMenu();

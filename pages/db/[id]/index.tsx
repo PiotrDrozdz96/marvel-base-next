@@ -3,7 +3,7 @@ import fs from 'fs';
 
 import AppServerSideProps from 'types/AppServerSideProps';
 import FormPartial from 'types/FormPartial';
-import getMenu from 'requests/menu/getMenu';
+import getMenu from 'requests/helpers/getMenu';
 import DatabaseForm from '@pages/Database/DatabaseForm';
 
 type Props = {
