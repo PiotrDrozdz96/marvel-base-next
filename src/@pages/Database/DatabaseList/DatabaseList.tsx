@@ -1,5 +1,3 @@
-import { useRouter } from 'next/router';
-
 import Database from 'types/Database';
 import routes from 'config/routes';
 import Container from '@components/Container';
@@ -16,38 +14,21 @@ type Props = {
   className?: string;
 };
 
-const DatabaseList = ({ databases, className }: Props): JSX.Element => {
-  const router = useRouter();
-
-  const onDelete = (id: string) => async () => {
-    await fetch(`/api/delete/db/${id}`, {
-      method: 'DELETE',
-    });
-    router.replace(router.asPath);
-  };
-
-  return (
-    <Container className={className}>
-      <Toolbar name={databaseMessages.listName}>
-        <ActionButton variant="add" href={{ pathname: routes.db.id.href, query: { id: 'create' } }} />
-      </Toolbar>
-      <List labels={[databaseMessages.name, databaseMessages.size, '']}>
-        {databases.map((item) => (
-          <tr key={item.name}>
-            <td>{item.name}</td>
-            <td>{formattedFileSize(item.size)}</td>
-            <td style={{ width: 290 }}>
-              <ActionsButtons>
-                <ActionButton variant="show" href={{ pathname: routes.db.id.show.href, query: { id: item.name } }} />
-                <ActionButton variant="edit" href={{ pathname: routes.db.id.href, query: { id: item.name } }} />
-                <ActionButton variant="delete" itemName={`#${item.name}`} onDelete={onDelete(item.name)} />
-              </ActionsButtons>
-            </td>
-          </tr>
-        ))}
-      </List>
-    </Container>
-  );
-};
+const DatabaseList = ({ databases, className }: Props): JSX.Element => (
+  <Container className={className}>
+    <Toolbar name={databaseMessages.listName}>
+      <ActionButton variant="add" href={{ pathname: routes.db.id.href, query: { id: 'create' } }} />
+    </Toolbar>
+    <List labels={[databaseMessages.name, databaseMessages.size, '']}>
+      {databases.map((item) => (
+        <tr key={item.name}>
+          <td>{item.name}</td>
+          <td>{formattedFileSize(item.size)}</td>
+          <ActionsButtons routeItem={routes.db} id={item.name} databaseName="db" />
+        </tr>
+      ))}
+    </List>
+  </Container>
+);
 
 export default DatabaseList;
