@@ -1,10 +1,17 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
 import fs from 'fs';
 import fastFolderSize from 'fast-folder-size';
+
 import Database from 'types/Database';
+import messages from 'utils/apiValidators/apiValidators.messages';
 
 const handler = async (req: NextApiRequest, res: NextApiResponse) =>
   new Promise((resolve) => {
+    if (req.method !== 'GET') {
+      resolve(res.status(405).send({ message: messages.get }));
+      return;
+    }
+
     fs.readdir('src/database/db', (err, files) => {
       if (err) {
         resolve(res.status(404).json(err));

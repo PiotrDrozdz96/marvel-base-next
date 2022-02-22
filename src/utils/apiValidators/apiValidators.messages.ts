@@ -1,4 +1,5 @@
 export default {
+  get: 'Only GET requests allowed',
   post: 'Only POST requests allowed',
   delete: 'Only DELETE requests allowed',
   notFound: 'Record of id "{id}" not found in table "{basename}"',
