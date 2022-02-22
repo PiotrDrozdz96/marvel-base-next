@@ -13,6 +13,9 @@ const routes = {
   db: {
     id: {
       href: '/db/[id]',
+      show: {
+        href: '/db/[id]/show',
+      },
     },
   },
 };

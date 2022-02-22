@@ -17,7 +17,7 @@ export const getServerSideProps: AppServerSideProps<Props> = async () => {
   return {
     props: {
       menu,
-      title: '- Settings',
+      title: '- Ustawienia',
       databases,
     },
   };

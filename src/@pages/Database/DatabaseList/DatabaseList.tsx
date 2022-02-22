@@ -36,8 +36,9 @@ const DatabaseList = ({ databases, className }: Props): JSX.Element => {
           <tr key={item.name}>
             <td>{item.name}</td>
             <td>{formattedFileSize(item.size)}</td>
-            <td style={{ width: 100 }}>
+            <td style={{ width: 290 }}>
               <ActionsButtons>
+                <ActionButton variant="show" href={{ pathname: routes.db.id.show.href, query: { id: item.name } }} />
                 <ActionButton variant="edit" href={{ pathname: routes.db.id.href, query: { id: item.name } }} />
                 <ActionButton variant="delete" itemName={`#${item.name}`} onDelete={onDelete(item.name)} />
               </ActionsButtons>
