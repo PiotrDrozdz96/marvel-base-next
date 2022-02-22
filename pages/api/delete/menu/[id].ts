@@ -1,6 +1,8 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
 import fs from 'fs';
 
+import JsonData from 'types/JsonData';
+import { ApiMenuItem } from 'types/Menu';
 import messages from 'utils/apiValidators/apiValidators.messages';
 import { interpolate } from 'utils/interpolate';
 import keysOf from 'utils/keysOf';
@@ -12,39 +14,38 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) =>
       return;
     }
 
-    const { id } = req.query as Record<string, string>;
+    const id = Number(req.query.id);
 
-    const base = () => import(`database/menu.json`);
-    base()
-      .then(async (data) => {
-        const database = data.default.menu;
-        const { meta } = data.default;
-        const result = database[id as keyof typeof database];
-        if (!result) {
-          resolve(res.status(404).json({ message: interpolate(messages.notFound, { id, baseName: 'menu' }) }));
+    fs.readFile('src/database/menu.json', 'utf8', (err, data) => {
+      if (err) {
+        resolve(res.status(404).json(err));
+        return;
+      }
+
+      const { menu: database, meta } = JSON.parse(data) as JsonData<'menu', ApiMenuItem>;
+      const result = database[id];
+      if (!result) {
+        resolve(res.status(404).json({ message: interpolate(messages.notFound, { id, baseName: 'menu' }) }));
+        return;
+      }
+
+      [id, ...keysOf(database).filter((key) => database[key].parent_id === id)].forEach((key) => {
+        delete database[key as keyof typeof database];
+      });
+
+      const newDatabase = {
+        menu: database,
+        meta,
+      };
+
+      fs.writeFile('src/database/menu.json', JSON.stringify(newDatabase, null, 2), (writeErr) => {
+        if (err) {
+          resolve(res.status(500).send(writeErr));
           return;
         }
-
-        [id, ...keysOf(database).filter((key) => database[key].parent_id === Number(id))].forEach((key) => {
-          delete database[key as keyof typeof database];
-        });
-
-        const newDatabase = {
-          menu: database,
-          meta,
-        };
-
-        await fs.writeFile('src/database/menu.json', JSON.stringify(newDatabase, null, 2), (err) => {
-          if (err) {
-            resolve(res.status(500).send(err));
-            return;
-          }
-          resolve(res.status(200).json({ ...result, id }));
-        });
-      })
-      .catch((err) => {
-        resolve(res.status(404).json(err));
+        resolve(res.status(200).json({ ...result, id }));
       });
+    });
   });
 
 export default handler;
