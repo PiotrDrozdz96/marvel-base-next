@@ -1,12 +1,8 @@
 import routes from 'config/routes';
 import { MenuItem } from 'types/Menu';
 import iconMap from 'consts/menuIconMap';
-import Container from '@components/Container';
-import Paper from '@components/Paper';
 import TextField from '@components/TextField';
-import FormActions from '@components/FormActions';
-import Toolbar from '@components/Toolbar';
-import ActionButton from '@components/ActionButton';
+import Show from '@components/Show';
 import Spacing from '@components/Spacing';
 import { interpolate } from 'utils/interpolate';
 
@@ -20,24 +16,21 @@ type Props = {
 
 const MenuShow = ({ menu, item }: Props): JSX.Element => (
   <>
-    <Container>
-      <Toolbar name={interpolate(menuMessages.itemName, { id: item.id })}>
-        <ActionButton variant="edit" href={{ pathname: routes.menu.id.href, query: { id: item.id } }} />
-      </Toolbar>
-      <Paper>
-        <TextField label={menuMessages.id} value={item.id} />
-        <TextField label={menuMessages.name} value={item.name} />
-        <TextField label={menuMessages.type} value={item.type} />
-        <TextField label={menuMessages.url} value={item.url} />
-        <TextField label={menuMessages.icon} value={!!item.icon && iconMap[item.icon]} />
-        <TextField
-          label={menuMessages.parent_id}
-          value={!!item.parent_id && menu.find(({ id }) => id === item.parent_id)?.name}
-        />
-        <TextField label={menuMessages.order} value={item.order} />
-        <FormActions withoutSave />
-      </Paper>
-    </Container>
+    <Show
+      name={interpolate(menuMessages.itemName, { id: item.id })}
+      editHref={{ pathname: routes.menu.id.href, query: { id: item.id } }}
+    >
+      <TextField label={menuMessages.id} value={item.id} />
+      <TextField label={menuMessages.name} value={item.name} />
+      <TextField label={menuMessages.type} value={item.type} />
+      <TextField label={menuMessages.url} value={item.url} />
+      <TextField label={menuMessages.icon} value={!!item.icon && iconMap[item.icon]} />
+      <TextField
+        label={menuMessages.parent_id}
+        value={!!item.parent_id && menu.find(({ id }) => id === item.parent_id)?.name}
+      />
+      <TextField label={menuMessages.order} value={item.order} />
+    </Show>
     {item.type === 'MAIN_MENU' && (
       <>
         <Spacing />
