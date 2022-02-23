@@ -6,7 +6,7 @@ import FormContainer from '@components/FormContainer';
 import FormActions from '@components/FormActions';
 import Input from '@components/Input';
 
-import wavesMessages from '../Waves.messages';
+import wavesMessages from './Waves.messages';
 
 type Props = {
   initialValues: FormPartial<{ name: string; order: number }>;

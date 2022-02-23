@@ -3,7 +3,7 @@ import { Wave } from 'types/Wave';
 import List from '@components/List';
 import ActionsButtons from '@components/ActionsButtons';
 
-import wavesMessages from '../Waves.messages';
+import wavesMessages from './Waves.messages';
 
 type Props = {
   waves: Wave[];

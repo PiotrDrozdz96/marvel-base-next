@@ -9,7 +9,7 @@ import Input from '@components/Input';
 import Select from '@components/Select';
 
 import { iconOptions, typeOptions } from './MenuForm.consts';
-import menuMessages from '../Menu.messages';
+import menuMessages from './Menu.messages';
 
 type Props = {
   menu: { id: number; name: string }[];

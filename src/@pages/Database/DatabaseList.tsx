@@ -4,7 +4,7 @@ import List from '@components/List';
 import ActionsButtons from '@components/ActionsButtons';
 import formattedFileSize from 'utils/formattedFileSize';
 
-import databaseMessages from '../Database.messages';
+import databaseMessages from './Database.messages';
 
 type Props = {
   databases: Database[];

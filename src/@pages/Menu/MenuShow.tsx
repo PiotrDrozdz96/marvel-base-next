@@ -6,8 +6,8 @@ import Show from '@components/Show';
 import Spacing from '@components/Spacing';
 import { interpolate } from 'utils/interpolate';
 
-import menuMessages from '../Menu.messages';
-import MenuList from '../MenuList';
+import menuMessages from './Menu.messages';
+import MenuList from './MenuList';
 
 type Props = {
   menu: MenuItem[];

@@ -4,7 +4,8 @@ import AppServerSideProps from 'types/AppServerSideProps';
 import FormVariant from 'types/FormVariant';
 import { ApiMenuItem, MenuItem } from 'types/Menu';
 import FormPartial from 'types/FormPartial';
-import MenuForm, { defaultValues } from '@pages/Menu/MenuForm';
+import MenuForm from '@pages/Menu/MenuForm';
+import { defaultValues } from '@pages/Menu/MenuForm.consts';
 import getMenu from 'requests/api/getMenu';
 import { mapRawMenu } from 'requests/helpers/getMenu';
 

@@ -3,7 +3,7 @@ import { MenuItem } from 'types/Menu';
 import List from '@components/List';
 import ActionsButtons from '@components/ActionsButtons';
 
-import menuMessages from '../Menu.messages';
+import menuMessages from './Menu.messages';
 
 type Props = {
   menu: MenuItem[];

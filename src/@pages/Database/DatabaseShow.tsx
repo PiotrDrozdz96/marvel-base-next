@@ -8,7 +8,7 @@ import WavesList from '@pages/Waves/WavesList';
 import { interpolate } from 'utils/interpolate';
 import formattedFileSize from 'utils/formattedFileSize';
 
-import databaseMessages from '../Database.messages';
+import databaseMessages from './Database.messages';
 
 type Props = {
   item: Database;

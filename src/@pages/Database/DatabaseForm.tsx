@@ -5,7 +5,7 @@ import FormContainer from '@components/FormContainer';
 import FormActions from '@components/FormActions';
 import Input from '@components/Input';
 
-import databaseMessages from '../Database.messages';
+import databaseMessages from './Database.messages';
 
 type Props = {
   initialValues: { name: string };
