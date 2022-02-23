@@ -1,2 +1,2 @@
-export { default } from './MenuForm.container';
+export { default } from './MenuForm';
 export { defaultValues } from './MenuForm.consts';

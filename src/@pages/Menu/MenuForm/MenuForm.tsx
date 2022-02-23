@@ -1,37 +1,34 @@
-import { Form } from 'react-final-form';
-
+import routes from 'config/routes';
+import FormPartial from 'types/FormPartial';
 import { ApiMenuItem } from 'types/Menu';
 import SelectOption from 'types/SelectOption';
-import FormPartial from 'types/FormPartial';
+import FormContainer from '@components/FormContainer';
+import FormActions from '@components/FormActions';
 import Input from '@components/Input';
 import Select from '@components/Select';
-import Paper from '@components/Paper';
-import FormActions from '@components/FormActions';
 
+import { iconOptions, typeOptions } from './MenuForm.consts';
 import menuMessages from '../Menu.messages';
 
-type FormValues = FormPartial<ApiMenuItem>;
-
-const typeOptions: SelectOption[] = [
-  { value: 'SUB_MENU', label: 'SUB_MENU' },
-  { value: 'MAIN_MENU', label: 'MAIN_MENU' },
-];
-
-const iconOptions: SelectOption[] = [
-  { value: 'home', label: 'Home' },
-  { value: 'tv', label: 'Tv' },
-  { value: 'reader', label: 'Reader' },
-];
-
 type Props = {
-  menuOptions: SelectOption[];
-  initialValues: FormValues;
-  onSubmit: (values: FormValues) => void;
+  menu: { id: number; name: string }[];
+  initialValues: FormPartial<ApiMenuItem>;
+  variant: 'create' | 'edit';
+  itemId?: number;
 };
 
-const MenuForm = ({ menuOptions, initialValues, onSubmit }: Props): JSX.Element => (
-  <Paper>
-    <Form<FormValues> initialValues={initialValues} onSubmit={onSubmit}>
+const MenuFormContainer = ({ menu, initialValues, variant, itemId }: Props): JSX.Element => {
+  const menuOptions: SelectOption[] = menu.map(({ id, name }) => ({ value: `${id}`, label: name }));
+
+  return (
+    <FormContainer
+      variant={variant}
+      initialValues={initialValues}
+      databaseName="menu"
+      messages={menuMessages}
+      id={itemId}
+      showPathname={routes.menu.id.show.href}
+    >
       {({ handleSubmit, values }) => (
         <form onSubmit={handleSubmit}>
           <Input name="name" placeholder={menuMessages.name} required />
@@ -47,8 +44,8 @@ const MenuForm = ({ menuOptions, initialValues, onSubmit }: Props): JSX.Element 
           <FormActions />
         </form>
       )}
-    </Form>
-  </Paper>
-);
+    </FormContainer>
+  );
+};
 
-export default MenuForm;
+export default MenuFormContainer;

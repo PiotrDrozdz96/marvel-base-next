@@ -1,32 +1,32 @@
-import { Form } from 'react-final-form';
+import routes from 'config/routes';
 
-import FormPartial from 'types/FormPartial';
-import Paper from '@components/Paper';
-import Input from '@components/Input';
+import FormContainer from '@components/FormContainer';
 import FormActions from '@components/FormActions';
+import Input from '@components/Input';
 
 import databaseMessages from '../Database.messages';
 
-type FormValues = FormPartial<{
-  name: string;
-}>;
-
 type Props = {
-  initialValues: FormValues;
-  onSubmit: (values: FormValues) => void;
+  initialValues: { name: string };
+  variant: 'create' | 'edit';
 };
 
-const DatabaseForm = ({ initialValues, onSubmit }: Props): JSX.Element => (
-  <Paper>
-    <Form<FormValues> initialValues={initialValues} onSubmit={onSubmit}>
-      {({ handleSubmit }) => (
-        <form onSubmit={handleSubmit}>
-          <Input name="name" placeholder={databaseMessages.name} required />
-          <FormActions />
-        </form>
-      )}
-    </Form>
-  </Paper>
+const DatabaseFormContainer = ({ variant, initialValues }: Props): JSX.Element => (
+  <FormContainer
+    variant={variant}
+    initialValues={initialValues}
+    databaseName="db"
+    messages={databaseMessages}
+    id={initialValues.name}
+    showPathname={routes.db.id.show.href}
+  >
+    {({ handleSubmit }) => (
+      <form onSubmit={handleSubmit}>
+        <Input name="name" placeholder={databaseMessages.name} required />
+        <FormActions />
+      </form>
+    )}
+  </FormContainer>
 );
 
-export default DatabaseForm;
+export default DatabaseFormContainer;

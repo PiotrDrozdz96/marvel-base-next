@@ -1,1 +1,1 @@
-export { default } from './DatabaseForm.container';
+export { default } from './DatabaseForm';
