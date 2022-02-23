@@ -1,3 +1,5 @@
+import { UrlObject } from 'url';
+
 import ActionButton from '@components/ActionButton';
 import { useRouter } from 'next/router';
 
@@ -16,9 +18,11 @@ type Props = {
   routeItem: RouteItem;
   id: number | string;
   databaseName: string;
+  query?: UrlObject['query'];
+  withoutShow?: boolean;
 };
 
-const ActionsButtons = ({ routeItem, id, databaseName }: Props): JSX.Element => {
+const ActionsButtons = ({ routeItem, id, databaseName, query, withoutShow }: Props): JSX.Element => {
   const router = useRouter();
 
   const onDelete = async () => {
@@ -29,10 +33,12 @@ const ActionsButtons = ({ routeItem, id, databaseName }: Props): JSX.Element => 
   };
 
   return (
-    <td style={{ width: 290 }}>
+    <td style={{ width: withoutShow ? 180 : 270 }}>
       <div className={classes.actionsButtons}>
-        <ActionButton variant="show" href={{ pathname: routeItem.id.show.href, query: { id } }} />
-        <ActionButton variant="edit" href={{ pathname: routeItem.id.href, query: { id } }} />
+        {!withoutShow && (
+          <ActionButton variant="show" href={{ pathname: routeItem.id.show.href, query: query || { id } }} />
+        )}
+        <ActionButton variant="edit" href={{ pathname: routeItem.id.href, query: query || { id } }} />
         <ActionButton variant="delete" itemName={`#${id}`} onDelete={onDelete} />
       </div>
     </td>

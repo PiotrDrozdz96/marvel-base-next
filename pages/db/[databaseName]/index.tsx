@@ -2,17 +2,18 @@ import { InferGetServerSidePropsType } from 'next';
 import fs from 'fs';
 
 import AppServerSideProps from 'types/AppServerSideProps';
+import FormVariant from 'types/FormVariant';
 import FormPartial from 'types/FormPartial';
 import getMenu from 'requests/helpers/getMenu';
 import DatabaseForm from '@pages/Database/DatabaseForm';
 
 type Props = {
   initialValues: FormPartial<{ name: string }>;
-  variant: 'create' | 'edit';
+  variant: FormVariant;
 };
 
 export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) => {
-  const id = params?.id as string | 'create';
+  const id = params?.databaseName as string | 'create';
 
   const isCreate = id === 'create';
 

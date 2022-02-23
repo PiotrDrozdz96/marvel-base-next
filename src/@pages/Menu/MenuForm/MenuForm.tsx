@@ -1,5 +1,6 @@
 import routes from 'config/routes';
 import FormPartial from 'types/FormPartial';
+import FormVariant from 'types/FormVariant';
 import { ApiMenuItem } from 'types/Menu';
 import SelectOption from 'types/SelectOption';
 import FormContainer from '@components/FormContainer';
@@ -13,11 +14,11 @@ import menuMessages from '../Menu.messages';
 type Props = {
   menu: { id: number; name: string }[];
   initialValues: FormPartial<ApiMenuItem>;
-  variant: 'create' | 'edit';
+  variant: FormVariant;
   itemId?: number;
 };
 
-const MenuFormContainer = ({ menu, initialValues, variant, itemId }: Props): JSX.Element => {
+const MenuForm = ({ menu, initialValues, variant, itemId }: Props): JSX.Element => {
   const menuOptions: SelectOption[] = menu.map(({ id, name }) => ({ value: `${id}`, label: name }));
 
   return (
@@ -48,4 +49,4 @@ const MenuFormContainer = ({ menu, initialValues, variant, itemId }: Props): JSX
   );
 };
 
-export default MenuFormContainer;
+export default MenuForm;

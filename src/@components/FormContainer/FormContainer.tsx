@@ -18,6 +18,7 @@ type Props<FormValues> = {
     editName: string;
   };
   id?: string | number;
+  slug?: string;
   showPathname: string;
   children: ((props: FormRenderProps<FormValues, Partial<FormValues>>) => ReactNode) | ReactNode;
 };
@@ -28,6 +29,7 @@ const FormContainer = <FormValues,>({
   databaseName,
   messages,
   id,
+  slug = 'id',
   showPathname,
   children,
 }: Props<FormValues>): JSX.Element => {
@@ -44,7 +46,7 @@ const FormContainer = <FormValues,>({
   return (
     <Container>
       <Toolbar name={variant === 'create' ? messages.createName : interpolate(messages.editName, { id })}>
-        {variant === 'edit' && <ActionButton variant="show" href={{ pathname: showPathname, query: { id } }} />}
+        {variant === 'edit' && <ActionButton variant="show" href={{ pathname: showPathname, query: { [slug]: id } }} />}
       </Toolbar>
       <Paper>
         <Form<FormValues> initialValues={initialValues} onSubmit={onSubmit}>

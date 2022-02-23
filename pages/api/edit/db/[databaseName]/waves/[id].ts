@@ -26,7 +26,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) =>
 
     const { id, databaseName } = req.query as Record<string, string>;
 
-    fs.readFile(`src/database/db/${databaseName}/waves`, 'utf8', (err, data) => {
+    fs.readFile(`src/database/db/${databaseName}/waves.json`, 'utf8', (err, data) => {
       if (err) {
         resolve(res.status(404).json(err));
         return;
@@ -48,7 +48,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) =>
         meta,
       };
 
-      fs.writeFile(`src/database/db/${databaseName}/waves`, JSON.stringify(newDatabase, null, 2), (writeErr) => {
+      fs.writeFile(`src/database/db/${databaseName}/waves.json`, JSON.stringify(newDatabase, null, 2), (writeErr) => {
         if (writeErr) {
           resolve(res.status(500).json(writeErr));
           return;

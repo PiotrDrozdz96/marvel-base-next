@@ -10,10 +10,10 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) =>
       return;
     }
 
-    const { id } = req.query as Record<string, string>;
+    const { databaseName } = req.query as Record<string, string>;
 
     fs.rm(
-      `src/database/db/${id}`,
+      `src/database/db/${databaseName}`,
       {
         recursive: true,
         force: true,
@@ -23,7 +23,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) =>
           resolve(res.status(500).send(err));
           return;
         }
-        resolve(res.status(200).json({ name: id }));
+        resolve(res.status(200).json({ name: databaseName }));
       }
     );
   });

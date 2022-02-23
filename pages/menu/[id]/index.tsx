@@ -1,6 +1,7 @@
 import { InferGetServerSidePropsType } from 'next';
 
 import AppServerSideProps from 'types/AppServerSideProps';
+import FormVariant from 'types/FormVariant';
 import { ApiMenuItem, MenuItem } from 'types/Menu';
 import FormPartial from 'types/FormPartial';
 import MenuForm, { defaultValues } from '@pages/Menu/MenuForm';
@@ -9,7 +10,7 @@ import { mapRawMenu } from 'requests/helpers/getMenu';
 
 type Props = {
   menu: MenuItem[];
-  variant: 'create' | 'edit';
+  variant: FormVariant;
   id: number | null;
   initialValues: FormPartial<ApiMenuItem>;
 };

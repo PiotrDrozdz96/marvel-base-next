@@ -12,9 +12,17 @@ const routes = {
   },
   db: {
     id: {
-      href: '/db/[id]',
+      href: '/db/[databaseName]',
       show: {
-        href: '/db/[id]/show',
+        href: '/db/[databaseName]/show',
+      },
+    },
+  },
+  waves: {
+    id: {
+      href: '/db/[databaseName]/waves/[id]',
+      show: {
+        href: '/db/[databaseName]/waves/[id]/show',
       },
     },
   },

@@ -11,10 +11,10 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) =>
       return;
     }
 
-    const { id } = req.query as Record<string, string>;
+    const { databaseName } = req.query as Record<string, string>;
 
-    if (!fs.existsSync(`src/database/db/${id}`)) {
-      resolve(res.status(404).send({ message: interpolate(messages.notFound, { id, baseName: 'db' }) }));
+    if (!fs.existsSync(`src/database/db/${databaseName}`)) {
+      resolve(res.status(404).send({ message: interpolate(messages.notFound, { id: databaseName, baseName: 'db' }) }));
       return;
     }
 
@@ -32,7 +32,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) =>
       return;
     }
 
-    fs.rename(`src/database/db/${id}`, `src/database/db/${name}`, (err) => {
+    fs.rename(`src/database/db/${databaseName}`, `src/database/db/${name}`, (err) => {
       if (err) {
         resolve(res.status(500).json(err));
         return;

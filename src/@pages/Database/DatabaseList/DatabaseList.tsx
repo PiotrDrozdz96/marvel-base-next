@@ -13,14 +13,14 @@ type Props = {
 const DatabaseList = ({ databases }: Props): JSX.Element => (
   <List
     name={databaseMessages.listName}
-    addHref={{ pathname: routes.db.id.href, query: { id: 'create' } }}
+    addHref={{ pathname: routes.db.id.href, query: { databaseName: 'create' } }}
     labels={[databaseMessages.name, databaseMessages.size, '']}
   >
     {databases.map((item) => (
       <tr key={item.name}>
         <td>{item.name}</td>
         <td>{formattedFileSize(item.size)}</td>
-        <ActionsButtons routeItem={routes.db} id={item.name} databaseName="db" />
+        <ActionsButtons routeItem={routes.db} id={item.name} databaseName="db" query={{ databaseName: item.name }} />
       </tr>
     ))}
   </List>
