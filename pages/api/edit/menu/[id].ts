@@ -41,6 +41,8 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) =>
             }),
           })
         );
+      } else if (!menu[id as unknown as number]) {
+        resolve(res.status(404).send({ message: interpolate(messages.notFound, { id, baseName: 'menu' }) }));
       } else {
         const newDatabase = {
           menu: {

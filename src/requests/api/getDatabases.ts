@@ -20,10 +20,10 @@ const getDatabases = async (): Promise<Database[]> =>
       for (let i = 0; i <= files.length - 1; i += 1) {
         fastFolderSize(`src/database/db/${files[i]}`, (sizeErr, bytes) => {
           if (sizeErr) {
-            reject();
-            return;
+            result[i].size = NaN;
+          } else {
+            result[i].size = bytes;
           }
-          result[i].size = bytes;
           if (result.every((item) => item.size !== undefined)) {
             resolve(result as Database[]);
           }

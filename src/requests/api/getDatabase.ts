@@ -3,16 +3,16 @@ import fastFolderSize from 'fast-folder-size';
 
 import Database from 'types/Database';
 
-const getDatabase = async (id: string): Promise<Database> =>
-  new Promise((resolve, reject) => {
+const getDatabase = async (id: string): Promise<Database | void> =>
+  new Promise((resolve) => {
     if (!fs.existsSync(`src/database/db/${id}`)) {
-      reject();
+      resolve();
       return;
     }
 
     fastFolderSize(`src/database/db/${id}`, (err, size) => {
       if (err) {
-        reject();
+        resolve();
         return;
       }
       resolve({ name: id, size: size || 0 });
