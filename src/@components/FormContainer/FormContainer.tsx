@@ -20,6 +20,7 @@ type Props<FormValues> = {
   };
   id?: string | number;
   query?: UrlObject['query'];
+  numberFields?: (keyof FormValues)[];
   showPathname: string;
   children: ((props: FormRenderProps<FormValues, Partial<FormValues>>) => ReactNode) | ReactNode;
 };
@@ -33,13 +34,22 @@ const FormContainer = <FormValues,>({
   showPathname,
   children,
   query,
+  numberFields,
 }: Props<FormValues>): JSX.Element => {
   const router = useRouter();
 
   const onSubmit = async (values: FormValues) => {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const numberValues: any = {};
+    if (numberFields) {
+      numberFields.forEach((key) => {
+        numberValues[key] = Number(values[key]);
+      });
+    }
+
     await fetch(variant === 'create' ? `/api/add/${databaseName}` : `/api/edit/${databaseName}/${id}`, {
       method: 'POST',
-      body: JSON.stringify(values),
+      body: JSON.stringify({ ...values, ...numberValues }),
     });
     router.back();
   };

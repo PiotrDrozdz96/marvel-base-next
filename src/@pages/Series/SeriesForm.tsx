@@ -29,6 +29,7 @@ const SeriesForm = ({ variant, initialValues, databaseName, id, waves }: Props):
       initialValues={initialValues}
       databaseName={`db/${databaseName}/series`}
       messages={seriesMessages}
+      numberFields={['order', 'wave_id']}
       id={id}
       showPathname={routes.series.id.show.href}
       query={{ databaseName, id }}

@@ -30,7 +30,7 @@ const DatabaseShow = ({ item, waves, series }: Props): JSX.Element => (
     <Spacing />
     <WavesList waves={waves} databaseName={item.name} />
     <Spacing />
-    <SeriesList series={series} databaseName={item.name} />
+    <SeriesList waves={waves} series={series} databaseName={item.name} />
   </>
 );
 

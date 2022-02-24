@@ -23,6 +23,7 @@ const WavesForm = ({ variant, initialValues, databaseName, id }: Props): JSX.Ele
     initialValues={initialValues}
     databaseName={`db/${databaseName}/waves`}
     messages={wavesMessages}
+    numberFields={['order']}
     id={id}
     showPathname={routes.waves.id.show.href}
   >

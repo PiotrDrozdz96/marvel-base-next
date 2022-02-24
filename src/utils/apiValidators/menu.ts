@@ -26,11 +26,7 @@ const menuValidation = (res: NextApiResponse, initialBody: Partial<ApiMenuItem>)
   } else if (body.type === 'SUB_MENU' && !body.parent_id) {
     res.status(400).send({ message: interpolate(messages.required, { field: 'parent_id' }) });
   } else {
-    return {
-      ...body,
-      order: Number(body.order),
-      parent_id: body.parent_id ? Number(body.parent_id) : null,
-    } as ApiMenuItem;
+    return body as ApiMenuItem;
   }
   return undefined;
 };

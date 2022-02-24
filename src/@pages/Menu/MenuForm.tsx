@@ -27,6 +27,7 @@ const MenuForm = ({ menu, initialValues, variant, itemId }: Props): JSX.Element 
       initialValues={initialValues}
       databaseName="menu"
       messages={menuMessages}
+      numberFields={['order', 'parent_id']}
       id={itemId}
       showPathname={routes.menu.id.show.href}
     >
