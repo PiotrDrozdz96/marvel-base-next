@@ -1,5 +1,7 @@
 import routes from 'config/routes';
 
+import { ApiWave } from 'types/Wave';
+
 import FormVariant from 'types/FormVariant';
 import FormPartial from 'types/FormPartial';
 import FormContainer from '@components/FormContainer';
@@ -9,7 +11,7 @@ import Input from '@components/Input';
 import wavesMessages from './Waves.messages';
 
 type Props = {
-  initialValues: FormPartial<{ name: string; order: number }>;
+  initialValues: FormPartial<ApiWave>;
   variant: FormVariant;
   databaseName: string;
   id?: number;

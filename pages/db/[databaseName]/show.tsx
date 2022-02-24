@@ -3,6 +3,7 @@ import { InferGetServerSidePropsType } from 'next';
 import AppServerSideProps from 'types/AppServerSideProps';
 import Database from 'types/Database';
 import { Wave } from 'types/Wave';
+import { Serie } from 'types/Serie';
 import getMenu from 'requests/helpers/getMenu';
 import getDatabase from 'requests/api/getDatabase';
 import get from 'requests/api/get';
@@ -12,6 +13,7 @@ import mapApiToFront from 'utils/mapApiToFront';
 type Props = {
   database: Database;
   waves: Wave[];
+  series: Serie[];
 };
 
 export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) => {
@@ -24,6 +26,7 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) 
   const menu = await getMenu();
   const database = await getDatabase(id);
   const { waves } = await get(id, 'waves');
+  const { series } = await get(id, 'series');
 
   if (!database) {
     return { notFound: true };
@@ -35,12 +38,13 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) 
       title: `- Baza #${id}`,
       database,
       waves: mapApiToFront(waves),
+      series: mapApiToFront(series),
     },
   };
 };
 
-const DatabasePage = ({ database, waves }: InferGetServerSidePropsType<typeof getServerSideProps>) => (
-  <DatabaseShow item={database} waves={waves} />
+const DatabasePage = ({ database, waves, series }: InferGetServerSidePropsType<typeof getServerSideProps>) => (
+  <DatabaseShow item={database} waves={waves} series={series} />
 );
 
 export default DatabasePage;

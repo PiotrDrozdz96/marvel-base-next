@@ -26,6 +26,14 @@ const routes = {
       },
     },
   },
+  series: {
+    id: {
+      href: '/db/[databaseName]/series/[id]',
+      show: {
+        href: '/db/[databaseName]/series/[id]/show',
+      },
+    },
+  },
 };
 
 export default routes;

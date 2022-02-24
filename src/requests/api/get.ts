@@ -1,16 +1,18 @@
 import fs from 'fs';
 
 import JsonData from 'types/JsonData';
+import { ApiSerie } from 'types/Serie';
 import { ApiWave } from 'types/Wave';
 
 type DatabaseElementMap = {
   waves: JsonData<'waves', ApiWave>;
+  series: JsonData<'series', ApiSerie>;
 };
 
-const get = async (
+const get = async <K extends keyof DatabaseElementMap>(
   databaseName: string,
-  elementName: keyof DatabaseElementMap
-): Promise<DatabaseElementMap[typeof elementName]> =>
+  elementName: K
+): Promise<DatabaseElementMap[K]> =>
   new Promise((resolve, reject) => {
     fs.readFile(`src/database/db/${databaseName}/${elementName}.json`, 'utf8', (err, data) => {
       if (err) {
