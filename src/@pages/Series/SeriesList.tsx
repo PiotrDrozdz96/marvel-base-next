@@ -29,7 +29,6 @@ const SeriesList = ({ series, databaseName }: Props): JSX.Element => (
           id={serie.id}
           databaseName={`db/${databaseName}/series`}
           query={{ databaseName, id: serie.id }}
-          withoutShow
         />
       </tr>
     ))}

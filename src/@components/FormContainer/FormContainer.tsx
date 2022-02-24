@@ -1,6 +1,7 @@
 import { ReactNode } from 'react';
 import { Form, FormRenderProps } from 'react-final-form';
 import { useRouter } from 'next/router';
+import { UrlObject } from 'url';
 
 import FormVariant from 'types/FormVariant';
 import Container from '@components/Container';
@@ -18,7 +19,7 @@ type Props<FormValues> = {
     editName: string;
   };
   id?: string | number;
-  slug?: string;
+  query?: UrlObject['query'];
   showPathname: string;
   children: ((props: FormRenderProps<FormValues, Partial<FormValues>>) => ReactNode) | ReactNode;
 };
@@ -29,9 +30,9 @@ const FormContainer = <FormValues,>({
   databaseName,
   messages,
   id,
-  slug = 'id',
   showPathname,
   children,
+  query,
 }: Props<FormValues>): JSX.Element => {
   const router = useRouter();
 
@@ -46,7 +47,9 @@ const FormContainer = <FormValues,>({
   return (
     <Container>
       <Toolbar name={variant === 'create' ? messages.createName : interpolate(messages.editName, { id })}>
-        {variant === 'edit' && <ActionButton variant="show" href={{ pathname: showPathname, query: { [slug]: id } }} />}
+        {variant === 'edit' && (
+          <ActionButton variant="show" href={{ pathname: showPathname, query: query || { id } }} />
+        )}
       </Toolbar>
       <Paper>
         <Form<FormValues> initialValues={initialValues} onSubmit={onSubmit}>

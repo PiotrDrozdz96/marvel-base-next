@@ -8,4 +8,8 @@ type Serie = ApiSerie & {
   id: number;
 };
 
-export type { ApiSerie, Serie };
+type FrontSerie = Serie & {
+  waveName: string;
+};
+
+export type { ApiSerie, Serie, FrontSerie };

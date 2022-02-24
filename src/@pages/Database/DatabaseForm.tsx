@@ -20,7 +20,7 @@ const DatabaseForm = ({ variant, initialValues }: Props): JSX.Element => (
     messages={databaseMessages}
     id={initialValues.name}
     showPathname={routes.db.id.show.href}
-    slug="databaseName"
+    query={{ databaseName: initialValues.name }}
   >
     {({ handleSubmit }) => (
       <form onSubmit={handleSubmit}>

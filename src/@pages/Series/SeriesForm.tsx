@@ -31,6 +31,7 @@ const SeriesForm = ({ variant, initialValues, databaseName, id, waves }: Props):
       messages={seriesMessages}
       id={id}
       showPathname={routes.series.id.show.href}
+      query={{ databaseName, id }}
     >
       {({ handleSubmit }) => (
         <form onSubmit={handleSubmit}>
