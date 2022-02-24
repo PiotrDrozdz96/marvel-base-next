@@ -36,7 +36,7 @@ const SeriesForm = ({ variant, initialValues, databaseName, id, waves }: Props):
         <form onSubmit={handleSubmit}>
           <Input name="name" placeholder={seriesMessages.name} required />
           <Input name="order" placeholder={seriesMessages.order} required />
-          <Select name="waveId" placeholder={seriesMessages.waveId} options={wavesOptions} required />
+          <Select name="wave_id" placeholder={seriesMessages.waveId} options={wavesOptions} required />
           <FormActions />
         </form>
       )}

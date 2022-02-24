@@ -39,7 +39,9 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) 
       id: isCreate ? null : id,
       databaseName,
       waves: mapApiToFront(waves),
-      initialValues: !isCreate ? (series[id] as unknown as FormPartial<ApiSerie>) : { name: '', order: '', waveId: '' },
+      initialValues: !isCreate
+        ? (series[id] as unknown as FormPartial<ApiSerie>)
+        : { name: '', order: '', wave_id: '' },
     },
   };
 };

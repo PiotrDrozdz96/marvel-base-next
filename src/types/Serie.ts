@@ -1,7 +1,7 @@
 type ApiSerie = {
   name: string;
   order: number;
-  waveId: number;
+  wave_id: number;
 };
 
 type Serie = ApiSerie & {

@@ -22,7 +22,7 @@ const SeriesList = ({ series, databaseName }: Props): JSX.Element => (
       <tr key={serie.id}>
         <td>{serie.id}</td>
         <td>{serie.name}</td>
-        <td>{serie.waveId}</td>
+        <td>{serie.wave_id}</td>
         <td>{serie.order}</td>
         <ActionsButtons
           routeItem={routes.series}
