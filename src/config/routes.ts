@@ -34,6 +34,14 @@ const routes = {
       },
     },
   },
+  volumes: {
+    id: {
+      href: '/db/[databaseName]/volumes/[id]',
+      show: {
+        href: '/db/[databaseName]/volumes/[id]/show',
+      },
+    },
+  },
 };
 
 export default routes;

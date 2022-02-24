@@ -2,11 +2,13 @@ import fs from 'fs';
 
 import JsonData from 'types/JsonData';
 import { ApiSerie } from 'types/Serie';
+import { ApiVolume } from 'types/Volume';
 import { ApiWave } from 'types/Wave';
 
 type DatabaseElementMap = {
   waves: JsonData<'waves', ApiWave>;
   series: JsonData<'series', ApiSerie>;
+  volumes: JsonData<'volumes', ApiVolume>;
 };
 
 const get = async <K extends keyof DatabaseElementMap>(
