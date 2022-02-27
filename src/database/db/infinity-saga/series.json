@@ -1,6 +1,12 @@
 {
-  "series": {},
+  "series": {
+    "1": {
+      "name": "Filmy",
+      "order": 0,
+      "wave_id": 1
+    }
+  },
   "meta": {
-    "nextIndex": 1
+    "nextIndex": 2
   }
 }

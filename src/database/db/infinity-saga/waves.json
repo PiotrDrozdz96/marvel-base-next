@@ -1,6 +1,11 @@
 {
-  "waves": {},
+  "waves": {
+    "1": {
+      "name": "Filmy",
+      "order": 0
+    }
+  },
   "meta": {
-    "nextIndex": 1
+    "nextIndex": 2
   }
 }
