@@ -3,8 +3,8 @@ import { InferGetServerSidePropsType } from 'next';
 import AppServerSideProps from 'types/AppServerSideProps';
 import { FrontSerie } from 'types/Serie';
 import SeriesShow from '@pages/Series/SeriesShow';
-import getMenu from 'requests/helpers/getMenu';
-import getSerie from 'requests/helpers/getSerie';
+import getMenu from '@api/get/front/getMenu';
+import getSerie from '@api/get/front/getSerie';
 
 type Props = {
   item: FrontSerie;

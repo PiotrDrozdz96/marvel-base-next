@@ -2,8 +2,8 @@ import { InferGetServerSidePropsType } from 'next';
 
 import AppServerSideProps from 'types/AppServerSideProps';
 import Database from 'types/Database';
-import getMenu from 'requests/helpers/getMenu';
-import getDatabases from 'requests/api/getDatabases';
+import getMenu from '@api/get/front/getMenu';
+import getDatabases from '@api/get/getDatabases';
 import Settings from '@pages/Settings/Settings';
 
 type Props = {

@@ -4,7 +4,7 @@ import fs from 'fs';
 import AppServerSideProps from 'types/AppServerSideProps';
 import FormVariant from 'types/FormVariant';
 import FormPartial from 'types/FormPartial';
-import getMenu from 'requests/helpers/getMenu';
+import getMenu from '@api/get/front/getMenu';
 import DatabaseForm from '@pages/Database/DatabaseForm';
 
 type Props = {

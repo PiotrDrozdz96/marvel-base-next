@@ -4,8 +4,8 @@ import AppServerSideProps from 'types/AppServerSideProps';
 import FormPartial from 'types/FormPartial';
 import FormVariant from 'types/FormVariant';
 import { ApiWave } from 'types/Wave';
-import get from 'requests/api/get';
-import getMenu from 'requests/helpers/getMenu';
+import get from '@api/get';
+import getMenu from '@api/get/front/getMenu';
 import WavesForm from '@pages/Waves/WavesForm';
 
 type Props = {

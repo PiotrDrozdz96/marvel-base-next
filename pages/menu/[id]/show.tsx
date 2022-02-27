@@ -3,8 +3,8 @@ import { InferGetServerSidePropsType } from 'next';
 import AppServerSideProps from 'types/AppServerSideProps';
 import { MenuItem } from 'types/Menu';
 import MenuShow from '@pages/Menu/MenuShow';
-import { mapRawMenu } from 'requests/helpers/getMenu';
-import getMenu from 'requests/api/getMenu';
+import { mapRawMenu } from '@api/get/front/getMenu';
+import getMenu from '@api/get/getMenu';
 
 type Props = {
   menu: MenuItem[];

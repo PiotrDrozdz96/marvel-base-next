@@ -5,8 +5,8 @@ import FormPartial from 'types/FormPartial';
 import FormVariant from 'types/FormVariant';
 import { ApiSerie } from 'types/Serie';
 import { Wave } from 'types/Wave';
-import get from 'requests/api/get';
-import getMenu from 'requests/helpers/getMenu';
+import get from '@api/get';
+import getMenu from '@api/get/front/getMenu';
 import SeriesForm from '@pages/Series/SeriesForm';
 import mapApiToFront from 'utils/mapApiToFront';
 

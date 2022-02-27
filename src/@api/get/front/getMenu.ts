@@ -2,7 +2,7 @@ import { ApiMenuItem, MenuItem } from 'types/Menu';
 
 import mapObjectToArray from 'utils/mapObjectToArray';
 import sortBy from 'utils/sortBy';
-import getApiMenu from 'requests/api/getMenu';
+import getApiMenu from '@api/get/getMenu';
 
 export const mapRawMenu = (menu: Record<number, ApiMenuItem>): MenuItem[] => {
   const menuArray = mapObjectToArray(menu);

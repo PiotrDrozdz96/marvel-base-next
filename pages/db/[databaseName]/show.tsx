@@ -4,9 +4,9 @@ import AppServerSideProps from 'types/AppServerSideProps';
 import Database from 'types/Database';
 import { Wave } from 'types/Wave';
 import { Serie } from 'types/Serie';
-import getMenu from 'requests/helpers/getMenu';
-import getDatabase from 'requests/api/getDatabase';
-import get from 'requests/api/get';
+import getMenu from '@api/get/front/getMenu';
+import getDatabase from '@api/get/getDatabase';
+import get from '@api/get';
 import DatabaseShow from '@pages/Database/DatabaseShow';
 import mapApiToFront from 'utils/mapApiToFront';
 

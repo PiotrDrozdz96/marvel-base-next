@@ -1,5 +1,5 @@
 import { FrontSerie } from 'types/Serie';
-import get from 'requests/api/get';
+import get from '@api/get';
 
 const getSerie = async (databaseName: string, id: number): Promise<FrontSerie | undefined> => {
   try {

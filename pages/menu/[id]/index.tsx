@@ -6,8 +6,8 @@ import { ApiMenuItem, MenuItem } from 'types/Menu';
 import FormPartial from 'types/FormPartial';
 import MenuForm from '@pages/Menu/MenuForm';
 import { defaultValues } from '@pages/Menu/MenuForm.consts';
-import getMenu from 'requests/api/getMenu';
-import { mapRawMenu } from 'requests/helpers/getMenu';
+import getMenu from '@api/get/getMenu';
+import { mapRawMenu } from '@api/get/front/getMenu';
 
 type Props = {
   menu: MenuItem[];
