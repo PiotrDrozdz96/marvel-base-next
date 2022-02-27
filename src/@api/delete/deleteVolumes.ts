@@ -1,12 +1,12 @@
-import type { NextApiRequest, NextApiResponse } from 'next';
 import fs from 'fs';
 
+import ApiHandler from 'types/ApiHandler';
 import JsonData from 'types/JsonData';
 import { ApiVolume } from 'types/Volume';
 import messages from 'utils/apiValidators/apiValidators.messages';
 import { interpolate } from 'utils/interpolate';
 
-const deleteVolumes = async (req: NextApiRequest, res: NextApiResponse) =>
+const deleteVolumes: ApiHandler = async (req, res) =>
   new Promise((resolve) => {
     if (req.method !== 'DELETE') {
       resolve(res.status(405).send({ message: messages.delete }));

@@ -1,13 +1,13 @@
-import type { NextApiRequest, NextApiResponse } from 'next';
 import fs from 'fs';
 
+import ApiHandler from 'types/ApiHandler';
 import JsonData from 'types/JsonData';
 import { ApiMenuItem } from 'types/Menu';
 import menuValidation from 'utils/apiValidators/menu';
 import messages from 'utils/apiValidators/apiValidators.messages';
 import { interpolate } from 'utils/interpolate';
 
-const postMenu = async (req: NextApiRequest, res: NextApiResponse) =>
+const postMenu: ApiHandler = async (req, res) =>
   new Promise((resolve) => {
     if (req.method !== 'POST') {
       resolve(res.status(405).send({ message: messages.post }));

@@ -1,6 +1,6 @@
-import type { NextApiRequest, NextApiResponse } from 'next';
 import fs from 'fs';
 
+import ApiHandler from 'types/ApiHandler';
 import { ApiVolume } from 'types/Volume';
 import JsonData from 'types/JsonData';
 import { ApiSerie } from 'types/Serie';
@@ -18,7 +18,7 @@ const seriesField: (keyof ApiVolume)[] = [
   'global_order',
 ];
 
-const postVolumes = async (req: NextApiRequest, res: NextApiResponse) =>
+const postVolumes: ApiHandler = async (req, res) =>
   new Promise((resolve) => {
     if (req.method !== 'POST') {
       resolve(res.status(405).send({ message: messages.post }));

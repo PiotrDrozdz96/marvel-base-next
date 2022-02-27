@@ -1,6 +1,6 @@
-import type { NextApiRequest, NextApiResponse } from 'next';
 import fs from 'fs';
 
+import ApiHandler from 'types/ApiHandler';
 import { ApiSerie } from 'types/Serie';
 import JsonData from 'types/JsonData';
 import { ApiWave } from 'types/Wave';
@@ -10,7 +10,7 @@ import pick from 'utils/pick';
 
 const seriesField: (keyof ApiSerie)[] = ['name', 'order', 'wave_id'];
 
-const postSeries = async (req: NextApiRequest, res: NextApiResponse) =>
+const postSeries: ApiHandler = async (req, res) =>
   new Promise((resolve) => {
     if (req.method !== 'POST') {
       resolve(res.status(405).send({ message: messages.post }));

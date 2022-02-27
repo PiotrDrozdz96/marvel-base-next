@@ -1,6 +1,6 @@
-import type { NextApiRequest, NextApiResponse } from 'next';
 import fs from 'fs';
 
+import ApiHandler from 'types/ApiHandler';
 import { ApiWave } from 'types/Wave';
 import messages from 'utils/apiValidators/apiValidators.messages';
 import { interpolate } from 'utils/interpolate';
@@ -9,7 +9,7 @@ import JsonData from 'types/JsonData';
 
 const wavesField: (keyof ApiWave)[] = ['name', 'order'];
 
-const postWaves = async (req: NextApiRequest, res: NextApiResponse) =>
+const postWaves: ApiHandler = async (req, res) =>
   new Promise((resolve) => {
     if (req.method !== 'POST') {
       resolve(res.status(405).send({ message: messages.post }));

@@ -1,11 +1,11 @@
-import type { NextApiRequest, NextApiResponse } from 'next';
 import fs from 'fs';
 import copydir from 'copy-dir';
 
+import ApiHandler from 'types/ApiHandler';
 import messages from 'utils/apiValidators/apiValidators.messages';
 import { interpolate } from 'utils/interpolate';
 
-const handler = async (req: NextApiRequest, res: NextApiResponse) =>
+const postDatabase: ApiHandler = async (req, res) =>
   new Promise((resolve) => {
     if (req.method !== 'POST') {
       resolve(res.status(405).send({ message: messages.post }));
@@ -61,4 +61,4 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) =>
     }
   });
 
-export default handler;
+export default postDatabase;

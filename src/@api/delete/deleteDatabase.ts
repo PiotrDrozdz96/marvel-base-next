@@ -1,9 +1,9 @@
-import type { NextApiRequest, NextApiResponse } from 'next';
 import fs from 'fs';
 
+import ApiHandler from 'types/ApiHandler';
 import messages from 'utils/apiValidators/apiValidators.messages';
 
-const deleteDatabase = async (req: NextApiRequest, res: NextApiResponse) =>
+const deleteDatabase: ApiHandler = async (req, res) =>
   new Promise((resolve) => {
     if (req.method !== 'DELETE') {
       resolve(res.status(405).send({ message: messages.delete }));
