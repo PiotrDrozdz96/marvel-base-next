@@ -9,11 +9,6 @@ import keysOf from 'utils/keysOf';
 
 const deleteMenu: ApiHandler = async (req, res) =>
   new Promise((resolve) => {
-    if (req.method !== 'DELETE') {
-      resolve(res.status(405).send({ message: messages.delete }));
-      return;
-    }
-
     const id = Number(req.query.id);
 
     fs.readFile('src/database/menu.json', 'utf8', (err, data) => {

@@ -9,11 +9,6 @@ import { interpolate } from 'utils/interpolate';
 
 const postMenu: ApiHandler = async (req, res) =>
   new Promise((resolve) => {
-    if (req.method !== 'POST') {
-      resolve(res.status(405).send({ message: messages.post }));
-      return;
-    }
-
     const { id: reqId } = req.query as Record<string, string>;
 
     const body: Partial<ApiMenuItem> = JSON.parse(req.body);

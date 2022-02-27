@@ -8,12 +8,8 @@ import { interpolate } from 'utils/interpolate';
 
 const deleteSeries: ApiHandler = async (req, res) =>
   new Promise((resolve) => {
-    if (req.method !== 'DELETE') {
-      resolve(res.status(405).send({ message: messages.delete }));
-      return;
-    }
-
     const id = Number(req.query.id);
+
     const { databaseName } = req.query as Record<string, string>;
 
     fs.readFile(`src/database/db/${databaseName}/series.json`, 'utf8', (err, data) => {

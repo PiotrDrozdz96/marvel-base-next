@@ -47,7 +47,7 @@ const FormContainer = <FormValues,>({
       });
     }
 
-    await fetch(variant === 'create' ? `/api/add/${databaseName}` : `/api/edit/${databaseName}/${id}`, {
+    await fetch(variant === 'create' ? `/api/${databaseName}` : `/api/${databaseName}/${id}`, {
       method: 'POST',
       body: JSON.stringify({ ...values, ...numberValues }),
     });

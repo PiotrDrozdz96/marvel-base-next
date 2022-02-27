@@ -20,11 +20,6 @@ const seriesField: (keyof ApiVolume)[] = [
 
 const postVolumes: ApiHandler = async (req, res) =>
   new Promise((resolve) => {
-    if (req.method !== 'POST') {
-      resolve(res.status(405).send({ message: messages.post }));
-      return;
-    }
-
     const body: Partial<ApiVolume> = pick(JSON.parse(req.body), seriesField);
     const emptyField = seriesField.find((key) => !body[key] && body[key] !== 0);
 

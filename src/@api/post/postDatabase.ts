@@ -7,11 +7,6 @@ import { interpolate } from 'utils/interpolate';
 
 const postDatabase: ApiHandler = async (req, res) =>
   new Promise((resolve) => {
-    if (req.method !== 'POST') {
-      resolve(res.status(405).send({ message: messages.post }));
-      return;
-    }
-
     const { databaseName } = req.query as Record<string, string>;
 
     if (databaseName && !fs.existsSync(`src/database/db/${databaseName}`)) {

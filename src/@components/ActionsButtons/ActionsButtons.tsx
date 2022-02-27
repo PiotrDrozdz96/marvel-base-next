@@ -26,7 +26,7 @@ const ActionsButtons = ({ routeItem, id, databaseName, query, withoutShow }: Pro
   const router = useRouter();
 
   const onDelete = async () => {
-    await fetch(`/api/delete/${databaseName}/${id}`, {
+    await fetch(`/api/${databaseName}/${id}`, {
       method: 'DELETE',
     });
     router.replace(router.asPath);

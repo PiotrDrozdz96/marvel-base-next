@@ -1,15 +1,9 @@
 import fs from 'fs';
 
 import ApiHandler from 'types/ApiHandler';
-import messages from 'utils/apiValidators/apiValidators.messages';
 
 const deleteDatabase: ApiHandler = async (req, res) =>
   new Promise((resolve) => {
-    if (req.method !== 'DELETE') {
-      resolve(res.status(405).send({ message: messages.delete }));
-      return;
-    }
-
     const { databaseName } = req.query as Record<string, string>;
 
     fs.rm(
