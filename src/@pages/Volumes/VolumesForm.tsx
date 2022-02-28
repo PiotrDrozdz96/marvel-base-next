@@ -1,0 +1,53 @@
+import routes from 'config/routes';
+
+import SelectOption from 'types/SelectOption';
+import { ApiVolume } from 'types/Volume';
+import { Serie } from 'types/Serie';
+import FormVariant from 'types/FormVariant';
+import FormPartial from 'types/FormPartial';
+import FormContainer from '@components/FormContainer';
+import FormActions from '@components/FormActions';
+import Input from '@components/Input';
+import Select from '@components/Select';
+
+import volumesMessages from './Volumes.messages';
+
+type Props = {
+  initialValues: FormPartial<ApiVolume>;
+  series: Serie[];
+  variant: FormVariant;
+  databaseName: string;
+  id?: number;
+};
+
+const VolumesForm = ({ variant, initialValues, databaseName, id, series }: Props): JSX.Element => {
+  const seriesOptions: SelectOption[] = series.map(({ id: serieId, name }) => ({ value: `${serieId}`, label: name }));
+
+  return (
+    <FormContainer
+      variant={variant}
+      initialValues={initialValues}
+      databaseName={`db/${databaseName}/volumes`}
+      messages={volumesMessages}
+      numberFields={['order', 'serie_id', 'global_order']}
+      id={id}
+      showPathname={routes.volumes.id.show.href}
+      query={{ databaseName, id }}
+    >
+      {({ handleSubmit }) => (
+        <form onSubmit={handleSubmit}>
+          <Input name="title" placeholder={volumesMessages.title} required />
+          <Input name="subtitle" placeholder={volumesMessages.subtitle} required />
+          <Input name="image_url" placeholder={volumesMessages.image_url} required />
+          <Input name="date" placeholder={volumesMessages.date} required />
+          <Select name="serie_id" placeholder={volumesMessages.serie_id} options={seriesOptions} required />
+          <Input name="order" placeholder={volumesMessages.order} required />
+          <Input name="global_order" placeholder={volumesMessages.global_order} required />
+          <FormActions />
+        </form>
+      )}
+    </FormContainer>
+  );
+};
+
+export default VolumesForm;
