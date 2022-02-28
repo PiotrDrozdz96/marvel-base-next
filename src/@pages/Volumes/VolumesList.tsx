@@ -25,7 +25,7 @@ const VolumesList = ({ volumes, databaseName, serieId }: Props): JSX.Element => 
   <List
     name={volumesMessages.listName}
     addHref={{ pathname: routes.volumes.id.href, query: { databaseName, id: 'create', serie_id: serieId } }}
-    addHrefAs={{ pathname: `db/${databaseName}/volumes/create` }}
+    addHrefAs={{ pathname: `/db/${databaseName}/volumes/create` }}
     labels={labels}
   >
     {volumes.map((volume) => (
