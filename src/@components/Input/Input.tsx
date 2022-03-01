@@ -3,11 +3,12 @@ import classNames from 'classnames';
 
 import classes from './Input.module.scss';
 
-type Props = DetailedHTMLProps<InputHTMLAttributes<HTMLInputElement>, HTMLInputElement> & {
+export type Props = Omit<DetailedHTMLProps<InputHTMLAttributes<HTMLInputElement>, HTMLInputElement>, 'value'> & {
   placeholder: string;
   error?: string;
   endAdornment?: ReactNode;
   required?: boolean;
+  value?: string;
 };
 
 const Input = forwardRef<HTMLInputElement, Props>(

@@ -10,6 +10,7 @@ import FormActions from '@components/FormActions';
 import Input from '@components/Input';
 import DatePicker from '@components/DatePicker';
 import Select from '@components/Select';
+import ImageInput from '@components/ImageInput';
 
 import volumesMessages from './Volumes.messages';
 
@@ -39,7 +40,7 @@ const VolumesForm = ({ variant, initialValues, databaseName, id, series }: Props
         <form onSubmit={handleSubmit}>
           <Input name="title" placeholder={volumesMessages.title} required />
           <Input name="subtitle" placeholder={volumesMessages.subtitle} />
-          <Input name="image_url" placeholder={volumesMessages.image_url} required />
+          <ImageInput name="image_url" placeholder={volumesMessages.image_url} required />
           <DatePicker name="date" placeholder={volumesMessages.date} required />
           <Select name="serie_id" placeholder={volumesMessages.serie_id} options={seriesOptions} required />
           <Input name="order" placeholder={volumesMessages.order} required />

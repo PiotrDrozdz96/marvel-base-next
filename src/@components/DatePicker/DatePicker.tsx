@@ -55,8 +55,8 @@ const DatePicker = ({
         customInput={<CustomInput />}
         locale="pl"
         popperPlacement="right"
-        onChange={onChange}
         dateFormat="dd/MM/yyyy"
+        onChange={onChange}
         onBlur={onBlur}
         showYearDropdown
         scrollableYearDropdown

@@ -1,0 +1,9 @@
+@import 'styles/variables';
+
+.image {
+  border: 1px solid transparent;
+};
+
+.errorImage {
+  border: 1px solid $background-color-secondary;
+};

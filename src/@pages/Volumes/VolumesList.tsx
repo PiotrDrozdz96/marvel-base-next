@@ -1,6 +1,7 @@
 import routes from 'config/routes';
 import { Volume } from 'types/Volume';
 import List from '@components/List';
+import Image from '@components/Image';
 import ActionsButtons from '@components/ActionsButtons';
 import dateFormat from 'utils/dateFormat';
 
@@ -34,7 +35,9 @@ const VolumesList = ({ volumes, databaseName, serieId }: Props): JSX.Element => 
         <td>{volume.id}</td>
         <td>{volume.title}</td>
         <td>{volume.subtitle}</td>
-        <td>{volume.image_url}</td>
+        <td>
+          <Image src={volume.image_url} alt={volume.title} preset="mini" />
+        </td>
         <td>{dateFormat(volume.date)}</td>
         <td>{volume.order}</td>
         <ActionsButtons
