@@ -8,6 +8,7 @@ import FormPartial from 'types/FormPartial';
 import FormContainer from '@components/FormContainer';
 import FormActions from '@components/FormActions';
 import Input from '@components/Input';
+import DatePicker from '@components/DatePicker';
 import Select from '@components/Select';
 
 import volumesMessages from './Volumes.messages';
@@ -21,12 +22,12 @@ type Props = {
 };
 
 const VolumesForm = ({ variant, initialValues, databaseName, id, series }: Props): JSX.Element => {
-  const seriesOptions: SelectOption[] = series.map(({ id: serieId, name }) => ({ value: `${serieId}`, label: name }));
+  const seriesOptions: SelectOption[] = series.map(({ id: serieId, name }) => ({ value: serieId, label: name }));
 
   return (
     <FormContainer
       variant={variant}
-      initialValues={initialValues}
+      initialValues={{ ...initialValues, date: initialValues.date ? new Date(initialValues.date) : '' }}
       databaseName={`db/${databaseName}/volumes`}
       messages={volumesMessages}
       numberFields={['order', 'serie_id', 'global_order']}
@@ -37,9 +38,9 @@ const VolumesForm = ({ variant, initialValues, databaseName, id, series }: Props
       {({ handleSubmit }) => (
         <form onSubmit={handleSubmit}>
           <Input name="title" placeholder={volumesMessages.title} required />
-          <Input name="subtitle" placeholder={volumesMessages.subtitle} required />
+          <Input name="subtitle" placeholder={volumesMessages.subtitle} />
           <Input name="image_url" placeholder={volumesMessages.image_url} required />
-          <Input name="date" placeholder={volumesMessages.date} required />
+          <DatePicker name="date" placeholder={volumesMessages.date} required />
           <Select name="serie_id" placeholder={volumesMessages.serie_id} options={seriesOptions} required />
           <Input name="order" placeholder={volumesMessages.order} required />
           <Input name="global_order" placeholder={volumesMessages.global_order} required />

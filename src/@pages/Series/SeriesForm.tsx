@@ -21,7 +21,7 @@ type Props = {
 };
 
 const SeriesForm = ({ variant, initialValues, databaseName, id, waves }: Props): JSX.Element => {
-  const wavesOptions: SelectOption[] = waves.map(({ id: waveId, name }) => ({ value: `${waveId}`, label: name }));
+  const wavesOptions: SelectOption[] = waves.map(({ id: waveId, name }) => ({ value: waveId, label: name }));
 
   return (
     <FormContainer

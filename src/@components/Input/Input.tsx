@@ -1,4 +1,4 @@
-import { DetailedHTMLProps, InputHTMLAttributes, ReactNode } from 'react';
+import { DetailedHTMLProps, forwardRef, InputHTMLAttributes, ReactNode } from 'react';
 import classNames from 'classnames';
 
 import classes from './Input.module.scss';
@@ -10,41 +10,47 @@ type Props = DetailedHTMLProps<InputHTMLAttributes<HTMLInputElement>, HTMLInputE
   required?: boolean;
 };
 
-const Input = ({
-  placeholder,
-  error,
-  endAdornment,
-  required,
-  id,
-  name,
-  value,
-  disabled,
-  readOnly,
-  onBlur,
-  onInput,
-  onClick,
-  onChange,
-}: Props): JSX.Element => (
-  // eslint-disable-next-line jsx-a11y/label-has-associated-control
-  <label className={classes.label}>
-    <input
-      id={id}
-      name={name}
-      value={value}
-      disabled={disabled}
-      readOnly={readOnly}
-      type="text"
-      className={classNames(classes.input, { [classes.errorInput]: error })}
-      placeholder=" "
-      onBlur={onBlur}
-      onInput={onInput}
-      onClick={onClick}
-      onChange={onChange}
-    />
-    <div className={classes.placeholder}>{required ? `${placeholder}*` : placeholder}</div>
-    <div className={classes.endAdornment}>{endAdornment}</div>
-    <div className={classes.error}>{error}</div>
-  </label>
+const Input = forwardRef<HTMLInputElement, Props>(
+  (
+    {
+      placeholder,
+      error,
+      endAdornment,
+      required,
+      id,
+      name,
+      value,
+      disabled,
+      readOnly,
+      onBlur,
+      onInput,
+      onClick,
+      onChange,
+    },
+    ref
+  ): JSX.Element => (
+    // eslint-disable-next-line jsx-a11y/label-has-associated-control
+    <label className={classes.label}>
+      <input
+        id={id}
+        ref={ref}
+        name={name}
+        value={value}
+        disabled={disabled}
+        readOnly={readOnly}
+        type="text"
+        className={classNames(classes.input, { [classes.errorInput]: error })}
+        placeholder=" "
+        onBlur={onBlur}
+        onInput={onInput}
+        onClick={onClick}
+        onChange={onChange}
+      />
+      <div className={classes.placeholder}>{required ? `${placeholder}*` : placeholder}</div>
+      <div className={classes.endAdornment}>{endAdornment}</div>
+      <div className={classes.error}>{error}</div>
+    </label>
+  )
 );
 
 export default Input;

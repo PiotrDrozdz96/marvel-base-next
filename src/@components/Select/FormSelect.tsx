@@ -1,5 +1,6 @@
 import { Field } from 'react-final-form';
 
+import SelectOption from 'types/SelectOption';
 import { required as requiredValidation } from 'utils/validators';
 
 import Select from './Select';
@@ -7,7 +8,7 @@ import Select from './Select';
 type Props = {
   name: string;
   placeholder: string;
-  options: { value: string; label: string }[];
+  options: SelectOption[];
   required?: boolean;
 };
 

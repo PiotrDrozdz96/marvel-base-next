@@ -8,15 +8,7 @@ import messages from 'utils/apiValidators/apiValidators.messages';
 import { interpolate } from 'utils/interpolate';
 import pick from 'utils/pick';
 
-const seriesField: (keyof ApiVolume)[] = [
-  'title',
-  'subtitle',
-  'image_url',
-  'date',
-  'serie_id',
-  'order',
-  'global_order',
-];
+const seriesField: (keyof ApiVolume)[] = ['title', 'image_url', 'date', 'serie_id', 'order', 'global_order'];
 
 const postVolumes: ApiHandler = async (req, res) =>
   new Promise((resolve) => {
