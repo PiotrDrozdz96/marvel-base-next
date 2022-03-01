@@ -36,7 +36,7 @@ const VolumesList = ({ volumes, databaseName, serieId }: Props): JSX.Element => 
         <td>{volume.title}</td>
         <td>{volume.subtitle}</td>
         <td>
-          <Image src={volume.image_url} alt={volume.title} preset="mini" />
+          <Image src={volume.image_url} alt={volume.title} preset="mini" withLink />
         </td>
         <td>{dateFormat(volume.date)}</td>
         <td>{volume.order}</td>

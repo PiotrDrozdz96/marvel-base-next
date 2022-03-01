@@ -2,8 +2,15 @@
 
 .image {
   border: 1px solid transparent;
+  object-fit: contain;
 };
 
 .errorImage {
   border: 1px solid $background-color-secondary;
+};
+
+.link {
+  &:hover {
+    cursor: zoom-in;
+  };
 };

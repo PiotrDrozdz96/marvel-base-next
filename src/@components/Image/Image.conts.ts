@@ -1,4 +1,4 @@
-import { Preset, Dimension } from './Image.types';
+import { Preset, Dimension, ImageLoader } from './Image.types';
 
 export const dimensions: Record<Preset, Dimension> = {
   thumb: {
@@ -10,3 +10,17 @@ export const dimensions: Record<Preset, Dimension> = {
     height: 93,
   },
 };
+
+const filmwebPresetMap: Record<Preset | 'full', 1 | 2 | 3 | 4 | 5> = {
+  thumb: 2,
+  mini: 4,
+  full: 3,
+};
+
+export const loaders: ImageLoader[] = [
+  {
+    name: 'filmweb',
+    regExp: /^(https:\/\/fwcdn.pl\/[^.]*.)(\d)(\..*)$/,
+    loader: (preset, [, start, , end]) => `${start}${filmwebPresetMap[preset]}${end}`,
+  },
+];
