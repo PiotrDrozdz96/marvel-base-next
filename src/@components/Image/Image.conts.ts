@@ -23,4 +23,15 @@ export const loaders: ImageLoader[] = [
     regExp: /^(https:\/\/fwcdn.pl\/[^.]*.)(\d)(\..*)$/,
     loader: (preset, [, start, , end]) => `${start}${filmwebPresetMap[preset]}${end}`,
   },
+  {
+    name: 'gildia komiks',
+    regExp: /^(https:\/\/images.gildia.pl.*\/okladka-)(\d+)(\..+)$/,
+    loader: (preset, [, start, , end]) => `${start}${preset === 'full' ? 700 : dimensions[preset]?.width}${end}`,
+  },
+  {
+    name: 'marvel wiki',
+    regExp: /(https:\/\/)(static|vignette)(.*\/scale-to-width-down\/)(\d+)/,
+    loader: (preset, [, protocol, , start]) =>
+      `${protocol}vignette${start}${preset === 'full' ? 700 : dimensions[preset]?.width}`,
+  },
 ];
