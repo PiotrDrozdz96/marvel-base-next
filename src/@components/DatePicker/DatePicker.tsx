@@ -58,6 +58,8 @@ const DatePicker = ({
         dateFormat="dd/MM/yyyy"
         onChange={onChange}
         onBlur={onBlur}
+        maxDate={new Date()}
+        yearDropdownItemNumber={new Date().getFullYear() - 1980}
         showYearDropdown
         scrollableYearDropdown
       />
