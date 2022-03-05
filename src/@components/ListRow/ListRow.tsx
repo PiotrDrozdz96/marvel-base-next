@@ -5,10 +5,11 @@ type Props = {
   draggableId: string;
   index: number;
   children: ReactNode;
+  isDragDisabled?: boolean;
 };
 
-const ListRow = ({ draggableId, index, children }: Props): JSX.Element => (
-  <Draggable draggableId={draggableId} index={index}>
+const ListRow = ({ draggableId, index, isDragDisabled, children }: Props): JSX.Element => (
+  <Draggable draggableId={draggableId} index={index} isDragDisabled={isDragDisabled}>
     {(itemProvided) => (
       <tr
         ref={itemProvided.innerRef}

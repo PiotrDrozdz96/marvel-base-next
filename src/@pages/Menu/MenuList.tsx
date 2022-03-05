@@ -27,7 +27,7 @@ const MenuList = ({ menu, query }: Props): JSX.Element => {
       onDragEnd={onDragEnd}
     >
       {items.map((menuItem, index) => (
-        <ListRow key={menuItem.id} draggableId={`${menuItem.id}`} index={index}>
+        <ListRow key={menuItem.id} draggableId={`${menuItem.id}`} index={index} isDragDisabled={items.length === 1}>
           <td style={width(100)}>{menuItem.id}</td>
           <td style={width('50%')}>{menuItem.name}</td>
           <td style={width('50%')}>{menuItem.url}</td>
