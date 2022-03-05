@@ -11,6 +11,8 @@ export const defaultValues: FormPartial<ApiMenuItem> = {
   parent_id: '',
 };
 
+export const numberFields: (keyof ApiMenuItem)[] = ['order', 'parent_id'];
+
 export const typeOptions: SelectOption[] = [
   { value: 'SUB_MENU', label: 'SUB_MENU' },
   { value: 'MAIN_MENU', label: 'MAIN_MENU' },

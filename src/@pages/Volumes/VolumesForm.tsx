@@ -12,6 +12,7 @@ import DatePicker from '@components/DatePicker';
 import Select from '@components/Select';
 import ImageInput from '@components/ImageInput';
 
+import { numberFields } from './VolumeForm.consts';
 import volumesMessages from './Volumes.messages';
 
 type Props = {
@@ -31,7 +32,7 @@ const VolumesForm = ({ variant, initialValues, databaseName, id, series }: Props
       initialValues={{ ...initialValues, date: initialValues.date ? new Date(initialValues.date) : '' }}
       databaseName={`db/${databaseName}/volumes`}
       messages={volumesMessages}
-      numberFields={['order', 'serie_id', 'global_order']}
+      numberFields={numberFields}
       id={id}
       showPathname={routes.volumes.id.show.href}
       query={{ databaseName, id }}

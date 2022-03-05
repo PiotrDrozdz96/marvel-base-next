@@ -5,9 +5,10 @@ import FormVariant from 'types/FormVariant';
 import { ApiMenuItem, MenuItem } from 'types/Menu';
 import FormPartial from 'types/FormPartial';
 import MenuForm from '@pages/Menu/MenuForm';
-import { defaultValues } from '@pages/Menu/MenuForm.consts';
+import { defaultValues, numberFields } from '@pages/Menu/MenuForm.consts';
 import getMenu from '@api/get/getMenu';
 import { mapRawMenu } from '@api/get/front/getMenu';
+import convertValuesTo from 'utils/convertValuesTo';
 
 type Props = {
   menu: MenuItem[];
@@ -35,7 +36,10 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
       variant: isCreate ? 'create' : 'edit',
       id: isCreate ? null : id,
       initialValues: !isCreate
-        ? (rawMenu[id] as unknown as FormPartial<ApiMenuItem>)
+        ? {
+            ...(rawMenu[id] as unknown as FormPartial<ApiMenuItem>),
+            ...convertValuesTo(String, rawMenu[id], numberFields),
+          }
         : { ...defaultValues, type: type || defaultValues.type, parent_id: parentId || defaultValues.parent_id },
     },
   };

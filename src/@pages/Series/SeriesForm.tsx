@@ -10,6 +10,7 @@ import FormActions from '@components/FormActions';
 import Input from '@components/Input';
 import Select from '@components/Select';
 
+import { numberFields } from './SeriesForm.consts';
 import seriesMessages from './Series.messages';
 
 type Props = {
@@ -29,7 +30,7 @@ const SeriesForm = ({ variant, initialValues, databaseName, id, waves }: Props):
       initialValues={initialValues}
       databaseName={`db/${databaseName}/series`}
       messages={seriesMessages}
-      numberFields={['order', 'wave_id']}
+      numberFields={numberFields}
       id={id}
       showPathname={routes.series.id.show.href}
       query={{ databaseName, id }}

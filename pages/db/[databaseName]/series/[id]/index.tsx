@@ -8,7 +8,9 @@ import { Wave } from 'types/Wave';
 import get from '@api/get';
 import getMenu from '@api/get/front/getMenu';
 import SeriesForm from '@pages/Series/SeriesForm';
+import { defaultValues, numberFields } from '@pages/Series/SeriesForm.consts';
 import mapApiToFront from 'utils/mapApiToFront';
+import convertValuesTo from 'utils/convertValuesTo';
 
 type Props = {
   variant: FormVariant;
@@ -40,8 +42,11 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) 
       databaseName,
       waves: mapApiToFront(waves),
       initialValues: !isCreate
-        ? (series[id] as unknown as FormPartial<ApiSerie>)
-        : { name: '', order: '', wave_id: '' },
+        ? {
+            ...(series[id] as unknown as FormPartial<ApiSerie>),
+            ...convertValuesTo(String, series[id], numberFields),
+          }
+        : defaultValues,
     },
   };
 };

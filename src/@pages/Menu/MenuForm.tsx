@@ -8,7 +8,7 @@ import FormActions from '@components/FormActions';
 import Input from '@components/Input';
 import Select from '@components/Select';
 
-import { iconOptions, typeOptions } from './MenuForm.consts';
+import { iconOptions, typeOptions, numberFields } from './MenuForm.consts';
 import menuMessages from './Menu.messages';
 
 type Props = {
@@ -27,7 +27,7 @@ const MenuForm = ({ menu, initialValues, variant, itemId }: Props): JSX.Element 
       initialValues={initialValues}
       databaseName="menu"
       messages={menuMessages}
-      numberFields={['order', 'parent_id']}
+      numberFields={numberFields}
       id={itemId}
       showPathname={routes.menu.id.show.href}
     >

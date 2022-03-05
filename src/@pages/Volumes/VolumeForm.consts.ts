@@ -10,3 +10,5 @@ export const defaultValues: FormPartial<ApiVolume> = {
   order: '',
   global_order: '',
 };
+
+export const numberFields: (keyof ApiVolume)[] = ['order', 'serie_id', 'global_order'];

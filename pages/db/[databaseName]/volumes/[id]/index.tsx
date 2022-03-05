@@ -8,8 +8,9 @@ import { Serie } from 'types/Serie';
 import get from '@api/get';
 import getMenu from '@api/get/front/getMenu';
 import VolumesForm from '@pages/Volumes/VolumesForm';
-import { defaultValues } from '@pages/Volumes/VolumeForm.consts';
+import { defaultValues, numberFields } from '@pages/Volumes/VolumeForm.consts';
 import mapApiToFront from 'utils/mapApiToFront';
+import convertValuesTo from 'utils/convertValuesTo';
 
 type Props = {
   variant: FormVariant;
@@ -42,7 +43,10 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
       databaseName,
       series: mapApiToFront(series),
       initialValues: !isCreate
-        ? (volumes[id] as unknown as FormPartial<ApiVolume>)
+        ? {
+            ...(volumes[id] as unknown as FormPartial<ApiVolume>),
+            ...convertValuesTo(String, volumes[id], numberFields),
+          }
         : { ...defaultValues, serie_id: serieId || defaultValues.serie_id },
     },
   };

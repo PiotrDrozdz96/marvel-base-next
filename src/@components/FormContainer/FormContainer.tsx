@@ -5,10 +5,11 @@ import { UrlObject } from 'url';
 
 import FormVariant from 'types/FormVariant';
 import Container from '@components/Container';
+import Paper from '@components/Paper';
 import Toolbar from '@components/Toolbar';
 import ActionButton from '@components/ActionButton';
 import { interpolate } from 'utils/interpolate';
-import Paper from '@components/Paper';
+import convertValuesTo from 'utils/convertValuesTo';
 
 type Props<FormValues> = {
   variant: FormVariant;
@@ -39,13 +40,7 @@ const FormContainer = <FormValues,>({
   const router = useRouter();
 
   const onSubmit = async (values: FormValues) => {
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    const numberValues: any = {};
-    if (numberFields) {
-      numberFields.forEach((key) => {
-        numberValues[key] = Number(values[key]);
-      });
-    }
+    const numberValues = convertValuesTo(Number, values, numberFields);
 
     await fetch(variant === 'create' ? `/api/${databaseName}` : `/api/${databaseName}/${id}`, {
       method: 'POST',
