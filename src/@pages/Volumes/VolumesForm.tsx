@@ -23,7 +23,7 @@ type Props = {
 };
 
 const VolumesForm = ({ variant, initialValues, databaseName, id, series }: Props): JSX.Element => {
-  const seriesOptions: SelectOption[] = series.map(({ id: serieId, name }) => ({ value: serieId, label: name }));
+  const seriesOptions: SelectOption[] = series.map(({ id: serieId, name }) => ({ value: `${serieId}`, label: name }));
 
   return (
     <FormContainer

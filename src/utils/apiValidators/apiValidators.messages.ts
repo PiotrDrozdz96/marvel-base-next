@@ -7,6 +7,7 @@ export default {
   conflict: 'Record of id "{id}" exists in table "{basename}',
   internal: 'Internal Error',
   required: 'field "{field}" is required',
+  mustBeType: 'field "{field}" must by type of {type}',
   includes: 'field "{field}" must be one of [{options}]',
   relations: 'field "{field}" equal {value} not found relation with {baseName}',
 };

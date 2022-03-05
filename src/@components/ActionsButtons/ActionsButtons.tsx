@@ -1,7 +1,8 @@
+import { useRouter } from 'next/router';
 import { UrlObject } from 'url';
 
 import ActionButton from '@components/ActionButton';
-import { useRouter } from 'next/router';
+import width from 'utils/width';
 
 import classes from './ActionsButtons.module.scss';
 
@@ -33,7 +34,7 @@ const ActionsButtons = ({ routeItem, id, databaseName, query, withoutShow }: Pro
   };
 
   return (
-    <td style={{ width: withoutShow ? 180 : 270 }}>
+    <td style={width(withoutShow ? 180 : 270)}>
       <div className={classes.actionsButtons}>
         {!withoutShow && (
           <ActionButton variant="show" href={{ pathname: routeItem.id.show.href, query: query || { id } }} />

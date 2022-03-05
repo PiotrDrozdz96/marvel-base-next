@@ -19,7 +19,7 @@ type Props = {
 };
 
 const MenuForm = ({ menu, initialValues, variant, itemId }: Props): JSX.Element => {
-  const menuOptions: SelectOption[] = menu.map(({ id, name }) => ({ value: id, label: name }));
+  const menuOptions: SelectOption[] = menu.map(({ id, name }) => ({ value: `${id}`, label: name }));
 
   return (
     <FormContainer
