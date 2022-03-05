@@ -18,7 +18,7 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) 
   const { databaseName, id } = params as Record<string, string>;
 
   const item = await getSerie(databaseName, Number(id));
-  const volumes = await getVolumes(databaseName, (volume) => volume.id === Number(id));
+  const volumes = await getVolumes(databaseName, (volume) => volume.serie_id === Number(id));
 
   if (!item) {
     return { notFound: true };

@@ -17,7 +17,13 @@ const useDraggableItems = <T extends { id: number }>(initialItems: T[], database
       .then((data) => setItems(data));
   };
 
-  return { items, onDragEnd };
+  const getRowProps = (item: { id: number }, index: number) => ({
+    draggableId: `${item.id}`,
+    index,
+    isDragDisabled: items.length === 1,
+  });
+
+  return { items, onDragEnd, getRowProps };
 };
 
 export default useDraggableItems;

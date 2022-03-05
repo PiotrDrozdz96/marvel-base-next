@@ -16,7 +16,7 @@ type Props = {
 const labels: string[] = [menuMessages.id, menuMessages.name, menuMessages.url, ''];
 
 const MenuList = ({ menu, query }: Props): JSX.Element => {
-  const { items, onDragEnd } = useDraggableItems(menu, 'menu');
+  const { items, onDragEnd, getRowProps } = useDraggableItems(menu, 'menu');
 
   return (
     <List
@@ -27,7 +27,7 @@ const MenuList = ({ menu, query }: Props): JSX.Element => {
       onDragEnd={onDragEnd}
     >
       {items.map((menuItem, index) => (
-        <ListRow key={menuItem.id} draggableId={`${menuItem.id}`} index={index} isDragDisabled={items.length === 1}>
+        <ListRow key={menuItem.id} {...getRowProps(menuItem, index)}>
           <td style={width(100)}>{menuItem.id}</td>
           <td style={width('50%')}>{menuItem.name}</td>
           <td style={width('50%')}>{menuItem.url}</td>

@@ -35,7 +35,9 @@ const reorderApi =
         const items = parsedData[itemsName];
 
         ids.forEach((id, index) => {
-          items[id].order = index;
+          if (items[id]) {
+            items[id].order = index;
+          }
         });
 
         const newDatabase = {

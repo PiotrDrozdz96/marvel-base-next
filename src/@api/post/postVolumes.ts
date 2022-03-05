@@ -7,20 +7,34 @@ import { ApiSerie } from 'types/Serie';
 import messages from 'utils/apiValidators/apiValidators.messages';
 import { interpolate } from 'utils/interpolate';
 import pick from 'utils/pick';
+import reorderApi from '@api/reorder';
 
-const seriesField: (keyof ApiVolume)[] = ['title', 'image_url', 'date', 'serie_id', 'order', 'global_order'];
+const seriesField: (keyof ApiVolume)[] = [
+  'title',
+  'subtitle',
+  'image_url',
+  'date',
+  'serie_id',
+  'order',
+  'global_order',
+];
+const requiredSeriesField: (keyof ApiVolume)[] = ['title', 'image_url', 'date', 'serie_id', 'order', 'global_order'];
 
-const postVolumes: ApiHandler = async (req, res) =>
-  new Promise((resolve) => {
+const postVolumes: ApiHandler = async (req, res) => {
+  const { id: reqId, databaseName } = req.query as Record<string, string>;
+
+  if (reqId === 'reorder') {
+    return reorderApi(`db/${databaseName}/volumes`, 'volumes')(req, res);
+  }
+
+  return new Promise((resolve) => {
     const body: Partial<ApiVolume> = pick(JSON.parse(req.body), seriesField);
-    const emptyField = seriesField.find((key) => !body[key] && body[key] !== 0);
+    const emptyField = requiredSeriesField.find((key) => !body[key] && body[key] !== 0);
 
     if (emptyField) {
       resolve(res.status(400).send({ message: interpolate(messages.required, { field: emptyField }) }));
       return;
     }
-
-    const { id: reqId, databaseName } = req.query as Record<string, string>;
 
     fs.readFile(`src/database/db/${databaseName}/series.json`, 'utf8', (seriesErr, seriesData) => {
       if (seriesErr) {
@@ -82,5 +96,6 @@ const postVolumes: ApiHandler = async (req, res) =>
       });
     });
   });
+};
 
 export default postVolumes;
