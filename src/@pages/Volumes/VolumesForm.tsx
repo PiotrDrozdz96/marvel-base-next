@@ -44,8 +44,8 @@ const VolumesForm = ({ variant, initialValues, databaseName, id, series }: Props
           <ImageInput name="image_url" placeholder={volumesMessages.image_url} required />
           <DatePicker name="date" placeholder={volumesMessages.date} required />
           <Select name="serie_id" placeholder={volumesMessages.serie_id} options={seriesOptions} required />
-          <Input name="order" placeholder={volumesMessages.order} required />
-          <Input name="global_order" placeholder={volumesMessages.global_order} required />
+          <Input name="order" placeholder={volumesMessages.order} />
+          <Input name="global_order" placeholder={volumesMessages.global_order} />
           <FormActions />
         </form>
       )}

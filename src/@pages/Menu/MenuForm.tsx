@@ -42,7 +42,7 @@ const MenuForm = ({ menu, initialValues, variant, itemId }: Props): JSX.Element 
           {values.type === 'SUB_MENU' && (
             <Select name="parent_id" placeholder={menuMessages.parent_id} options={menuOptions} required />
           )}
-          <Input name="order" placeholder={menuMessages.order} required />
+          <Input name="order" placeholder={menuMessages.order} />
           <FormActions />
         </form>
       )}

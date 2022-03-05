@@ -18,7 +18,7 @@ const seriesField: (keyof ApiVolume)[] = [
   'order',
   'global_order',
 ];
-const requiredSeriesField: (keyof ApiVolume)[] = ['title', 'image_url', 'date', 'serie_id', 'order', 'global_order'];
+const requiredSeriesField: (keyof ApiVolume)[] = ['title', 'image_url', 'date', 'serie_id'];
 
 const postVolumes: ApiHandler = async (req, res) => {
   const { id: reqId, databaseName } = req.query as Record<string, string>;
@@ -77,7 +77,11 @@ const postVolumes: ApiHandler = async (req, res) => {
         const newDatabase = {
           volumes: {
             ...volumes,
-            [id]: body,
+            [id]: {
+              ...body,
+              order: body.order || meta.nextIndex - 1,
+              global_order: body.global_order || meta.nextIndex - 1,
+            },
           },
           meta: reqId ? meta : { nextIndex: meta.nextIndex + 1 },
         };

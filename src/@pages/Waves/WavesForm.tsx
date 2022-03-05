@@ -30,7 +30,7 @@ const WavesForm = ({ variant, initialValues, databaseName, id }: Props): JSX.Ele
     {({ handleSubmit }) => (
       <form onSubmit={handleSubmit}>
         <Input name="name" placeholder={wavesMessages.name} required />
-        <Input name="order" placeholder={wavesMessages.order} required />
+        <Input name="order" placeholder={wavesMessages.order} />
         <FormActions />
       </form>
     )}

@@ -47,7 +47,10 @@ const postMenu: ApiHandler = async (req, res) => {
         const newDatabase = {
           menu: {
             ...menu,
-            [id]: values,
+            [id]: {
+              ...values,
+              order: values.order || meta.nextIndex - 1,
+            },
           },
           meta: reqId ? meta : { nextIndex: meta.nextIndex + 1 },
         };

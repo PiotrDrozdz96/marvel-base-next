@@ -6,7 +6,7 @@ import pick from 'utils/pick';
 import messages from './apiValidators.messages';
 
 const menuField: (keyof ApiMenuItem)[] = ['name', 'type', 'order', 'url', 'icon', 'parent_id'];
-const menuRequiredField: (keyof ApiMenuItem)[] = ['name', 'type', 'order'];
+const menuRequiredField: (keyof ApiMenuItem)[] = ['name', 'type'];
 const typeValidValues = ['SUB_MENU', 'MAIN_MENU'];
 const iconValidValues = ['home', 'tv', 'reader'];
 

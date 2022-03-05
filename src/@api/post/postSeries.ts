@@ -9,7 +9,8 @@ import { interpolate } from 'utils/interpolate';
 import pick from 'utils/pick';
 import reorderApi from '@api/reorder';
 
-const seriesField: (keyof ApiSerie)[] = ['name', 'order', 'wave_id'];
+const seriesFields: (keyof ApiSerie)[] = ['name', 'order', 'wave_id'];
+const seriesRequiredFields: (keyof ApiSerie)[] = ['name', 'wave_id'];
 
 const postSeries: ApiHandler = async (req, res) => {
   const { id: reqId, databaseName } = req.query as Record<string, string>;
@@ -19,8 +20,8 @@ const postSeries: ApiHandler = async (req, res) => {
   }
 
   return new Promise((resolve) => {
-    const body: Partial<ApiSerie> = pick(JSON.parse(req.body), seriesField);
-    const emptyField = seriesField.find((key) => !body[key] && body[key] !== 0);
+    const body: Partial<ApiSerie> = pick(JSON.parse(req.body), seriesFields);
+    const emptyField = seriesRequiredFields.find((key) => !body[key] && body[key] !== 0);
 
     if (emptyField) {
       resolve(res.status(400).send({ message: interpolate(messages.required, { field: emptyField }) }));
@@ -68,7 +69,10 @@ const postSeries: ApiHandler = async (req, res) => {
         const newDatabase = {
           series: {
             ...series,
-            [id]: body,
+            [id]: {
+              ...body,
+              order: body.order || meta.nextIndex - 1,
+            },
           },
           meta: reqId ? meta : { nextIndex: meta.nextIndex + 1 },
         };

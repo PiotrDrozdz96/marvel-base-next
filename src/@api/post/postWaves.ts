@@ -9,6 +9,7 @@ import JsonData from 'types/JsonData';
 import reorderApi from '@api/reorder';
 
 const wavesField: (keyof ApiWave)[] = ['name', 'order'];
+const wavesRequiredFields: (keyof ApiWave)[] = ['name'];
 
 const postWaves: ApiHandler = async (req, res) => {
   const { id: reqId, databaseName } = req.query as Record<string, string>;
@@ -19,7 +20,7 @@ const postWaves: ApiHandler = async (req, res) => {
 
   return new Promise((resolve) => {
     const body: Partial<ApiWave> = pick(JSON.parse(req.body), wavesField);
-    const emptyField = wavesField.find((key) => !body[key] && body[key] !== 0);
+    const emptyField = wavesRequiredFields.find((key) => !body[key] && body[key] !== 0);
 
     if (emptyField) {
       resolve(res.status(400).send({ message: interpolate(messages.required, { field: emptyField }) }));
@@ -47,7 +48,10 @@ const postWaves: ApiHandler = async (req, res) => {
       const newDatabase = {
         waves: {
           ...waves,
-          [id]: body,
+          [id]: {
+            ...body,
+            order: body.order || meta.nextIndex - 1,
+          },
         },
         meta: reqId ? meta : { nextIndex: meta.nextIndex + 1 },
       };
