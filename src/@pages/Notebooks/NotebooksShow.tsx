@@ -17,6 +17,7 @@ const NotebooksShow = ({ item, databaseName }: Props): JSX.Element => (
     <ShowWithImage
       name={interpolate(notebooksMessages.itemName, { id: item.id })}
       editHref={{ pathname: routes.notebooks.id.href, query: { id: item.id, databaseName } }}
+      backHref={{ pathname: routes.series.id.href, query: { id: item.serie_id, databaseName } }}
       imageUrl={item.image_url}
       alt={`${item.title} ${item.subtitle}`.trim()}
     >

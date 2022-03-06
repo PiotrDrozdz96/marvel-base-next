@@ -31,7 +31,7 @@ const WavesForm = ({ variant, initialValues, databaseName, id }: Props): JSX.Ele
       <form onSubmit={handleSubmit}>
         <Input name="name" placeholder={wavesMessages.name} required />
         <Input name="order" placeholder={wavesMessages.order} />
-        <FormActions />
+        <FormActions backHref={{ pathname: routes.db.id.show.href, query: { databaseName } }} />
       </form>
     )}
   </FormContainer>

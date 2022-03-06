@@ -47,7 +47,9 @@ const NotebooksForm = ({ variant, initialValues, databaseName, id, series }: Pro
           <DatePicker name="date" placeholder={notebooksMessages.date} required />
           <Select name="serie_id" placeholder={notebooksMessages.serie_id} options={seriesOptions} required />
           <Input name="order" placeholder={notebooksMessages.order} />
-          <FormActions />
+          <FormActions
+            backHref={{ pathname: routes.series.id.show.href, query: { id: initialValues.serie_id, databaseName } }}
+          />
         </form>
       )}
     </FormContainer>

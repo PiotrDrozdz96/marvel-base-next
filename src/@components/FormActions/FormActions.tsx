@@ -1,15 +1,16 @@
-import BackButton from '@components/BackButton';
+import BackButton, { BackButtonProps } from '@components/BackButton';
 import SaveButton from '@components/SaveButton';
 
 import classes from './FormActions.module.scss';
 
-type Props = {
+export type Props = {
+  backHref: BackButtonProps['href'];
   withoutSave?: boolean;
 };
 
-const FormActions = ({ withoutSave }: Props): JSX.Element => (
+const FormActions = ({ withoutSave, backHref }: Props): JSX.Element => (
   <div className={classes.formActions}>
-    <BackButton />
+    <BackButton href={backHref} />
     {!withoutSave && <SaveButton />}
   </div>
 );

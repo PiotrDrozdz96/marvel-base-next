@@ -23,6 +23,7 @@ const DatabaseShow = ({ item, waves, series }: Props): JSX.Element => (
     <Show
       name={interpolate(databaseMessages.itemName, { id: item.name })}
       editHref={{ pathname: routes.db.id.href, query: { databaseName: item.name } }}
+      backHref={{ pathname: routes.settings.href }}
     >
       <TextField label={databaseMessages.name} value={item.name} />
       <TextField label={databaseMessages.size} value={formattedFileSize(item.size)} />

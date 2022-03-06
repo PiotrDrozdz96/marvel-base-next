@@ -43,7 +43,7 @@ const MenuForm = ({ menu, initialValues, variant, itemId }: Props): JSX.Element 
             <Select name="parent_id" placeholder={menuMessages.parent_id} options={menuOptions} required />
           )}
           <Input name="order" placeholder={menuMessages.order} />
-          <FormActions />
+          <FormActions backHref={{ pathname: routes.settings.href }} />
         </form>
       )}
     </FormContainer>

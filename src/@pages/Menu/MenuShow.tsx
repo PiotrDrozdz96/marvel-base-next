@@ -19,6 +19,7 @@ const MenuShow = ({ menu, item }: Props): JSX.Element => (
     <Show
       name={interpolate(menuMessages.itemName, { id: item.id })}
       editHref={{ pathname: routes.menu.id.href, query: { id: item.id } }}
+      backHref={{ pathname: routes.settings.href }}
     >
       <TextField label={menuMessages.id} value={item.id} />
       <TextField label={menuMessages.name} value={item.name} />

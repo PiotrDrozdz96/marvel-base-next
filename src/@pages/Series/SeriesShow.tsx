@@ -23,6 +23,7 @@ const SeriesShow = ({ item, volumes, notebooks, databaseName }: Props): JSX.Elem
     <Show
       name={interpolate(seriesMessages.itemName, { id: item.id })}
       editHref={{ pathname: routes.series.id.href, query: { id: item.id, databaseName } }}
+      backHref={{ pathname: routes.db.id.show.href, query: { databaseName } }}
     >
       <TextField label={seriesMessages.id} value={item.id} />
       <TextField label={seriesMessages.name} value={item.name} />

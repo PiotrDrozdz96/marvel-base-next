@@ -25,7 +25,7 @@ const DatabaseForm = ({ variant, initialValues }: Props): JSX.Element => (
     {({ handleSubmit }) => (
       <form onSubmit={handleSubmit}>
         <Input name="name" placeholder={databaseMessages.name} required />
-        <FormActions />
+        <FormActions backHref={{ pathname: routes.settings.href }} />
       </form>
     )}
   </FormContainer>

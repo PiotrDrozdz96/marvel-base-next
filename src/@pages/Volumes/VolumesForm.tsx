@@ -46,7 +46,9 @@ const VolumesForm = ({ variant, initialValues, databaseName, id, series }: Props
           <Select name="serie_id" placeholder={volumesMessages.serie_id} options={seriesOptions} required />
           <Input name="order" placeholder={volumesMessages.order} />
           <Input name="global_order" placeholder={volumesMessages.global_order} />
-          <FormActions />
+          <FormActions
+            backHref={{ pathname: routes.series.id.show.href, query: { id: initialValues.serie_id, databaseName } }}
+          />
         </form>
       )}
     </FormContainer>

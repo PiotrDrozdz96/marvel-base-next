@@ -40,7 +40,7 @@ const SeriesForm = ({ variant, initialValues, databaseName, id, waves }: Props):
           <Input name="name" placeholder={seriesMessages.name} required />
           <Select name="wave_id" placeholder={seriesMessages.waveId} options={wavesOptions} required />
           <Input name="order" placeholder={seriesMessages.order} />
-          <FormActions />
+          <FormActions backHref={{ pathname: routes.db.id.show.href, query: { databaseName } }} />
         </form>
       )}
     </FormContainer>
