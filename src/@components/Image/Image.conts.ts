@@ -9,10 +9,15 @@ export const dimensions: Record<Preset, Dimension> = {
     width: 66,
     height: 93,
   },
+  preview: {
+    width: 370,
+    height: 528,
+  },
 };
 
 const filmwebPresetMap: Record<Preset | 'full', 1 | 2 | 3 | 4 | 5> = {
   thumb: 2,
+  preview: 5,
   mini: 4,
   full: 3,
 };

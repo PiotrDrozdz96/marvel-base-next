@@ -2,7 +2,7 @@ import { DetailedHTMLProps, ImgHTMLAttributes } from 'react';
 
 export type Dimension = { width: number; height: number };
 
-export type Preset = 'thumb' | 'mini';
+export type Preset = 'thumb' | 'mini' | 'preview';
 
 export type ImageLoader = {
   name: string;

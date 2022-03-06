@@ -6,7 +6,7 @@ import Toolbar from '@components/Toolbar';
 import ActionButton, { ActionButtonProps } from '@components/ActionButton';
 import FormActions from '@components/FormActions';
 
-type Props = {
+export type Props = {
   name: string;
   editHref: ActionButtonProps['href'];
   children: ReactNode;
