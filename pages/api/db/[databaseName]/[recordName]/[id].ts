@@ -1,20 +1,23 @@
+import deleteNotebooks from '@api/delete/deleteNotebooks';
 import deleteSeries from '@api/delete/deleteSeries';
 import deleteVolumes from '@api/delete/deleteVolumes';
 import deleteWaves from '@api/delete/deleteWaves';
+import postNotebooks from '@api/post/postNotebooks';
 import postSeries from '@api/post/postSeries';
 import postVolumes from '@api/post/postVolumes';
 import postWaves from '@api/post/postWaves';
 import ApiHandler from 'types/ApiHandler';
 import apiBuilder from 'utils/apiBuilder';
 
-type RecordName = 'waves' | 'series' | 'volumes';
+type RecordName = 'waves' | 'series' | 'volumes' | 'notebooks';
 
-const recordsName = ['waves', 'series', 'volumes'];
+const recordsName = ['waves', 'series', 'volumes', 'notebooks'];
 
 const handlersMap: Record<RecordName, [ApiHandler, ApiHandler]> = {
   waves: [postWaves, deleteWaves],
   series: [postSeries, deleteSeries],
   volumes: [postVolumes, deleteVolumes],
+  notebooks: [postNotebooks, deleteNotebooks],
 };
 
 const handler: ApiHandler = async (req, res) => {

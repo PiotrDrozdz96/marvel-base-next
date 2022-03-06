@@ -1,0 +1,15 @@
+export default {
+  listName: 'Lista Zeszytów',
+  createName: 'Stwórz Zeszyt',
+  editName: 'Edytuj Zeszyt #{id}',
+  itemName: 'Zeszyt #{id}',
+  id: 'Id',
+  title: 'Tytuł',
+  subtitle: 'Podtytuł',
+  vol: 'Tom',
+  no: 'numer',
+  image_url: 'Obrazek',
+  date: 'Data',
+  serie_id: 'Seria',
+  order: 'Kolejność',
+};

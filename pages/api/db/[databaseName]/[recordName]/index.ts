@@ -1,17 +1,19 @@
+import postNotebooks from '@api/post/postNotebooks';
 import postSeries from '@api/post/postSeries';
 import postVolumes from '@api/post/postVolumes';
 import postWaves from '@api/post/postWaves';
 import ApiHandler from 'types/ApiHandler';
 import apiBuilder from 'utils/apiBuilder';
 
-type RecordName = 'waves' | 'series' | 'volumes';
+type RecordName = 'waves' | 'series' | 'volumes' | 'notebooks';
 
-const recordsName = ['waves', 'series', 'volumes'];
+const recordsName = ['waves', 'series', 'volumes', 'notebooks'];
 
 const handlersMap: Record<RecordName, ApiHandler> = {
   waves: postWaves,
   series: postSeries,
   volumes: postVolumes,
+  notebooks: postNotebooks,
 };
 
 const handler: ApiHandler = async (req, res) => {

@@ -1,7 +1,7 @@
 import fs from 'fs';
 
 import ApiHandler from 'types/ApiHandler';
-import { ApiVolume } from 'types/Volume';
+import { ApiNotebook } from 'types/Notebook';
 import JsonData from 'types/JsonData';
 import { ApiSerie } from 'types/Serie';
 import messages from 'utils/apiValidators/apiValidators.messages';
@@ -9,27 +9,19 @@ import { interpolate } from 'utils/interpolate';
 import pick from 'utils/pick';
 import reorderApi from '@api/reorder';
 
-const volumesField: (keyof ApiVolume)[] = [
-  'title',
-  'subtitle',
-  'image_url',
-  'date',
-  'serie_id',
-  'order',
-  'global_order',
-];
-const requiredVolumesField: (keyof ApiVolume)[] = ['title', 'image_url', 'date', 'serie_id'];
+const seriesField: (keyof ApiNotebook)[] = ['title', 'vol', 'no', 'subtitle', 'image_url', 'date', 'serie_id', 'order'];
+const requiredSeriesField: (keyof ApiNotebook)[] = ['title', 'image_url', 'date', 'serie_id'];
 
-const postVolumes: ApiHandler = async (req, res) => {
+const postNotebooks: ApiHandler = async (req, res) => {
   const { id: reqId, databaseName } = req.query as Record<string, string>;
 
   if (reqId === 'reorder') {
-    return reorderApi(`db/${databaseName}/volumes`, 'volumes')(req, res);
+    return reorderApi(`db/${databaseName}/notebooks`, 'notebooks')(req, res);
   }
 
   return new Promise((resolve) => {
-    const body: Partial<ApiVolume> = pick(JSON.parse(req.body), volumesField);
-    const emptyField = requiredVolumesField.find((key) => !body[key] && body[key] !== 0);
+    const body: Partial<ApiNotebook> = pick(JSON.parse(req.body), seriesField);
+    const emptyField = requiredSeriesField.find((key) => !body[key] && body[key] !== 0);
 
     if (emptyField) {
       resolve(res.status(400).send({ message: interpolate(messages.required, { field: emptyField }) }));
@@ -56,18 +48,18 @@ const postVolumes: ApiHandler = async (req, res) => {
         return;
       }
 
-      fs.readFile(`src/database/db/${databaseName}/volumes.json`, 'utf8', (err, data) => {
+      fs.readFile(`src/database/db/${databaseName}/notebooks.json`, 'utf8', (err, data) => {
         if (err) {
           resolve(res.status(404).json(err));
           return;
         }
 
-        const { volumes, meta } = JSON.parse(data) as JsonData<'volumes', ApiVolume>;
-        if (reqId && !volumes[reqId as unknown as number]) {
+        const { notebooks, meta } = JSON.parse(data) as JsonData<'notebooks', ApiNotebook>;
+        if (reqId && !notebooks[reqId as unknown as number]) {
           resolve(
             res
               .status(404)
-              .send({ message: interpolate(messages.notFound, { id: reqId, baseName: `${databaseName}/volumes` }) })
+              .send({ message: interpolate(messages.notFound, { id: reqId, baseName: `${databaseName}/notebooks` }) })
           );
           return;
         }
@@ -75,19 +67,18 @@ const postVolumes: ApiHandler = async (req, res) => {
         const id = reqId || meta.nextIndex;
 
         const newDatabase = {
-          volumes: {
-            ...volumes,
+          notebooks: {
+            ...notebooks,
             [id]: {
               ...body,
               order: body.order || meta.nextIndex - 1,
-              global_order: body.global_order || meta.nextIndex - 1,
             },
           },
           meta: reqId ? meta : { nextIndex: meta.nextIndex + 1 },
         };
 
         fs.writeFile(
-          `src/database/db/${databaseName}/volumes.json`,
+          `src/database/db/${databaseName}/notebooks.json`,
           JSON.stringify(newDatabase, null, 2),
           (writeErr) => {
             if (writeErr) {
@@ -102,4 +93,4 @@ const postVolumes: ApiHandler = async (req, res) => {
   });
 };
 
-export default postVolumes;
+export default postNotebooks;

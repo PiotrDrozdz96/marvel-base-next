@@ -42,6 +42,14 @@ const routes = {
       },
     },
   },
+  notebooks: {
+    id: {
+      href: '/db/[databaseName]/notebooks/[id]',
+      show: {
+        href: '/db/[databaseName]/notebooks/[id]/show',
+      },
+    },
+  },
 };
 
 export default routes;

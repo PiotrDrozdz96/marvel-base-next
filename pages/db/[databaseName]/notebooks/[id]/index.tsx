@@ -3,12 +3,12 @@ import { InferGetServerSidePropsType } from 'next';
 import AppServerSideProps from 'types/AppServerSideProps';
 import FormPartial from 'types/FormPartial';
 import FormVariant from 'types/FormVariant';
-import { ApiVolume } from 'types/Volume';
+import { ApiNotebook } from 'types/Notebook';
 import { Serie } from 'types/Serie';
 import get from '@api/get';
 import getMenu from '@api/get/front/getMenu';
-import VolumesForm from '@pages/Volumes/VolumesForm';
-import { defaultValues, numberFields } from '@pages/Volumes/VolumeForm.consts';
+import NotebooksForm from '@pages/Notebooks/NotebooksForm';
+import { defaultValues, numberFields } from '@pages/Notebooks/NotebookForm.consts';
 import mapApiToFront from 'utils/mapApiToFront';
 import convertValuesTo from 'utils/convertValuesTo';
 
@@ -16,7 +16,7 @@ type Props = {
   variant: FormVariant;
   id: number | null;
   databaseName: string;
-  initialValues: FormPartial<ApiVolume>;
+  initialValues: FormPartial<ApiNotebook>;
   series: Serie[];
 };
 
@@ -26,17 +26,17 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
   const serieId = query.serie_id as string | undefined;
 
   const menu = await getMenu();
-  const { volumes } = await get(databaseName, 'volumes');
+  const { notebooks } = await get(databaseName, 'notebooks');
   const { series } = await get(databaseName, 'series');
   const isCreate = id === 'create';
 
-  if (!isCreate && !volumes[id]) {
+  if (!isCreate && !notebooks[id]) {
     return { notFound: true };
   }
 
   return {
     props: {
-      title: `- Tom ${databaseName}- ${isCreate ? 'Create' : `#${id}`}`,
+      title: `- Zeszyt ${databaseName}- ${isCreate ? 'Create' : `#${id}`}`,
       menu,
       variant: isCreate ? 'create' : 'edit',
       id: isCreate ? null : id,
@@ -44,8 +44,8 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
       series: mapApiToFront(series),
       initialValues: !isCreate
         ? {
-            ...(volumes[id] as unknown as FormPartial<ApiVolume>),
-            ...convertValuesTo(String, volumes[id], numberFields),
+            ...(notebooks[id] as unknown as FormPartial<ApiNotebook>),
+            ...convertValuesTo(String, notebooks[id], numberFields),
           }
         : { ...defaultValues, serie_id: serieId || defaultValues.serie_id },
     },
@@ -59,7 +59,7 @@ const NotebooksFormPage = ({
   initialValues,
   series,
 }: InferGetServerSidePropsType<typeof getServerSideProps>) => (
-  <VolumesForm
+  <NotebooksForm
     variant={variant}
     id={id || undefined}
     databaseName={databaseName}
