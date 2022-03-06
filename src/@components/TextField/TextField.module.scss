@@ -1,16 +1,16 @@
 @import 'styles/variables';
 
 .textField {
-  margin: 8px 0 4px 0;
+  margin: 12px 0 4px 0;
 };
 
 .label {
-  font-size: 12px;
+  font-size: 14px;
   color:  rgba(255, 255, 255, 0.7);
 };
 
 .value {
   padding: 8px 0 4px;
-  font-size: 14px;
+  font-size: 16px;
   color: $color-text;
 };

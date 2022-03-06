@@ -55,7 +55,6 @@ const NotebooksList = ({ notebooks, databaseName, serieId }: Props): JSX.Element
             id={notebook.id}
             databaseName={`db/${databaseName}/notebooks`}
             query={{ databaseName, id: notebook.id }}
-            withoutShow
           />
         </ListRow>
       ))}
