@@ -55,7 +55,14 @@ const ActionButton = ({ variant, itemName, href, as, onDelete }: Props): JSX.Ele
             >
               {messages.cancel}
             </Button>
-            <Button type="button" icon={<IoCheckmarkCircle />} onClick={onDelete}>
+            <Button
+              type="button"
+              icon={<IoCheckmarkCircle />}
+              onClick={() => {
+                onDelete?.();
+                setIsOpen(false);
+              }}
+            >
               {messages.confirm}
             </Button>
           </div>
