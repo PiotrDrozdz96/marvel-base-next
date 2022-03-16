@@ -47,7 +47,11 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
             ...(volumes[id] as unknown as FormPartial<ApiVolume>),
             ...convertValuesTo(String, volumes[id], numberFields),
           }
-        : { ...defaultValues, serie_id: serieId || defaultValues.serie_id },
+        : {
+            ...defaultValues,
+            serie_id: serieId || defaultValues.serie_id,
+            title: serieId ? series[Number(serieId)]?.name || '' : '',
+          },
     },
   };
 };

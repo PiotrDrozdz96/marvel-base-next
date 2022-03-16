@@ -19,8 +19,8 @@
     "3": {
       "name": "Infinity Saga",
       "type": "SUB_MENU",
-      "order": 0,
-      "url": "/",
+      "order": 3,
+      "url": "/preview/infinity-saga",
       "icon": "",
       "parent_id": 2
     }

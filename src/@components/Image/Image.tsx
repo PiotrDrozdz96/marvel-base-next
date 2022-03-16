@@ -9,7 +9,6 @@ import classes from './Image.module.scss';
 
 const Image = ({ preset, src, alt, className, onError, onLoad, withLink, ...props }: Props): JSX.Element => {
   const [isLoaded, setIsLoaded] = useState(false);
-  const [showFullImage, setShowFullImage] = useState(false);
 
   const [finalSrc, srcLink] = useMemo(() => {
     let result = [src, src];
@@ -34,14 +33,9 @@ const Image = ({ preset, src, alt, className, onError, onLoad, withLink, ...prop
     <img
       {...dimension}
       {...props}
-      src={showFullImage ? srcLink : finalSrc}
+      src={finalSrc}
       className={classNames(className, { [classes.errorImage]: !isLoaded, [classes.image]: isLoaded })}
       alt={alt}
-      onContextMenu={(e) => {
-        if (!showFullImage) {
-          setShowFullImage(e.button === 2);
-        }
-      }}
       onError={(e) => {
         setIsLoaded(false);
         onError?.(e);

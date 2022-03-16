@@ -1,5 +1,5 @@
 import { ReactNode, useState } from 'react';
-import { IoAdd, IoPencil, IoTrash, IoEye, IoAlertCircleOutline, IoCheckmarkCircle } from 'react-icons/io5';
+import { IoAdd, IoPencil, IoTrash, IoEye, IoCalendar, IoAlertCircleOutline, IoCheckmarkCircle } from 'react-icons/io5';
 
 import Button, { ButtonProps } from '@components/Button';
 import Modal from '@components/Modal';
@@ -8,7 +8,7 @@ import { interpolate } from 'utils/interpolate';
 import messages from './ActionButton.messages';
 import classes from './ActionButton.module.scss';
 
-type Variant = 'add' | 'edit' | 'delete' | 'show';
+type Variant = 'add' | 'edit' | 'delete' | 'show' | 'sortByDate';
 
 export type Props = {
   variant: Variant;
@@ -16,6 +16,7 @@ export type Props = {
   as?: ButtonProps['as'];
   itemName?: string;
   onDelete?: () => void;
+  onClick?: () => void;
 };
 
 const iconMap: Record<Variant, ReactNode> = {
@@ -23,9 +24,10 @@ const iconMap: Record<Variant, ReactNode> = {
   edit: <IoPencil />,
   delete: <IoTrash />,
   show: <IoEye />,
+  sortByDate: <IoCalendar />,
 };
 
-const ActionButton = ({ variant, itemName, href, as, onDelete }: Props): JSX.Element => {
+const ActionButton = ({ variant, itemName, href, as, onDelete, onClick }: Props): JSX.Element => {
   const [isOpen, setIsOpen] = useState(false);
 
   const isDeleteVariant = variant === 'delete';
@@ -33,11 +35,11 @@ const ActionButton = ({ variant, itemName, href, as, onDelete }: Props): JSX.Ele
   return (
     <>
       <Button
-        type={isDeleteVariant ? 'button' : 'link'}
+        type={['delete', 'sortByDate'].includes(variant) ? 'button' : 'link'}
         href={href}
         as={as}
         icon={iconMap[variant]}
-        onClick={isDeleteVariant ? () => setIsOpen(true) : undefined}
+        onClick={isDeleteVariant ? () => setIsOpen(true) : onClick}
       >
         {messages[variant]}
       </Button>

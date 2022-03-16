@@ -7,7 +7,7 @@
       "date": "2008-04-14T10:36:59.000Z",
       "serie_id": 1,
       "order": 0,
-      "global_order": 0
+      "global_order": 4
     },
     "2": {
       "title": "Incredible Hulk",
@@ -16,7 +16,7 @@
       "date": "2008-06-06T10:39:24.000Z",
       "serie_id": 1,
       "order": 1,
-      "global_order": 1
+      "global_order": 6
     },
     "3": {
       "title": "Iron Man 2",
@@ -25,7 +25,7 @@
       "date": "2010-04-26T10:40:35.000Z",
       "serie_id": 1,
       "order": 2,
-      "global_order": 2
+      "global_order": 5
     },
     "4": {
       "title": "Thor",
@@ -34,7 +34,7 @@
       "date": "2011-04-17T10:41:30.000Z",
       "serie_id": 1,
       "order": 3,
-      "global_order": 3
+      "global_order": 7
     },
     "5": {
       "title": "Kapitan Ameryka",
@@ -43,7 +43,7 @@
       "date": "2011-07-19T10:42:58.000Z",
       "serie_id": 1,
       "order": 4,
-      "global_order": 4
+      "global_order": 0
     },
     "6": {
       "title": "Avengers",
@@ -52,7 +52,7 @@
       "date": "2012-04-11T10:44:16.000Z",
       "serie_id": 1,
       "order": 5,
-      "global_order": 5
+      "global_order": 8
     },
     "7": {
       "title": "Iron Man 3",
@@ -60,7 +60,7 @@
       "date": "2013-04-14T10:45:07.000Z",
       "serie_id": 1,
       "order": 6,
-      "global_order": 6
+      "global_order": 9
     },
     "8": {
       "title": "Thor",
@@ -69,7 +69,7 @@
       "date": "2013-10-22T10:46:23.000Z",
       "serie_id": 1,
       "order": 7,
-      "global_order": 7
+      "global_order": 11
     },
     "9": {
       "title": "Kapitan Ameryka",
@@ -78,7 +78,7 @@
       "date": "2014-03-13T11:47:42.000Z",
       "serie_id": 1,
       "order": 8,
-      "global_order": 8
+      "global_order": 13
     },
     "10": {
       "title": "Strażnicy Galaktyki",
@@ -87,7 +87,7 @@
       "date": "2014-07-21T10:48:45.000Z",
       "serie_id": 1,
       "order": 9,
-      "global_order": 9
+      "global_order": 15
     },
     "11": {
       "title": "Avengers",
@@ -96,7 +96,7 @@
       "date": "2015-04-13T10:49:41.000Z",
       "serie_id": 1,
       "order": 10,
-      "global_order": 10
+      "global_order": 20
     },
     "12": {
       "title": "Ant-Man",
@@ -105,7 +105,7 @@
       "date": "2015-06-29T10:50:31.000Z",
       "serie_id": 1,
       "order": 11,
-      "global_order": 11
+      "global_order": 24
     },
     "13": {
       "title": "Kapitan Ameryka",
@@ -114,7 +114,7 @@
       "date": "2016-04-12T10:51:47.000Z",
       "serie_id": 1,
       "order": 12,
-      "global_order": 12
+      "global_order": 27
     },
     "14": {
       "title": "Doctor Strange",
@@ -123,7 +123,7 @@
       "date": "2016-10-20T10:06:09.000Z",
       "serie_id": 1,
       "order": 13,
-      "global_order": 13
+      "global_order": 30
     },
     "15": {
       "title": "Strażnicy Galaktyki",
@@ -132,7 +132,7 @@
       "date": "2017-04-10T10:07:09.000Z",
       "serie_id": 1,
       "order": 14,
-      "global_order": 14
+      "global_order": 16
     },
     "16": {
       "title": "Spider-Man",
@@ -141,7 +141,7 @@
       "date": "2017-06-28T10:08:13.000Z",
       "serie_id": 1,
       "order": 15,
-      "global_order": 15
+      "global_order": 36
     },
     "17": {
       "title": "Thor",
@@ -150,7 +150,7 @@
       "date": "2017-10-10T10:09:39.000Z",
       "serie_id": 1,
       "order": 16,
-      "global_order": 16
+      "global_order": 51
     },
     "18": {
       "title": "Czarna Pantera",
@@ -159,16 +159,16 @@
       "date": "2018-01-29T11:10:31.000Z",
       "serie_id": 1,
       "order": 17,
-      "global_order": 17
+      "global_order": 31
     },
     "19": {
       "title": "Avenges",
       "subtitle": "Wojna bez granic",
-      "image_url": "https://fwcdn.pl/fpo/37/58/693758/7870937.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/37/58/693758/7839647.6.jpg",
       "date": "2018-04-23T10:11:17.000Z",
       "serie_id": 1,
       "order": 18,
-      "global_order": 18
+      "global_order": 53
     },
     "20": {
       "title": "Ant-Man",
@@ -177,7 +177,7 @@
       "date": "2018-06-25T10:12:07.000Z",
       "serie_id": 1,
       "order": 19,
-      "global_order": 19
+      "global_order": 52
     },
     "21": {
       "title": "Kapitan Marvel",
@@ -186,7 +186,7 @@
       "date": "2019-02-27T11:12:55.000Z",
       "serie_id": 1,
       "order": 20,
-      "global_order": 20
+      "global_order": 3
     },
     "22": {
       "title": "Avengers",
@@ -195,19 +195,325 @@
       "date": "2019-04-21T10:13:32.000Z",
       "serie_id": 1,
       "order": 21,
+      "global_order": 56
+    },
+    "24": {
+      "title": "Agenci T.A.R.C.Z.Y.",
+      "subtitle": "S01e01-S01e07",
+      "image_url": "https://fwcdn.pl/fpo/80/19/668019/7714252.6.jpg",
+      "date": "2013-11-12T11:58:29.000Z",
+      "serie_id": 2,
+      "order": 23,
+      "global_order": 10
+    },
+    "25": {
+      "title": "Agenci T.A.R.C.Z.Y.",
+      "subtitle": "S01e08-S01e16",
+      "image_url": "https://fwcdn.pl/fpo/80/19/668019/7714252.6.jpg",
+      "date": "2014-04-01T10:00:27.000Z",
+      "serie_id": 2,
+      "order": 24,
+      "global_order": 12
+    },
+    "26": {
+      "title": "Agenci T.A.R.C.Z.Y.",
+      "subtitle": "S01e17-S01e22",
+      "image_url": "https://fwcdn.pl/fpo/80/19/668019/7613189.6.jpg",
+      "date": "2014-05-13T10:01:17.000Z",
+      "serie_id": 2,
+      "order": 25,
+      "global_order": 14
+    },
+    "27": {
+      "title": "Agenci T.A.R.C.Z.Y.",
+      "subtitle": "S02e01-S02e19",
+      "image_url": "https://fwcdn.pl/fpo/80/19/668019/7643028.6.jpg",
+      "date": "2015-04-28T10:02:16.000Z",
+      "serie_id": 2,
+      "order": 26,
+      "global_order": 19
+    },
+    "28": {
+      "title": "Agenci T.A.R.C.Z.Y.",
+      "subtitle": "S02e20-S02e22",
+      "image_url": "https://fwcdn.pl/fpo/80/19/668019/7643028.6.jpg",
+      "date": "2015-05-12T10:02:53.000Z",
+      "serie_id": 2,
+      "order": 27,
       "global_order": 21
     },
-    "23": {
-      "title": "Spider-Man",
-      "subtitle": "Daleko od domu",
-      "image_url": "https://fwcdn.pl/fpo/98/69/789869/7892960.6.jpg",
-      "date": "2019-06-26T10:14:15.000Z",
-      "serie_id": 1,
-      "order": 22,
+    "29": {
+      "title": "Agenci T.A.R.C.Z.Y.",
+      "subtitle": "S03e01-S03e19",
+      "image_url": "https://fwcdn.pl/fpo/80/19/668019/7714252.6.jpg",
+      "date": "2016-05-03T10:03:33.000Z",
+      "serie_id": 2,
+      "order": 28,
+      "global_order": 26
+    },
+    "30": {
+      "title": "Agenci T.A.R.C.Z.Y.",
+      "subtitle": "S03e20-S03e22",
+      "image_url": "https://fwcdn.pl/fpo/80/19/668019/7714252.6.jpg",
+      "date": "2016-05-17T10:04:13.000Z",
+      "serie_id": 2,
+      "order": 29,
+      "global_order": 28
+    },
+    "31": {
+      "title": "Agenci T.A.R.C.Z.Y.",
+      "subtitle": "S04: Ghost Rider",
+      "image_url": "https://fwcdn.pl/fpo/80/19/668019/7764961.6.jpg",
+      "date": "2016-12-06T11:04:53.000Z",
+      "serie_id": 2,
+      "order": 30,
+      "global_order": 33
+    },
+    "32": {
+      "title": "Agenci T.A.R.C.Z.Y.",
+      "subtitle": "S04: LMD",
+      "image_url": "https://plexcollectionposters.com/images/2020/11/04/keane-ip-marvel-studios-agents-of-shield-s4-p2-portrait-smallbb35d5c75a7b5d67.jpg",
+      "date": "2017-02-21T11:05:28.000Z",
+      "serie_id": 2,
+      "order": 31,
+      "global_order": 34
+    },
+    "33": {
+      "title": "Agenci T.A.R.C.Z.Y.",
+      "subtitle": "S04: Agent of HYDRA",
+      "image_url": "https://fwcdn.pl/fpo/80/19/668019/7782005.6.jpg",
+      "date": "2017-05-16T10:07:50.000Z",
+      "serie_id": 2,
+      "order": 32,
+      "global_order": 35
+    },
+    "34": {
+      "title": "Agenci T.A.R.C.Z.Y.",
+      "subtitle": "Sezon 5",
+      "image_url": "https://fwcdn.pl/fpo/80/19/668019/7833538.6.jpg",
+      "date": "2018-05-18T10:08:56.000Z",
+      "serie_id": 2,
+      "order": 33,
+      "global_order": 40
+    },
+    "35": {
+      "title": "Agenci T.A.R.C.Z.Y.",
+      "subtitle": "Sezon 6",
+      "image_url": "https://fwcdn.pl/fpo/80/19/668019/7886438.6.jpg",
+      "date": "2019-08-02T10:09:39.000Z",
+      "serie_id": 2,
+      "order": 34,
+      "global_order": 54
+    },
+    "36": {
+      "title": "Agenci T.A.R.C.Z.Y.",
+      "subtitle": "Sezon 7",
+      "image_url": "https://fwcdn.pl/fpo/80/19/668019/7920539.6.jpg",
+      "date": "2020-08-12T10:11:27.000Z",
+      "serie_id": 2,
+      "order": 35,
+      "global_order": 55
+    },
+    "37": {
+      "title": "Agentka Carter",
+      "subtitle": "Sezon 1",
+      "image_url": "https://fwcdn.pl/fpo/66/62/716662/7675628.6.jpg",
+      "date": "2015-02-24T11:12:57.000Z",
+      "serie_id": 3,
+      "order": 36,
+      "global_order": 1
+    },
+    "38": {
+      "title": "Agentka Carter",
+      "subtitle": "Sezon 2",
+      "image_url": "https://fwcdn.pl/fpo/66/62/716662/7715355.6.jpg",
+      "date": "2016-03-01T11:14:22.000Z",
+      "serie_id": 3,
+      "order": 37,
+      "global_order": 2
+    },
+    "39": {
+      "title": "Inhumans",
+      "subtitle": "Sezon 1",
+      "image_url": "https://fwcdn.pl/fpo/50/77/785077/7801062.6.jpg",
+      "date": "2017-11-10T11:15:16.000Z",
+      "serie_id": 4,
+      "order": 38,
+      "global_order": 37
+    },
+    "40": {
+      "title": "Daredevil",
+      "subtitle": "Sezon 1",
+      "image_url": "https://fwcdn.pl/fpo/22/52/702252/7686409.6.jpg",
+      "date": "2015-04-10T10:21:57.000Z",
+      "serie_id": 5,
+      "order": 39,
+      "global_order": 17
+    },
+    "41": {
+      "title": "Daredevil",
+      "subtitle": "Sezon 2",
+      "image_url": "https://fwcdn.pl/fpo/22/52/702252/7746542.6.jpg",
+      "date": "2016-03-18T11:23:14.000Z",
+      "serie_id": 5,
+      "order": 40,
       "global_order": 22
+    },
+    "42": {
+      "title": "Daredevil",
+      "subtitle": "Sezon 3",
+      "image_url": "https://fwcdn.pl/fpo/22/52/702252/7862912.6.jpg",
+      "date": "2018-10-19T10:23:55.000Z",
+      "serie_id": 5,
+      "order": 41,
+      "global_order": 46
+    },
+    "43": {
+      "title": "Jessica Jones",
+      "subtitle": "Sezon 1",
+      "image_url": "https://fwcdn.pl/fpo/98/27/709827/7710022.6.jpg",
+      "date": "2015-11-20T11:24:44.000Z",
+      "serie_id": 5,
+      "order": 42,
+      "global_order": 18
+    },
+    "44": {
+      "subtitle": "Sezon 2",
+      "image_url": "https://fwcdn.pl/fpo/98/27/709827/7830588.6.jpg",
+      "date": "2018-03-08T11:26:19.000Z",
+      "serie_id": 5,
+      "order": 43,
+      "global_order": 41,
+      "title": "Jessica Jones"
+    },
+    "45": {
+      "title": "Jessica Jones",
+      "subtitle": "Sezon 3",
+      "image_url": "https://fwcdn.pl/fpo/98/27/709827/7889929.6.jpg",
+      "date": "2019-06-14T10:27:00.000Z",
+      "serie_id": 5,
+      "order": 44,
+      "global_order": 49
+    },
+    "46": {
+      "title": "Luke Cage",
+      "subtitle": "Sezon 1",
+      "image_url": "https://fwcdn.pl/fpo/44/72/704472/7747255.6.jpg",
+      "date": "2016-09-30T10:27:48.000Z",
+      "serie_id": 5,
+      "order": 45,
+      "global_order": 23
+    },
+    "47": {
+      "subtitle": "Sezon 2",
+      "image_url": "https://fwcdn.pl/fpo/44/72/704472/7844664.6.jpg",
+      "date": "2018-06-22T10:28:52.000Z",
+      "serie_id": 5,
+      "order": 46,
+      "global_order": 44,
+      "title": "Luke Cage"
+    },
+    "48": {
+      "title": "Iron Fist",
+      "subtitle": "Sezon 1",
+      "image_url": "https://fwcdn.pl/fpo/43/33/704333/7781989.6.jpg",
+      "date": "2017-03-17T11:29:43.000Z",
+      "serie_id": 5,
+      "order": 47,
+      "global_order": 25
+    },
+    "49": {
+      "title": "Iron Fist",
+      "subtitle": "Sezon 2",
+      "image_url": "https://fwcdn.pl/fpo/43/33/704333/7864706.6.jpg",
+      "date": "2018-09-07T10:30:33.000Z",
+      "serie_id": 5,
+      "order": 48,
+      "global_order": 45
+    },
+    "50": {
+      "title": "Defenders",
+      "subtitle": "Sezon 1",
+      "image_url": "https://fwcdn.pl/fpo/55/45/745545/7802610.6.jpg",
+      "date": "2017-08-18T10:31:22.000Z",
+      "serie_id": 5,
+      "order": 49,
+      "global_order": 32
+    },
+    "51": {
+      "title": "Punisher",
+      "subtitle": "Sezon 1",
+      "image_url": "https://fwcdn.pl/fpo/75/16/767516/7807894.6.jpg",
+      "date": "2017-11-17T11:32:54.000Z",
+      "serie_id": 5,
+      "order": 50,
+      "global_order": 38
+    },
+    "52": {
+      "title": "Punisher",
+      "subtitle": "Sezon 2",
+      "image_url": "https://fwcdn.pl/fpo/75/16/767516/7876122.6.jpg",
+      "date": "2019-01-21T11:33:54.000Z",
+      "serie_id": 5,
+      "order": 51,
+      "global_order": 48
+    },
+    "53": {
+      "title": "Cloak & Dagger",
+      "subtitle": "Sezon 1",
+      "image_url": "https://fwcdn.pl/fpo/10/80/771080/7843594_1.6.jpg",
+      "date": "2018-08-02T10:35:16.000Z",
+      "serie_id": 6,
+      "order": 52,
+      "global_order": 42
+    },
+    "54": {
+      "title": "Cloak & Dagger",
+      "subtitle": "Sezon 2",
+      "image_url": "https://fwcdn.pl/fpo/10/80/771080/7876517.6.jpg",
+      "date": "2019-05-30T10:36:26.000Z",
+      "serie_id": 6,
+      "order": 53,
+      "global_order": 43
+    },
+    "55": {
+      "title": "Runaways",
+      "subtitle": "Sezon 1",
+      "image_url": "https://fwcdn.pl/fpo/21/77/782177/7818809.6.jpg",
+      "date": "2017-11-21T11:37:11.000Z",
+      "serie_id": 6,
+      "order": 54,
+      "global_order": 39
+    },
+    "56": {
+      "title": "Runaways",
+      "subtitle": "Sezon 2",
+      "image_url": "https://fwcdn.pl/fpo/21/77/782177/7869640.6.jpg",
+      "date": "2018-12-21T11:38:08.000Z",
+      "serie_id": 6,
+      "order": 55,
+      "global_order": 47
+    },
+    "57": {
+      "title": "Runaways",
+      "subtitle": "Sezon 3",
+      "image_url": "https://fwcdn.pl/fpo/21/77/782177/7902399.6.jpg",
+      "date": "2019-12-13T11:38:42.000Z",
+      "serie_id": 6,
+      "order": 56,
+      "global_order": 50
+    },
+    "58": {
+      "subtitle": "",
+      "image_url": "https://fwcdn.pl/fpo/09/86/120986/7964716.6.jpg",
+      "date": "2021-07-03T10:18:10.000Z",
+      "serie_id": 1,
+      "order": 57,
+      "global_order": 29,
+      "title": "Czarna Wdowa"
     }
   },
   "meta": {
-    "nextIndex": 24
+    "nextIndex": 59
   }
 }

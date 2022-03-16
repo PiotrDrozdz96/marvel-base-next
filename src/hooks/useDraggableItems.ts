@@ -10,8 +10,7 @@ const useDraggableItems = <T extends { id: number }>(
 ) => {
   const [items, setItems] = useState(initialItems);
 
-  const onDragEnd: OnDragEnd = ([source, destination]) => {
-    const newItems = arrayMoveImmutable(items, source, destination);
+  const reorder = (newItems: T[]) => {
     setItems(newItems);
     fetch(`/api/${databaseName}/reorder`, {
       method: 'POST',
@@ -21,13 +20,18 @@ const useDraggableItems = <T extends { id: number }>(
       .then((data) => setItems(data));
   };
 
+  const onDragEnd: OnDragEnd = ([source, destination]) => {
+    const newItems = arrayMoveImmutable(items, source, destination);
+    reorder(newItems);
+  };
+
   const getRowProps = (item: { id: number }, index: number) => ({
     draggableId: `${item.id}`,
     index,
     isDragDisabled: items.length === 1,
   });
 
-  return { items, onDragEnd, getRowProps };
+  return { items, onDragEnd, reorder, getRowProps };
 };
 
 export default useDraggableItems;

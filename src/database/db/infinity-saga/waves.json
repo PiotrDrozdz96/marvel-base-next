@@ -3,9 +3,21 @@
     "1": {
       "name": "Filmy",
       "order": 0
+    },
+    "2": {
+      "name": "ABC",
+      "order": 1
+    },
+    "3": {
+      "name": "Netflix",
+      "order": 2
+    },
+    "4": {
+      "name": "Hulu",
+      "order": 3
     }
   },
   "meta": {
-    "nextIndex": 2
+    "nextIndex": 5
   }
 }

@@ -4,9 +4,9 @@ import List from '@components/List';
 import ListRow from '@components/ListRow';
 import Image from '@components/Image';
 import ActionsButtons from '@components/ActionsButtons';
+import ActionButton from '@components/ActionButton';
 import useDraggableItems from 'hooks/useDraggableItems';
 import width from 'utils/width';
-
 import dateFormat from 'utils/dateFormat';
 
 import volumesMessages from './Volumes.messages';
@@ -26,10 +26,24 @@ const labels: string[] = [
 ];
 
 const VolumesGlobalList = ({ volumes, databaseName }: Props): JSX.Element => {
-  const { items, onDragEnd, getRowProps } = useDraggableItems(volumes, `db/${databaseName}/volumes`, 'global_order');
+  const { items, onDragEnd, reorder, getRowProps } = useDraggableItems(
+    volumes,
+    `db/${databaseName}/volumes`,
+    'global_order'
+  );
 
   return (
-    <List name={volumesMessages.listName} labels={labels} onDragEnd={onDragEnd}>
+    <List
+      name={volumesMessages.listName}
+      labels={labels}
+      actions={
+        <ActionButton
+          variant="sortByDate"
+          onClick={() => reorder(items.sort((a, b) => Number(new Date(a.date)) - Number(new Date(b.date))))}
+        />
+      }
+      onDragEnd={onDragEnd}
+    >
       {items.map((volume, index) => (
         <ListRow key={volume.id} {...getRowProps(volume, index)}>
           <td style={width(100)}>{volume.id}</td>
