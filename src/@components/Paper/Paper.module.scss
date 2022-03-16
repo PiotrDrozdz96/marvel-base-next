@@ -2,7 +2,15 @@
 
 .paper {
   width: 100%;
-  background-color: $background-color-secondary;
   padding: 16px;
   border-radius: 4px;
+};
+
+.secondary {
+  background-color: $background-color-secondary;
+};
+
+.tertiary {
+  background-color: $background-color-tertiary;
+  border: 1px solid $background-color-secondary;
 };

@@ -3,7 +3,11 @@ import { arrayMoveImmutable } from 'array-move';
 
 import OnDragEnd from 'types/OnDragEnd';
 
-const useDraggableItems = <T extends { id: number }>(initialItems: T[], databaseName: string) => {
+const useDraggableItems = <T extends { id: number }>(
+  initialItems: T[],
+  databaseName: string,
+  field: 'order' | 'global_order' = 'order'
+) => {
   const [items, setItems] = useState(initialItems);
 
   const onDragEnd: OnDragEnd = ([source, destination]) => {
@@ -11,7 +15,7 @@ const useDraggableItems = <T extends { id: number }>(initialItems: T[], database
     setItems(newItems);
     fetch(`/api/${databaseName}/reorder`, {
       method: 'POST',
-      body: JSON.stringify({ ids: newItems.map(({ id }) => id) }),
+      body: JSON.stringify({ ids: newItems.map(({ id }) => id), field }),
     })
       .then((response) => response.json())
       .then((data) => setItems(data));

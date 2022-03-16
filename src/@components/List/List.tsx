@@ -12,16 +12,14 @@ type Props = {
   name: string;
   labels: string[];
   children: ReactNode;
-  addHref: ActionButtonProps['href'];
+  addHref?: ActionButtonProps['href'];
   addHrefAs?: ActionButtonProps['as'];
   onDragEnd?: OnDragEnd;
 };
 
 const List = ({ name, addHref, addHrefAs, labels, children, onDragEnd = () => {} }: Props) => (
   <Container>
-    <Toolbar name={name}>
-      <ActionButton variant="add" href={addHref} as={addHrefAs} />
-    </Toolbar>
+    <Toolbar name={name}>{!!addHref && <ActionButton variant="add" href={addHref} as={addHrefAs} />}</Toolbar>
     <DragDropContext
       onDragEnd={({ source, destination }) => {
         if (destination) {

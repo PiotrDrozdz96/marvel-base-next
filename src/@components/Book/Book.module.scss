@@ -1,0 +1,16 @@
+@import 'styles/variables';
+
+.book {
+  color: $color-text-secondary;
+  text-align: center;
+  font-size: 16px;
+}
+
+.title {
+  font-weight: 700;
+  font-style: italic;
+}
+
+.subtitle {
+  font-style: italic;
+};

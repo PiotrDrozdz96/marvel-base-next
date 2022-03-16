@@ -7,6 +7,7 @@ import { interpolate } from 'utils/interpolate';
 
 type Props = {
   ids: number[];
+  field: 'order' | 'global_order';
 };
 
 const reorderApi =
@@ -14,7 +15,7 @@ const reorderApi =
   async (req, res) =>
     new Promise((resolve) => {
       const body: Partial<Props> = JSON.parse(req.body);
-      const { ids } = body;
+      const { ids, field = 'order' } = body;
 
       if (!ids) {
         resolve(res.status(400).send({ message: interpolate(messages.required, { field: 'ids' }) }));
@@ -31,12 +32,12 @@ const reorderApi =
           return;
         }
 
-        const parsedData = JSON.parse(data) as JsonData<string, { order: number }>;
+        const parsedData = JSON.parse(data) as JsonData<string, { order: number; global_order: number }>;
         const items = parsedData[itemsName];
 
         ids.forEach((id, index) => {
           if (items[id]) {
-            items[id].order = index;
+            items[id][field] = index;
           }
         });
 

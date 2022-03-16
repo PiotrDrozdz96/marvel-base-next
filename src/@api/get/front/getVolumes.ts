@@ -6,9 +6,13 @@ type VolumeFilter = (volume: Volume) => boolean;
 
 const defaultFilter = () => true;
 
-const getVolumes = async (databaseName: string, filter: VolumeFilter = defaultFilter): Promise<Volume[]> => {
+const getVolumes = async (
+  databaseName: string,
+  filter: VolumeFilter = defaultFilter,
+  order: 'order' | 'global_order' = 'order'
+): Promise<Volume[]> => {
   const { volumes } = await get(databaseName, 'volumes');
-  const volumesArray = mapApiToFront(volumes);
+  const volumesArray = mapApiToFront(volumes, order);
 
   return volumesArray.filter(filter);
 };
