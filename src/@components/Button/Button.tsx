@@ -29,7 +29,7 @@ const Button = ({ type, href, icon, as, children, className, variant = 'primary'
   const finalClassName = classNames(classes.button, className, { [classes.secondary]: variant === 'secondary' });
 
   return type === 'link' ? (
-    <Link className={finalClassName} href={href} as={as}>
+    <Link className={finalClassName} href={href} as={as} onClick={onClick}>
       {content}
     </Link>
   ) : (
