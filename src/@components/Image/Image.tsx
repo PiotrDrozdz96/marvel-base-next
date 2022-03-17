@@ -1,4 +1,5 @@
-import { useMemo, useState } from 'react';
+import { useMemo, useState, useEffect } from 'react';
+import { useInView } from 'react-intersection-observer';
 import classNames from 'classnames';
 
 import Link from '@components/Link';
@@ -8,7 +9,13 @@ import { Props } from './Image.types';
 import classes from './Image.module.scss';
 
 const Image = ({ preset, src, alt, className, onError, onLoad, withLink, ...props }: Props): JSX.Element => {
+  const { ref, inView } = useInView({ triggerOnce: true, initialInView: false });
+  const [isJavascriptEnabled, setIsJavascriptEnabled] = useState(false);
   const [isLoaded, setIsLoaded] = useState(false);
+
+  useEffect(() => {
+    setIsJavascriptEnabled(true);
+  }, []);
 
   const [finalSrc, srcLink] = useMemo(() => {
     let result = [src, src];
@@ -29,30 +36,42 @@ const Image = ({ preset, src, alt, className, onError, onLoad, withLink, ...prop
   const dimension = dimensions[preset];
 
   const image = (
-    // eslint-disable-next-line jsx-a11y/no-noninteractive-element-interactions
-    <img
-      {...dimension}
-      {...props}
-      src={finalSrc}
-      className={classNames(className, { [classes.errorImage]: !isLoaded, [classes.image]: isLoaded })}
-      alt={alt}
-      onError={(e) => {
-        setIsLoaded(false);
-        onError?.(e);
-      }}
-      onLoad={(e) => {
-        setIsLoaded(true);
-        onLoad?.(e);
-      }}
-    />
+    <>
+      {!isJavascriptEnabled && (
+        <noscript>
+          <img {...dimension} {...props} src={finalSrc} className={classNames(className, classes.image)} alt={alt} />
+        </noscript>
+      )}
+      {inView && (
+        <img
+          {...dimension}
+          {...props}
+          src={finalSrc}
+          className={classNames(className, { [classes.errorImage]: !isLoaded, [classes.image]: isLoaded })}
+          alt={alt}
+          onError={(e) => {
+            setIsLoaded(false);
+            onError?.(e);
+          }}
+          onLoad={(e) => {
+            setIsLoaded(true);
+            onLoad?.(e);
+          }}
+        />
+      )}
+    </>
   );
 
-  return withLink ? (
-    <Link href={srcLink} className={classes.link} openInNewTab>
-      {image}
-    </Link>
-  ) : (
-    image
+  return (
+    <div ref={ref}>
+      {withLink ? (
+        <Link href={srcLink} className={classes.link} openInNewTab>
+          {image}
+        </Link>
+      ) : (
+        image
+      )}
+    </div>
   );
 };
 
