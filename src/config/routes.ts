@@ -2,6 +2,9 @@ const routes = {
   settings: {
     href: '/settings',
   },
+  preview: {
+    href: '/preview/[databaseName]',
+  },
   menu: {
     id: {
       href: '/menu/[id]',

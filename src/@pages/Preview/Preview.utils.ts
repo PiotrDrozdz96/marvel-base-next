@@ -1,0 +1,52 @@
+import { Filters } from 'types/Filter';
+
+const getNewList = (list: string[], id: string, checked: boolean): string[] =>
+  checked ? list.filter((element) => element !== id) : [...list, id];
+
+const getCheckboxHref = (databaseName: string, wavesIds: string[], seriesIds: string[]): string =>
+  `/preview/${databaseName}?${wavesIds.length ? `wavesIds=[${wavesIds.toString()}]` : ''}${
+    wavesIds.length && seriesIds.length ? '&' : ''
+  }${seriesIds.length ? `seriesIds=[${seriesIds.toString()}]` : ''}`;
+
+export const getWaveCheckboxHref = (
+  databaseName: string,
+  filters: Filters[],
+  wavesIds: string[],
+  seriesIds: string[],
+  checked: boolean,
+  id: string
+): string => {
+  const newWavesIds = getNewList(wavesIds, id, checked);
+  const seriesInsideWave = filters.find((filter) => filter.id === id)?.series.map((serie) => serie.id) || [];
+  const newSeriesIds = checked ? seriesIds : seriesIds.filter((serieId) => !seriesInsideWave.includes(serieId));
+
+  return getCheckboxHref(databaseName, newWavesIds, newSeriesIds);
+};
+
+export const getSerieCheckboxHref = (
+  databaseName: string,
+  filters: Filters[],
+  wavesIds: string[],
+  seriesIds: string[],
+  checked: boolean,
+  waveId: string,
+  id: string
+): string => {
+  const wave = filters.find((filter) => filter.id === waveId);
+  const seriesInsideWave = wave?.series.map((serie) => serie.id) || [];
+  const checkAllWave = !checked && seriesIds.length + 1 === seriesInsideWave.length;
+  const removeWaveCheck = checked && wave?.checked;
+
+  const newWavesIds = !checkAllWave && !removeWaveCheck ? wavesIds : getNewList(wavesIds, waveId, checked);
+  let newSeriesIds: string[] = [];
+
+  if (checkAllWave) {
+    newSeriesIds = seriesIds.filter((serieId) => !seriesInsideWave.includes(serieId));
+  } else if (removeWaveCheck) {
+    newSeriesIds = [...seriesIds, ...seriesInsideWave.filter((serieId) => serieId !== id)];
+  } else {
+    newSeriesIds = getNewList(seriesIds, id, checked);
+  }
+
+  return getCheckboxHref(databaseName, newWavesIds, newSeriesIds);
+};
