@@ -5,6 +5,7 @@ import { Volume } from 'types/Volume';
 import { Filters } from 'types/Filter';
 import routes from 'config/routes';
 import Link from '@components/Link';
+import Collapsible from '@components/Collapsible';
 import Checkbox from '@components/Checkbox';
 import Book from '@components/Book';
 
@@ -39,24 +40,29 @@ const Preview = ({ volumes, databaseName, filters, wavesIds, seriesIds }: Props)
               <Checkbox key={filter.id} id={filter.id} checked={filter.checked} label={filter.name} />
             </Link>
             {!!filter.series.length && (
-              <div className={classNames(classes.checkboxes, classes.seriesCheckboxes)}>
-                {filter.series.map((serie) => (
-                  <Link
-                    key={serie.id}
-                    href={getSerieCheckboxHref(
-                      databaseName,
-                      filters,
-                      wavesIds,
-                      seriesIds,
-                      serie.checked,
-                      filter.id,
-                      serie.id
-                    )}
-                  >
-                    <Checkbox id={serie.id} checked={serie.checked} label={serie.name} />
-                  </Link>
-                ))}
-              </div>
+              <Collapsible
+                className={classes.collapse}
+                trigger={{ opened: messages.collapse, closed: messages.expand }}
+              >
+                <div className={classNames(classes.checkboxes, classes.seriesCheckboxes)}>
+                  {filter.series.map((serie) => (
+                    <Link
+                      key={serie.id}
+                      href={getSerieCheckboxHref(
+                        databaseName,
+                        filters,
+                        wavesIds,
+                        seriesIds,
+                        serie.checked,
+                        filter.id,
+                        serie.id
+                      )}
+                    >
+                      <Checkbox id={serie.id} checked={serie.checked} label={serie.name} />
+                    </Link>
+                  ))}
+                </div>
+              </Collapsible>
             )}
           </Fragment>
         ))}

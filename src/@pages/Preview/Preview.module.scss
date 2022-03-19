@@ -33,12 +33,18 @@
 };
 
 .seriesCheckboxes {
+  padding-bottom: 16px;
   padding-left: 16px;
 };
 
 .filter {
   font-size: 13px;
 };
+
+.collapse {
+  margin-left: 32px;
+  cursor: pointer;
+}
 
 .content {
   padding: 16px;
