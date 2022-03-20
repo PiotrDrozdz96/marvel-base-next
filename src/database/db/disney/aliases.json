@@ -1,0 +1,5 @@
+{
+  "mcu": {
+    "params": "wavesIds=[1,2]"
+  }
+}

@@ -39,9 +39,17 @@
       "url": "/preview/sony/spider-verse",
       "icon": "",
       "parent_id": 2
+    },
+    "6": {
+      "name": "MCU",
+      "type": "SUB_MENU",
+      "order": 5,
+      "url": "/preview/disney/mcu",
+      "icon": "",
+      "parent_id": 2
     }
   },
   "meta": {
-    "nextIndex": 6
+    "nextIndex": 7
   }
 }

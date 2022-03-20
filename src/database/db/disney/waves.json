@@ -1,0 +1,15 @@
+{
+  "waves": {
+    "1": {
+      "name": "Filmy",
+      "order": 0
+    },
+    "2": {
+      "name": "Seriale",
+      "order": 1
+    }
+  },
+  "meta": {
+    "nextIndex": 3
+  }
+}
