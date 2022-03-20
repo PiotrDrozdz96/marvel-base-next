@@ -19,7 +19,7 @@
     "3": {
       "name": "Infinity Saga",
       "type": "SUB_MENU",
-      "order": 1,
+      "order": 2,
       "url": "/preview/infinity-saga/filmy",
       "icon": "",
       "parent_id": 2
@@ -31,9 +31,17 @@
       "url": "/preview/fox/x-men",
       "icon": "",
       "parent_id": 2
+    },
+    "5": {
+      "name": "Spider-Universe",
+      "type": "SUB_MENU",
+      "order": 1,
+      "url": "/preview/sony/spider-verse",
+      "icon": "",
+      "parent_id": 2
     }
   },
   "meta": {
-    "nextIndex": 5
+    "nextIndex": 6
   }
 }

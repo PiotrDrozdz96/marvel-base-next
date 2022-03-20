@@ -1,0 +1,27 @@
+{
+  "series": {
+    "1": {
+      "name": "Raimi Spider-Man",
+      "order": 0,
+      "wave_id": 1
+    },
+    "2": {
+      "name": "Niesamowity Spider-Man",
+      "order": 1,
+      "wave_id": 2
+    },
+    "3": {
+      "name": "Holland Spider-Man",
+      "order": 2,
+      "wave_id": 3
+    },
+    "4": {
+      "name": "Venom",
+      "order": 3,
+      "wave_id": 4
+    }
+  },
+  "meta": {
+    "nextIndex": 5
+  }
+}

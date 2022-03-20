@@ -1,0 +1,23 @@
+{
+  "waves": {
+    "1": {
+      "name": "Raimi Spider-Man",
+      "order": 0
+    },
+    "2": {
+      "name": "Niesamowity Spider-Man",
+      "order": 1
+    },
+    "3": {
+      "name": "Holland Spider-Man",
+      "order": 2
+    },
+    "4": {
+      "name": "Venom",
+      "order": 3
+    }
+  },
+  "meta": {
+    "nextIndex": 5
+  }
+}
