@@ -59,7 +59,7 @@ const DatePicker = ({
         onChange={onChange}
         onBlur={onBlur}
         maxDate={new Date()}
-        yearDropdownItemNumber={10}
+        yearDropdownItemNumber={40}
         showYearDropdown
         scrollableYearDropdown
       />

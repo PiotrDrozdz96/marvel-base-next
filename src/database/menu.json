@@ -19,13 +19,21 @@
     "3": {
       "name": "Infinity Saga",
       "type": "SUB_MENU",
-      "order": 3,
+      "order": 1,
       "url": "/preview/infinity-saga/filmy",
+      "icon": "",
+      "parent_id": 2
+    },
+    "4": {
+      "name": "X-Men",
+      "type": "SUB_MENU",
+      "order": 0,
+      "url": "/preview/fox/x-men",
       "icon": "",
       "parent_id": 2
     }
   },
   "meta": {
-    "nextIndex": 4
+    "nextIndex": 5
   }
 }
