@@ -6,7 +6,7 @@ import useElementHeight from 'hooks/useElementHeight';
 
 import classes from './Collapsible.module.scss';
 
-type TwoStateTrigger = { opened: string; closed: string };
+type TwoStateTrigger = { opened: string | ReactNode; closed: string | ReactNode };
 
 type Props = {
   initiallyOpen?: boolean;

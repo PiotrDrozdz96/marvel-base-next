@@ -42,8 +42,14 @@
 };
 
 .collapse {
-  margin-left: 32px;
+  display: flex;
+  align-items: center;
+  margin-left: 16px;
   cursor: pointer;
+
+  & > svg {
+    margin-left: 4px;
+  };
 }
 
 .content {
@@ -57,4 +63,8 @@
 .previewElement {
   width: 220px;
   height: 280px;
+};
+
+.saveButton {
+  margin-top: 16px;
 };

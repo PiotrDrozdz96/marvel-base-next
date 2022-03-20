@@ -1,5 +1,6 @@
 import { Fragment } from 'react';
 import classNames from 'classnames';
+import { IoSave, IoArrowUp, IoArrowDown } from 'react-icons/io5';
 
 import { Volume } from 'types/Volume';
 import { Filters } from 'types/Filter';
@@ -8,8 +9,9 @@ import Link from '@components/Link';
 import Collapsible from '@components/Collapsible';
 import Checkbox from '@components/Checkbox';
 import Book from '@components/Book';
+import Button from '@components/Button';
 
-import { getWaveCheckboxHref, getSerieCheckboxHref } from './Preview.utils';
+import { getWaveCheckboxHref, getSerieCheckboxHref, getSearchParams } from './Preview.utils';
 import classes from './Preview.module.scss';
 import messages from './Preview.messages';
 
@@ -42,7 +44,20 @@ const Preview = ({ volumes, databaseName, filters, wavesIds, seriesIds }: Props)
             {!!filter.series.length && (
               <Collapsible
                 className={classes.collapse}
-                trigger={{ opened: messages.collapse, closed: messages.expand }}
+                trigger={{
+                  opened: (
+                    <>
+                      {messages.collapse}
+                      <IoArrowUp />
+                    </>
+                  ),
+                  closed: (
+                    <>
+                      {messages.expand}
+                      <IoArrowDown />
+                    </>
+                  ),
+                }}
               >
                 <div className={classNames(classes.checkboxes, classes.seriesCheckboxes)}>
                   {filter.series.map((serie) => (
@@ -67,6 +82,18 @@ const Preview = ({ volumes, databaseName, filters, wavesIds, seriesIds }: Props)
           </Fragment>
         ))}
       </div>
+      <Button
+        type="link"
+        icon={<IoSave />}
+        className={classes.saveButton}
+        href={{
+          pathname: routes.aliases.create.href,
+          query: { databaseName, params: getSearchParams(wavesIds, seriesIds) },
+        }}
+        as={`/db/${databaseName}/aliases/create`}
+      >
+        {messages.saveAlias}
+      </Button>
     </div>
     <div className={classes.content}>
       {volumes.map((volume) => (

@@ -4,4 +4,5 @@ export default {
   showAll: 'Zaznacz wszystko',
   expand: 'Rozwiń',
   collapse: 'Zwiń',
+  saveAlias: 'Zapisz alias',
 };

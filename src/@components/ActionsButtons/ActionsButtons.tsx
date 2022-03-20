@@ -21,9 +21,10 @@ type Props = {
   databaseName: string;
   query?: UrlObject['query'];
   withoutShow?: boolean;
+  withoutEdit?: boolean;
 };
 
-const ActionsButtons = ({ routeItem, id, databaseName, query, withoutShow }: Props): JSX.Element => {
+const ActionsButtons = ({ routeItem, id, databaseName, query, withoutShow, withoutEdit }: Props): JSX.Element => {
   const router = useRouter();
 
   const onDelete = async () => {
@@ -33,13 +34,15 @@ const ActionsButtons = ({ routeItem, id, databaseName, query, withoutShow }: Pro
     router.replace(router.asPath);
   };
 
+  const actionsLength = 1 + Number(!withoutShow) + Number(!withoutEdit);
+
   return (
-    <td style={width(withoutShow ? 180 : 270)}>
+    <td style={width(90 * actionsLength)}>
       <div className={classes.actionsButtons}>
         {!withoutShow && (
           <ActionButton variant="show" href={{ pathname: routeItem.id.show.href, query: query || { id } }} />
         )}
-        <ActionButton variant="edit" href={{ pathname: routeItem.id.href, query: query || { id } }} />
+        {!withoutEdit && <ActionButton variant="edit" href={{ pathname: routeItem.id.href, query: query || { id } }} />}
         <ActionButton variant="delete" itemName={`#${id}`} onDelete={onDelete} />
       </div>
     </td>

@@ -5,12 +5,14 @@ import { ApiNotebook } from 'types/Notebook';
 import { ApiSerie } from 'types/Serie';
 import { ApiVolume } from 'types/Volume';
 import { ApiWave } from 'types/Wave';
+import { ApiAlias } from 'types/Alias';
 
 type DatabaseElementMap = {
   waves: JsonData<'waves', ApiWave>;
   series: JsonData<'series', ApiSerie>;
   volumes: JsonData<'volumes', ApiVolume>;
   notebooks: JsonData<'notebooks', ApiNotebook>;
+  aliases: Record<string, ApiAlias>;
 };
 
 const get = async <K extends keyof DatabaseElementMap>(

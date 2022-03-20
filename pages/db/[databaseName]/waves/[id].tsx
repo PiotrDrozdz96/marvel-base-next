@@ -29,7 +29,7 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) 
 
   return {
     props: {
-      title: `- Nurt ${databaseName}- ${isCreate ? 'Create' : `#${id}`}`,
+      title: `- Nurt ${databaseName} - ${isCreate ? 'Create' : `#${id}`}`,
       menu,
       variant: isCreate ? 'create' : 'edit',
       id: isCreate ? null : id,

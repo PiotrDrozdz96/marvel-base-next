@@ -3,10 +3,13 @@ import { Filters } from 'types/Filter';
 const getNewList = (list: string[], id: string, checked: boolean): string[] =>
   checked ? list.filter((element) => element !== id) : [...list, id];
 
+export const getSearchParams = (wavesIds: string[], seriesIds: string[]): string =>
+  `${wavesIds.length ? `wavesIds=[${wavesIds.toString()}]` : ''}${wavesIds.length && seriesIds.length ? '&' : ''}${
+    seriesIds.length ? `seriesIds=[${seriesIds.toString()}]` : ''
+  }`;
+
 const getCheckboxHref = (databaseName: string, wavesIds: string[], seriesIds: string[]): string =>
-  `/preview/${databaseName}?${wavesIds.length ? `wavesIds=[${wavesIds.toString()}]` : ''}${
-    wavesIds.length && seriesIds.length ? '&' : ''
-  }${seriesIds.length ? `seriesIds=[${seriesIds.toString()}]` : ''}`;
+  `/preview/${databaseName}?${getSearchParams(wavesIds, seriesIds)}`;
 
 export const getWaveCheckboxHref = (
   databaseName: string,

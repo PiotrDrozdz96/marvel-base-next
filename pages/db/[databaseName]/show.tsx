@@ -5,6 +5,7 @@ import Database from 'types/Database';
 import { Wave } from 'types/Wave';
 import { Serie } from 'types/Serie';
 import { Volume } from 'types/Volume';
+import { Alias } from 'types/Alias';
 import getMenu from '@api/get/front/getMenu';
 import getDatabase from '@api/get/getDatabase';
 import get from '@api/get';
@@ -17,6 +18,7 @@ type Props = {
   waves: Wave[];
   series: Serie[];
   volumes: Volume[];
+  aliases: Alias[];
 };
 
 export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) => {
@@ -30,6 +32,7 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) 
   const database = await getDatabase(id);
   const { waves } = await get(id, 'waves');
   const { series } = await get(id, 'series');
+  const aliases = await get(id, 'aliases');
   const volumes = await getVolumes(id, () => true, 'global_order');
 
   if (!database) {
@@ -43,13 +46,20 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) 
       database,
       waves: mapApiToFront(waves),
       series: mapApiToFront(series),
+      aliases: Object.keys(aliases).map((aliasKey) => ({ name: aliasKey, params: aliases[aliasKey].params })),
       volumes,
     },
   };
 };
 
-const DatabasePage = ({ database, waves, series, volumes }: InferGetServerSidePropsType<typeof getServerSideProps>) => (
-  <DatabaseShow item={database} waves={waves} series={series} volumes={volumes} />
+const DatabasePage = ({
+  database,
+  waves,
+  series,
+  volumes,
+  aliases,
+}: InferGetServerSidePropsType<typeof getServerSideProps>) => (
+  <DatabaseShow item={database} waves={waves} series={series} volumes={volumes} aliases={aliases} />
 );
 
 export default DatabasePage;

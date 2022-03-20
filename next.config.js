@@ -1,6 +1,11 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
+module.exports = {
   reactStrictMode: false,
+  async rewrites() {
+    return [
+      {
+        source: '/preview/:databaseName/:alias',
+        destination: '/preview/:databaseName?alias=:alias',
+      },
+    ];
+  },
 };
-
-module.exports = nextConfig;

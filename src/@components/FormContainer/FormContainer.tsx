@@ -22,7 +22,7 @@ type Props<FormValues> = {
   id?: string | number;
   query?: UrlObject['query'];
   numberFields?: (keyof FormValues)[];
-  showPathname: string;
+  showPathname?: string;
   children: ((props: FormRenderProps<FormValues, Partial<FormValues>>) => ReactNode) | ReactNode;
 };
 
@@ -52,7 +52,7 @@ const FormContainer = <FormValues,>({
   return (
     <Container>
       <Toolbar name={variant === 'create' ? messages.createName : interpolate(messages.editName, { id })}>
-        {variant === 'edit' && (
+        {variant === 'edit' && !!showPathname && (
           <ActionButton variant="show" href={{ pathname: showPathname, query: query || { id } }} />
         )}
       </Toolbar>

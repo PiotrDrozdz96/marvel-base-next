@@ -7,6 +7,8 @@ import getMenu from '@api/get/front/getMenu';
 import Preview from '@pages/Preview';
 import getVolumes from '@api/get/front/getVolumes';
 import getFilters from '@api/get/front/getFilters';
+import get from '@api/get';
+import getSearchParams from 'utils/getSearchParams';
 
 type Props = {
   volumes: Volume[];
@@ -18,10 +20,6 @@ type Props = {
 
 export const getServerSideProps: AppServerSideProps<Props> = async ({ params, query }) => {
   const id = params?.databaseName as string;
-  const { wavesIds: wavesIdsString, seriesIds: seriesIdsString } = query as Record<string, string>;
-
-  const wavesIds = wavesIdsString ? JSON.parse(wavesIdsString).map(String) || [] : [];
-  const seriesIds = seriesIdsString ? JSON.parse(seriesIdsString).map(String) || [] : [];
 
   if (!id) {
     return { notFound: true };
@@ -29,6 +27,26 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
 
   const menu = await getMenu();
   const volumes = await getVolumes(id, () => true, 'global_order');
+
+  let wavesIds: string[] = [];
+  let seriesIds: string[] = [];
+  const { wavesIds: wavesIdsString, seriesIds: seriesIdsString, alias } = query as Record<string, string>;
+
+  if (alias) {
+    const aliases = await get(id, 'aliases');
+    const searchParams = aliases[alias]?.params;
+
+    if (!searchParams) {
+      return { notFound: true };
+    }
+    const { wavesIds: aliasWavesIds, seriesIds: aliasSeriesIds } = getSearchParams(searchParams);
+    wavesIds = aliasWavesIds ? JSON.parse(aliasWavesIds).map(String) || [] : [];
+    seriesIds = aliasSeriesIds ? JSON.parse(aliasSeriesIds).map(String) || [] : [];
+  } else {
+    wavesIds = wavesIdsString ? JSON.parse(wavesIdsString).map(String) || [] : [];
+    seriesIds = seriesIdsString ? JSON.parse(seriesIdsString).map(String) || [] : [];
+  }
+
   const { filters, checkedSeries } = await getFilters(id, wavesIds, seriesIds);
 
   if (!volumes) {

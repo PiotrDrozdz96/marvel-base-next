@@ -53,6 +53,11 @@ const routes = {
       },
     },
   },
+  aliases: {
+    create: {
+      href: '/db/[databaseName]/aliases/create',
+    },
+  },
 };
 
 export default routes;
