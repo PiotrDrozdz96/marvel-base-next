@@ -36,6 +36,8 @@ const ImportButton = ({ databaseName, id }: Props): JSX.Element => {
             <form onSubmit={handleSubmit}>
               <div className={classes.modalContent}>
                 <Input name="url" placeholder={messages.url} required />
+                <Input name="from" placeholder={messages.from} />
+                <Input name="to" placeholder={messages.to} />
               </div>
               <div className={classes.modalActions}>
                 <Button

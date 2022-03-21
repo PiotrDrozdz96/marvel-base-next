@@ -19,7 +19,7 @@ type Props = {
 };
 
 export const getServerSideProps: AppServerSideProps<Props> = async ({ query }) => {
-  const { databaseName, id, url } = query as Record<string, string>;
+  const { databaseName, id, url, from, to } = query as Record<string, string>;
 
   const item = await getSerie(databaseName, Number(id));
 
@@ -30,7 +30,7 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ query }) =
   const response = await got.get(url);
   const $body = $.load(response.body);
 
-  const notebooks: FormPartial<ApiNotebook>[] = [];
+  let notebooks: FormPartial<ApiNotebook>[] = [];
   // eslint-disable-next-line func-names
   $body('.wikia-gallery-item').each(function (_, el) {
     const $item = $.load(el);
@@ -52,6 +52,14 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ query }) =
       order: '',
     });
   });
+
+  if (from) {
+    notebooks = notebooks.filter((notebook) => Number(notebook.no) >= Number(from));
+  }
+
+  if (to) {
+    notebooks = notebooks.filter((notebook) => Number(notebook.no) <= Number(to));
+  }
 
   const menu = await getMenu();
 
