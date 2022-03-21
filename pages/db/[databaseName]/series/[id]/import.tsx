@@ -1,6 +1,7 @@
 // eslint-disable-next-line import/no-unresolved
 import got from 'got';
 import * as $ from 'cheerio';
+import { isValid } from 'date-fns';
 
 import { FrontSerie } from 'types/Serie';
 import { ApiNotebook } from 'types/Notebook';
@@ -41,12 +42,12 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ query }) =
       description.match(/("[^"]+")?(Release date: ([^,]+, \d\d\d\d))?Cover date: ([^,]+, \d\d\d\d)/) || [];
     const date = releaseDate ? parseDate(`${releaseDate}, 12:00`) : parseDate(`${coverDate}, 12:00`);
     notebooks.push({
-      title,
-      vol,
-      no,
+      title: title || '',
+      vol: vol || '',
+      no: no || '',
       subtitle: subtitle || '',
-      image_url: imageUrl,
-      date: date.toISOString(),
+      image_url: imageUrl || '',
+      date: isValid(date) ? date.toISOString() : '',
       serie_id: id,
       order: '',
     });
