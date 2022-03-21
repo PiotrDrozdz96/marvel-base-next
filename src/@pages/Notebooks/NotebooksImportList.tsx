@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { useRouter } from 'next/router';
 
 import routes from 'config/routes';
 import FormPartial from 'types/FormPartial';
@@ -15,8 +16,11 @@ import seriesMessages from '@pages/Series/Series.messages';
 import dateFormat from 'utils/dateFormat';
 import { interpolate } from 'utils/interpolate';
 import width from 'utils/width';
+import convertValuesTo from 'utils/convertValuesTo';
+import exclude from 'utils/exclude';
 
 import notebooksMessages from './Notebooks.messages';
+import { numberFields } from './NotebookForm.consts';
 
 type Props = {
   notebooks: FormPartial<ApiNotebook>[];
@@ -35,13 +39,28 @@ const labels: string[] = [
 ];
 
 const NotebooksImportList = ({ notebooks, databaseName, serie }: Props): JSX.Element => {
-  const backHref = { pathname: routes.series.id.show.href, query: { databaseName, id: serie.id } };
+  const router = useRouter();
   const [items, setItems] = useState(notebooks);
+
+  const backHref = { pathname: routes.series.id.show.href, query: { databaseName, id: serie.id } };
 
   const onDelete = (index: number) => {
     const newItems = [...items];
     newItems.splice(index, 1);
     setItems(newItems);
+  };
+
+  const onSubmit = async () => {
+    const mappedItems = items.map((item) => ({
+      ...item,
+      ...convertValuesTo(Number, item, exclude(numberFields, ['order'])),
+    }));
+
+    await fetch(`/api/db/${databaseName}/notebooks/${serie.id}/import`, {
+      method: 'POST',
+      body: JSON.stringify({ notebooks: mappedItems }),
+    });
+    router.back();
   };
 
   return (
@@ -55,7 +74,7 @@ const NotebooksImportList = ({ notebooks, databaseName, serie }: Props): JSX.Ele
       <List
         name={notebooksMessages.listName}
         labels={labels}
-        bottomActions={<FormActions backHref={backHref} onSave={() => console.log(items)} withoutMovement />}
+        bottomActions={<FormActions backHref={backHref} onSave={onSubmit} withoutMovement />}
       >
         {items.map((notebook, index) => (
           <tr key={notebook.no}>

@@ -7,7 +7,7 @@ export default {
   title: 'Tytuł',
   subtitle: 'Podtytuł',
   vol: 'Tom',
-  no: 'numer',
+  no: 'Numer',
   image_url: 'Obrazek',
   date: 'Data',
   serie_id: 'Seria',

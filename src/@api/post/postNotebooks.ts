@@ -9,8 +9,17 @@ import { interpolate } from 'utils/interpolate';
 import pick from 'utils/pick';
 import reorderApi from '@api/reorder';
 
-const seriesField: (keyof ApiNotebook)[] = ['title', 'vol', 'no', 'subtitle', 'image_url', 'date', 'serie_id', 'order'];
-const requiredSeriesField: (keyof ApiNotebook)[] = ['title', 'image_url', 'date', 'serie_id'];
+const notebooksField: (keyof ApiNotebook)[] = [
+  'title',
+  'vol',
+  'no',
+  'subtitle',
+  'image_url',
+  'date',
+  'serie_id',
+  'order',
+];
+const requiredNotebooksField: (keyof ApiNotebook)[] = ['title', 'image_url', 'date', 'serie_id'];
 
 const postNotebooks: ApiHandler = async (req, res) => {
   const { id: reqId, databaseName } = req.query as Record<string, string>;
@@ -20,8 +29,8 @@ const postNotebooks: ApiHandler = async (req, res) => {
   }
 
   return new Promise((resolve) => {
-    const body: Partial<ApiNotebook> = pick(JSON.parse(req.body), seriesField);
-    const emptyField = requiredSeriesField.find((key) => !body[key] && body[key] !== 0);
+    const body: Partial<ApiNotebook> = pick(JSON.parse(req.body), notebooksField);
+    const emptyField = requiredNotebooksField.find((key) => !body[key] && body[key] !== 0);
 
     if (emptyField) {
       resolve(res.status(400).send({ message: interpolate(messages.required, { field: emptyField }) }));
