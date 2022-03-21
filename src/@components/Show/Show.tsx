@@ -8,16 +8,14 @@ import FormActions, { FormActionsProps } from '@components/FormActions';
 
 export type Props = {
   name: string;
-  editHref: ActionButtonProps['href'];
+  editHref?: ActionButtonProps['href'];
   backHref: FormActionsProps['backHref'];
   children: ReactNode;
 };
 
 const Show = ({ name, editHref, backHref, children }: Props): JSX.Element => (
   <Container>
-    <Toolbar name={name}>
-      <ActionButton variant="edit" href={editHref} />
-    </Toolbar>
+    <Toolbar name={name}>{!!editHref && <ActionButton variant="edit" href={editHref} />}</Toolbar>
     <Paper>
       {children}
       <FormActions backHref={backHref} withoutSave />

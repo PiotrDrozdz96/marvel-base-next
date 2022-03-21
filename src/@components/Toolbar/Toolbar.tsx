@@ -9,7 +9,7 @@ type Props = {
 const Toolbar = ({ name, children }: Props): JSX.Element => (
   <div className={classes.toolbar}>
     <div className={classes.name}>{name}</div>
-    <div>{children}</div>
+    <div className={classes.actions}>{children}</div>
   </div>
 );
 

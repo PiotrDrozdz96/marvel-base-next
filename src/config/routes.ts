@@ -35,6 +35,9 @@ const routes = {
       show: {
         href: '/db/[databaseName]/series/[id]/show',
       },
+      import: {
+        href: '/db/[databaseName]/series/[id]/import',
+      },
     },
   },
   volumes: {

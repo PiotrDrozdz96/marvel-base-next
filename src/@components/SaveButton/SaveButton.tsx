@@ -4,8 +4,12 @@ import Button from '@components/Button';
 
 import messages from './SaveButton.messages';
 
-const SaveButton = (): JSX.Element => (
-  <Button type="submit" icon={<IoSave />}>
+type Props = {
+  onSave?: () => void;
+};
+
+const SaveButton = ({ onSave }: Props): JSX.Element => (
+  <Button type={onSave ? 'button' : 'submit'} icon={<IoSave />} onClick={onSave}>
     {messages.save}
   </Button>
 );

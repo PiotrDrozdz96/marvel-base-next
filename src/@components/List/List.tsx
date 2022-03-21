@@ -13,12 +13,13 @@ type Props = {
   labels: string[];
   children: ReactNode;
   actions?: ReactNode;
+  bottomActions?: ReactNode;
   addHref?: ActionButtonProps['href'];
   addHrefAs?: ActionButtonProps['as'];
   onDragEnd?: OnDragEnd;
 };
 
-const List = ({ name, addHref, addHrefAs, labels, children, actions, onDragEnd = () => {} }: Props) => (
+const List = ({ name, addHref, addHrefAs, labels, children, actions, bottomActions, onDragEnd = () => {} }: Props) => (
   <Container>
     <Toolbar name={name}>
       {!!addHref && <ActionButton variant="add" href={addHref} as={addHrefAs} />}
@@ -47,6 +48,7 @@ const List = ({ name, addHref, addHrefAs, labels, children, actions, onDragEnd =
         )}
       </Droppable>
     </DragDropContext>
+    {bottomActions}
   </Container>
 );
 

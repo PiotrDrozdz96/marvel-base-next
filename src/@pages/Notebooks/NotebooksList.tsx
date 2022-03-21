@@ -4,6 +4,7 @@ import List from '@components/List';
 import ListRow from '@components/ListRow';
 import Image from '@components/Image';
 import ActionsButtons from '@components/ActionsButtons';
+import ImportButton from '@components/ImportButton';
 import useDraggableItems from 'hooks/useDraggableItems';
 import width from 'utils/width';
 
@@ -36,6 +37,7 @@ const NotebooksList = ({ notebooks, databaseName, serieId }: Props): JSX.Element
       name={notebooksMessages.listName}
       addHref={{ pathname: routes.notebooks.id.href, query: { databaseName, id: 'create', serie_id: serieId } }}
       addHrefAs={{ pathname: `/db/${databaseName}/notebooks/create` }}
+      actions={<ImportButton databaseName={databaseName} id={serieId} />}
       labels={labels}
       onDragEnd={onDragEnd}
     >
