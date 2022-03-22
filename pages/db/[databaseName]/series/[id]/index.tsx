@@ -16,7 +16,7 @@ type Props = {
   variant: FormVariant;
   id: number | null;
   databaseName: string;
-  initialValues: FormPartial<ApiSerie>;
+  initialValues: FormPartial<ApiSerie, 'is_filter'>;
   waves: Wave[];
 };
 
@@ -43,7 +43,7 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) 
       waves: mapApiToFront(waves),
       initialValues: !isCreate
         ? {
-            ...(series[id] as unknown as FormPartial<ApiSerie>),
+            ...(series[id] as unknown as FormPartial<ApiSerie, 'is_filter'>),
             ...convertValuesTo(String, series[id], numberFields),
           }
         : defaultValues,

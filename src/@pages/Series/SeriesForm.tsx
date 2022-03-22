@@ -15,7 +15,7 @@ import { numberFields } from './SeriesForm.consts';
 import seriesMessages from './Series.messages';
 
 type Props = {
-  initialValues: FormPartial<ApiSerie>;
+  initialValues: FormPartial<ApiSerie, 'is_filter'>;
   waves: Wave[];
   variant: FormVariant;
   databaseName: string;
