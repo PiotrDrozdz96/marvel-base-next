@@ -10,14 +10,19 @@ type Props = {
   placeholder: string;
   options: SelectOption[];
   required?: boolean;
+  onChange?: () => void;
 };
 
-const FormSelect = ({ name, placeholder, options, required }: Props): JSX.Element => (
+const FormSelect = ({ name, placeholder, options, required, onChange }: Props): JSX.Element => (
   <Field<string> name={name} validate={required ? requiredValidation : undefined}>
     {({ input, meta: { error, touched, ...meta } }) => (
       <Select
         {...input}
         {...meta}
+        onChange={(e) => {
+          onChange?.();
+          input.onChange(e);
+        }}
         options={options}
         error={touched && error}
         placeholder={placeholder}

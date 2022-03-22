@@ -10,6 +10,7 @@ import classes from './List.module.scss';
 
 type Props = {
   name: string;
+  filters?: ReactNode;
   labels: string[];
   children: ReactNode;
   actions?: ReactNode;
@@ -19,9 +20,19 @@ type Props = {
   onDragEnd?: OnDragEnd;
 };
 
-const List = ({ name, addHref, addHrefAs, labels, children, actions, bottomActions, onDragEnd = () => {} }: Props) => (
+const List = ({
+  name,
+  filters,
+  addHref,
+  addHrefAs,
+  labels,
+  children,
+  actions,
+  bottomActions,
+  onDragEnd = () => {},
+}: Props) => (
   <Container>
-    <Toolbar name={name}>
+    <Toolbar name={name} filters={filters}>
       {!!addHref && <ActionButton variant="add" href={addHref} as={addHrefAs} />}
       {actions}
     </Toolbar>

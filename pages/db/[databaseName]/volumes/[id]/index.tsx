@@ -5,8 +5,10 @@ import FormPartial from 'types/FormPartial';
 import FormVariant from 'types/FormVariant';
 import { ApiVolume } from 'types/Volume';
 import { Serie } from 'types/Serie';
+import { Notebook } from 'types/Notebook';
 import get from '@api/get';
 import getMenu from '@api/get/front/getMenu';
+import getNotebooks from '@api/get/front/getNotebooks';
 import VolumesForm from '@pages/Volumes/VolumesForm';
 import { defaultValues, numberFields } from '@pages/Volumes/VolumeForm.consts';
 import mapApiToFront from 'utils/mapApiToFront';
@@ -18,6 +20,7 @@ type Props = {
   databaseName: string;
   initialValues: FormPartial<ApiVolume>;
   series: Serie[];
+  notebooks: Notebook[];
 };
 
 export const getServerSideProps: AppServerSideProps<Props> = async ({ params, query }) => {
@@ -34,6 +37,14 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
     return { notFound: true };
   }
 
+  let notebooks: Notebook[] = [];
+
+  if ((isCreate && serieId) || (!isCreate && volumes[id].serie_id)) {
+    notebooks = await getNotebooks(databaseName, (notebook) =>
+      isCreate ? notebook.serie_id === Number(serieId) : notebook.serie_id === volumes[id].serie_id
+    );
+  }
+
   return {
     props: {
       title: `- Tom ${databaseName}- ${isCreate ? 'Create' : `#${id}`}`,
@@ -42,6 +53,7 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
       id: isCreate ? null : id,
       databaseName,
       series: mapApiToFront(series),
+      notebooks,
       initialValues: !isCreate
         ? {
             ...(volumes[id] as unknown as FormPartial<ApiVolume>),
@@ -62,6 +74,7 @@ const NotebooksFormPage = ({
   databaseName,
   initialValues,
   series,
+  notebooks,
 }: InferGetServerSidePropsType<typeof getServerSideProps>) => (
   <VolumesForm
     variant={variant}
@@ -69,6 +82,7 @@ const NotebooksFormPage = ({
     databaseName={databaseName}
     initialValues={initialValues}
     series={series}
+    notebooks={notebooks}
   />
 );
 

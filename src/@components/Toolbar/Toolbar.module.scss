@@ -4,6 +4,12 @@
   margin-bottom: 8px;
 };
 
+.left {
+  display: inline-flex;
+  align-items: center;
+  gap: 0 16px;
+};
+
 .name {
   font-size: 1.25rem;
   line-height: 1.6;
