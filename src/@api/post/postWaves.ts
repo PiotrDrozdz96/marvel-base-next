@@ -50,7 +50,7 @@ const postWaves: ApiHandler = async (req, res) => {
           ...waves,
           [id]: {
             ...body,
-            order: body.order !== null ? body.order : meta.nextIndex - 1,
+            order: body.order || meta.nextIndex - 1,
           },
         },
         meta: reqId ? meta : { nextIndex: meta.nextIndex + 1 },

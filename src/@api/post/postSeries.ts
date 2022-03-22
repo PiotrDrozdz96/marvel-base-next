@@ -71,7 +71,7 @@ const postSeries: ApiHandler = async (req, res) => {
             ...series,
             [id]: {
               ...body,
-              order: body.order !== null ? body.order : meta.nextIndex - 1,
+              order: body.order || meta.nextIndex - 1,
             },
           },
           meta: reqId ? meta : { nextIndex: meta.nextIndex + 1 },

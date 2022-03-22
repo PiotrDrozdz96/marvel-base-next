@@ -3,12 +3,13 @@ import get from '@api/get';
 
 const getNotebook = async (databaseName: string, id: number): Promise<FrontNotebook | undefined> => {
   try {
-    const { volumes } = await get(databaseName, 'volumes');
+    const { notebooks } = await get(databaseName, 'notebooks');
     const { series } = await get(databaseName, 'series');
-    const volume: Partial<FrontNotebook> = volumes[id];
-    volume.id = id;
-    volume.serieName = volume.serie_id ? (series[volume.serie_id].name as string) : '';
-    return volume as FrontNotebook;
+
+    const notebook: Partial<FrontNotebook> = notebooks[id];
+    notebook.id = id;
+    notebook.serieName = notebook.serie_id ? (series[notebook.serie_id].name as string) : '';
+    return notebook as FrontNotebook;
   } catch {
     return undefined;
   }

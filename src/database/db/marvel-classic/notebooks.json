@@ -767,7 +767,7 @@
       "subtitle": "\"Daredevil: The Man Without Fear\"",
       "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b4/Daredevil_The_Man_Without_Fear_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20180403031400",
       "date": "1993-08-24T10:00:00.000Z",
-      "serie_id": 1,
+      "serie_id": 2,
       "order": 76
     },
     "78": {
@@ -777,7 +777,7 @@
       "subtitle": "\"Daredevil: The Man Without Fear\"",
       "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b3/Daredevil_The_Man_Without_Fear_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20180403031423",
       "date": "1993-09-28T11:00:00.000Z",
-      "serie_id": 1,
+      "serie_id": 2,
       "order": 77
     },
     "79": {
@@ -787,7 +787,7 @@
       "subtitle": "\"Daredevil: The Man Without Fear\"",
       "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/12/Daredevil_The_Man_Without_Fear_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20180403031454",
       "date": "1993-10-26T11:00:00.000Z",
-      "serie_id": 1,
+      "serie_id": 2,
       "order": 78
     },
     "80": {
@@ -797,7 +797,7 @@
       "subtitle": "\"Daredevil: The Man Without Fear\"",
       "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/82/Daredevil_The_Man_Without_Fear_Vol_1_4.jpg/revision/latest/scale-to-width-down/130?cb=20180403031521",
       "date": "1993-11-23T11:00:00.000Z",
-      "serie_id": 1,
+      "serie_id": 2,
       "order": 79
     },
     "81": {
@@ -807,7 +807,7 @@
       "subtitle": "\"Daredevil: The Man Without Fear\"",
       "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a5/Daredevil_The_Man_Without_Fear_Vol_1_5.jpg/revision/latest/scale-to-width-down/130?cb=20180403032853",
       "date": "1993-12-28T11:00:00.000Z",
-      "serie_id": 1,
+      "serie_id": 2,
       "order": 80
     }
   },

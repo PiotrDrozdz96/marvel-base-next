@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { arrayMoveImmutable } from 'array-move';
 
 import OnDragEnd from 'types/OnDragEnd';
@@ -9,6 +9,10 @@ const useDraggableItems = <T extends { id: number }>(
   field: 'order' | 'global_order' = 'order'
 ) => {
   const [items, setItems] = useState(initialItems);
+
+  useEffect(() => {
+    setItems(initialItems);
+  }, [initialItems]);
 
   const reorder = (newItems: T[]) => {
     setItems(newItems);

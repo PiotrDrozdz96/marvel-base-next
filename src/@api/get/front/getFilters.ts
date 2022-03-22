@@ -23,7 +23,8 @@ const getVolume = async (
 
     const filters: Filters[] = Object.keys(waves).map((waveId) => {
       const filteredSeries = Object.keys(series).filter(
-        (serieId) => series[serieId as unknown as number].wave_id === Number(waveId)
+        (serieId) =>
+          series[serieId as unknown as number].wave_id === Number(waveId) && series[Number(serieId)].is_filter
       );
 
       return {

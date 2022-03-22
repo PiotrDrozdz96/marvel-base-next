@@ -5,9 +5,15 @@
       "order": 1,
       "wave_id": 1,
       "is_filter": true
+    },
+    "2": {
+      "name": "Daredevil: The Man Without Fear",
+      "order": 2,
+      "wave_id": 1,
+      "is_filter": false
     }
   },
   "meta": {
-    "nextIndex": 2
+    "nextIndex": 3
   }
 }
