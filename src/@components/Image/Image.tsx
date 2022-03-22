@@ -63,7 +63,7 @@ const Image = ({ preset, src, alt, className, onError, onLoad, withLink, ...prop
   );
 
   return (
-    <div ref={ref}>
+    <div ref={ref} style={{ minWidth: dimension.width, height: dimension.height }}>
       {withLink ? (
         <Link href={srcLink} className={classes.link} openInNewTab>
           {image}
