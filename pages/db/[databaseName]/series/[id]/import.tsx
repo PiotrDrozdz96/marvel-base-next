@@ -7,6 +7,7 @@ import { FrontSerie } from 'types/Serie';
 import { ApiNotebook } from 'types/Notebook';
 import FormPartial from 'types/FormPartial';
 import AppServerSideProps from 'types/AppServerSideProps';
+import { importUrl, nameRegExp } from 'consts/import';
 import getMenu from '@api/get/front/getMenu';
 import getSerie from '@api/get/front/getSerie';
 import parseDate from 'utils/parseDate';
@@ -23,7 +24,7 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ query }) =
 
   const item = await getSerie(databaseName, Number(id));
 
-  if (!item || !url?.startsWith('https://marvel.fandom.com/wiki/')) {
+  if (!item || !url?.startsWith(importUrl)) {
     return { notFound: true };
   }
 
@@ -36,7 +37,7 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ query }) =
     const $item = $.load(el);
     const imageUrl = $item('img').attr('data-src') || '';
     const name = $item('.lightbox-caption > center > div > span > a').attr('title') || '';
-    const [, title, vol, no] = name.match(/([^\s]+)\sVol\s(\d+)\s(\d+)/) || [];
+    const [, title, vol, no] = name.match(nameRegExp) || [];
     const description = $item('center > div > span:nth-child(2)').text();
     const [, subtitle, , releaseDate, coverDate] =
       description.match(/("[^"]+")?(Release date: ([^,]+, \d\d\d\d))?Cover date: ([^,]+, \d\d\d\d)/) || [];

@@ -20,6 +20,7 @@ type Props<FormValues> = {
     editName: string;
   };
   id?: string | number;
+  actions?: ReactNode;
   query?: UrlObject['query'];
   numberFields?: (keyof FormValues)[];
   showPathname?: string;
@@ -32,6 +33,7 @@ const FormContainer = <FormValues,>({
   databaseName,
   messages,
   id,
+  actions,
   showPathname,
   children,
   query,
@@ -55,6 +57,7 @@ const FormContainer = <FormValues,>({
         {variant === 'edit' && !!showPathname && (
           <ActionButton variant="show" href={{ pathname: showPathname, query: query || { id } }} />
         )}
+        {actions}
       </Toolbar>
       <Paper>
         <Form<FormValues> initialValues={initialValues} onSubmit={onSubmit}>

@@ -1,16 +1,22 @@
 import { InferGetServerSidePropsType } from 'next';
+// eslint-disable-next-line import/no-unresolved
+import got from 'got';
+import * as $ from 'cheerio';
+import { isValid } from 'date-fns';
 
 import AppServerSideProps from 'types/AppServerSideProps';
 import FormPartial from 'types/FormPartial';
 import FormVariant from 'types/FormVariant';
 import { ApiNotebook } from 'types/Notebook';
 import { Serie } from 'types/Serie';
+import { importUrl, nameRegExp } from 'consts/import';
 import get from '@api/get';
 import getMenu from '@api/get/front/getMenu';
 import NotebooksForm from '@pages/Notebooks/NotebooksForm';
 import { defaultValues, numberFields } from '@pages/Notebooks/NotebookForm.consts';
 import mapApiToFront from 'utils/mapApiToFront';
 import convertValuesTo from 'utils/convertValuesTo';
+import parseDate from 'utils/parseDate';
 
 type Props = {
   variant: FormVariant;
@@ -23,7 +29,7 @@ type Props = {
 export const getServerSideProps: AppServerSideProps<Props> = async ({ params, query }) => {
   const databaseName = params?.databaseName as string;
   const id = params?.id as number | 'create';
-  const serieId = query.serie_id as string | undefined;
+  const { serie_id: serieId, url } = query as Record<string, string>;
 
   const menu = await getMenu();
   const { notebooks } = await get(databaseName, 'notebooks');
@@ -32,6 +38,31 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
 
   if (!isCreate && !notebooks[id]) {
     return { notFound: true };
+  }
+
+  let importedNotebook: FormPartial<ApiNotebook> | undefined;
+
+  if (isCreate && url?.startsWith(importUrl)) {
+    const response = await got.get(url);
+    const $body = $.load(response.body);
+    const imageUrl = $body('aside > figure > a > img').attr('src');
+    const name = $body('#firstHeading').text();
+    const [, title, vol, no] = name.match(nameRegExp) || [];
+    const appearing = $body('.mw-parser-output > h2:first-of-type').text();
+    const [, subtitle] = appearing.match(/Appearing in ("[^"]+")/) || [];
+    const releaseDate = $body('aside:nth-child(2) > div.pi-item:first-of-type > div').text();
+    const date = parseDate(`${releaseDate}, 12:00`);
+
+    importedNotebook = {
+      title: title || '',
+      vol: vol || '',
+      no: no || '',
+      subtitle: subtitle || '',
+      image_url: imageUrl || '',
+      date: isValid(date) ? date.toISOString() : '',
+      serie_id: serieId || '',
+      order: '',
+    };
   }
 
   return {
@@ -47,7 +78,7 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
             ...(notebooks[id] as unknown as FormPartial<ApiNotebook>),
             ...convertValuesTo(String, notebooks[id], numberFields),
           }
-        : { ...defaultValues, serie_id: serieId || defaultValues.serie_id },
+        : importedNotebook || { ...defaultValues, serie_id: serieId || defaultValues.serie_id },
     },
   };
 };

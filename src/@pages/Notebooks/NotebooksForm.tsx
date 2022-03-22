@@ -11,6 +11,7 @@ import Input from '@components/Input';
 import DatePicker from '@components/DatePicker';
 import Select from '@components/Select';
 import ImageInput from '@components/ImageInput';
+import ImportButton from '@components/ImportButton';
 
 import { numberFields } from './NotebookForm.consts';
 import notebooksMessages from './Notebooks.messages';
@@ -36,6 +37,16 @@ const NotebooksForm = ({ variant, initialValues, databaseName, id, series }: Pro
       id={id}
       showPathname={routes.notebooks.id.show.href}
       query={{ databaseName, id }}
+      actions={
+        variant === 'create' ? (
+          <ImportButton
+            url={{
+              pathname: routes.notebooks.id.href,
+              query: { databaseName, id: 'create', serie_id: initialValues.serie_id },
+            }}
+          />
+        ) : undefined
+      }
     >
       {({ handleSubmit }) => (
         <form onSubmit={handleSubmit}>
@@ -43,7 +54,12 @@ const NotebooksForm = ({ variant, initialValues, databaseName, id, series }: Pro
           <Input name="subtitle" placeholder={notebooksMessages.subtitle} />
           <Input name="vol" placeholder={notebooksMessages.vol} />
           <Input name="no" placeholder={notebooksMessages.no} />
-          <ImageInput name="image_url" placeholder={notebooksMessages.image_url} required />
+          <ImageInput
+            name="image_url"
+            placeholder={notebooksMessages.image_url}
+            initialValue={initialValues.image_url}
+            required
+          />
           <DatePicker name="date" placeholder={notebooksMessages.date} required />
           <Select name="serie_id" placeholder={notebooksMessages.serie_id} options={seriesOptions} required />
           <Input name="order" placeholder={notebooksMessages.order} />

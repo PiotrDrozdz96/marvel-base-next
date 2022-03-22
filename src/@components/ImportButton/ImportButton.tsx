@@ -30,7 +30,12 @@ const ImportButton = ({ url, withRange = false }: Props): JSX.Element => {
       </Button>
       <Modal isOpen={isOpen} onClose={() => setIsOpen(false)}>
         <div className={classes.modalHeader}>{messages.header}</div>
-        <Form onSubmit={(values) => router.push({ pathname: url.pathname, query: { ...url.query, ...values } })}>
+        <Form
+          onSubmit={(values) => {
+            setIsOpen(false);
+            router.push({ pathname: url.pathname, query: { ...url.query, ...values } });
+          }}
+        >
           {({ handleSubmit }) => (
             <form onSubmit={handleSubmit}>
               <div className={classes.modalContent}>

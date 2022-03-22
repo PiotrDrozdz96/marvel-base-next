@@ -1,14 +1,20 @@
-import { FocusEventHandler, useState } from 'react';
+import { FocusEventHandler, useEffect, useState } from 'react';
 
 import Input, { Props as InputProps } from '@components/Input/Input';
 import Image, { Props as ImageProps } from '@components/Image';
 
 import classes from './ImageInput.module.scss';
 
-type Props = Omit<InputProps, 'ref'> & Pick<ImageProps, 'onLoad' | 'onError'>;
+type Props = Omit<InputProps, 'ref'> & Pick<ImageProps, 'onLoad' | 'onError'> & { initialValue?: string };
 
-const ImageInput = ({ value, onBlur, onLoad, onError, ...props }: Props): JSX.Element => {
+const ImageInput = ({ value, initialValue, onBlur, onLoad, onError, ...props }: Props): JSX.Element => {
   const [src, setSrc] = useState(value);
+
+  useEffect(() => {
+    if (initialValue) {
+      setSrc(initialValue);
+    }
+  }, [initialValue]);
 
   const finalOnBlur: FocusEventHandler<HTMLInputElement> = (event) => {
     onBlur?.(event);
