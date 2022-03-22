@@ -4,6 +4,7 @@ import { Wave } from 'types/Wave';
 import List from '@components/List';
 import ListRow from '@components/ListRow';
 import ActionsButtons from '@components/ActionsButtons';
+import BooleanField from '@components/BooleanField';
 import useDraggableItems from 'hooks/useDraggableItems';
 import width from 'utils/width';
 
@@ -15,7 +16,7 @@ type Props = {
   databaseName: string;
 };
 
-const labels: string[] = [seriesMessages.id, seriesMessages.name, seriesMessages.waveId, ''];
+const labels: string[] = [seriesMessages.id, seriesMessages.name, seriesMessages.waveId, seriesMessages.isFilter, ''];
 
 const SeriesList = ({ series, waves, databaseName }: Props): JSX.Element => {
   const { items, onDragEnd, getRowProps } = useDraggableItems(series, `db/${databaseName}/series`);
@@ -32,6 +33,9 @@ const SeriesList = ({ series, waves, databaseName }: Props): JSX.Element => {
           <td style={width(100)}>{serie.id}</td>
           <td style={width('50%')}>{serie.name}</td>
           <td style={width('50%')}>{waves.find((wave) => Number(wave.id) === serie.wave_id)?.name}</td>
+          <td style={width(100)}>
+            <BooleanField value={serie.is_filter} />
+          </td>
           <ActionsButtons
             routeItem={routes.series}
             id={serie.id}

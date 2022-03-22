@@ -7,6 +7,7 @@ import NotebooksList from '@pages/Notebooks/NotebooksList';
 import Show from '@components/Show';
 import TextField from '@components/TextField';
 import Spacing from '@components/Spacing';
+import BooleanField from '@components/BooleanField';
 import { interpolate } from 'utils/interpolate';
 
 import seriesMessages from './Series.messages';
@@ -28,9 +29,12 @@ const SeriesShow = ({ item, volumes, notebooks, databaseName }: Props): JSX.Elem
       <TextField label={seriesMessages.id} value={item.id} />
       <TextField label={seriesMessages.name} value={item.name} />
       <TextField label={seriesMessages.waveId} value={item.waveName} />
+      <TextField label={seriesMessages.isFilter} value={<BooleanField value={item.is_filter} />} />
     </Show>
     <Spacing />
-    <VolumesList volumes={volumes} databaseName={databaseName} serieId={item.id} />
+    {(item.is_filter || !!volumes.length) && (
+      <VolumesList volumes={volumes} databaseName={databaseName} serieId={item.id} />
+    )}
     <Spacing />
     <NotebooksList notebooks={notebooks} databaseName={databaseName} serieId={item.id} />
   </>
