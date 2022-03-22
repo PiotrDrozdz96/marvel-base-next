@@ -1,6 +1,817 @@
 {
-  "notebooks": {},
+  "notebooks": {
+    "1": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 158,
+      "subtitle": "\"A Grave Mistake!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/10/Daredevil_Vol_1_158.jpg/revision/latest/scale-to-width-down/132?cb=20210305200007",
+      "date": "1979-01-30T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 0
+    },
+    "2": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 159,
+      "subtitle": "\"Marked for Murder!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/26/Daredevil_Vol_1_159.jpg/revision/latest/scale-to-width-down/132?cb=20210305200235",
+      "date": "1979-04-03T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 1
+    },
+    "3": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 160,
+      "subtitle": "\"In the Hands of Bullseye\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/13/Daredevil_Vol_1_160.jpg/revision/latest/scale-to-width-down/128?cb=20080810164524",
+      "date": "1979-09-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 2
+    },
+    "4": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 161,
+      "subtitle": "\"To Dare the Devil\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7e/Daredevil_Vol_1_161.jpg/revision/latest/scale-to-width-down/127?cb=20080810164651",
+      "date": "1979-11-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 3
+    },
+    "5": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 162,
+      "subtitle": "\"Requiem for a Pug!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/37/Daredevil_Vol_1_162.jpg/revision/latest/scale-to-width-down/130?cb=20080810164813",
+      "date": "1980-01-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 4
+    },
+    "6": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 163,
+      "subtitle": "\"Blind Alley\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/32/Daredevil_Vol_1_163.jpg/revision/latest/scale-to-width-down/131?cb=20080810164939",
+      "date": "1980-03-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 5
+    },
+    "7": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 164,
+      "subtitle": "\"Exposé\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/de/Daredevil_Vol_1_164.jpg/revision/latest/scale-to-width-down/130?cb=20080810165105",
+      "date": "1980-05-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 6
+    },
+    "8": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 165,
+      "subtitle": "\"Arms of the Octopus\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7c/Daredevil_Vol_1_165.jpg/revision/latest/scale-to-width-down/130?cb=20080810165228",
+      "date": "1980-07-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 7
+    },
+    "9": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 166,
+      "subtitle": "\"Till Death Do Us Part!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d8/Daredevil_Vol_1_166.jpg/revision/latest/scale-to-width-down/131?cb=20080810165346",
+      "date": "1980-09-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 8
+    },
+    "10": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 167,
+      "subtitle": "\"...The Mauler!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/ff/Daredevil_Vol_1_167.jpg/revision/latest/scale-to-width-down/130?cb=20201104043657",
+      "date": "1980-11-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 9
+    },
+    "11": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 168,
+      "subtitle": "\"Elektra\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/ea/Daredevil_Vol_1_168.jpg/revision/latest/scale-to-width-down/129?cb=20080810165635",
+      "date": "1980-10-07T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 10
+    },
+    "12": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 169,
+      "subtitle": "\"Devils\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/60/Daredevil_Vol_1_169.jpg/revision/latest/scale-to-width-down/131?cb=20080810165858",
+      "date": "1980-12-02T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 11
+    },
+    "13": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 170,
+      "subtitle": "\"The Kingpin Must Die!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/da/Daredevil_Vol_1_170.jpg/revision/latest/scale-to-width-down/130?cb=20180131024941",
+      "date": "1981-05-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 12
+    },
+    "14": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 171,
+      "subtitle": "\"In the Kingpin's Clutches\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b2/Daredevil_Vol_1_171.jpg/revision/latest/scale-to-width-down/129?cb=20080810170056",
+      "date": "1981-06-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 13
+    },
+    "15": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 172,
+      "subtitle": "\"Gangwar!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f9/Daredevil_Vol_1_172.jpg/revision/latest/scale-to-width-down/130?cb=20180131024747",
+      "date": "1981-07-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 14
+    },
+    "16": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 173,
+      "subtitle": "\"Lady Killer\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3f/Daredevil_Vol_1_173.jpg/revision/latest/scale-to-width-down/130?cb=20080810170246",
+      "date": "1981-08-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 15
+    },
+    "17": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 174,
+      "subtitle": "\"The Assassination of Matt Murdock\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/aa/Daredevil_Vol_1_174.jpg/revision/latest/scale-to-width-down/130?cb=20080810170427",
+      "date": "1981-09-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 16
+    },
+    "18": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 175,
+      "subtitle": "\"Gantlet\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/88/Daredevil_Vol_1_175.jpg/revision/latest/scale-to-width-down/132?cb=20080810170552",
+      "date": "1981-10-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 17
+    },
+    "19": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 176,
+      "subtitle": "\"Hunters\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/10/Daredevil_Vol_1_176.jpg/revision/latest/scale-to-width-down/130?cb=20171227194126",
+      "date": "1981-11-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 18
+    },
+    "20": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 177,
+      "subtitle": "\"Where Angels Fear to Tread\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a2/Daredevil_Vol_1_177.jpg/revision/latest/scale-to-width-down/131?cb=20080810170806",
+      "date": "1981-12-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 19
+    },
+    "21": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 178,
+      "subtitle": "\"Paper Chase\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c6/Daredevil_Vol_1_178.jpg/revision/latest/scale-to-width-down/133?cb=20080810170950",
+      "date": "1981-09-22T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 20
+    },
+    "22": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 179,
+      "subtitle": "\"Spiked!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d9/Daredevil_Vol_1_179.jpg/revision/latest/scale-to-width-down/131?cb=20080810171118",
+      "date": "1982-02-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 21
+    },
+    "23": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 180,
+      "subtitle": "\"The Damned\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f1/Daredevil_Vol_1_180.jpg/revision/latest/scale-to-width-down/128?cb=20080810171248",
+      "date": "1982-03-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 22
+    },
+    "24": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 181,
+      "subtitle": "\"Last Hand\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3d/Daredevil_Vol_1_181.jpg/revision/latest/scale-to-width-down/130?cb=20181228065355",
+      "date": "1981-12-29T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 23
+    },
+    "25": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 182,
+      "subtitle": "\"She's Alive\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/44/Daredevil_Vol_1_182.jpg/revision/latest/scale-to-width-down/132?cb=20080810171605",
+      "date": "1982-01-26T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 24
+    },
+    "26": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 183,
+      "subtitle": "\"Child's Play\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/72/Daredevil_Vol_1_183.jpg/revision/latest/scale-to-width-down/130?cb=20180106012148",
+      "date": "1982-06-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 25
+    },
+    "27": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 184,
+      "subtitle": "\"Good Guys Wear Red!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7f/Daredevil_Vol_1_184.jpg/revision/latest/scale-to-width-down/130?cb=20180106012226",
+      "date": "1982-07-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 26
+    },
+    "28": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 185,
+      "subtitle": "\"Guts\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2a/Daredevil_Vol_1_185.jpg/revision/latest/scale-to-width-down/130?cb=20180106012731",
+      "date": "1982-08-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 27
+    },
+    "29": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 186,
+      "subtitle": "\"Stilts\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1a/Daredevil_Vol_1_186.jpg/revision/latest/scale-to-width-down/130?cb=20201006175955",
+      "date": "1982-09-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 28
+    },
+    "30": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 187,
+      "subtitle": "\"Overkill\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a5/Daredevil_Vol_1_187.jpg/revision/latest/scale-to-width-down/130?cb=20080810172102",
+      "date": "1982-10-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 29
+    },
+    "31": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 188,
+      "subtitle": "\"The Widow's Bite\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/35/Daredevil_Vol_1_188.jpg/revision/latest/scale-to-width-down/130?cb=20080810172233",
+      "date": "1982-11-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 30
+    },
+    "32": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 189,
+      "subtitle": "\"Siege\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/69/Daredevil_Vol_1_189.jpg/revision/latest/scale-to-width-down/131?cb=20080810172356",
+      "date": "1982-12-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 31
+    },
+    "33": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 190,
+      "subtitle": "\"Resurrection\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/61/Daredevil_Vol_1_190.jpg/revision/latest/scale-to-width-down/132?cb=20171227194211",
+      "date": "1983-01-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 32
+    },
+    "34": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 191,
+      "subtitle": "\"Roulette\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/26/Daredevil_Vol_1_191.jpg/revision/latest/scale-to-width-down/129?cb=20080810172541",
+      "date": "1983-02-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 33
+    },
+    "35": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 192,
+      "subtitle": "\"Promises\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c2/Daredevil_Vol_1_192.jpg/revision/latest/scale-to-width-down/130?cb=20080810172719",
+      "date": "1983-03-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 34
+    },
+    "36": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 193,
+      "subtitle": "\"Bitsy's Revenge\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0d/Daredevil_Vol_1_193.jpg/revision/latest/scale-to-width-down/129?cb=20080810172844",
+      "date": "1983-04-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 35
+    },
+    "37": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 194,
+      "subtitle": "\"Judgement\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/db/Daredevil_Vol_1_194.jpg/revision/latest/scale-to-width-down/129?cb=20080810173013",
+      "date": "1983-05-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 36
+    },
+    "38": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 195,
+      "subtitle": "\"Betrayal\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fa/Daredevil_Vol_1_195.jpg/revision/latest/scale-to-width-down/131?cb=20080810173209",
+      "date": "1983-06-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 37
+    },
+    "39": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 196,
+      "subtitle": "\"Enemies\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a6/Daredevil_Vol_1_196.jpg/revision/latest/scale-to-width-down/132?cb=20080810173344",
+      "date": "1983-03-22T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 38
+    },
+    "40": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 197,
+      "subtitle": "\"Journey\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a0/Daredevil_Vol_1_197.jpg/revision/latest/scale-to-width-down/134?cb=20080810173507",
+      "date": "1983-04-05T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 39
+    },
+    "41": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 198,
+      "subtitle": "\"Touch of a Stranger\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/52/Daredevil_Vol_1_198.jpg/revision/latest/scale-to-width-down/129?cb=20080810173630",
+      "date": "1983-05-24T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 40
+    },
+    "42": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 199,
+      "subtitle": "\"Daughter of a Dark Wind\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/49/Daredevil_Vol_1_199.jpg/revision/latest/scale-to-width-down/130?cb=20080810173749",
+      "date": "1983-06-28T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 41
+    },
+    "43": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 200,
+      "subtitle": "\"Redemption\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/ba/Daredevil_Vol_1_200.jpg/revision/latest/scale-to-width-down/132?cb=20080810173921",
+      "date": "1983-07-26T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 42
+    },
+    "44": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 201,
+      "subtitle": "\"The Day the Devil Didn't Dare\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cc/Daredevil_Vol_1_201.jpg/revision/latest/scale-to-width-down/131?cb=20080810174051",
+      "date": "1983-08-23T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 43
+    },
+    "45": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 202,
+      "subtitle": "\"Savages\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3f/Daredevil_Vol_1_202.jpg/revision/latest/scale-to-width-down/130?cb=20080810174215",
+      "date": "1983-09-27T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 44
+    },
+    "46": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 203,
+      "subtitle": "\"Trumps\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3f/Daredevil_Vol_1_203.jpg/revision/latest/scale-to-width-down/129?cb=20080810174339",
+      "date": "1983-10-25T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 45
+    },
+    "47": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 204,
+      "subtitle": "\"Vengeance of the Victim\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/36/Daredevil_Vol_1_204.jpg/revision/latest/scale-to-width-down/131?cb=20171220234336",
+      "date": "1983-11-22T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 46
+    },
+    "48": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 205,
+      "subtitle": "\"The Gael\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/aa/Daredevil_Vol_1_205.jpg/revision/latest/scale-to-width-down/132?cb=20171221000410",
+      "date": "1983-12-27T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 47
+    },
+    "49": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 206,
+      "subtitle": "\"Every Good and Perfect Gift\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2f/Daredevil_Vol_1_206.jpg/revision/latest/scale-to-width-down/131?cb=20080810174657",
+      "date": "1984-01-24T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 48
+    },
+    "50": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 207,
+      "subtitle": "\"Ultimatum\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d5/Daredevil_Vol_1_207.jpg/revision/latest/scale-to-width-down/132?cb=20070211174822",
+      "date": "1984-02-28T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 49
+    },
+    "51": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 208,
+      "subtitle": "\"The Deadliest Night of My Life\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/48/Daredevil_Vol_1_208.jpg/revision/latest/scale-to-width-down/131?cb=20070211173649",
+      "date": "1984-03-27T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 50
+    },
+    "52": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 209,
+      "subtitle": "\"Blast from the Past\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2c/Daredevil_Vol_1_209.jpg/revision/latest/scale-to-width-down/131?cb=20080810174945",
+      "date": "1984-04-24T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 51
+    },
+    "53": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 210,
+      "subtitle": "\"Survivor\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4a/Daredevil_Vol_1_210.jpg/revision/latest/scale-to-width-down/133?cb=20080810175113",
+      "date": "1984-05-22T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 52
+    },
+    "54": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 211,
+      "subtitle": "\"This Hungry God\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c7/Daredevil_Vol_1_211.jpg/revision/latest/scale-to-width-down/131?cb=20080810175243",
+      "date": "1984-06-26T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 53
+    },
+    "55": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 212,
+      "subtitle": "\"Lies\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/ed/Daredevil_Vol_1_212.jpg/revision/latest/scale-to-width-down/131?cb=20080810175407",
+      "date": "1984-07-24T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 54
+    },
+    "56": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 213,
+      "subtitle": "\"The Blindness Men Wish For\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a6/Daredevil_Vol_1_213.jpg/revision/latest/scale-to-width-down/131?cb=20080810175531",
+      "date": "1984-12-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 55
+    },
+    "57": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 214,
+      "subtitle": "\"The Crumbling\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4e/Daredevil_Vol_1_214.jpg/revision/latest/scale-to-width-down/131?cb=20080810175716",
+      "date": "1985-01-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 56
+    },
+    "58": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 215,
+      "subtitle": "\"Prophecy\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/70/Daredevil_Vol_1_215.jpg/revision/latest/scale-to-width-down/131?cb=20080810175843",
+      "date": "1985-02-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 57
+    },
+    "59": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 216,
+      "subtitle": "\"The Second Secret\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/85/Daredevil_Vol_1_216.jpg/revision/latest/scale-to-width-down/129?cb=20080810180022",
+      "date": "1985-03-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 58
+    },
+    "60": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 217,
+      "subtitle": "\"The Sight Stealer\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/05/Daredevil_Vol_1_217.jpg/revision/latest/scale-to-width-down/132?cb=20080810180151",
+      "date": "1985-04-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 59
+    },
+    "61": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 218,
+      "subtitle": "\"All My Laurels You Have Riven Away\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e0/Daredevil_Vol_1_218.jpg/revision/latest/scale-to-width-down/131?cb=20080810180324",
+      "date": "1985-05-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 60
+    },
+    "62": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 219,
+      "subtitle": "\"Badlands\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e6/Daredevil_Vol_1_219.jpg/revision/latest/scale-to-width-down/131?cb=20080810180511",
+      "date": "1985-06-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 61
+    },
+    "63": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 220,
+      "subtitle": "\"Fog\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/57/Daredevil_Vol_1_220.jpg/revision/latest/scale-to-width-down/131?cb=20080810180635",
+      "date": "1985-07-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 62
+    },
+    "64": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 221,
+      "subtitle": "\"Behold My Vengeance\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a1/Daredevil_Vol_1_221.jpg/revision/latest/scale-to-width-down/128?cb=20201103071934",
+      "date": "1985-08-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 63
+    },
+    "65": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 222,
+      "subtitle": "\"Fear In a Handful of Dust\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5b/Daredevil_Vol_1_222.jpg/revision/latest/scale-to-width-down/129?cb=20080810181108",
+      "date": "1985-09-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 64
+    },
+    "66": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 223,
+      "subtitle": "\"The Price\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/18/Daredevil_Vol_1_223.jpg/revision/latest/scale-to-width-down/131?cb=20080810181240",
+      "date": "1985-10-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 65
+    },
+    "67": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 224,
+      "subtitle": "\"Abe\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/84/Daredevil_Vol_1_224.jpg/revision/latest/scale-to-width-down/132?cb=20080810181813",
+      "date": "1985-11-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 66
+    },
+    "68": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 225,
+      "subtitle": "\"And Then You Die\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e9/Daredevil_Vol_1_225.jpg/revision/latest/scale-to-width-down/130?cb=20080810181950",
+      "date": "1985-12-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 67
+    },
+    "69": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 226,
+      "subtitle": "\"Warriors\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4b/Daredevil_Vol_1_226.jpg/revision/latest/scale-to-width-down/130?cb=20080810182113",
+      "date": "1986-01-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 68
+    },
+    "70": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 227,
+      "subtitle": "\"Apocalypse\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/ce/Daredevil_Vol_1_227.jpg/revision/latest/scale-to-width-down/130?cb=20080810182243",
+      "date": "1986-02-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 69
+    },
+    "71": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 228,
+      "subtitle": "\"Purgatory\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/14/Daredevil_Vol_1_228.jpg/revision/latest/scale-to-width-down/131?cb=20080810182410",
+      "date": "1986-03-01T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 70
+    },
+    "72": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 229,
+      "subtitle": "\"Pariah\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/65/Daredevil_Vol_1_229.jpg/revision/latest/scale-to-width-down/132?cb=20080810182543",
+      "date": "1986-04-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 71
+    },
+    "73": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 230,
+      "subtitle": "\"Born Again\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2b/Daredevil_Vol_1_230.jpg/revision/latest/scale-to-width-down/132?cb=20080810182711",
+      "date": "1986-05-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 72
+    },
+    "74": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 231,
+      "subtitle": "\"Saved\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4e/Daredevil_Vol_1_231.jpg/revision/latest/scale-to-width-down/131?cb=20080810182904",
+      "date": "1986-06-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 73
+    },
+    "75": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 232,
+      "subtitle": "\"God and Country\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e8/Daredevil_Vol_1_232.jpg/revision/latest/scale-to-width-down/130?cb=20080810183037",
+      "date": "1986-07-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 74
+    },
+    "76": {
+      "title": "Daredevil",
+      "vol": 1,
+      "no": 233,
+      "subtitle": "\"Armageddon\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/bb/Daredevil_Vol_1_233.jpg/revision/latest/scale-to-width-down/131?cb=20080810183157",
+      "date": "1986-08-01T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 75
+    },
+    "77": {
+      "title": "Daredevil: The Man Without Fear",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Daredevil: The Man Without Fear\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b4/Daredevil_The_Man_Without_Fear_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20180403031400",
+      "date": "1993-08-24T10:00:00.000Z",
+      "serie_id": 1,
+      "order": 76
+    },
+    "78": {
+      "title": "Daredevil: The Man Without Fear",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Daredevil: The Man Without Fear\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b3/Daredevil_The_Man_Without_Fear_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20180403031423",
+      "date": "1993-09-28T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 77
+    },
+    "79": {
+      "title": "Daredevil: The Man Without Fear",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Daredevil: The Man Without Fear\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/12/Daredevil_The_Man_Without_Fear_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20180403031454",
+      "date": "1993-10-26T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 78
+    },
+    "80": {
+      "title": "Daredevil: The Man Without Fear",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Daredevil: The Man Without Fear\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/82/Daredevil_The_Man_Without_Fear_Vol_1_4.jpg/revision/latest/scale-to-width-down/130?cb=20180403031521",
+      "date": "1993-11-23T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 79
+    },
+    "81": {
+      "title": "Daredevil: The Man Without Fear",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"Daredevil: The Man Without Fear\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a5/Daredevil_The_Man_Without_Fear_Vol_1_5.jpg/revision/latest/scale-to-width-down/130?cb=20180403032853",
+      "date": "1993-12-28T11:00:00.000Z",
+      "serie_id": 1,
+      "order": 80
+    }
+  },
   "meta": {
-    "nextIndex": 1
+    "nextIndex": 82
   }
 }
