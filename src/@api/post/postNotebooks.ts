@@ -80,7 +80,7 @@ const postNotebooks: ApiHandler = async (req, res) => {
             ...notebooks,
             [id]: {
               ...body,
-              order: body.order || meta.nextIndex - 1,
+              order: body.order !== null ? body.order : meta.nextIndex - 1,
             },
           },
           meta: reqId ? meta : { nextIndex: meta.nextIndex + 1 },

@@ -3,37 +3,44 @@
     "1": {
       "name": "Oryginalni X-Men",
       "order": 0,
-      "wave_id": 1
+      "wave_id": 1,
+      "is_filter": true
     },
     "2": {
       "name": "Nowi X-Men",
       "order": 1,
-      "wave_id": 1
+      "wave_id": 1,
+      "is_filter": true
     },
     "3": {
       "name": "Wolverine",
       "order": 2,
-      "wave_id": 1
+      "wave_id": 1,
+      "is_filter": true
     },
     "4": {
       "name": "Deadpool",
       "order": 3,
-      "wave_id": 1
+      "wave_id": 1,
+      "is_filter": true
     },
     "5": {
       "name": "Legion",
       "order": 5,
-      "wave_id": 2
+      "wave_id": 2,
+      "is_filter": true
     },
     "6": {
       "name": "Gifted",
       "order": 6,
-      "wave_id": 2
+      "wave_id": 2,
+      "is_filter": true
     },
     "7": {
       "name": "Nowi Mutanci",
       "order": 4,
-      "wave_id": 1
+      "wave_id": 1,
+      "is_filter": true
     }
   },
   "meta": {

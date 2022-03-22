@@ -3,12 +3,14 @@
     "1": {
       "name": "Filmy",
       "order": 0,
-      "wave_id": 1
+      "wave_id": 1,
+      "is_filter": true
     },
     "2": {
       "name": "Seriale",
       "order": 1,
-      "wave_id": 2
+      "wave_id": 2,
+      "is_filter": true
     }
   },
   "meta": {

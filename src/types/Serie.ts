@@ -2,6 +2,7 @@ type ApiSerie = {
   name: string;
   order: number;
   wave_id: number;
+  is_filter: boolean;
 };
 
 type Serie = ApiSerie & {

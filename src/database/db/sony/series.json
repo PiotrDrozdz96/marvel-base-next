@@ -3,22 +3,26 @@
     "1": {
       "name": "Raimi Spider-Man",
       "order": 0,
-      "wave_id": 1
+      "wave_id": 1,
+      "is_filter": true
     },
     "2": {
       "name": "Niesamowity Spider-Man",
       "order": 1,
-      "wave_id": 2
+      "wave_id": 2,
+      "is_filter": true
     },
     "3": {
       "name": "Holland Spider-Man",
       "order": 2,
-      "wave_id": 3
+      "wave_id": 3,
+      "is_filter": true
     },
     "4": {
       "name": "Venom",
       "order": 3,
-      "wave_id": 4
+      "wave_id": 4,
+      "is_filter": true
     }
   },
   "meta": {

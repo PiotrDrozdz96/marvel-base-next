@@ -7,4 +7,5 @@ export default {
   name: 'Nazwa',
   order: 'Kolejność',
   waveId: 'Nurt',
+  isFilter: 'Jest filtrem?',
 };

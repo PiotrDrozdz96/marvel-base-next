@@ -9,7 +9,7 @@ import { interpolate } from 'utils/interpolate';
 import pick from 'utils/pick';
 import reorderApi from '@api/reorder';
 
-const seriesFields: (keyof ApiSerie)[] = ['name', 'order', 'wave_id'];
+const seriesFields: (keyof ApiSerie)[] = ['name', 'order', 'wave_id', 'is_filter'];
 const seriesRequiredFields: (keyof ApiSerie)[] = ['name', 'wave_id'];
 
 const postSeries: ApiHandler = async (req, res) => {
@@ -71,7 +71,7 @@ const postSeries: ApiHandler = async (req, res) => {
             ...series,
             [id]: {
               ...body,
-              order: body.order || meta.nextIndex - 1,
+              order: body.order !== null ? body.order : meta.nextIndex - 1,
             },
           },
           meta: reqId ? meta : { nextIndex: meta.nextIndex + 1 },

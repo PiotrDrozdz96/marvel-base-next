@@ -9,6 +9,7 @@ import FormContainer from '@components/FormContainer';
 import FormActions from '@components/FormActions';
 import Input from '@components/Input';
 import Select from '@components/Select';
+import Switch from '@components/Switch';
 
 import { numberFields } from './SeriesForm.consts';
 import seriesMessages from './Series.messages';
@@ -40,6 +41,7 @@ const SeriesForm = ({ variant, initialValues, databaseName, id, waves }: Props):
           <Input name="name" placeholder={seriesMessages.name} required />
           <Select name="wave_id" placeholder={seriesMessages.waveId} options={wavesOptions} required />
           <Input name="order" placeholder={seriesMessages.order} />
+          <Switch name="is_filter" placeholder={seriesMessages.isFilter} />
           <FormActions backHref={{ pathname: routes.db.id.show.href, query: { databaseName } }} />
         </form>
       )}

@@ -3,7 +3,8 @@
     "1": {
       "name": "Daredevil: Frank Miller",
       "order": 1,
-      "wave_id": 1
+      "wave_id": 1,
+      "is_filter": true
     }
   },
   "meta": {
