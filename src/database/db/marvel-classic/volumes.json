@@ -1,6 +1,16 @@
 {
-  "volumes": {},
+  "volumes": {
+    "1": {
+      "title": "Daredevil",
+      "subtitle": "Frank Miller - Tom 1",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/daredevil/1-marvel-classic/okladka-200.jpg",
+      "date": "1980-11-01T11:22:45.000Z",
+      "serie_id": 1,
+      "order": 0,
+      "global_order": 0
+    }
+  },
   "meta": {
-    "nextIndex": 1
+    "nextIndex": 2
   }
 }

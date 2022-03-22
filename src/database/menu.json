@@ -47,9 +47,25 @@
       "url": "/preview/disney/mcu",
       "icon": "",
       "parent_id": 2
+    },
+    "7": {
+      "name": "Komiksy",
+      "type": "MAIN_MENU",
+      "order": 6,
+      "url": "",
+      "icon": "reader",
+      "parent_id": 0
+    },
+    "8": {
+      "name": "Marvel Classic",
+      "type": "SUB_MENU",
+      "order": 7,
+      "url": "/preview/marvel-classic",
+      "icon": "",
+      "parent_id": 7
     }
   },
   "meta": {
-    "nextIndex": 7
+    "nextIndex": 9
   }
 }
