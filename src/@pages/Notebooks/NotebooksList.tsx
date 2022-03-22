@@ -37,7 +37,12 @@ const NotebooksList = ({ notebooks, databaseName, serieId }: Props): JSX.Element
       name={notebooksMessages.listName}
       addHref={{ pathname: routes.notebooks.id.href, query: { databaseName, id: 'create', serie_id: serieId } }}
       addHrefAs={{ pathname: `/db/${databaseName}/notebooks/create` }}
-      actions={<ImportButton databaseName={databaseName} id={serieId} />}
+      actions={
+        <ImportButton
+          url={{ pathname: routes.series.id.import.href, query: { databaseName, id: serieId } }}
+          withRange
+        />
+      }
       labels={labels}
       onDragEnd={onDragEnd}
     >

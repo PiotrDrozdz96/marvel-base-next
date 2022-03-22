@@ -1,9 +1,9 @@
 import { useState } from 'react';
 import { useRouter } from 'next/router';
 import { Form } from 'react-final-form';
+import { ParsedUrlQueryInput } from 'querystring';
 import { IoCloudDownload, IoAlertCircleOutline } from 'react-icons/io5';
 
-import routes from 'config/routes';
 import Modal from '@components/Modal';
 import Button from '@components/Button';
 import Input from '@components/Input';
@@ -12,11 +12,14 @@ import classes from '@components/ActionButton/ActionButton.module.scss';
 import messages from './ImportButton.messages';
 
 type Props = {
-  databaseName: string;
-  id: number;
+  url: {
+    pathname: string;
+    query: ParsedUrlQueryInput;
+  };
+  withRange?: boolean;
 };
 
-const ImportButton = ({ databaseName, id }: Props): JSX.Element => {
+const ImportButton = ({ url, withRange = false }: Props): JSX.Element => {
   const router = useRouter();
   const [isOpen, setIsOpen] = useState(false);
 
@@ -27,17 +30,17 @@ const ImportButton = ({ databaseName, id }: Props): JSX.Element => {
       </Button>
       <Modal isOpen={isOpen} onClose={() => setIsOpen(false)}>
         <div className={classes.modalHeader}>{messages.header}</div>
-        <Form
-          onSubmit={(values) =>
-            router.push({ pathname: routes.series.id.import.href, query: { databaseName, id, ...values } })
-          }
-        >
+        <Form onSubmit={(values) => router.push({ pathname: url.pathname, query: { ...url.query, ...values } })}>
           {({ handleSubmit }) => (
             <form onSubmit={handleSubmit}>
               <div className={classes.modalContent}>
                 <Input name="url" placeholder={messages.url} required />
-                <Input name="from" placeholder={messages.from} />
-                <Input name="to" placeholder={messages.to} />
+                {withRange && (
+                  <>
+                    <Input name="from" placeholder={messages.from} />
+                    <Input name="to" placeholder={messages.to} />
+                  </>
+                )}
               </div>
               <div className={classes.modalActions}>
                 <Button
