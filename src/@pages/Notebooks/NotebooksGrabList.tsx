@@ -1,5 +1,5 @@
 /* eslint-disable jsx-a11y/control-has-associated-label */
-import { useState } from 'react';
+import { useContext } from 'react';
 import { Form } from 'react-final-form';
 
 import routes from 'config/routes';
@@ -11,17 +11,27 @@ import Image from '@components/Image';
 import FormActions from '@components/FormActions';
 import Select from '@components/Select';
 import Input from '@components/Input';
+import ListRow from '@components/ListRow';
 import dateFormat from 'utils/dateFormat';
 import getFetch from 'utils/getFetch';
+import width from 'utils/width';
 
+import { NotebooksContext } from './NotebooksProvider';
 import notebooksMessages from './Notebooks.messages';
 
-type Props = {
-  notebooks: Notebook[];
-  serieId: string;
-  seriesOptions: SelectOption[];
-  databaseName: string;
-};
+type Props =
+  | {
+      variant: 'source';
+      serieId: string;
+      seriesOptions: SelectOption[];
+      databaseName: string;
+    }
+  | {
+      variant: 'target';
+      serieId?: never;
+      seriesOptions?: never;
+      databaseName?: never;
+    };
 
 type FormValues = {
   serie_id: string;
@@ -38,13 +48,8 @@ const labels: string[] = [
   notebooksMessages.date,
 ];
 
-const NotebooksGrabList = ({
-  notebooks: initialNotebooks,
-  databaseName,
-  seriesOptions,
-  serieId,
-}: Props): JSX.Element => {
-  const [notebooks, setNotebooks] = useState(initialNotebooks);
+const NotebooksGrabList = ({ variant, databaseName, seriesOptions, serieId }: Props): JSX.Element => {
+  const { notebooks, volumeNotebooks, setNotebooks } = useContext(NotebooksContext);
 
   const onSubmit = async (values: FormValues) => {
     const { notebooks: newNotebooks } = await getFetch<{ notebooks: Notebook[] }>(
@@ -60,42 +65,47 @@ const NotebooksGrabList = ({
       <List
         name={notebooksMessages.listName}
         labels={labels}
+        droppableId={variant}
         filters={
-          <Form initialValues={{ serie_id: serieId }} onSubmit={onSubmit}>
-            {({ handleSubmit }) => (
-              <form onSubmit={handleSubmit} className={classes.filters}>
-                <Select
-                  name="serie_id"
-                  placeholder={notebooksMessages.serie_id}
-                  options={seriesOptions}
-                  onChange={handleSubmit}
-                />
-                <Input name="no_from" placeholder={notebooksMessages.no_from} onBlur={handleSubmit} />
-                <button type="submit" style={{ display: 'none' }} />
-              </form>
-            )}
-          </Form>
+          variant === 'source' && (
+            <Form initialValues={{ serie_id: serieId }} onSubmit={onSubmit}>
+              {({ handleSubmit }) => (
+                <form onSubmit={handleSubmit} className={classes.filters}>
+                  <Select
+                    name="serie_id"
+                    placeholder={notebooksMessages.serie_id}
+                    options={seriesOptions}
+                    onChange={handleSubmit}
+                  />
+                  <Input name="no_from" placeholder={notebooksMessages.no_from} onBlur={handleSubmit} />
+                  <button type="submit" style={{ display: 'none' }} />
+                </form>
+              )}
+            </Form>
+          )
         }
         bottomActions={
-          <FormActions
-            backHref={{ pathname: routes.series.id.show.href, query: { databaseName, id: serieId } }}
-            withoutMovement
-            withoutSave
-          />
+          variant === 'source' && (
+            <FormActions
+              backHref={{ pathname: routes.series.id.show.href, query: { databaseName, id: serieId } }}
+              withoutMovement
+              withoutSave
+            />
+          )
         }
       >
-        {notebooks.map((notebook) => (
-          <tr key={notebook.no}>
-            <td>{notebook.id}</td>
-            <td>
+        {(variant === 'source' ? notebooks : volumeNotebooks).map((notebook, index) => (
+          <ListRow key={notebook.id} draggableId={`${variant}-${notebook.id}`} index={index}>
+            <td style={width(100)}>{notebook.id}</td>
+            <td style={width(100)}>
               <Image src={notebook.image_url} alt={notebook.title} preset="mini" withLink />
             </td>
-            <td>{notebook.title}</td>
-            <td>{notebook.subtitle}</td>
-            <td>{notebook.vol}</td>
-            <td>{notebook.no}</td>
-            <td>{dateFormat(notebook.date)}</td>
-          </tr>
+            <td style={width('33%')}>{notebook.title}</td>
+            <td style={width(100)}>{notebook.vol}</td>
+            <td style={width(100)}>{notebook.no}</td>
+            <td style={width('66%')}>{notebook.subtitle}</td>
+            <td style={width(200)}>{dateFormat(notebook.date)}</td>
+          </ListRow>
         ))}
       </List>
     </>

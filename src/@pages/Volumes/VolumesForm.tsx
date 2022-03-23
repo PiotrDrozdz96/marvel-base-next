@@ -1,5 +1,5 @@
 import routes from 'config/routes';
-
+import NotebooksProvider from '@pages/Notebooks/NotebooksProvider';
 import SelectOption from 'types/SelectOption';
 import { ApiVolume } from 'types/Volume';
 import { Serie } from 'types/Serie';
@@ -27,11 +27,18 @@ type Props = {
   id?: number;
 };
 
-const VolumesForm = ({ variant, initialValues, databaseName, id, series, notebooks }: Props): JSX.Element => {
+const VolumesForm = ({
+  variant,
+  initialValues,
+  databaseName,
+  id,
+  series,
+  notebooks: initialNotebooks,
+}: Props): JSX.Element => {
   const seriesOptions: SelectOption[] = series.map(({ id: serieId, name }) => ({ value: `${serieId}`, label: name }));
 
   return (
-    <>
+    <NotebooksProvider initialNotebooks={initialNotebooks} initialVolumeNotebooks={[]}>
       <FormContainer
         variant={variant}
         initialValues={{ ...initialValues, date: initialValues.date ? new Date(initialValues.date) : '' }}
@@ -51,6 +58,7 @@ const VolumesForm = ({ variant, initialValues, databaseName, id, series, noteboo
             <Select name="serie_id" placeholder={volumesMessages.serie_id} options={seriesOptions} required />
             <Input name="order" placeholder={volumesMessages.order} />
             <Input name="global_order" placeholder={volumesMessages.global_order} />
+            <NotebooksGrabList variant="target" />
             <FormActions
               backHref={{ pathname: routes.series.id.show.href, query: { id: initialValues.serie_id, databaseName } }}
             />
@@ -59,12 +67,12 @@ const VolumesForm = ({ variant, initialValues, databaseName, id, series, noteboo
       </FormContainer>
       <Spacing />
       <NotebooksGrabList
+        variant="source"
         databaseName={databaseName}
-        notebooks={notebooks}
         seriesOptions={seriesOptions}
         serieId={initialValues.serie_id}
       />
-    </>
+    </NotebooksProvider>
   );
 };
 

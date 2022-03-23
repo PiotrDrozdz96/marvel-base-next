@@ -1,7 +1,6 @@
 import { useState, useEffect } from 'react';
+import { DropResult } from 'react-beautiful-dnd';
 import { arrayMoveImmutable } from 'array-move';
-
-import OnDragEnd from 'types/OnDragEnd';
 
 const useDraggableItems = <T extends { id: number }>(
   initialItems: T[],
@@ -24,9 +23,11 @@ const useDraggableItems = <T extends { id: number }>(
       .then((data) => setItems(data));
   };
 
-  const onDragEnd: OnDragEnd = ([source, destination]) => {
-    const newItems = arrayMoveImmutable(items, source, destination);
-    reorder(newItems);
+  const onDragEnd = ({ source, destination }: DropResult) => {
+    if (destination) {
+      const newItems = arrayMoveImmutable(items, source.index, destination.index);
+      reorder(newItems);
+    }
   };
 
   const getRowProps = (item: { id: number }, index: number) => ({

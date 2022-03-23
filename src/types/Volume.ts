@@ -1,3 +1,5 @@
+import { Notebook } from 'types/Notebook';
+
 type ApiVolume = {
   title: string;
   subtitle: string;
@@ -6,6 +8,7 @@ type ApiVolume = {
   serie_id: number;
   order: number;
   global_order: number;
+  notebooks_ids: number[];
 };
 
 type Volume = ApiVolume & {
@@ -14,6 +17,7 @@ type Volume = ApiVolume & {
 
 type FrontVolume = Volume & {
   serieName: string;
+  notebooks: Notebook[];
 };
 
 export type { ApiVolume, Volume, FrontVolume };

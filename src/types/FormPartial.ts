@@ -1,4 +1,4 @@
-type FormPartial<T, BooleanKey extends keyof T = never> = Record<Exclude<keyof T, BooleanKey>, string> &
-  Record<BooleanKey, boolean>;
+type FormPartial<T, OriginalKey extends keyof T = never> = Record<Exclude<keyof T, OriginalKey>, string> &
+  Pick<T, OriginalKey>;
 
 export default FormPartial;
