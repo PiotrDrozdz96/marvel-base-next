@@ -1,23 +1,19 @@
 import ApiHandler from 'types/ApiHandler';
-import messages from 'utils/apiValidators/apiValidators.messages';
-
-const defaultDeleteHandler: ApiHandler = (req, res) =>
-  new Promise((resolve) => {
-    resolve(res.status(405).send({ message: messages.post }));
-  });
+import notFound from 'utils/notFoundApiHandler';
 
 const apiBuilder =
-  (postHandler: ApiHandler, deleteHandler: ApiHandler = defaultDeleteHandler): ApiHandler =>
+  (postHandler: ApiHandler, deleteHandler: ApiHandler = notFound, getHandler: ApiHandler = notFound): ApiHandler =>
   (req, res) => {
-    if (req.method === 'DELETE') {
-      return deleteHandler(req, res);
+    switch (req.method) {
+      case 'DELETE':
+        return deleteHandler(req, res);
+      case 'POST':
+        return postHandler(req, res);
+      case 'GET':
+        return getHandler(req, res);
+      default:
+        return notFound(req, res);
     }
-    if (req.method === 'POST') {
-      return postHandler(req, res);
-    }
-    return new Promise((resolve) => {
-      resolve(res.status(405).send({ message: messages.postAndDelete }));
-    });
   };
 
 export default apiBuilder;

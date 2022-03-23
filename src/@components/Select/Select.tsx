@@ -1,6 +1,5 @@
 import { ChangeEvent, useRef, useState } from 'react';
 import classNames from 'classnames';
-import { IoTriangle } from 'react-icons/io5';
 
 import SelectOption from 'types/SelectOption';
 import Input from '@components/Input/Input';
@@ -50,11 +49,6 @@ const Select = ({ name, options, error, value, placeholder, required, onChange }
           required={required}
           placeholder={placeholder}
           value={options.find((option) => option.value === value)?.label || ''}
-          endAdornment={
-            <div className={classNames(classes.icon, { [classes.iconClosed]: isOpen })}>
-              <IoTriangle />
-            </div>
-          }
           readOnly
         />
       </div>

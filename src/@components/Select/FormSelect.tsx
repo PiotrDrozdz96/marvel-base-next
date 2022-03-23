@@ -20,8 +20,8 @@ const FormSelect = ({ name, placeholder, options, required, onChange }: Props): 
         {...input}
         {...meta}
         onChange={(e) => {
-          onChange?.();
           input.onChange(e);
+          onChange?.();
         }}
         options={options}
         error={touched && error}

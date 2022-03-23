@@ -48,12 +48,3 @@
   visibility: visible;
   transform: scale(1);
 };
-
-.icon {
-  opacity: 0.6;
-  transition: transform 200ms;
-};
-
-.iconClosed {
-  transform: rotate(180deg);
-};

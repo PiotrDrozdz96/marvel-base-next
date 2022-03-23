@@ -9,15 +9,11 @@ import postVolumes from '@api/post/postVolumes';
 import postWaves from '@api/post/postWaves';
 import ApiHandler from 'types/ApiHandler';
 import apiBuilder from 'utils/apiBuilder';
+import notFound from 'utils/notFoundApiHandler';
 
 type RecordName = 'waves' | 'series' | 'volumes' | 'notebooks' | 'aliases';
 
 const recordsName = ['waves', 'series', 'volumes', 'notebooks', 'aliases'];
-
-const notFound: ApiHandler = async (req, res) =>
-  new Promise((resolve) => {
-    resolve(res.status(404).end());
-  });
 
 const handlersMap: Record<RecordName, [ApiHandler, ApiHandler]> = {
   waves: [postWaves, deleteWaves],
