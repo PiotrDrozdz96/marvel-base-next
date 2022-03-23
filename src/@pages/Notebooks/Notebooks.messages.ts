@@ -12,4 +12,5 @@ export default {
   date: 'Data',
   serie_id: 'Seria',
   order: 'Kolejność',
+  no_from: 'Od numeru',
 };

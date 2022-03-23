@@ -7,7 +7,7 @@ import mapApiToFront from 'utils/mapApiToFront';
 
 const getNotebooks: ApiHandler = async (req, res) =>
   new Promise((resolve) => {
-    const { databaseName, serie_id: serieId } = req.query as Record<string, string>;
+    const { databaseName, serie_id: serieId, no_from: noFrom } = req.query as Record<string, string>;
 
     fs.readFile(`src/database/db/${databaseName}/notebooks.json`, 'utf8', (err, data) => {
       if (err) {
@@ -16,7 +16,11 @@ const getNotebooks: ApiHandler = async (req, res) =>
       }
       const { notebooks } = JSON.parse(data) as JsonData<'notebooks', ApiNotebook>;
       const notebooksArray = mapApiToFront(notebooks);
-      const result = notebooksArray.filter((notebook) => notebook.serie_id === Number(serieId));
+      let result = notebooksArray.filter((notebook) => notebook.serie_id === Number(serieId));
+
+      if (noFrom) {
+        result = result.filter((notebook) => notebook.no >= Number(noFrom));
+      }
 
       resolve(res.status(200).json({ notebooks: result }));
     });

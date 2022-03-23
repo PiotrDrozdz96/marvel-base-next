@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/label-has-associated-control */
 import { DetailedHTMLProps, forwardRef, InputHTMLAttributes, ReactNode } from 'react';
 import classNames from 'classnames';
 
@@ -30,27 +31,28 @@ const Input = forwardRef<HTMLInputElement, Props>(
     },
     ref
   ): JSX.Element => (
-    // eslint-disable-next-line jsx-a11y/label-has-associated-control
-    <label className={classes.label}>
-      <input
-        id={id}
-        ref={ref}
-        name={name}
-        value={value}
-        disabled={disabled}
-        readOnly={readOnly}
-        type="text"
-        className={classNames(classes.input, { [classes.errorInput]: error })}
-        placeholder=" "
-        onBlur={onBlur}
-        onInput={onInput}
-        onClick={onClick}
-        onChange={onChange}
-      />
-      <div className={classes.placeholder}>{required ? `${placeholder}*` : placeholder}</div>
-      <div className={classes.endAdornment}>{endAdornment}</div>
-      <div className={classes.error}>{error}</div>
-    </label>
+    <div>
+      <label className={classes.label}>
+        <input
+          id={id}
+          ref={ref}
+          name={name}
+          value={value}
+          disabled={disabled}
+          readOnly={readOnly}
+          type="text"
+          className={classNames(classes.input, { [classes.errorInput]: error })}
+          placeholder=" "
+          onBlur={onBlur}
+          onInput={onInput}
+          onClick={onClick}
+          onChange={onChange}
+        />
+        <div className={classes.placeholder}>{required ? `${placeholder}*` : placeholder}</div>
+        <div className={classes.endAdornment}>{endAdornment}</div>
+        <div className={classes.error}>{error}</div>
+      </label>
+    </div>
   )
 );
 
