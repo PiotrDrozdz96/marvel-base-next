@@ -74,7 +74,7 @@ const NotebooksGrabList = ({ variant, databaseName, seriesOptions, serieId }: Pr
                   <Select
                     name="serie_id"
                     placeholder={notebooksMessages.serie_id}
-                    options={seriesOptions}
+                    options={seriesOptions as SelectOption[]}
                     onChange={handleSubmit}
                   />
                   <Input name="no_from" placeholder={notebooksMessages.no_from} onBlur={handleSubmit} />
