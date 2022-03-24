@@ -75,6 +75,7 @@ const NotebooksImportList = ({ notebooks, databaseName, serie }: Props): JSX.Ele
         name={notebooksMessages.listName}
         labels={labels}
         bottomActions={<FormActions backHref={backHref} onSave={onSubmit} withoutMovement />}
+        onDragEnd={() => {}}
       >
         {items.map((notebook, index) => (
           <tr key={notebook.no}>
