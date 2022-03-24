@@ -1,5 +1,3 @@
-import { Notebook } from 'types/Notebook';
-
 type ApiVolume = {
   title: string;
   subtitle: string;
@@ -17,7 +15,6 @@ type Volume = ApiVolume & {
 
 type FrontVolume = Volume & {
   serieName: string;
-  notebooks: Notebook[];
 };
 
 export type { ApiVolume, Volume, FrontVolume };

@@ -15,6 +15,7 @@ const AliasesList = ({ aliases, databaseName }: Props): JSX.Element => (
     name={databaseMessages.listName}
     addHref={{ pathname: routes.aliases.create.href, query: { databaseName } }}
     labels={[databaseMessages.name, databaseMessages.params, '']}
+    onDragEnd={() => {}}
   >
     {aliases.map((item) => (
       <tr key={item.name}>

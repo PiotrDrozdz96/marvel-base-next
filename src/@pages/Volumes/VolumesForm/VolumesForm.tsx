@@ -1,11 +1,11 @@
+import { useContext } from 'react';
+
 import routes from 'config/routes';
-import NotebooksProvider from '@pages/Notebooks/NotebooksProvider';
 import SelectOption from 'types/SelectOption';
 import { ApiVolume } from 'types/Volume';
-import { Serie } from 'types/Serie';
 import FormVariant from 'types/FormVariant';
 import FormPartial from 'types/FormPartial';
-import { Notebook } from 'types/Notebook';
+import { NotebooksContext } from '@pages/Notebooks/NotebooksProvider';
 import NotebooksGrabList from '@pages/Notebooks/NotebooksGrabList';
 import FormContainer from '@components/FormContainer';
 import FormActions from '@components/FormActions';
@@ -15,30 +15,22 @@ import Select from '@components/Select';
 import ImageInput from '@components/ImageInput';
 import Spacing from '@components/Spacing';
 
-import { numberFields } from './VolumeForm.consts';
-import volumesMessages from './Volumes.messages';
+import { numberFields } from '../VolumeForm.consts';
+import volumesMessages from '../Volumes.messages';
 
 type Props = {
   initialValues: FormPartial<ApiVolume>;
-  series: Serie[];
-  notebooks: Notebook[];
+  seriesOptions: SelectOption[];
   variant: FormVariant;
   databaseName: string;
   id?: number;
 };
 
-const VolumesForm = ({
-  variant,
-  initialValues,
-  databaseName,
-  id,
-  series,
-  notebooks: initialNotebooks,
-}: Props): JSX.Element => {
-  const seriesOptions: SelectOption[] = series.map(({ id: serieId, name }) => ({ value: `${serieId}`, label: name }));
+const VolumesForm = ({ variant, initialValues, databaseName, seriesOptions, id }: Props): JSX.Element => {
+  const { notebooksIds } = useContext(NotebooksContext);
 
   return (
-    <NotebooksProvider initialNotebooks={initialNotebooks} initialVolumeNotebooks={[]}>
+    <>
       <FormContainer
         variant={variant}
         initialValues={{ ...initialValues, date: initialValues.date ? new Date(initialValues.date) : '' }}
@@ -48,6 +40,7 @@ const VolumesForm = ({
         id={id}
         showPathname={routes.volumes.id.show.href}
         query={{ databaseName, id }}
+        additionalValues={{ notebooks_ids: notebooksIds }}
       >
         {({ handleSubmit }) => (
           <form onSubmit={handleSubmit}>
@@ -72,7 +65,7 @@ const VolumesForm = ({
         seriesOptions={seriesOptions}
         serieId={initialValues.serie_id}
       />
-    </NotebooksProvider>
+    </>
   );
 };
 

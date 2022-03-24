@@ -15,6 +15,7 @@ const DatabaseList = ({ databases }: Props): JSX.Element => (
     name={databaseMessages.listName}
     addHref={{ pathname: routes.db.id.href, query: { databaseName: 'create' } }}
     labels={[databaseMessages.name, databaseMessages.size, '']}
+    onDragEnd={() => {}}
   >
     {databases.map((item) => (
       <tr key={item.name}>

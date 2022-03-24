@@ -24,6 +24,7 @@ type Props<FormValues> = {
   query?: UrlObject['query'];
   numberFields?: (keyof FormValues)[];
   showPathname?: string;
+  additionalValues?: Record<string, unknown>;
   children: ((props: FormRenderProps<FormValues, Partial<FormValues>>) => ReactNode) | ReactNode;
 };
 
@@ -38,6 +39,7 @@ const FormContainer = <FormValues,>({
   children,
   query,
   numberFields,
+  additionalValues,
 }: Props<FormValues>): JSX.Element => {
   const router = useRouter();
 
@@ -46,7 +48,7 @@ const FormContainer = <FormValues,>({
 
     await fetch(variant === 'create' ? `/api/${databaseName}` : `/api/${databaseName}/${id}`, {
       method: 'POST',
-      body: JSON.stringify({ ...values, ...numberValues }),
+      body: JSON.stringify({ ...values, ...numberValues, ...additionalValues }),
     });
     router.back();
   };

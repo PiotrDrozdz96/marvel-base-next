@@ -21,6 +21,7 @@ type Props = {
   initialValues: FormPartial<ApiVolume>;
   series: Serie[];
   notebooks: Notebook[];
+  volumeNotebooks: Notebook[];
 };
 
 export const getServerSideProps: AppServerSideProps<Props> = async ({ params, query }) => {
@@ -38,11 +39,27 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
   }
 
   let notebooks: Notebook[] = [];
+  let volumeNotebooks: Notebook[] = [];
 
-  if ((isCreate && serieId) || (!isCreate && volumes[id].serie_id)) {
-    notebooks = await getNotebooks(databaseName, (notebook) =>
-      isCreate ? notebook.serie_id === Number(serieId) : notebook.serie_id === volumes[id].serie_id
-    );
+  if (
+    (isCreate && serieId) ||
+    (!isCreate && volumes[id].serie_id) ||
+    (!isCreate && volumes[id].notebooks_ids?.length)
+  ) {
+    const { notebooks: allNotebooks } = await get(databaseName, 'notebooks');
+
+    if ((isCreate && serieId) || (!isCreate && volumes[id].serie_id)) {
+      notebooks = mapApiToFront(allNotebooks).filter((notebook) =>
+        isCreate ? notebook.serie_id === Number(serieId) : notebook.serie_id === volumes[id].serie_id
+      );
+    }
+
+    if (!isCreate && volumes[id].notebooks_ids?.length) {
+      volumeNotebooks = volumes[id].notebooks_ids.map((notebookId) => ({
+        ...allNotebooks[notebookId],
+        id: notebookId,
+      }));
+    }
   }
 
   return {
@@ -54,6 +71,7 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
       databaseName,
       series: mapApiToFront(series),
       notebooks,
+      volumeNotebooks,
       initialValues: !isCreate
         ? {
             ...(volumes[id] as unknown as FormPartial<ApiVolume>),
@@ -75,6 +93,7 @@ const NotebooksFormPage = ({
   initialValues,
   series,
   notebooks,
+  volumeNotebooks,
 }: InferGetServerSidePropsType<typeof getServerSideProps>) => (
   <VolumesForm
     variant={variant}
@@ -83,6 +102,7 @@ const NotebooksFormPage = ({
     initialValues={initialValues}
     series={series}
     notebooks={notebooks}
+    volumeNotebooks={volumeNotebooks}
   />
 );
 
