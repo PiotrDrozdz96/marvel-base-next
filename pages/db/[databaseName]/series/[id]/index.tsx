@@ -20,9 +20,10 @@ type Props = {
   waves: Wave[];
 };
 
-export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) => {
+export const getServerSideProps: AppServerSideProps<Props> = async ({ params, query }) => {
   const databaseName = params?.databaseName as string;
   const id = params?.id as number | 'create';
+  const waveId = query?.wave_id as string;
 
   const menu = await getMenu();
   const { waves } = await get(databaseName, 'waves');
@@ -46,7 +47,7 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) 
             ...(series[id] as unknown as FormPartial<ApiSerie, 'is_filter'>),
             ...convertValuesTo(String, series[id], numberFields),
           }
-        : defaultValues,
+        : { ...defaultValues, wave_id: waveId || defaultValues.wave_id },
     },
   };
 };

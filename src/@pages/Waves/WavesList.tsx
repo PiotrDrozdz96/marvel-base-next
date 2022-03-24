@@ -34,7 +34,6 @@ const WavesList = ({ waves, databaseName }: Props): JSX.Element => {
             id={wave.id}
             databaseName={`db/${databaseName}/waves`}
             query={{ databaseName, id: wave.id }}
-            withoutShow
           />
         </ListRow>
       ))}

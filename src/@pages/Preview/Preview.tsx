@@ -90,7 +90,6 @@ const Preview = ({ volumes, databaseName, filters, wavesIds, seriesIds }: Props)
           pathname: routes.aliases.create.href,
           query: { databaseName, params: getSearchParams(wavesIds, seriesIds) },
         }}
-        as={`/db/${databaseName}/aliases/create`}
       >
         {messages.saveAlias}
       </Button>

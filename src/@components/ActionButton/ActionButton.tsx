@@ -13,7 +13,6 @@ type Variant = 'add' | 'edit' | 'delete' | 'show' | 'sortByDate';
 export type Props = {
   variant: Variant;
   href?: ButtonProps['href'];
-  as?: ButtonProps['as'];
   itemName?: string;
   onDelete?: () => void;
   onClick?: () => void;
@@ -27,7 +26,7 @@ const iconMap: Record<Variant, ReactNode> = {
   sortByDate: <IoCalendar />,
 };
 
-const ActionButton = ({ variant, itemName, href, as, onDelete, onClick }: Props): JSX.Element => {
+const ActionButton = ({ variant, itemName, href, onDelete, onClick }: Props): JSX.Element => {
   const [isOpen, setIsOpen] = useState(false);
 
   const isDeleteVariant = variant === 'delete';
@@ -37,7 +36,6 @@ const ActionButton = ({ variant, itemName, href, as, onDelete, onClick }: Props)
       <Button
         type={['delete', 'sortByDate'].includes(variant) ? 'button' : 'link'}
         href={href}
-        as={as}
         icon={iconMap[variant]}
         onClick={isDeleteVariant ? () => setIsOpen(true) : onClick}
       >

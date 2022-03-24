@@ -16,7 +16,6 @@ type Props = {
   actions?: ReactNode;
   bottomActions?: ReactNode;
   addHref?: ActionButtonProps['href'];
-  addHrefAs?: ActionButtonProps['as'];
   onDragEnd?: (result: DropResult, provided: ResponderProvided) => void;
 };
 
@@ -25,7 +24,6 @@ const List = ({
   droppableId = 'droppable',
   filters,
   addHref,
-  addHrefAs,
   labels,
   children,
   actions,
@@ -39,7 +37,7 @@ const List = ({
   return (
     <Container>
       <Toolbar name={name} filters={filters}>
-        {!!addHref && <ActionButton variant="add" href={addHref} as={addHrefAs} />}
+        {!!addHref && <ActionButton variant="add" href={addHref} />}
         {actions}
       </Toolbar>
       <ContextComponent {...contextProps}>

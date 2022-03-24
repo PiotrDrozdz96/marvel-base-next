@@ -22,7 +22,6 @@ const MenuList = ({ menu, query }: Props): JSX.Element => {
     <List
       name={menuMessages.listName}
       addHref={{ pathname: routes.menu.id.href, query: { id: 'create', ...query } }}
-      addHrefAs={{ pathname: '/menu/create' }}
       labels={labels}
       onDragEnd={onDragEnd}
     >
