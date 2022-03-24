@@ -63,7 +63,7 @@ const NotebooksGrabList = ({ variant, databaseName, seriesOptions, serieId }: Pr
   return (
     <>
       <List
-        name={notebooksMessages.listName}
+        name={variant === 'target' ? notebooksMessages.listNameInVolume : notebooksMessages.listName}
         labels={labels}
         droppableId={variant}
         filters={

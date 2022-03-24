@@ -1,5 +1,6 @@
 export default {
   listName: 'Lista Zeszytów',
+  listNameInVolume: 'Lista zeszytów w tomie',
   createName: 'Stwórz Zeszyt',
   editName: 'Edytuj Zeszyt #{id}',
   itemName: 'Zeszyt #{id}',
