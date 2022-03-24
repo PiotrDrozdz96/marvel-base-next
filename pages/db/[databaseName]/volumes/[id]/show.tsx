@@ -2,12 +2,15 @@ import { InferGetServerSidePropsType } from 'next';
 
 import AppServerSideProps from 'types/AppServerSideProps';
 import { FrontVolume } from 'types/Volume';
+import { Notebook } from 'types/Notebook';
 import VolumesShow from '@pages/Volumes/VolumesShow';
 import getMenu from '@api/get/front/getMenu';
 import getVolume from '@api/get/front/getVolume';
+import get from '@api/get';
 
 type Props = {
   item: FrontVolume;
+  notebooks: Notebook[];
   databaseName: string;
 };
 
@@ -20,6 +23,16 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) 
     return { notFound: true };
   }
 
+  let volumeNotebooks: Notebook[] = [];
+
+  if (item.notebooks_ids.length) {
+    const { notebooks } = await get(databaseName, 'notebooks');
+    volumeNotebooks = item.notebooks_ids.map((notebookId) => ({
+      ...notebooks[notebookId],
+      id: notebookId,
+    }));
+  }
+
   const menu = await getMenu();
 
   return {
@@ -28,12 +41,13 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) 
       menu,
       item,
       databaseName,
+      notebooks: volumeNotebooks,
     },
   };
 };
 
-const VolumesShowPage = ({ item, databaseName }: InferGetServerSidePropsType<typeof getServerSideProps>) => (
-  <VolumesShow item={item} databaseName={databaseName} />
+const VolumesShowPage = ({ item, databaseName, notebooks }: InferGetServerSidePropsType<typeof getServerSideProps>) => (
+  <VolumesShow item={item} databaseName={databaseName} notebooks={notebooks} />
 );
 
 export default VolumesShowPage;

@@ -11,4 +11,5 @@ export default {
   serie_id: 'Seria',
   order: 'Kolejność',
   global_order: 'Globalna Kolejność',
+  notebooks: 'Zeszyty',
 };

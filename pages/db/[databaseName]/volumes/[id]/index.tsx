@@ -8,7 +8,6 @@ import { Serie } from 'types/Serie';
 import { Notebook } from 'types/Notebook';
 import get from '@api/get';
 import getMenu from '@api/get/front/getMenu';
-import getNotebooks from '@api/get/front/getNotebooks';
 import VolumesForm from '@pages/Volumes/VolumesForm';
 import { defaultValues, numberFields } from '@pages/Volumes/VolumeForm.consts';
 import mapApiToFront from 'utils/mapApiToFront';
