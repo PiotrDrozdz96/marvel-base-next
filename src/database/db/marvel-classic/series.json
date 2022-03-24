@@ -11,9 +11,27 @@
       "order": 2,
       "wave_id": 1,
       "is_filter": false
+    },
+    "3": {
+      "name": "Daredevil: Nieustraszony",
+      "order": 2,
+      "wave_id": 1,
+      "is_filter": true
+    },
+    "4": {
+      "name": "Shadowland",
+      "order": 3,
+      "wave_id": 1,
+      "is_filter": false
+    },
+    "5": {
+      "name": "Daredevil: Reborn",
+      "order": 4,
+      "wave_id": 1,
+      "is_filter": false
     }
   },
   "meta": {
-    "nextIndex": 3
+    "nextIndex": 6
   }
 }

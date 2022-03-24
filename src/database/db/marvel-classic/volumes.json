@@ -8,10 +8,120 @@
       "serie_id": 1,
       "order": 1,
       "global_order": 1,
-      "notebooks_ids": [1,2,3,4,5,6,7,8,9,10]
+      "notebooks_ids": [1,2,3,4,6,7,8,9,10]
+    },
+    "2": {
+      "title": "Daredevil",
+      "subtitle": "Frank Miller - Tom 2",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/daredevil/2-marvel-classic/okladka-200.jpg",
+      "date": "1982-01-26T11:20:05.000Z",
+      "serie_id": 1,
+      "order": 1,
+      "global_order": 1,
+      "notebooks_ids": [11,12,13,14,15,16,17,18,19,20,21,22,23,24,25]
+    },
+    "3": {
+      "title": "Daredevil",
+      "subtitle": "Frank Miller - Tom 3",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/daredevil/3-marvel-classic/okladka-200.jpg",
+      "date": "1983-02-01T11:21:52.000Z",
+      "serie_id": 1,
+      "order": 2,
+      "global_order": 2,
+      "notebooks_ids": [26,27,28,29,30,31,32,33,34]
+    },
+    "4": {
+      "title": "Daredevil",
+      "subtitle": "Frank Miller - Tom 4",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/daredevil/4-marvel-classic/okladka-200.jpg",
+      "date": "1986-08-01T10:23:25.000Z",
+      "serie_id": 1,
+      "order": 3,
+      "global_order": 3,
+      "notebooks_ids": [62,69,70,71,72,73,74,75,76,77,78,79,80,81]
+    },
+    "5": {
+      "title": "Daredevil",
+      "subtitle": "Nieustraszony - Tom 0",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/daredevil/nieustraszony-0/okladka-200.jpg",
+      "date": "2001-04-01T10:38:29.000Z",
+      "serie_id": 3,
+      "order": 4,
+      "global_order": 4,
+      "notebooks_ids": [82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,102,103,104,105,106,107,133,134,135,136,137]
+    },
+    "6": {
+      "title": "Daredevil",
+      "subtitle": "Nieustraszony - Tom 1",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/daredevil/bendis-1/okladka-200.jpg",
+      "date": "2003-02-01T11:40:41.000Z",
+      "serie_id": 3,
+      "order": 5,
+      "global_order": 5,
+      "notebooks_ids": [98,99,100,101,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122]
+    },
+    "7": {
+      "title": "Daredevil",
+      "subtitle": "Nieustraszony - Tom 2",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/daredevil/nieustraszony-2/okladka-200.jpg",
+      "date": "2004-07-01T10:42:21.000Z",
+      "serie_id": 3,
+      "order": 6,
+      "global_order": 6,
+      "notebooks_ids": [123,124,125,126,127,128,129,130,131,132,138,139,140,141,142]
+    },
+    "8": {
+      "title": "Daredevil",
+      "subtitle": "Nieustraszony - Tom 3",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/daredevil/nieustraszony-3/okladka-200.jpg",
+      "date": "2006-01-25T11:44:33.000Z",
+      "serie_id": 3,
+      "order": 7,
+      "global_order": 7,
+      "notebooks_ids": [148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163]
+    },
+    "9": {
+      "title": "Daredevil",
+      "subtitle": "Nieustraszony - Tom 4",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/daredevil/nieustraszony-ultimate-collection-1/okladka-200.jpg",
+      "date": "2007-03-01T11:47:34.000Z",
+      "serie_id": 3,
+      "order": 8,
+      "global_order": 8,
+      "notebooks_ids": [164,165,166,167,168,169,170,171,172,173,174,175]
+    },
+    "10": {
+      "title": "Daredevil",
+      "subtitle": "Nieustraszony - Tom 5",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/daredevil/nieustraszony-5/okladka-200.jpg",
+      "date": "2008-04-01T10:48:55.000Z",
+      "serie_id": 3,
+      "order": 9,
+      "global_order": 9,
+      "notebooks_ids": [176,177,178,179,180,181,182,183,184,185,186,187]
+    },
+    "11": {
+      "title": "Daredevil",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/daredevil/nieustraszony-6/okladka-200.jpg",
+      "date": "2009-06-24T10:50:06.000Z",
+      "serie_id": 3,
+      "order": 10,
+      "global_order": 10,
+      "notebooks_ids": [188,189,190,191,192,193,194,195,196,197,198,199,200,201],
+      "subtitle": "Nieustraszony - Tom 6"
+    },
+    "12": {
+      "title": "Daredevil",
+      "subtitle": "Nieustraszony - Tom 7",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/daredevil/nieustraszony-7/okladka-200.jpg",
+      "date": "2011-05-11T10:57:44.000Z",
+      "serie_id": 3,
+      "order": 11,
+      "global_order": 11,
+      "notebooks_ids": [202,203,204,205,206,207,208,209,210,211,212,213,215,216,217,218,219,220,214,221,222,223,224]
     }
   },
   "meta": {
-    "nextIndex": 2
+    "nextIndex": 13
   }
 }
