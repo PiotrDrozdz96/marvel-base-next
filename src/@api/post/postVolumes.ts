@@ -7,6 +7,7 @@ import { ApiSerie } from 'types/Serie';
 import messages from 'utils/apiValidators/apiValidators.messages';
 import { interpolate } from 'utils/interpolate';
 import pick from 'utils/pick';
+import stringifyDataBase from 'utils/stringifyDatabase';
 import reorderApi from '@api/reorder';
 
 const volumesField: (keyof ApiVolume)[] = [
@@ -87,17 +88,13 @@ const postVolumes: ApiHandler = async (req, res) => {
           meta: reqId ? meta : { nextIndex: meta.nextIndex + 1 },
         };
 
-        fs.writeFile(
-          `src/database/db/${databaseName}/volumes.json`,
-          JSON.stringify(newDatabase, null, 2),
-          (writeErr) => {
-            if (writeErr) {
-              resolve(res.status(500).json(writeErr));
-              return;
-            }
-            resolve(res.status(200).json({ ...body, id }));
+        fs.writeFile(`src/database/db/${databaseName}/volumes.json`, stringifyDataBase(newDatabase), (writeErr) => {
+          if (writeErr) {
+            resolve(res.status(500).json(writeErr));
+            return;
           }
-        );
+          resolve(res.status(200).json({ ...body, id }));
+        });
       });
     });
   });

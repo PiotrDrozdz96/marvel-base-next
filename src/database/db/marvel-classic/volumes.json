@@ -6,8 +6,9 @@
       "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/daredevil/1-marvel-classic/okladka-200.jpg",
       "date": "1980-11-01T11:22:45.000Z",
       "serie_id": 1,
-      "order": 0,
-      "global_order": 0
+      "order": 1,
+      "global_order": 1,
+      "notebooks_ids": [1,2,3,4,5,6,7,8,9,10]
     }
   },
   "meta": {
