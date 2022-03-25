@@ -7,7 +7,7 @@
       "date": "1980-11-01T11:22:45.000Z",
       "serie_id": 1,
       "order": 1,
-      "global_order": 1,
+      "global_order": 0,
       "notebooks_ids": [1,2,3,4,6,7,8,9,10]
     },
     "2": {
@@ -47,7 +47,7 @@
       "date": "2001-04-01T10:38:29.000Z",
       "serie_id": 3,
       "order": 4,
-      "global_order": 4,
+      "global_order": 5,
       "notebooks_ids": [82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,102,103,104,105,106,107,133,134,135,136,137]
     },
     "6": {
@@ -57,7 +57,7 @@
       "date": "2003-02-01T11:40:41.000Z",
       "serie_id": 3,
       "order": 5,
-      "global_order": 5,
+      "global_order": 6,
       "notebooks_ids": [98,99,100,101,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122]
     },
     "7": {
@@ -67,7 +67,7 @@
       "date": "2004-07-01T10:42:21.000Z",
       "serie_id": 3,
       "order": 6,
-      "global_order": 6,
+      "global_order": 7,
       "notebooks_ids": [123,124,125,126,127,128,129,130,131,132,138,139,140,141,142]
     },
     "8": {
@@ -77,7 +77,7 @@
       "date": "2006-01-25T11:44:33.000Z",
       "serie_id": 3,
       "order": 7,
-      "global_order": 7,
+      "global_order": 8,
       "notebooks_ids": [148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163]
     },
     "9": {
@@ -87,7 +87,7 @@
       "date": "2007-03-01T11:47:34.000Z",
       "serie_id": 3,
       "order": 8,
-      "global_order": 8,
+      "global_order": 10,
       "notebooks_ids": [164,165,166,167,168,169,170,171,172,173,174,175]
     },
     "10": {
@@ -97,7 +97,7 @@
       "date": "2008-04-01T10:48:55.000Z",
       "serie_id": 3,
       "order": 9,
-      "global_order": 9,
+      "global_order": 11,
       "notebooks_ids": [176,177,178,179,180,181,182,183,184,185,186,187]
     },
     "11": {
@@ -106,7 +106,7 @@
       "date": "2009-06-24T10:50:06.000Z",
       "serie_id": 3,
       "order": 10,
-      "global_order": 10,
+      "global_order": 12,
       "notebooks_ids": [188,189,190,191,192,193,194,195,196,197,198,199,200,201],
       "subtitle": "Nieustraszony - Tom 6"
     },
@@ -117,11 +117,81 @@
       "date": "2011-05-11T10:57:44.000Z",
       "serie_id": 3,
       "order": 11,
-      "global_order": 11,
+      "global_order": 13,
       "notebooks_ids": [202,203,204,205,206,207,208,209,210,211,212,213,215,216,217,218,219,220,214,221,222,223,224]
+    },
+    "13": {
+      "title": "Elektra - Assassin",
+      "subtitle": "",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/elektra/2/okladka-200.jpg",
+      "date": "1987-02-10T11:36:40.000Z",
+      "serie_id": 6,
+      "order": 12,
+      "global_order": 4,
+      "notebooks_ids": [225,226,227,228,229,230,231,232]
+    },
+    "14": {
+      "title": "Wojna Domowa",
+      "subtitle": "",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/wojna-domowa/1/okladka-200.jpg",
+      "date": "2007-02-21T11:39:22.000Z",
+      "serie_id": 7,
+      "order": 13,
+      "global_order": 9,
+      "notebooks_ids": [233,234,235,236,237,238,239]
+    },
+    "15": {
+      "title": "Anihilacja",
+      "subtitle": "Tom 1",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/anihilacja/1/okladka-200.jpg",
+      "date": "2006-07-19T10:50:07.000Z",
+      "serie_id": 9,
+      "order": 14,
+      "global_order": 14,
+      "notebooks_ids": [240,241,242,243,244,251,252,253,254]
+    },
+    "16": {
+      "title": "Anihilacja",
+      "subtitle": "Tom 2",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/anihilacja/2/okladka-200.jpg",
+      "date": "2006-07-26T10:52:42.000Z",
+      "serie_id": 9,
+      "order": 15,
+      "global_order": 15,
+      "notebooks_ids": [259,260,261,262,255,256,257,258,263,264,265,266]
+    },
+    "17": {
+      "title": "Anihilacja",
+      "subtitle": "Tom 3",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/anihilacja/3/okladka-200.jpg",
+      "date": "2007-04-04T10:54:48.000Z",
+      "serie_id": 9,
+      "order": 16,
+      "global_order": 16,
+      "notebooks_ids": [245,246,247,248,249,250,267,268,269]
+    },
+    "18": {
+      "title": "Anihilacja",
+      "subtitle": "Podbój - Tom 1",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/anihilacja/podboj-1/okladka-200.jpg",
+      "date": "2007-10-31T11:03:05.000Z",
+      "serie_id": 9,
+      "order": 17,
+      "global_order": 17,
+      "notebooks_ids": [270,277,278,279,280,281,282,283,284,285]
+    },
+    "19": {
+      "title": "Anihilacja",
+      "subtitle": "Podbój - Tom 2",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/anihilacja/podboj-2/okladka-200.jpg",
+      "date": "2008-04-16T10:30:44.000Z",
+      "serie_id": 9,
+      "order": 18,
+      "global_order": 18,
+      "notebooks_ids": [286,287,288,289,293,294,295,296,271,272,273,274,275,276]
     }
   },
   "meta": {
-    "nextIndex": 13
+    "nextIndex": 20
   }
 }

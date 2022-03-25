@@ -7,9 +7,13 @@
     "2": {
       "name": "Pojedyncze albumy",
       "order": 1
+    },
+    "3": {
+      "name": "Anihilacja",
+      "order": 2
     }
   },
   "meta": {
-    "nextIndex": 3
+    "nextIndex": 4
   }
 }

@@ -2239,9 +2239,729 @@
       "date": "2011-05-11T10:00:00.000Z",
       "serie_id": 5,
       "order": 3
+    },
+    "225": {
+      "title": "Elektra Assassin",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Hell and Back\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9a/Elektra_Assassin_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20200512224443",
+      "date": "1986-07-08T10:00:00.000Z",
+      "serie_id": 6,
+      "order": 224
+    },
+    "226": {
+      "title": "Elektra Assassin",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"The Ugly Man\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/02/Elektra_Assassin_Vol_1_2.jpg/revision/latest/scale-to-width-down/130?cb=20200512224614",
+      "date": "1986-08-05T10:00:00.000Z",
+      "serie_id": 6,
+      "order": 225
+    },
+    "227": {
+      "title": "Elektra Assassin",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Rough Cut\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b0/Elektra_Assassin_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20200512224709",
+      "date": "1986-09-09T10:00:00.000Z",
+      "serie_id": 6,
+      "order": 226
+    },
+    "228": {
+      "title": "Elektra Assassin",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Young Love\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/20/Elektra_Assassin_Vol_1_4.jpg/revision/latest/scale-to-width-down/130?cb=20200512224918",
+      "date": "1986-10-07T11:00:00.000Z",
+      "serie_id": 6,
+      "order": 227
+    },
+    "229": {
+      "title": "Elektra Assassin",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"Chastity\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3d/Elektra_Assassin_Vol_1_5.jpg/revision/latest/scale-to-width-down/130?cb=20200512224840",
+      "date": "1986-11-11T11:00:00.000Z",
+      "serie_id": 6,
+      "order": 228
+    },
+    "230": {
+      "title": "Elektra Assassin",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "\"What We're Fighting For\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ad/Elektra_Assassin_Vol_1_6.jpg/revision/latest/scale-to-width-down/130?cb=20200512225027",
+      "date": "1986-12-09T11:00:00.000Z",
+      "serie_id": 6,
+      "order": 229
+    },
+    "231": {
+      "title": "Elektra Assassin",
+      "vol": 1,
+      "no": 7,
+      "subtitle": "\"Vox Populi\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cf/Elektra_Assassin_Vol_1_7.jpg/revision/latest/scale-to-width-down/130?cb=20200512225058",
+      "date": "1987-01-06T11:00:00.000Z",
+      "serie_id": 6,
+      "order": 230
+    },
+    "232": {
+      "title": "Elektra Assassin",
+      "vol": 1,
+      "no": 8,
+      "subtitle": "\"Hail to the Chief\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b4/Elektra_Assassin_Vol_1_8.jpg/revision/latest/scale-to-width-down/130?cb=20200512225143",
+      "date": "1987-02-10T11:00:00.000Z",
+      "serie_id": 6,
+      "order": 231
+    },
+    "233": {
+      "title": "Civil War",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Civil War: Part One of Seven\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3f/Civil_War_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20181001042616",
+      "date": "2006-05-03T10:00:00.000Z",
+      "serie_id": 7,
+      "order": 232
+    },
+    "234": {
+      "title": "Civil War",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Civil War: Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c6/Civil_War_Vol_1_2.jpg/revision/latest/scale-to-width-down/129?cb=20181001042624",
+      "date": "2006-06-14T10:00:00.000Z",
+      "serie_id": 7,
+      "order": 233
+    },
+    "235": {
+      "title": "Civil War",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Civil War: Part 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1a/Civil_War_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20181001042634",
+      "date": "2006-07-19T10:00:00.000Z",
+      "serie_id": 7,
+      "order": 234
+    },
+    "236": {
+      "title": "Civil War",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Civil War: Part 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/07/Civil_War_Vol_1_4.jpg/revision/latest/scale-to-width-down/130?cb=20181001042645",
+      "date": "2006-09-20T10:00:00.000Z",
+      "serie_id": 7,
+      "order": 235
+    },
+    "237": {
+      "title": "Civil War",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"Civil War: Part 5\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5e/Civil_War_Vol_1_5.jpg/revision/latest/scale-to-width-down/130?cb=20181001042707",
+      "date": "2006-11-15T11:00:00.000Z",
+      "serie_id": 7,
+      "order": 236
+    },
+    "238": {
+      "title": "Civil War",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "\"Civil War: Part 6\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3a/Civil_War_Vol_1_6.jpg/revision/latest/scale-to-width-down/130?cb=20181001042719",
+      "date": "2007-01-03T11:00:00.000Z",
+      "serie_id": 7,
+      "order": 237
+    },
+    "239": {
+      "title": "Civil War",
+      "vol": 1,
+      "no": 7,
+      "subtitle": "\"Civil War: Part 7\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/81/Civil_War_Vol_1_7.jpg/revision/latest/scale-to-width-down/130?cb=20181001042729",
+      "date": "2007-02-21T11:00:00.000Z",
+      "serie_id": 7,
+      "order": 238
+    },
+    "240": {
+      "title": "Drax the Destroyer",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Earthfall\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0d/Drax_the_Destroyer_Vol_1_1.jpg/revision/latest/scale-to-width-down/131?cb=20171029054715",
+      "date": "2005-09-28T10:00:00.000Z",
+      "serie_id": 8,
+      "order": 239
+    },
+    "241": {
+      "title": "Drax the Destroyer",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Illegal Aliens\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7f/Drax_the_Destroyer_Vol_1_2.jpg/revision/latest/scale-to-width-down/129?cb=20140518155533",
+      "date": "2005-10-26T10:00:00.000Z",
+      "serie_id": 8,
+      "order": 240
+    },
+    "242": {
+      "title": "Drax the Destroyer",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"From the Ashes\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cf/Drax_the_Destroyer_Vol_1_3.jpg/revision/latest/scale-to-width-down/133?cb=20140518155844",
+      "date": "2005-11-09T11:00:00.000Z",
+      "serie_id": 8,
+      "order": 241
+    },
+    "243": {
+      "title": "Drax the Destroyer",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Hard Penance\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/bb/Drax_the_Destroyer_Vol_1_4.jpg/revision/latest/scale-to-width-down/131?cb=20140518160111",
+      "date": "2006-12-29T11:00:00.000Z",
+      "serie_id": 8,
+      "order": 242
+    },
+    "244": {
+      "title": "Annihilation: Prologue",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Annihilation Day\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4a/Annihilation_Prologue_Vol_1_1.jpg/revision/latest/scale-to-width-down/131?cb=20180101043843",
+      "date": "2006-03-15T11:00:00.000Z",
+      "serie_id": 9,
+      "order": 243
+    },
+    "245": {
+      "title": "Annihilation",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Blood and Thunder\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f0/Annihilation_Vol_1_1.jpg/revision/latest/scale-to-width-down/131?cb=20180206040043",
+      "date": "2006-08-09T10:00:00.000Z",
+      "serie_id": 9,
+      "order": 244
+    },
+    "246": {
+      "title": "Annihilation",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d9/Annihilation_Vol_1_2.jpg/revision/latest/scale-to-width-down/129?cb=20180210031138",
+      "date": "2006-09-13T10:00:00.000Z",
+      "serie_id": 9,
+      "order": 245
+    },
+    "247": {
+      "title": "Annihilation",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Desperate Measures\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/75/Annihilation_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20180209043554",
+      "date": "2006-10-11T10:00:00.000Z",
+      "serie_id": 9,
+      "order": 246
+    },
+    "248": {
+      "title": "Annihilation",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Revelation\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/02/Annihilation_Vol_1_4.jpg/revision/latest/scale-to-width-down/128?cb=20200909044310",
+      "date": "2006-11-08T11:00:00.000Z",
+      "serie_id": 9,
+      "order": 247
+    },
+    "249": {
+      "title": "Annihilation",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"Ascension\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/10/Annihilation_Vol_1_5.jpg/revision/latest/scale-to-width-down/132?cb=20200909044410",
+      "date": "2006-12-27T11:00:00.000Z",
+      "serie_id": 9,
+      "order": 248
+    },
+    "250": {
+      "title": "Annihilation",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "\"Finale\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/40/Annihilation_Vol_1_6.jpg/revision/latest/scale-to-width-down/130?cb=20200909044326",
+      "date": "2007-01-31T11:00:00.000Z",
+      "serie_id": 9,
+      "order": 249
+    },
+    "251": {
+      "title": "Annihilation: Nova",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"All For One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9d/Annihilation_Nova_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20200807184616",
+      "date": "2006-04-19T10:00:00.000Z",
+      "serie_id": 10,
+      "order": 250
+    },
+    "252": {
+      "title": "Annihilation: Nova",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"And One For All\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1b/Annihilation_Nova_Vol_1_2.jpg/revision/latest/scale-to-width-down/130?cb=20200807184651",
+      "date": "2006-05-17T10:00:00.000Z",
+      "serie_id": 10,
+      "order": 251
+    },
+    "253": {
+      "title": "Annihilation: Nova",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Safety in Numbers\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/64/Annihilation_Nova_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20140502014907",
+      "date": "2006-06-21T10:00:00.000Z",
+      "serie_id": 10,
+      "order": 252
+    },
+    "254": {
+      "title": "Annihilation: Nova",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Ten Minutes and Counting\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/73/Annihilation_Nova_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20140502015002",
+      "date": "2006-07-19T10:00:00.000Z",
+      "serie_id": 10,
+      "order": 253
+    },
+    "255": {
+      "title": "Annihilation: Ronan",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/08/Annihilation_Ronan_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20200807185049",
+      "date": "2006-04-26T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 254
+    },
+    "256": {
+      "title": "Annihilation: Ronan",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8c/Annihilation_Ronan_Vol_1_2.jpg/revision/latest/scale-to-width-down/130?cb=20200807185054",
+      "date": "2006-05-24T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 255
+    },
+    "257": {
+      "title": "Annihilation: Ronan",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/00/Annihilation_Ronan_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20200807185104",
+      "date": "2006-06-28T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 256
+    },
+    "258": {
+      "title": "Annihilation: Ronan",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a2/Annihilation_Ronan_Vol_1_4.jpg/revision/latest/scale-to-width-down/129?cb=20180112010245",
+      "date": "2006-07-26T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 257
+    },
+    "259": {
+      "title": "Annihilation: Super-Skrull",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Super-Skrull\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/db/Annihilation_Super-Skrull_Vol_1_1.jpg/revision/latest/scale-to-width-down/131?cb=20180106061528",
+      "date": "2006-04-12T10:00:00.000Z",
+      "serie_id": 12,
+      "order": 258
+    },
+    "260": {
+      "title": "Annihilation: Super-Skrull",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9f/Annihilation_Super-Skrull_Vol_1_2.jpg/revision/latest/scale-to-width-down/130?cb=20180109020716",
+      "date": "2006-05-10T10:00:00.000Z",
+      "serie_id": 12,
+      "order": 259
+    },
+    "261": {
+      "title": "Annihilation: Super-Skrull",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/47/Annihilation_Super-Skrull_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20180109020800",
+      "date": "2006-06-14T10:00:00.000Z",
+      "serie_id": 12,
+      "order": 260
+    },
+    "262": {
+      "title": "Annihilation: Super-Skrull",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/88/Annihilation_Super-Skrull_Vol_1_4.jpg/revision/latest/scale-to-width-down/130?cb=20180109020838",
+      "date": "2006-07-12T10:00:00.000Z",
+      "serie_id": 12,
+      "order": 261
+    },
+    "263": {
+      "title": "Annihilation: Silver Surfer",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Opposing Force\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4b/Annihilation_Silver_Surfer_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20200807184722",
+      "date": "2006-04-05T10:00:00.000Z",
+      "serie_id": 13,
+      "order": 262
+    },
+    "264": {
+      "title": "Annihilation: Silver Surfer",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"The Culling\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e1/Annihilation_Silver_Surfer_Vol_1_2.jpg/revision/latest/scale-to-width-down/130?cb=20200807184824",
+      "date": "2006-05-03T10:00:00.000Z",
+      "serie_id": 13,
+      "order": 263
+    },
+    "265": {
+      "title": "Annihilation: Silver Surfer",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fb/Annihilation_Silver_Surfer_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20200807150045",
+      "date": "2006-06-07T10:00:00.000Z",
+      "serie_id": 13,
+      "order": 264
+    },
+    "266": {
+      "title": "Annihilation: Silver Surfer",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Resurrection\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/63/Annihilation_Silver_Surfer_Vol_1_4.jpg/revision/latest/scale-to-width-down/131?cb=20180108031654",
+      "date": "2006-07-12T10:00:00.000Z",
+      "serie_id": 13,
+      "order": 265
+    },
+    "267": {
+      "title": "Annihilation: Heralds of Galactus",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Parasites\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cd/Annihilation_Heralds_of_Galactus_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20140502012217",
+      "date": "2007-02-28T11:00:00.000Z",
+      "serie_id": 14,
+      "order": 266
+    },
+    "268": {
+      "title": "Annihilation: Heralds of Galactus",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Afterburn\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b0/Annihilation_Heralds_of_Galactus_Vol_1_2.jpg/revision/latest/scale-to-width-down/130?cb=20140502012316",
+      "date": "2007-04-04T10:00:00.000Z",
+      "serie_id": 14,
+      "order": 267
+    },
+    "269": {
+      "title": "Annihilation: The Nova Corps Files",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2f/Annihilation_The_Nova_Corps_Files_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20191127161732",
+      "date": "2006-08-09T10:00:00.000Z",
+      "serie_id": 15,
+      "order": 268
+    },
+    "270": {
+      "title": "Annihilation: Conquest Prologue",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Annihilation: Conquest - Prologue\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8b/Annihilation_Conquest_Prologue_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20191206035215",
+      "date": "2007-06-20T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 269
+    },
+    "271": {
+      "title": "Annihilation: Conquest",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"No Way Out\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/ea/Annihilation_Conquest_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20071108030650",
+      "date": "2007-11-07T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 270
+    },
+    "272": {
+      "title": "Annihilation: Conquest",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Together Alone\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c4/Annihilation_Conquest_Vol_1_2.jpg/revision/latest/scale-to-width-down/130?cb=20071207195406",
+      "date": "2007-12-05T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 271
+    },
+    "273": {
+      "title": "Annihilation: Conquest",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Together Alone\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0a/Annihilation_Conquest_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20080105203826",
+      "date": "2008-01-04T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 272
+    },
+    "274": {
+      "title": "Annihilation: Conquest",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Hopeless\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d8/Annihilation_Conquest_Vol_1_4.jpg/revision/latest/scale-to-width-down/129?cb=20140429050901",
+      "date": "2008-02-06T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 273
+    },
+    "275": {
+      "title": "Annihilation: Conquest",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"In the Flesh\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/da/Annihilation_Conquest_Vol_1_5.jpg/revision/latest/scale-to-width-down/130?cb=20140429050946",
+      "date": "2008-03-12T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 274
+    },
+    "276": {
+      "title": "Annihilation: Conquest",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "\"Last Stand\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5f/Annihilation_Conquest_Vol_1_6.jpg/revision/latest/scale-to-width-down/129?cb=20140429051007",
+      "date": "2008-04-16T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 275
+    },
+    "277": {
+      "title": "Annihilation: Conquest - Quasar",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Destiny\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9a/Annihilation_Conquest_-_Quasar_Vol_1_1.jpg/revision/latest/scale-to-width-down/129?cb=20140428062614",
+      "date": "2007-07-18T10:00:00.000Z",
+      "serie_id": 17,
+      "order": 276
+    },
+    "278": {
+      "title": "Annihilation: Conquest - Quasar",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Destiny (Part 2)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e6/Annihilation_Conquest_-_Quasar_Vol_1_2.jpg/revision/latest/scale-to-width-down/128?cb=20150213043648",
+      "date": "2007-08-15T10:00:00.000Z",
+      "serie_id": 17,
+      "order": 277
+    },
+    "279": {
+      "title": "Annihilation: Conquest - Quasar",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Destiny (Part 3)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d5/Annihilation_Conquest_-_Quasar_Vol_1_3.jpg/revision/latest/scale-to-width-down/129?cb=20150213043319",
+      "date": "2007-09-19T10:00:00.000Z",
+      "serie_id": 17,
+      "order": 278
+    },
+    "280": {
+      "title": "Annihilation: Conquest - Quasar",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Destiny (Part 4)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/ba/Annihilation_Conquest_-_Quasar_Vol_1_4.jpg/revision/latest/scale-to-width-down/131?cb=20140428062717",
+      "date": "2007-10-31T11:00:00.000Z",
+      "serie_id": 17,
+      "order": 279
+    },
+    "281": {
+      "title": "Annihilation: Conquest - Starlord",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/90/Annihilation_Conquest_-_Starlord_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20140428042014",
+      "date": "2007-07-25T10:00:00.000Z",
+      "serie_id": 18,
+      "order": 280
+    },
+    "282": {
+      "title": "Annihilation: Conquest - Starlord",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/93/Annihilation_Conquest_-_Starlord_Vol_1_2.jpg/revision/latest/scale-to-width-down/129?cb=20140428042237",
+      "date": "2007-08-22T10:00:00.000Z",
+      "serie_id": 18,
+      "order": 281
+    },
+    "283": {
+      "title": "Annihilation: Conquest - Starlord",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/87/Annihilation_Conquest_-_Starlord_Vol_1_3.jpg/revision/latest/scale-to-width-down/129?cb=20140428042324",
+      "date": "2007-09-26T10:00:00.000Z",
+      "serie_id": 18,
+      "order": 282
+    },
+    "284": {
+      "title": "Annihilation: Conquest - Starlord",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5d/Annihilation_Conquest_-_Starlord_Vol_1_4.jpg/revision/latest/scale-to-width-down/130?cb=20140428042350",
+      "date": "2007-11-07T11:00:00.000Z",
+      "serie_id": 18,
+      "order": 283
+    },
+    "285": {
+      "title": "Annihilation: Saga",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Annihilation Saga\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fe/Annihilation_Saga_Vol_1_1.jpg/revision/latest/scale-to-width-down/131?cb=20180211205107",
+      "date": "2007-05-09T10:00:00.000Z",
+      "serie_id": 19,
+      "order": 284
+    },
+    "286": {
+      "title": "Annihilation: Conquest - Wraith",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Wraith (Chapter 1)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/dc/Annihilation_Conquest_-_Wraith_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20140429041243",
+      "date": "2007-07-11T10:00:00.000Z",
+      "serie_id": 20,
+      "order": 285
+    },
+    "287": {
+      "title": "Annihilation: Conquest - Wraith",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Wraith (Chapter 2)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/64/Annihilation_Conquest_-_Wraith_Vol_1_2.jpg/revision/latest/scale-to-width-down/129?cb=20140429041328",
+      "date": "2007-08-08T10:00:00.000Z",
+      "serie_id": 20,
+      "order": 286
+    },
+    "288": {
+      "title": "Annihilation: Conquest - Wraith",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Wraith (Chapter 3)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/03/Annihilation_Conquest_-_Wraith_Vol_1_3.jpg/revision/latest/scale-to-width-down/129?cb=20140429041402",
+      "date": "2007-09-06T10:00:00.000Z",
+      "serie_id": 20,
+      "order": 287
+    },
+    "289": {
+      "title": "Annihilation: Conquest - Wraith",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Wraith: Chapter 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a4/Annihilation_Conquest_-_Wraith_Vol_1_4.jpg/revision/latest/scale-to-width-down/130?cb=20140429041426",
+      "date": "2007-10-24T10:00:00.000Z",
+      "serie_id": 20,
+      "order": 288
+    },
+    "290": {
+      "title": "Nova",
+      "vol": 4,
+      "no": 1,
+      "subtitle": "\"What's Next\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/93/Nova_Vol_4_1.jpg/revision/latest/scale-to-width-down/130?cb=20180425024427",
+      "date": "2007-04-11T10:00:00.000Z",
+      "serie_id": 21,
+      "order": 289
+    },
+    "291": {
+      "title": "Nova",
+      "vol": 4,
+      "no": 2,
+      "subtitle": "\"Alienation\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/12/Nova_Vol_4_2.jpg/revision/latest/scale-to-width-down/129?cb=20180428051137",
+      "date": "2007-05-09T10:00:00.000Z",
+      "serie_id": 21,
+      "order": 290
+    },
+    "292": {
+      "title": "Nova",
+      "vol": 4,
+      "no": 3,
+      "subtitle": "\"Home Truths\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4f/Nova_Vol_4_3.jpg/revision/latest/scale-to-width-down/132?cb=20180915030655",
+      "date": "2007-06-13T10:00:00.000Z",
+      "serie_id": 21,
+      "order": 291
+    },
+    "293": {
+      "title": "Nova",
+      "vol": 4,
+      "no": 4,
+      "subtitle": "\"Alone\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/82/Nova_Vol_4_4.jpg/revision/latest/scale-to-width-down/136?cb=20190401021459",
+      "date": "2007-07-11T10:00:00.000Z",
+      "serie_id": 21,
+      "order": 292
+    },
+    "294": {
+      "title": "Nova",
+      "vol": 4,
+      "no": 5,
+      "subtitle": "\"Together\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f1/Nova_Vol_4_5.jpg/revision/latest/scale-to-width-down/132?cb=20190524224235",
+      "date": "2007-08-08T10:00:00.000Z",
+      "serie_id": 21,
+      "order": 293
+    },
+    "295": {
+      "title": "Nova",
+      "vol": 4,
+      "no": 6,
+      "subtitle": "\"Inside\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5f/Nova_Vol_4_6.jpg/revision/latest/scale-to-width-down/131?cb=20191225193624",
+      "date": "2007-09-12T10:00:00.000Z",
+      "serie_id": 21,
+      "order": 294
+    },
+    "296": {
+      "title": "Nova",
+      "vol": 4,
+      "no": 7,
+      "subtitle": "\"Out\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/50/Nova_Vol_4_7.jpg/revision/latest/scale-to-width-down/132?cb=20191227003003",
+      "date": "2007-10-10T10:00:00.000Z",
+      "serie_id": 21,
+      "order": 295
     }
   },
   "meta": {
-    "nextIndex": 225
+    "nextIndex": 297
   }
 }

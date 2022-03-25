@@ -62,8 +62,8 @@
 
 .previewElement {
   width: 220px;
-  height: 280px;
-  padding: 0 8px;
+  min-height: 280px;
+  padding: 16px 8px;
 };
 
 .saveButton {

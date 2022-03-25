@@ -35,9 +35,99 @@
       "order": 5,
       "wave_id": 2,
       "is_filter": true
+    },
+    "7": {
+      "order": 6,
+      "wave_id": 2,
+      "is_filter": true,
+      "name": "Wojna Domowa"
+    },
+    "8": {
+      "name": "Drax the Destroyer",
+      "order": 1,
+      "wave_id": 3,
+      "is_filter": false
+    },
+    "9": {
+      "name": "Anihilacja",
+      "order": 0,
+      "wave_id": 3,
+      "is_filter": true
+    },
+    "10": {
+      "name": "Anihilation: Nova",
+      "order": 2,
+      "wave_id": 3,
+      "is_filter": false
+    },
+    "11": {
+      "name": "Annihilation: Ronan",
+      "order": 3,
+      "wave_id": 3,
+      "is_filter": false
+    },
+    "12": {
+      "name": "Annihilation: Super-Skrull",
+      "order": 4,
+      "wave_id": 3,
+      "is_filter": false
+    },
+    "13": {
+      "name": "Annihilation: Silver Surfer",
+      "order": 5,
+      "wave_id": 3,
+      "is_filter": false
+    },
+    "14": {
+      "name": "Annihilation: Heralds of Galactus",
+      "order": 6,
+      "wave_id": 3,
+      "is_filter": false
+    },
+    "15": {
+      "name": "Annihilation: The Nova Corps Files",
+      "order": 7,
+      "wave_id": 3,
+      "is_filter": false
+    },
+    "16": {
+      "name": "Annihilation: Conquest",
+      "order": 15,
+      "wave_id": 3,
+      "is_filter": false
+    },
+    "17": {
+      "name": "Annihilation: Conquest - Quasar",
+      "order": 16,
+      "wave_id": 3,
+      "is_filter": false
+    },
+    "18": {
+      "name": "Annihilation: Conquest – Starlord",
+      "order": 17,
+      "wave_id": 3,
+      "is_filter": false
+    },
+    "19": {
+      "name": "Annihilation: Saga",
+      "order": 18,
+      "wave_id": 3,
+      "is_filter": false
+    },
+    "20": {
+      "name": "Annihilation: Conquest - Wraith",
+      "order": 19,
+      "wave_id": 3,
+      "is_filter": false
+    },
+    "21": {
+      "name": "Nova",
+      "order": 20,
+      "wave_id": 3,
+      "is_filter": false
     }
   },
   "meta": {
-    "nextIndex": 7
+    "nextIndex": 22
   }
 }
