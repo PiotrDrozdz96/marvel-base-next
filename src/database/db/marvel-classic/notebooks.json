@@ -3759,9 +3759,159 @@
       "date": "1993-09-21T10:00:00.000Z",
       "serie_id": 24,
       "order": 375
+    },
+    "377": {
+      "title": "Agent X",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Dead Man's Switch (Part I of VI)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b3/Agent_X_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20191028033328",
+      "date": "2002-08-07T10:00:00.000Z",
+      "serie_id": 26,
+      "order": 376
+    },
+    "378": {
+      "title": "Agent X",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Dead Man's Switch - Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c8/Agent_X_Vol_1_2.jpg/revision/latest/scale-to-width-down/130?cb=20191028033405",
+      "date": "2002-08-28T10:00:00.000Z",
+      "serie_id": 26,
+      "order": 377
+    },
+    "379": {
+      "title": "Agent X",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Dead Man's Switch - Part 3: Quiet Desperation\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/43/Agent_X_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20191028033431",
+      "date": "2002-09-25T10:00:00.000Z",
+      "serie_id": 26,
+      "order": 378
+    },
+    "380": {
+      "title": "Agent X",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Dead Man's Switch - Part 4: Invisible\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c7/Agent_X_Vol_1_4.jpg/revision/latest/scale-to-width-down/130?cb=20191028033506",
+      "date": "2002-10-30T11:00:00.000Z",
+      "serie_id": 26,
+      "order": 379
+    },
+    "381": {
+      "title": "Agent X",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"Dead Man's Switch, Part 5: A Little Crazy\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3b/Agent_X_Vol_1_5.jpg/revision/latest/scale-to-width-down/130?cb=20191028033544",
+      "date": "2002-11-27T11:00:00.000Z",
+      "serie_id": 26,
+      "order": 380
+    },
+    "382": {
+      "title": "Agent X",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "\"Dead Man's Switch, Part 6: Uninvited Guests\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/92/Agent_X_Vol_1_6.jpg/revision/latest/scale-to-width-down/130?cb=20191028033613",
+      "date": "2002-12-26T11:00:00.000Z",
+      "serie_id": 26,
+      "order": 381
+    },
+    "383": {
+      "title": "Agent X",
+      "vol": 1,
+      "no": 7,
+      "subtitle": "\"Shameful William\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a4/Agent_X_Vol_1_7.jpg/revision/latest/scale-to-width-down/130?cb=20191028041200",
+      "date": "2003-01-29T11:00:00.000Z",
+      "serie_id": 26,
+      "order": 382
+    },
+    "384": {
+      "title": "Agent X",
+      "vol": 1,
+      "no": 8,
+      "subtitle": "\"Hold That Ghost, Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d9/Agent_X_Vol_1_8.jpg/revision/latest/scale-to-width-down/130?cb=20191028041228",
+      "date": "2003-02-26T11:00:00.000Z",
+      "serie_id": 26,
+      "order": 383
+    },
+    "385": {
+      "title": "Agent X",
+      "vol": 1,
+      "no": 9,
+      "subtitle": "\"Hold That Ghost (Part II of II)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a6/Agent_X_Vol_1_9.jpg/revision/latest/scale-to-width-down/130?cb=20191028041301",
+      "date": "2003-03-26T11:00:00.000Z",
+      "serie_id": 26,
+      "order": 384
+    },
+    "386": {
+      "title": "Agent X",
+      "vol": 1,
+      "no": 10,
+      "subtitle": "\"If At First You Don't Succeed... Die, Die Again!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cd/Agent_X_Vol_1_10.jpg/revision/latest/scale-to-width-down/130?cb=20191028041332",
+      "date": "2003-04-23T10:00:00.000Z",
+      "serie_id": 26,
+      "order": 385
+    },
+    "387": {
+      "title": "Agent X",
+      "vol": 1,
+      "no": 11,
+      "subtitle": "\"Fight the Power!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b3/Agent_X_Vol_1_11.jpg/revision/latest/scale-to-width-down/130?cb=20191028041359",
+      "date": "2003-06-04T10:00:00.000Z",
+      "serie_id": 26,
+      "order": 386
+    },
+    "388": {
+      "title": "Agent X",
+      "vol": 1,
+      "no": 12,
+      "subtitle": "\"Out With a Bang\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/dc/Agent_X_Vol_1_12.jpg/revision/latest/scale-to-width-down/130?cb=20191028041426",
+      "date": "2003-06-25T10:00:00.000Z",
+      "serie_id": 26,
+      "order": 387
+    },
+    "389": {
+      "title": "Agent X",
+      "vol": 1,
+      "no": 13,
+      "subtitle": "\"Deadpool Walkin', Part 1: Our Lives in Fracture\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6b/Agent_X_Vol_1_13.jpg/revision/latest/scale-to-width-down/130?cb=20191028041501",
+      "date": "2003-08-20T10:00:00.000Z",
+      "serie_id": 26,
+      "order": 388
+    },
+    "390": {
+      "title": "Agent X",
+      "vol": 1,
+      "no": 14,
+      "subtitle": "\"Deadpool Walkin', Part 2: Foul Brain Stew\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/ce/Agent_X_Vol_1_14.jpg/revision/latest/scale-to-width-down/130?cb=20191028041530",
+      "date": "2003-09-17T10:00:00.000Z",
+      "serie_id": 26,
+      "order": 389
+    },
+    "391": {
+      "title": "Agent X",
+      "vol": 1,
+      "no": 15,
+      "subtitle": "\"Deadpool Walkin', Part 3: A Means to an End\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/24/Agent_X_Vol_1_15.jpg/revision/latest/scale-to-width-down/130?cb=20191028041558",
+      "date": "2003-10-15T10:00:00.000Z",
+      "serie_id": 26,
+      "order": 390
     }
   },
   "meta": {
-    "nextIndex": 377
+    "nextIndex": 392
   }
 }

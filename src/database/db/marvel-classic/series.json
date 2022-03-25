@@ -149,9 +149,15 @@
       "order": 24,
       "wave_id": 4,
       "is_filter": false
+    },
+    "26": {
+      "name": "Agent X",
+      "order": 25,
+      "wave_id": 4,
+      "is_filter": false
     }
   },
   "meta": {
-    "nextIndex": 26
+    "nextIndex": 27
   }
 }
