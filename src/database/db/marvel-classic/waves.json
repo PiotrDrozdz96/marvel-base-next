@@ -15,9 +15,17 @@
     "4": {
       "name": "Deadpool",
       "order": 3
+    },
+    "5": {
+      "name": "X-Men",
+      "order": 4
+    },
+    "6": {
+      "name": "Punisher",
+      "order": 5
     }
   },
   "meta": {
-    "nextIndex": 5
+    "nextIndex": 7
   }
 }

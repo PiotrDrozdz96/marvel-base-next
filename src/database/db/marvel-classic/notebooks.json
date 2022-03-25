@@ -3909,9 +3909,1359 @@
       "date": "2003-10-15T10:00:00.000Z",
       "serie_id": 26,
       "order": 390
+    },
+    "392": {
+      "title": "X-Men: Deadly Genesis",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Deadly Genesis\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e5/X-Men_Deadly_Genesis_Vol_1_1.jpg/revision/latest/scale-to-width-down/128?cb=20181116213736",
+      "date": "2005-11-16T11:00:00.000Z",
+      "serie_id": 27,
+      "order": 391
+    },
+    "393": {
+      "title": "X-Men: Deadly Genesis",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Deadly Genesis\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cd/X-Men_Deadly_Genesis_Vol_1_2.jpg/revision/latest/scale-to-width-down/128?cb=20181116214023",
+      "date": "2005-12-21T11:00:00.000Z",
+      "serie_id": 27,
+      "order": 392
+    },
+    "394": {
+      "title": "X-Men: Deadly Genesis",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/67/X-Men_Deadly_Genesis_Vol_1_3.jpg/revision/latest/scale-to-width-down/128?cb=20181116214413",
+      "date": "2006-01-25T11:00:00.000Z",
+      "serie_id": 27,
+      "order": 393
+    },
+    "395": {
+      "title": "X-Men: Deadly Genesis",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a5/X-Men_Deadly_Genesis_Vol_1_4.jpg/revision/latest/scale-to-width-down/128?cb=20181116214626",
+      "date": "2006-02-15T11:00:00.000Z",
+      "serie_id": 27,
+      "order": 394
+    },
+    "396": {
+      "title": "X-Men: Deadly Genesis",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"X-Men: Deadly Genesis (Part 5)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/15/X-Men_Deadly_Genesis_Vol_1_5.jpg/revision/latest/scale-to-width-down/131?cb=20181116215415",
+      "date": "2006-03-15T11:00:00.000Z",
+      "serie_id": 27,
+      "order": 395
+    },
+    "397": {
+      "title": "X-Men: Deadly Genesis",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e7/X-Men_Deadly_Genesis_Vol_1_6.jpg/revision/latest/scale-to-width-down/133?cb=20191130173907",
+      "date": "2006-05-17T10:00:00.000Z",
+      "serie_id": 27,
+      "order": 396
+    },
+    "398": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 1,
+      "subtitle": "\"In the Beginning, Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ae/Punisher_Vol_7_1.jpg/revision/latest/scale-to-width-down/130?cb=20210309044255",
+      "date": "2004-03-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 397
+    },
+    "399": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 2,
+      "subtitle": "\"In the Beginning, Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8b/Punisher_Vol_7_2.jpg/revision/latest/scale-to-width-down/131?cb=20100509210027",
+      "date": "2004-03-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 398
+    },
+    "400": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 3,
+      "subtitle": "\"In the Beginning, Part 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4d/Punisher_Vol_7_3.jpg/revision/latest/scale-to-width-down/130?cb=20210309044603",
+      "date": "2004-02-11T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 399
+    },
+    "401": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 4,
+      "subtitle": "\"In the Beginning, Part 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b8/Punisher_Vol_7_4.jpg/revision/latest/scale-to-width-down/130?cb=20210309044730",
+      "date": "2004-05-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 400
+    },
+    "402": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 5,
+      "subtitle": "\"In the Beginning, Part 5\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/61/Punisher_Vol_7_5.jpg/revision/latest/scale-to-width-down/130?cb=20210309044809",
+      "date": "2004-06-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 401
+    },
+    "403": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 6,
+      "subtitle": "\"In the Beginning, Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/72/Punisher_Vol_7_6.jpg/revision/latest/scale-to-width-down/130?cb=20210309044846",
+      "date": "2004-07-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 402
+    },
+    "404": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 7,
+      "subtitle": "\"Kitchen Irish, Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/44/Punisher_Vol_7_7.jpg/revision/latest/scale-to-width-down/127?cb=20100509205716",
+      "date": "2004-08-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 403
+    },
+    "405": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 8,
+      "subtitle": "\"Kitchen Irish, Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5c/Punisher_Vol_7_8.jpg/revision/latest/scale-to-width-down/129?cb=20100509211738",
+      "date": "2004-08-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 404
+    },
+    "406": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 9,
+      "subtitle": "\"Kitchen Irish, Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c9/Punisher_Vol_7_9.jpg/revision/latest/scale-to-width-down/127?cb=20100509211743",
+      "date": "2004-09-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 405
+    },
+    "407": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 10,
+      "subtitle": "\"Kitchen Irish, Part Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/ec/Punisher_Vol_7_10.jpg/revision/latest/scale-to-width-down/128?cb=20100509211747",
+      "date": "2004-10-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 406
+    },
+    "408": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 11,
+      "subtitle": "\"Kitchen Irish, Part Five\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/83/Punisher_Vol_7_11.jpg/revision/latest/scale-to-width-down/128?cb=20100509211750",
+      "date": "2004-11-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 407
+    },
+    "409": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 12,
+      "subtitle": "\"Kitchen Irish, Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d3/Punisher_Vol_7_12.jpg/revision/latest/scale-to-width-down/128?cb=20100509211753",
+      "date": "2004-12-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 408
+    },
+    "410": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 13,
+      "subtitle": "\"Mother Russia, Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/56/Punisher_Vol_7_13.jpg/revision/latest/scale-to-width-down/129?cb=20100509211757",
+      "date": "2005-01-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 409
+    },
+    "411": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 14,
+      "subtitle": "\"Mother Russia, Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f2/Punisher_Vol_7_14.jpg/revision/latest/scale-to-width-down/130?cb=20100509211802",
+      "date": "2005-01-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 410
+    },
+    "412": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 15,
+      "subtitle": "\"Mother Russia, Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5a/Punisher_Vol_7_15.jpg/revision/latest/scale-to-width-down/129?cb=20100509213339",
+      "date": "2005-02-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 411
+    },
+    "413": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 16,
+      "subtitle": "\"Mother Russia, Part Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2d/Punisher_Vol_7_16.jpg/revision/latest/scale-to-width-down/130?cb=20100509213342",
+      "date": "2005-03-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 412
+    },
+    "414": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 17,
+      "subtitle": "\"Mother Russia, Part Five\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1c/Punisher_Vol_7_17.jpg/revision/latest/scale-to-width-down/129?cb=20100509213346",
+      "date": "2005-04-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 413
+    },
+    "415": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 18,
+      "subtitle": "\"Mother Russia, Part Six\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8c/Punisher_Vol_7_18.jpg/revision/latest/scale-to-width-down/129?cb=20100509213349",
+      "date": "2005-05-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 414
+    },
+    "416": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 19,
+      "subtitle": "\"Up Is Down and Black Is White, Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b4/Punisher_Vol_7_19.jpg/revision/latest/scale-to-width-down/128?cb=20100509213352",
+      "date": "2005-06-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 415
+    },
+    "417": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 20,
+      "subtitle": "\"Up Is Down and Black Is White, Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f3/Punisher_Vol_7_20.jpg/revision/latest/scale-to-width-down/131?cb=20100509213356",
+      "date": "2005-06-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 416
+    },
+    "418": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 21,
+      "subtitle": "\"Up Is Down and Black Is White, Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d4/Punisher_Vol_7_21.jpg/revision/latest/scale-to-width-down/127?cb=20100509213400",
+      "date": "2005-07-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 417
+    },
+    "419": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 22,
+      "subtitle": "\"Up Is Down and Black Is White, Part Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9c/Punisher_Vol_7_22.jpg/revision/latest/scale-to-width-down/129?cb=20100509214551",
+      "date": "2005-08-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 418
+    },
+    "420": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 23,
+      "subtitle": "\"Up Is Down and Black Is White, Part Five\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/02/Punisher_Vol_7_23.jpg/revision/latest/scale-to-width-down/129?cb=20100509214555",
+      "date": "2005-09-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 419
+    },
+    "421": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 24,
+      "subtitle": "\"Up Is Down and Black Is White, Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fa/Punisher_Vol_7_24.jpg/revision/latest/scale-to-width-down/129?cb=20100509214559",
+      "date": "2005-10-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 420
+    },
+    "422": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 25,
+      "subtitle": "\"The Slavers, Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/49/Punisher_Vol_7_25.jpg/revision/latest/scale-to-width-down/130?cb=20100509214603",
+      "date": "2005-11-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 421
+    },
+    "423": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 26,
+      "subtitle": "\"The Slavers, Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6a/Punisher_Vol_7_26.jpg/revision/latest/scale-to-width-down/128?cb=20100509214607",
+      "date": "2005-12-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 422
+    },
+    "424": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 27,
+      "subtitle": "\"The Slavers, Part 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/91/Punisher_Vol_7_27.jpg/revision/latest/scale-to-width-down/129?cb=20100509214611",
+      "date": "2006-01-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 423
+    },
+    "425": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 28,
+      "subtitle": "\"The Slavers, Part 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cc/Punisher_Vol_7_28.jpg/revision/latest/scale-to-width-down/127?cb=20100509214614",
+      "date": "2006-02-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 424
+    },
+    "426": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 29,
+      "subtitle": "\"The Slavers, Part 5\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/35/Punisher_Vol_7_29.jpg/revision/latest/scale-to-width-down/128?cb=20100509213437",
+      "date": "2006-03-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 425
+    },
+    "427": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 30,
+      "subtitle": "\"The Slavers, Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7a/Punisher_Vol_7_30.jpg/revision/latest/scale-to-width-down/129?cb=20100509214617",
+      "date": "2006-04-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 426
+    },
+    "428": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 31,
+      "subtitle": "\"Barracuda, Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b9/Punisher_Vol_7_31.jpg/revision/latest/scale-to-width-down/131?cb=20100509214621",
+      "date": "2006-05-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 427
+    },
+    "429": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 32,
+      "subtitle": "\"Barracuda, Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b6/Punisher_Vol_7_32.jpg/revision/latest/scale-to-width-down/130?cb=20100509214810",
+      "date": "2006-06-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 428
+    },
+    "430": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 33,
+      "subtitle": "\"Barracuda, Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b1/Punisher_Vol_7_33.jpg/revision/latest/scale-to-width-down/130?cb=20210309042234",
+      "date": "2006-07-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 429
+    },
+    "431": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 34,
+      "subtitle": "\"Barracuda, Part 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/95/Punisher_Vol_7_34.jpg/revision/latest/scale-to-width-down/129?cb=20100509214814",
+      "date": "2006-08-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 430
+    },
+    "432": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 35,
+      "subtitle": "\"Barracuda, Part 5\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/ec/Punisher_Vol_7_35.jpg/revision/latest/scale-to-width-down/128?cb=20100509210130",
+      "date": "2006-09-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 431
+    },
+    "433": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 36,
+      "subtitle": "\"Barracuda, Part 6\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/aa/Punisher_Vol_7_36.jpg/revision/latest/scale-to-width-down/130?cb=20210309042313",
+      "date": "2006-10-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 432
+    },
+    "434": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 37,
+      "subtitle": "\"Man of Stone, Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/dc/Punisher_Vol_7_37.jpg/revision/latest/scale-to-width-down/130?cb=20210309042007",
+      "date": "2006-11-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 433
+    },
+    "435": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 38,
+      "subtitle": "\"Man of Stone, Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c6/Punisher_Vol_7_38.jpg/revision/latest/scale-to-width-down/130?cb=20210309042436",
+      "date": "2006-11-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 434
+    },
+    "436": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 39,
+      "subtitle": "\"Man of Stone, Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/bf/Punisher_Vol_7_39.jpg/revision/latest/scale-to-width-down/130?cb=20210309042511",
+      "date": "2006-12-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 435
+    },
+    "437": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 40,
+      "subtitle": "\"Man of Stone, Part Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/90/Punisher_Vol_7_40.jpg/revision/latest/scale-to-width-down/130?cb=20210309042640",
+      "date": "2007-01-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 436
+    },
+    "438": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 41,
+      "subtitle": "\"Man of Stone, Part Five\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2f/Punisher_Vol_7_41.jpg/revision/latest/scale-to-width-down/130?cb=20210309042726",
+      "date": "2007-01-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 437
+    },
+    "439": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 42,
+      "subtitle": "\"Man of Stone, Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b5/Punisher_Vol_7_42.jpg/revision/latest/scale-to-width-down/130?cb=20210309042812",
+      "date": "2007-02-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 438
+    },
+    "440": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 43,
+      "subtitle": "\"Widowmaker, Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9e/Punisher_Vol_7_43.jpg/revision/latest/scale-to-width-down/130?cb=20210309042840",
+      "date": "2007-03-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 439
+    },
+    "441": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 44,
+      "subtitle": "\"Widowmaker, Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/75/Punisher_Vol_7_44.jpg/revision/latest/scale-to-width-down/130?cb=20210309042913",
+      "date": "2007-03-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 440
+    },
+    "442": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 45,
+      "subtitle": "\"Widowmaker, Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/54/Punisher_Vol_7_45.jpg/revision/latest/scale-to-width-down/130?cb=20210309042946",
+      "date": "2007-05-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 441
+    },
+    "443": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 46,
+      "subtitle": "\"Widowmaker, Part Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d6/Punisher_Vol_7_46.jpg/revision/latest/scale-to-width-down/130?cb=20210309043012",
+      "date": "2007-06-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 442
+    },
+    "444": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 47,
+      "subtitle": "\"Widowmaker, Part Five\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c9/Punisher_Vol_7_47.jpg/revision/latest/scale-to-width-down/130?cb=20210309043039",
+      "date": "2007-07-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 443
+    },
+    "445": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 48,
+      "subtitle": "\"Widowmaker, Part Six\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/41/Punisher_Vol_7_48.jpg/revision/latest/scale-to-width-down/130?cb=20210309043105",
+      "date": "2007-08-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 444
+    },
+    "446": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 49,
+      "subtitle": "\"Widowmaker, Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/02/Punisher_Vol_7_49.jpg/revision/latest/scale-to-width-down/130?cb=20210309043134",
+      "date": "2007-07-05T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 445
+    },
+    "447": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 50,
+      "subtitle": "\"Long Cold Dark, Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3c/Punisher_Vol_7_50.jpg/revision/latest/scale-to-width-down/130?cb=20210309043204",
+      "date": "2007-10-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 446
+    },
+    "448": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 51,
+      "subtitle": "\"Long Cold Dark, Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/97/Punisher_Vol_7_51.jpg/revision/latest/scale-to-width-down/130?cb=20210309043234",
+      "date": "2007-12-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 447
+    },
+    "449": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 52,
+      "subtitle": "\"Long Cold Dark, Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/13/Punisher_Vol_7_52.jpg/revision/latest/scale-to-width-down/130?cb=20210309043334",
+      "date": "2008-01-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 448
+    },
+    "450": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 53,
+      "subtitle": "\"Long Cold Dark, Part Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/19/Punisher_Vol_7_53.jpg/revision/latest/scale-to-width-down/130?cb=20210309043412",
+      "date": "2008-02-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 449
+    },
+    "451": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 54,
+      "subtitle": "\"Long Cold Dark, Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8f/Punisher_Vol_7_54.jpg/revision/latest/scale-to-width-down/130?cb=20210309043500",
+      "date": "2008-03-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 450
+    },
+    "452": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 55,
+      "subtitle": "\"Valley Forge, Valley Forge: Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4c/Punisher_Vol_7_55.jpg/revision/latest/scale-to-width-down/130?cb=20210309043544",
+      "date": "2008-05-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 451
+    },
+    "453": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 56,
+      "subtitle": "\"Valley Forge, Valley Forge: Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cc/Punisher_Vol_7_56.jpg/revision/latest/scale-to-width-down/130?cb=20210309043613",
+      "date": "2008-06-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 452
+    },
+    "454": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 57,
+      "subtitle": "\"Valley Forge, Valley Forge Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e6/Punisher_Vol_7_57.jpg/revision/latest/scale-to-width-down/130?cb=20210309043708",
+      "date": "2008-07-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 453
+    },
+    "455": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 58,
+      "subtitle": "\"Valley Forge, Valley Forge Part Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ac/Punisher_Vol_7_58.jpg/revision/latest/scale-to-width-down/130?cb=20210309043734",
+      "date": "2008-08-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 454
+    },
+    "456": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 59,
+      "subtitle": "\"Valley Forge, Valley Forge Part Five\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/11/Punisher_Vol_7_59.jpg/revision/latest/scale-to-width-down/130?cb=20210309043826",
+      "date": "2008-09-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 455
+    },
+    "457": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 60,
+      "subtitle": "\"Valley Forge, Valley Forge: Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/95/Punisher_Vol_7_60.jpg/revision/latest/scale-to-width-down/130?cb=20210309043901",
+      "date": "2008-10-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 456
+    },
+    "458": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 61,
+      "subtitle": "\"Girls in White Dresses, Part One: Quinceañera\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/78/Punisher_Vol_7_61.jpg/revision/latest/scale-to-width-down/130?cb=20210309043930",
+      "date": "2008-10-01T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 457
+    },
+    "459": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 62,
+      "subtitle": "\"Girls in White Dresses, Part 2: Another Day in Paradise\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/52/Punisher_Vol_7_62.jpg/revision/latest/scale-to-width-down/130?cb=20210309043954",
+      "date": "2008-11-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 458
+    },
+    "460": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 63,
+      "subtitle": "\"Girls in White Dresses Part 3: She is Dead\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0e/Punisher_Vol_7_63.jpg/revision/latest/scale-to-width-down/130?cb=20210309044030",
+      "date": "2008-12-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 459
+    },
+    "461": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 64,
+      "subtitle": "\"Girls in White Dresses Part 4: Satan Dust\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/90/Punisher_Vol_7_64.jpg/revision/latest/scale-to-width-down/130?cb=20210309044100",
+      "date": "2009-01-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 460
+    },
+    "462": {
+      "title": "Punisher",
+      "vol": 7,
+      "no": 65,
+      "subtitle": "\"Girls in White Dresses Part 5: Jigsaw\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/bb/Punisher_Vol_7_65.jpg/revision/latest/scale-to-width-down/130?cb=20210309044135",
+      "date": "2009-02-01T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 461
+    },
+    "463": {
+      "title": "Punisher: Frank Castle Max",
+      "vol": 1,
+      "no": 66,
+      "subtitle": "\"Six Hours to Kill, Chapter 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/21/Punisher_Frank_Castle_Max_Vol_1_66.jpg/revision/latest/scale-to-width-down/129?cb=20090405173343",
+      "date": "2009-01-21T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 462
+    },
+    "464": {
+      "title": "Punisher: Frank Castle Max",
+      "vol": 1,
+      "no": 67,
+      "subtitle": "\"Six Hours to Kill, Chapter 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c3/Punisher_Frank_Castle_Max_Vol_1_67.jpg/revision/latest/scale-to-width-down/131?cb=20090405173643",
+      "date": "2009-02-18T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 463
+    },
+    "465": {
+      "title": "Punisher: Frank Castle Max",
+      "vol": 1,
+      "no": 68,
+      "subtitle": "\"Six Hours to Kill, Chapter 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/09/Punisher_Frank_Castle_Max_Vol_1_68.jpg/revision/latest/scale-to-width-down/128?cb=20090405173821",
+      "date": "2009-03-11T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 464
+    },
+    "466": {
+      "title": "Punisher: Frank Castle Max",
+      "vol": 1,
+      "no": 69,
+      "subtitle": "\"Six Hours to Kill Chapter 4: Minute Men\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/23/Punisher_Frank_Castle_Max_Vol_1_69.jpg/revision/latest/scale-to-width-down/130?cb=20090411100150",
+      "date": "2009-04-08T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 465
+    },
+    "467": {
+      "title": "Punisher: Frank Castle Max",
+      "vol": 1,
+      "no": 70,
+      "subtitle": "\"Six Hours To Kill 5:No More Second Chances\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/ee/Punisher_Frank_Castle_Max_Vol_1_70.jpg/revision/latest/scale-to-width-down/134?cb=20090516003926",
+      "date": "2009-05-13T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 466
+    },
+    "468": {
+      "title": "Punisher: Frank Castle Max",
+      "vol": 1,
+      "no": 71,
+      "subtitle": "\"Welcome to the Bayou, Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/64/Punisher_Frank_Castle_Max_Vol_1_71.jpg/revision/latest/scale-to-width-down/130?cb=20090609053341",
+      "date": "2009-06-10T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 467
+    },
+    "469": {
+      "title": "Punisher: Frank Castle Max",
+      "vol": 1,
+      "no": 72,
+      "subtitle": "\"Welcome to the Bayou, Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4d/Punisher_Frank_Castle_Max_Vol_1_72.jpg/revision/latest/scale-to-width-down/132?cb=20090707042021",
+      "date": "2009-07-08T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 468
+    },
+    "470": {
+      "title": "Punisher: Frank Castle Max",
+      "vol": 1,
+      "no": 73,
+      "subtitle": "\"Welcome to the Bayou, Part 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/40/Punisher_Frank_Castle_Max_Vol_1_73.jpg/revision/latest/scale-to-width-down/130?cb=20100116133933",
+      "date": "2009-08-19T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 469
+    },
+    "471": {
+      "title": "Punisher: Frank Castle Max",
+      "vol": 1,
+      "no": 74,
+      "subtitle": "\"Welcome to the Bayou, Part 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e2/Punisher_Frank_Castle_Max_Vol_1_74.jpg/revision/latest/scale-to-width-down/131?cb=20100126025418",
+      "date": "2009-09-10T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 470
+    },
+    "472": {
+      "title": "Punisher: Frank Castle Max",
+      "vol": 1,
+      "no": 75,
+      "subtitle": "\"Dolls\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/43/Punisher_Frank_Castle_Max_Vol_1_75.jpg/revision/latest/scale-to-width-down/132?cb=20091015154932",
+      "date": "2009-10-14T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 471
+    },
+    "473": {
+      "title": "Punisher: Force of Nature",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Force of Nature\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/84/Punisher_Force_of_Nature_vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20210309044457",
+      "date": "2008-02-13T11:00:00.000Z",
+      "serie_id": 29,
+      "order": 472
+    },
+    "474": {
+      "title": "Punisher Max Special: Little Black Book",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Little Black Book\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ac/Punisher_Max_Special_Little_Black_Book_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20091115022007",
+      "date": "2008-06-11T10:00:00.000Z",
+      "serie_id": 29,
+      "order": 473
+    },
+    "475": {
+      "title": "Punisher: The Tyger",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/05/Punisher_The_Tyger_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20210309044403",
+      "date": "2006-05-31T10:00:00.000Z",
+      "serie_id": 29,
+      "order": 474
+    },
+    "476": {
+      "title": "Punisher: The Cell",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"The Cell\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/27/Punisher_The_Cell_Vol_1_1.jpg/revision/latest/scale-to-width-down/131?cb=20100612183630",
+      "date": "2005-05-11T10:00:00.000Z",
+      "serie_id": 29,
+      "order": 475
+    },
+    "477": {
+      "title": "Punisher: The End",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f5/Punisher_The_End_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20200216075012",
+      "date": "2004-04-07T10:00:00.000Z",
+      "serie_id": 29,
+      "order": 476
+    },
+    "478": {
+      "title": "Punisher MAX: The Platoon",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"1: Crack the Sky and Shake the Earth\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0a/Punisher_MAX_The_Platoon_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20170929051607",
+      "date": "2017-10-04T10:00:00.000Z",
+      "serie_id": 30,
+      "order": 477
+    },
+    "479": {
+      "title": "Punisher MAX: The Platoon",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"2: Ma Deuce\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1c/Punisher_MAX_The_Platoon_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20171020092358",
+      "date": "2017-10-25T10:00:00.000Z",
+      "serie_id": 30,
+      "order": 478
+    },
+    "480": {
+      "title": "Punisher MAX: The Platoon",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"3: The Black Rifles\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/50/Punisher_MAX_The_Platoon_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20171117075638",
+      "date": "2017-11-22T11:00:00.000Z",
+      "serie_id": 30,
+      "order": 479
+    },
+    "481": {
+      "title": "Punisher MAX: The Platoon",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"4: Absolute Consequences\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b2/Punisher_MAX_The_Platoon_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20171222063840",
+      "date": "2017-12-27T11:00:00.000Z",
+      "serie_id": 30,
+      "order": 480
+    },
+    "482": {
+      "title": "Punisher MAX: The Platoon",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"5: Deadfall\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5d/Punisher_MAX_The_Platoon_Vol_1_5.jpg/revision/latest/scale-to-width-down/132?cb=20180126100838",
+      "date": "2018-01-31T11:00:00.000Z",
+      "serie_id": 30,
+      "order": 481
+    },
+    "483": {
+      "title": "Punisher MAX: The Platoon",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "\"6: Happy Childhoods\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/00/Punisher_MAX_The_Platoon_Vol_1_6.jpg/revision/latest/scale-to-width-down/132?cb=20180216063021",
+      "date": "2018-02-21T11:00:00.000Z",
+      "serie_id": 30,
+      "order": 482
+    },
+    "484": {
+      "title": "Born",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"The First Day\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4f/Born_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20200120194812",
+      "date": "2003-06-25T10:00:00.000Z",
+      "serie_id": 31,
+      "order": 483
+    },
+    "485": {
+      "title": "Born",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"The Second Day\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f3/Born_Vol_1_2.jpg/revision/latest/scale-to-width-down/130?cb=20200120194834",
+      "date": "2003-07-30T10:00:00.000Z",
+      "serie_id": 31,
+      "order": 484
+    },
+    "486": {
+      "title": "Born",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"The Third Day\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fe/Born_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20200120194858",
+      "date": "2003-09-04T10:00:00.000Z",
+      "serie_id": 31,
+      "order": 485
+    },
+    "487": {
+      "title": "Born",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"The Last Day\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/54/Born_Vol_1_4.jpg/revision/latest/scale-to-width-down/130?cb=20200120194923",
+      "date": "2003-09-24T10:00:00.000Z",
+      "serie_id": 31,
+      "order": 486
+    },
+    "488": {
+      "title": "Punisher Presents Barracuda MAX",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"A Mouth's a Mouth\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1e/Punisher_Presents_Barracuda_MAX_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20160422200948",
+      "date": "2007-02-14T11:00:00.000Z",
+      "serie_id": 32,
+      "order": 487
+    },
+    "489": {
+      "title": "Punisher Presents Barracuda MAX",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Oh, the Muthaf%ckin' Places You'll Go\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cf/Punisher_Presents_Barracuda_MAX_Vol_1_2.jpg/revision/latest/scale-to-width-down/130?cb=20160422201000",
+      "date": "2007-03-21T11:00:00.000Z",
+      "serie_id": 32,
+      "order": 488
+    },
+    "490": {
+      "title": "Punisher Presents Barracuda MAX",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Curiouser and Bi-Curiouser\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c5/Punisher_Presents_Barracuda_MAX_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20160422201012",
+      "date": "2007-04-25T10:00:00.000Z",
+      "serie_id": 32,
+      "order": 489
+    },
+    "491": {
+      "title": "Punisher Presents Barracuda MAX",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"And a Warm Place to Shit\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/97/Punisher_Presents_Barracuda_MAX_Vol_1_4.jpg/revision/latest/scale-to-width-down/130?cb=20160422201023",
+      "date": "2007-05-31T10:00:00.000Z",
+      "serie_id": 32,
+      "order": 490
+    },
+    "492": {
+      "title": "Punisher Presents Barracuda MAX",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"Baptized In a Barrel of Butcher Knives\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f1/Punisher_Presents_Barracuda_MAX_Vol_1_5.jpg/revision/latest/scale-to-width-down/130?cb=20160422201033",
+      "date": "2007-07-05T10:00:00.000Z",
+      "serie_id": 32,
+      "order": 491
+    },
+    "493": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Kingpin, Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7f/Punishermax_Vol_1_1.jpg/revision/latest/scale-to-width-down/131?cb=20100327174940",
+      "date": "2009-11-11T11:00:00.000Z",
+      "serie_id": 33,
+      "order": 492
+    },
+    "494": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Kingpin, Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/18/Punishermax_Vol_1_2.jpg/revision/latest/scale-to-width-down/131?cb=20100327192006",
+      "date": "2009-12-09T11:00:00.000Z",
+      "serie_id": 33,
+      "order": 493
+    },
+    "495": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Kingpin, Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2f/Punishermax_Vol_1_3.jpg/revision/latest/scale-to-width-down/129?cb=20100327193024",
+      "date": "2010-01-13T11:00:00.000Z",
+      "serie_id": 33,
+      "order": 494
+    },
+    "496": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Kingpin, Part Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/83/Punishermax_Vol_1_4.jpg/revision/latest/scale-to-width-down/131?cb=20100327193827",
+      "date": "2010-02-10T11:00:00.000Z",
+      "serie_id": 33,
+      "order": 495
+    },
+    "497": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"Kingpin, Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/db/Punishermax_Vol_1_5.jpg/revision/latest/scale-to-width-down/130?cb=20100327194718",
+      "date": "2010-03-10T11:00:00.000Z",
+      "serie_id": 33,
+      "order": 496
+    },
+    "498": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "\"Bullseye (Part 1)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e6/Punishermax_Vol_1_6.jpg/revision/latest/scale-to-width-down/129?cb=20100608192742",
+      "date": "2010-04-14T10:00:00.000Z",
+      "serie_id": 33,
+      "order": 497
+    },
+    "499": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 7,
+      "subtitle": "\"Bullseye (Part 2)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/af/Punishermax_Vol_1_7.jpg/revision/latest/scale-to-width-down/130?cb=20100608192919",
+      "date": "2010-05-12T10:00:00.000Z",
+      "serie_id": 33,
+      "order": 498
+    },
+    "500": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 8,
+      "subtitle": "\"Bullseye (Part 3)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/55/Punishermax_Vol_1_8.jpg/revision/latest/scale-to-width-down/130?cb=20100610223957",
+      "date": "2010-06-09T10:00:00.000Z",
+      "serie_id": 33,
+      "order": 499
+    },
+    "501": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 9,
+      "subtitle": "\"Bullseye (Part 4)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/53/Punishermax_Vol_1_9.jpg/revision/latest/scale-to-width-down/130?cb=20110211190230",
+      "date": "2010-07-28T10:00:00.000Z",
+      "serie_id": 33,
+      "order": 500
+    },
+    "502": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 10,
+      "subtitle": "\"Bullseye (Part 5)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2f/Punishermax_Vol_1_10.jpg/revision/latest/scale-to-width-down/130?cb=20110211173001",
+      "date": "2011-02-09T11:00:00.000Z",
+      "serie_id": 33,
+      "order": 501
+    },
+    "503": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 11,
+      "subtitle": "\"Bullseye (Conclusion)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f0/Punishermax_Vol_1_11.jpg/revision/latest/scale-to-width-down/130?cb=20110320053253",
+      "date": "2011-03-09T11:00:00.000Z",
+      "serie_id": 33,
+      "order": 502
+    },
+    "504": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 12,
+      "subtitle": "\"Frank, Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3f/Punishermax_Vol_1_12.jpg/revision/latest/scale-to-width-down/129?cb=20110427150830",
+      "date": "2011-04-13T10:00:00.000Z",
+      "serie_id": 33,
+      "order": 503
+    },
+    "505": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 13,
+      "subtitle": "\"Frank, Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/46/Punishermax_Vol_1_13.jpg/revision/latest/scale-to-width-down/132?cb=20110510063215",
+      "date": "2011-05-11T10:00:00.000Z",
+      "serie_id": 33,
+      "order": 504
+    },
+    "506": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 14,
+      "subtitle": "\"Frank, Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6e/Punishermax_Vol_1_14.jpg/revision/latest/scale-to-width-down/130?cb=20110610123224",
+      "date": "2011-06-01T10:00:00.000Z",
+      "serie_id": 33,
+      "order": 505
+    },
+    "507": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 15,
+      "subtitle": "\"Frank, Part Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9d/Punishermax_Vol_1_15.jpg/revision/latest/scale-to-width-down/130?cb=20110715161022",
+      "date": "2011-07-13T10:00:00.000Z",
+      "serie_id": 33,
+      "order": 506
+    },
+    "508": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 16,
+      "subtitle": "\"Frank, Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/37/Punishermax_Vol_1_16.jpg/revision/latest/scale-to-width-down/131?cb=20110814195118",
+      "date": "2011-08-10T10:00:00.000Z",
+      "serie_id": 33,
+      "order": 507
+    },
+    "509": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 17,
+      "subtitle": "\"Home Less, Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2c/Punishermax_Vol_1_17.jpg/revision/latest/scale-to-width-down/130?cb=20110915133153",
+      "date": "2011-09-14T10:00:00.000Z",
+      "serie_id": 33,
+      "order": 508
+    },
+    "510": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 18,
+      "subtitle": "\"Home Less, Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/86/Punishermax_Vol_1_18.jpg/revision/latest/scale-to-width-down/132?cb=20111007153052",
+      "date": "2011-10-12T10:00:00.000Z",
+      "serie_id": 33,
+      "order": 509
+    },
+    "511": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 19,
+      "subtitle": "\"Home Less, Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2e/Punishermax_Vol_1_19.jpg/revision/latest/scale-to-width-down/132?cb=20111110181452",
+      "date": "2011-11-09T11:00:00.000Z",
+      "serie_id": 33,
+      "order": 510
+    },
+    "512": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 20,
+      "subtitle": "\"Home Less, Part Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c4/Punishermax_Vol_1_20.jpg/revision/latest/scale-to-width-down/132?cb=20111222200917",
+      "date": "2011-12-21T11:00:00.000Z",
+      "serie_id": 33,
+      "order": 511
+    },
+    "513": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 21,
+      "subtitle": "\"Home Less, Final\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7c/Punishermax_Vol_1_21.jpg/revision/latest/scale-to-width-down/129?cb=20120112204306",
+      "date": "2012-01-11T11:00:00.000Z",
+      "serie_id": 33,
+      "order": 512
+    },
+    "514": {
+      "title": "Punishermax",
+      "vol": 1,
+      "no": 22,
+      "subtitle": "\"War's end\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/32/Punishermax_Vol_1_22.jpg/revision/latest/scale-to-width-down/130?cb=20120209185915",
+      "date": "2012-02-08T11:00:00.000Z",
+      "serie_id": 33,
+      "order": 513
+    },
+    "515": {
+      "title": "Punisher MAX: X-Mas Special",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"And On Earth Peace, Good Will Toward Men\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/dc/Punisher_MAX-_X-Mas_Special_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20111207221820",
+      "date": "2008-12-04T11:00:00.000Z",
+      "serie_id": 29,
+      "order": 514
+    },
+    "516": {
+      "title": "Punisher MAX: Naked Kill",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Naked Kill\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/60/Punisher_MAX_Naked_Kill_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20090605022558",
+      "date": "2009-08-01T10:00:00.000Z",
+      "serie_id": 29,
+      "order": 515
+    },
+    "517": {
+      "title": "Punisher Max: Get Castle",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Get Castle!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/58/Punisher_Max_Get_Castle_Vol_1_1.jpg/revision/latest/scale-to-width-down/131?cb=20101005025037",
+      "date": "2010-01-06T11:00:00.000Z",
+      "serie_id": 29,
+      "order": 516
+    },
+    "518": {
+      "title": "Punisher Max: Butterfly",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Butterfly\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ad/Punisher_Max_Butterfly_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20100624203235",
+      "date": "2010-03-03T11:00:00.000Z",
+      "serie_id": 29,
+      "order": 517
+    },
+    "519": {
+      "title": "Punisher Max: Happy Ending",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/91/Punisher_Max_Happy_Ending_Vol_1_1.jpg/revision/latest/scale-to-width-down/131?cb=20110218000400",
+      "date": "2010-08-26T10:00:00.000Z",
+      "serie_id": 29,
+      "order": 518
+    },
+    "520": {
+      "title": "Punisher Max: Hot Rods of Death",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Getting Mad\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4d/Punisher_Max_Hot_Rods_of_Death_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20101016233301",
+      "date": "2010-09-09T10:00:00.000Z",
+      "serie_id": 29,
+      "order": 519
+    },
+    "521": {
+      "title": "Punisher Max: Tiny Ugly World",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Tiny Ugly World\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/08/Punisher_Max_Tiny_Ugly_World_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20101211182545",
+      "date": "2010-10-20T10:00:00.000Z",
+      "serie_id": 29,
+      "order": 520
+    },
+    "522": {
+      "title": "Untold Tales of Punisher MAX",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Jimmy's Collision\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d3/Untold_Tales_of_Punisher_MAX_Vol_1_1.jpg/revision/latest/scale-to-width-down/131?cb=20120620105238",
+      "date": "2012-06-13T10:00:00.000Z",
+      "serie_id": 34,
+      "order": 521
+    },
+    "523": {
+      "title": "Untold Tales of Punisher MAX",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Where the Devil Don't Stay\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/13/Untold_Tales_of_Punisher_MAX_Vol_1_2.jpg/revision/latest/scale-to-width-down/131?cb=20120731233158",
+      "date": "2012-07-18T10:00:00.000Z",
+      "serie_id": 34,
+      "order": 522
+    },
+    "524": {
+      "title": "Untold Tales of Punisher MAX",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"The Ribbon\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/58/Untold_Tales_of_Punisher_MAX_Vol_1_3.jpg/revision/latest/scale-to-width-down/131?cb=20120827021827",
+      "date": "2012-08-22T10:00:00.000Z",
+      "serie_id": 34,
+      "order": 523
+    },
+    "525": {
+      "title": "Untold Tales of Punisher MAX",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Manhunt\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b8/Untold_Tales_of_Punisher_MAX_Vol_1_4.jpg/revision/latest/scale-to-width-down/130?cb=20121014002017",
+      "date": "2012-09-19T10:00:00.000Z",
+      "serie_id": 34,
+      "order": 524
+    },
+    "526": {
+      "title": "Untold Tales of Punisher MAX",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"A Little About Revenge\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/bb/Untold_Tales_of_Punisher_MAX_Vol_1_5.jpg/revision/latest/scale-to-width-down/131?cb=20121018042045",
+      "date": "2012-10-17T10:00:00.000Z",
+      "serie_id": 34,
+      "order": 525
     }
   },
   "meta": {
-    "nextIndex": 392
+    "nextIndex": 527
   }
 }

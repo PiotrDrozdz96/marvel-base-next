@@ -155,9 +155,57 @@
       "order": 25,
       "wave_id": 4,
       "is_filter": false
+    },
+    "27": {
+      "name": "X-Men: Mordercza Geneza",
+      "order": 26,
+      "wave_id": 5,
+      "is_filter": false
+    },
+    "28": {
+      "name": "Punisher",
+      "order": 27,
+      "wave_id": 6,
+      "is_filter": true
+    },
+    "29": {
+      "name": "Punisher pojedyncze historie",
+      "order": 28,
+      "wave_id": 6,
+      "is_filter": false
+    },
+    "30": {
+      "name": "Punisher MAX: The Platoon",
+      "order": 29,
+      "wave_id": 6,
+      "is_filter": false
+    },
+    "31": {
+      "name": "Born",
+      "order": 30,
+      "wave_id": 6,
+      "is_filter": false
+    },
+    "32": {
+      "name": "Punisher Presents Barracuda MAX",
+      "order": 31,
+      "wave_id": 6,
+      "is_filter": false
+    },
+    "33": {
+      "name": "Punishermax",
+      "order": 32,
+      "wave_id": 6,
+      "is_filter": false
+    },
+    "34": {
+      "name": "Untold Tales of Punisher MAX",
+      "order": 33,
+      "wave_id": 6,
+      "is_filter": false
     }
   },
   "meta": {
-    "nextIndex": 27
+    "nextIndex": 35
   }
 }
