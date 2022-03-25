@@ -9,6 +9,7 @@ export default {
   image_url: 'Obrazek',
   date: 'Data',
   serie_id: 'Seria',
+  wave_id: 'Nurt',
   order: 'Kolejność',
   global_order: 'Globalna Kolejność',
   notebooks: 'Zeszyty',

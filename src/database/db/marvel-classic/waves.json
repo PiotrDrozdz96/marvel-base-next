@@ -3,9 +3,13 @@
     "1": {
       "name": "Daredevil",
       "order": 0
+    },
+    "2": {
+      "name": "Pojedyncze albumy",
+      "order": 1
     }
   },
   "meta": {
-    "nextIndex": 2
+    "nextIndex": 3
   }
 }

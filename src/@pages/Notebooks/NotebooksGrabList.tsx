@@ -9,7 +9,7 @@ import SelectOption from 'types/SelectOption';
 import List from '@components/List';
 import Image from '@components/Image';
 import FormActions from '@components/FormActions';
-import Select from '@components/Select';
+import Select, { SelectInput } from '@components/Select';
 import Input from '@components/Input';
 import ListRow from '@components/ListRow';
 import dateFormat from 'utils/dateFormat';
@@ -23,13 +23,13 @@ type Props =
   | {
       variant: 'source';
       serieId: string;
-      seriesOptions: SelectOption[];
+      wavesOptions: SelectOption[];
       databaseName: string;
     }
   | {
       variant: 'target';
       serieId?: never;
-      seriesOptions?: never;
+      wavesOptions?: never;
       databaseName?: never;
     };
 
@@ -48,8 +48,8 @@ const labels: string[] = [
   notebooksMessages.date,
 ];
 
-const NotebooksGrabList = ({ variant, databaseName, seriesOptions, serieId }: Props): JSX.Element => {
-  const { notebooks, volumeNotebooks, setNotebooks } = useContext(NotebooksContext);
+const NotebooksGrabList = ({ variant, databaseName, wavesOptions = [], serieId }: Props): JSX.Element => {
+  const { waveId, seriesOptions, notebooks, volumeNotebooks, setNotebooks, setWaveId } = useContext(NotebooksContext);
 
   const onSubmit = async (values: FormValues) => {
     const { notebooks: newNotebooks } = await getFetch<{ notebooks: Notebook[] }>(
@@ -68,13 +68,23 @@ const NotebooksGrabList = ({ variant, databaseName, seriesOptions, serieId }: Pr
         droppableId={variant}
         filters={
           variant === 'source' && (
-            <Form initialValues={{ serie_id: serieId }} onSubmit={onSubmit}>
+            <Form<FormValues>
+              initialValues={{ serie_id: serieId, no_from: '' }}
+              onSubmit={(values) => onSubmit(values)}
+            >
               {({ handleSubmit }) => (
                 <form onSubmit={handleSubmit} className={classes.filters}>
+                  <SelectInput
+                    name="wave_id"
+                    value={waveId}
+                    placeholder={notebooksMessages.wave_id}
+                    options={wavesOptions}
+                    onChange={(e) => setWaveId(e.target.value)}
+                  />
                   <Select
                     name="serie_id"
                     placeholder={notebooksMessages.serie_id}
-                    options={seriesOptions as SelectOption[]}
+                    options={seriesOptions}
                     onChange={handleSubmit}
                   />
                   <Input name="no_from" placeholder={notebooksMessages.no_from} onBlur={handleSubmit} />

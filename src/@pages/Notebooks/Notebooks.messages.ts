@@ -12,6 +12,7 @@ export default {
   image_url: 'Obrazek',
   date: 'Data',
   serie_id: 'Seria',
+  wave_id: 'Nurt',
   order: 'Kolejność',
   no_from: 'Od numeru',
 };

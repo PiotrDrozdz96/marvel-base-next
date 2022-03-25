@@ -11,7 +11,7 @@ import FormContainer from '@components/FormContainer';
 import FormActions from '@components/FormActions';
 import Input from '@components/Input';
 import DatePicker from '@components/DatePicker';
-import Select from '@components/Select';
+import Select, { SelectInput } from '@components/Select';
 import ImageInput from '@components/ImageInput';
 import Spacing from '@components/Spacing';
 
@@ -21,12 +21,24 @@ import volumesMessages from '../Volumes.messages';
 type Props = {
   initialValues: FormPartial<ApiVolume>;
   seriesOptions: SelectOption[];
+  wavesOptions: SelectOption[];
   variant: FormVariant;
   databaseName: string;
   id?: number;
+  waveId: string;
+  setWaveId: (value: string) => void;
 };
 
-const VolumesForm = ({ variant, initialValues, databaseName, seriesOptions, id }: Props): JSX.Element => {
+const VolumesForm = ({
+  variant,
+  initialValues,
+  databaseName,
+  seriesOptions,
+  wavesOptions,
+  waveId,
+  id,
+  setWaveId,
+}: Props): JSX.Element => {
   const { notebooksIds } = useContext(NotebooksContext);
 
   return (
@@ -48,6 +60,13 @@ const VolumesForm = ({ variant, initialValues, databaseName, seriesOptions, id }
             <Input name="subtitle" placeholder={volumesMessages.subtitle} />
             <ImageInput name="image_url" placeholder={volumesMessages.image_url} required />
             <DatePicker name="date" placeholder={volumesMessages.date} required />
+            <SelectInput
+              name="wave_id"
+              value={waveId}
+              placeholder={volumesMessages.wave_id}
+              options={wavesOptions}
+              onChange={(e) => setWaveId(e.target.value)}
+            />
             <Select name="serie_id" placeholder={volumesMessages.serie_id} options={seriesOptions} required />
             <Input name="order" placeholder={volumesMessages.order} />
             <Input name="global_order" placeholder={volumesMessages.global_order} />
@@ -66,7 +85,7 @@ const VolumesForm = ({ variant, initialValues, databaseName, seriesOptions, id }
       <NotebooksGrabList
         variant="source"
         databaseName={databaseName}
-        seriesOptions={seriesOptions}
+        wavesOptions={wavesOptions}
         serieId={initialValues.serie_id}
       />
     </>

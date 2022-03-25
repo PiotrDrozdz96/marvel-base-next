@@ -29,9 +29,15 @@
       "order": 4,
       "wave_id": 1,
       "is_filter": false
+    },
+    "6": {
+      "name": "Elektra - Assassin",
+      "order": 5,
+      "wave_id": 2,
+      "is_filter": true
     }
   },
   "meta": {
-    "nextIndex": 6
+    "nextIndex": 7
   }
 }
