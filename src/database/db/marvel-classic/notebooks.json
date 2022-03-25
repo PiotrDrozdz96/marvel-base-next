@@ -2959,9 +2959,809 @@
       "date": "2007-10-10T10:00:00.000Z",
       "serie_id": 21,
       "order": 295
+    },
+    "297": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": -1,
+      "subtitle": "\"Paradigm Lost\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/51/Deadpool_Vol_3_-1.jpg/revision/latest/scale-to-width-down/130?cb=20191228013750",
+      "date": "1997-05-28T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 296
+    },
+    "298": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 0,
+      "subtitle": "\"You Only Die Twice\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/06/Deadpool_Vol_3_0.jpg/revision/latest/scale-to-width-down/130?cb=20191228194909",
+      "date": "1998-01-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 297
+    },
+    "299": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 1,
+      "subtitle": "\"Hey, It's Deadpool!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d8/Deadpool_Vol_3_1.jpg/revision/latest/scale-to-width-down/128?cb=20191227043225",
+      "date": "1997-01-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 298
+    },
+    "300": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 2,
+      "subtitle": "\"Operation: That Wacky Doctor's Game!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e6/Deadpool_Vol_3_2.jpg/revision/latest/scale-to-width-down/130?cb=20191201081237",
+      "date": "1997-02-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 299
+    },
+    "301": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 3,
+      "subtitle": "\"This Little Piggy Went...Hey! Where's the Piggy?! Or...Stumped!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c7/Deadpool_Vol_3_3.jpg/revision/latest/scale-to-width-down/132?cb=20191227062524",
+      "date": "1997-03-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 300
+    },
+    "302": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 4,
+      "subtitle": "\"Why Is It, to Save Me, I Must Kill You?\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9e/Deadpool_Vol_3_4.jpg/revision/latest/scale-to-width-down/132?cb=20191227062725",
+      "date": "1997-04-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 301
+    },
+    "303": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 5,
+      "subtitle": "\"The Doctor Is Skinned\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1c/Deadpool_Vol_3_5.jpg/revision/latest/scale-to-width-down/132?cb=20191227230211",
+      "date": "1997-05-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 302
+    },
+    "304": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 6,
+      "subtitle": "\"Man, Check Out the Head on That Chick!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fd/Deadpool_Vol_3_6.jpg/revision/latest/scale-to-width-down/132?cb=20191228014022",
+      "date": "1997-06-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 303
+    },
+    "305": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 7,
+      "subtitle": "\"Typhoid....It Ain't Just Fer Cattle Any More\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/51/Deadpool_Vol_3_7.jpg/revision/latest/scale-to-width-down/132?cb=20191228014340",
+      "date": "1997-07-02T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 304
+    },
+    "306": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 8,
+      "subtitle": "\"We Don't Need Another Hero\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e3/Deadpool_Vol_3_8.jpg/revision/latest/scale-to-width-down/132?cb=20191228014532",
+      "date": "1997-07-30T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 305
+    },
+    "307": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 9,
+      "subtitle": "\"Ssshhhhhhhhh!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2f/Deadpool_Vol_3_9.jpg/revision/latest/scale-to-width-down/132?cb=20191228190922",
+      "date": "1997-10-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 306
+    },
+    "308": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 10,
+      "subtitle": "\"Road-Trip Roulette!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/82/Deadpool_Vol_3_10.jpg/revision/latest/scale-to-width-down/132?cb=20191228191250",
+      "date": "1997-11-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 307
+    },
+    "309": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 11,
+      "subtitle": "\"With Great Power Comes Great Coincidence\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/78/Deadpool_Vol_3_11.jpg/revision/latest/scale-to-width-down/132?cb=20191228191347",
+      "date": "1997-12-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 308
+    },
+    "310": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 12,
+      "subtitle": "\"The Drowning Man Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/22/Deadpool_Vol_3_12.jpg/revision/latest/scale-to-width-down/132?cb=20191228191618",
+      "date": "1998-01-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 309
+    },
+    "311": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 13,
+      "subtitle": "\"The Drowning Man Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e3/Deadpool_Vol_3_13.jpg/revision/latest/scale-to-width-down/132?cb=20191228191705",
+      "date": "1998-02-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 310
+    },
+    "312": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 14,
+      "subtitle": "\"In Absentia\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f4/Deadpool_Vol_3_14.jpg/revision/latest/scale-to-width-down/132?cb=20191228192303",
+      "date": "1998-01-28T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 311
+    },
+    "313": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 15,
+      "subtitle": "\"New Year's Evolutions\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d0/Deadpool_Vol_3_15.jpg/revision/latest/scale-to-width-down/132?cb=20191228192507",
+      "date": "1998-04-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 312
+    },
+    "314": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 16,
+      "subtitle": "\"Win, Lose, or Draw Blood\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e5/Deadpool_Vol_3_16.jpg/revision/latest/scale-to-width-down/132?cb=20191228193037",
+      "date": "1998-03-25T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 313
+    },
+    "315": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 17,
+      "subtitle": "\"You Want Me to Do What?!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/88/Deadpool_Vol_3_17.jpg/revision/latest/scale-to-width-down/132?cb=20191228193130",
+      "date": "1998-06-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 314
+    },
+    "316": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 18,
+      "subtitle": "\"Payback, Part 1: Karmic Relief\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9f/Deadpool_Vol_3_18.jpg/revision/latest/scale-to-width-down/130?cb=20191228193737",
+      "date": "1998-05-27T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 315
+    },
+    "317": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 19,
+      "subtitle": "\"Payback, Part 2: The Quick and the Dead\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/30/Deadpool_Vol_3_19.jpg/revision/latest/scale-to-width-down/131?cb=20071103231546",
+      "date": "1998-08-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 316
+    },
+    "318": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 20,
+      "subtitle": "\"Justice, Order & Luck or... Skinless Drooler's Day Off!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a7/Deadpool_Vol_3_20.jpg/revision/latest/scale-to-width-down/130?cb=20191228194044",
+      "date": "1998-09-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 317
+    },
+    "319": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 21,
+      "subtitle": "\"Smells Like Prologue\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e5/Deadpool_Vol_3_21.jpg/revision/latest/scale-to-width-down/130?cb=20191228194137",
+      "date": "1998-10-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 318
+    },
+    "320": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 22,
+      "subtitle": "\"Great Men\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fa/Deadpool_Vol_3_22.jpg/revision/latest/scale-to-width-down/130?cb=20191228194408",
+      "date": "1998-11-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 319
+    },
+    "321": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 23,
+      "subtitle": "\"Dead Reckoning, Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/01/Deadpool_Vol_3_23.jpg/revision/latest/scale-to-width-down/130?cb=20191228194447",
+      "date": "1998-12-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 320
+    },
+    "322": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 24,
+      "subtitle": "\"Dead Reckoning, Part 2: 2nd Stringers & Dead Ringers\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/45/Deadpool_Vol_3_24.jpg/revision/latest/scale-to-width-down/130?cb=20191228194550",
+      "date": "1998-11-25T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 321
+    },
+    "323": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 25,
+      "subtitle": "\"Dead Reckoning, Part 3: What the World Needs Now\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/67/Deadpool_Vol_3_25.jpg/revision/latest/scale-to-width-down/130?cb=20191228194643",
+      "date": "1998-12-23T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 322
+    },
+    "324": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 26,
+      "subtitle": "\"Mouthful of Malice, Head Full of Cheese\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7d/Deadpool_Vol_3_26.jpg/revision/latest/scale-to-width-down/130?cb=20191228195059",
+      "date": "1999-01-27T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 323
+    },
+    "325": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 27,
+      "subtitle": "\"It's a Barbarian Bunny--Busty Broad Bonanza in My Brainpan-- And I'm the Only One Invited!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/dc/Deadpool_Vol_3_27.jpg/revision/latest/scale-to-width-down/130?cb=20191228195356",
+      "date": "1999-04-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 324
+    },
+    "326": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 28,
+      "subtitle": "\"I Can't Place the Name, But the Face Rings a Southern Belle\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fe/Deadpool_Vol_3_28.jpg/revision/latest/scale-to-width-down/131?cb=20191228195855",
+      "date": "1999-05-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 325
+    },
+    "327": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 29,
+      "subtitle": "\"Take My Wife... Please!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b9/Deadpool_Vol_3_29.jpg/revision/latest/scale-to-width-down/130?cb=20191228200357",
+      "date": "1999-04-28T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 326
+    },
+    "328": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 30,
+      "subtitle": "\"Truth & Lies\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7b/Deadpool_Vol_3_30.jpg/revision/latest/scale-to-width-down/130?cb=20191228201020",
+      "date": "1999-07-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 327
+    },
+    "329": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 31,
+      "subtitle": "\"Sploorch or The Beginning of the End\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/29/Deadpool_Vol_3_31.jpg/revision/latest/scale-to-width-down/130?cb=20191228201222",
+      "date": "1999-06-23T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 328
+    },
+    "330": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 32,
+      "subtitle": "\"I'm Not So Me as You Think I Am\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/17/Deadpool_Vol_3_32.jpg/revision/latest/scale-to-width-down/130?cb=20191227185657",
+      "date": "1999-07-28T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 329
+    },
+    "331": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 33,
+      "subtitle": "\"The End of the End or Happy Entrails to You\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/41/Deadpool_Vol_3_33.jpg/revision/latest/scale-to-width-down/130?cb=20191228201315",
+      "date": "1999-10-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 330
+    },
+    "332": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 34,
+      "subtitle": "\"Chapter X, Verse 1: Sending in the Clowns\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4e/Deadpool_Vol_3_34.jpg/revision/latest/scale-to-width-down/130?cb=20191228202715",
+      "date": "1999-09-22T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 331
+    },
+    "333": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 35,
+      "subtitle": "\"Chapter X, Verse 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8f/Deadpool_Vol_3_35.jpg/revision/latest/scale-to-width-down/130?cb=20191228203555",
+      "date": "1999-10-27T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 332
+    },
+    "334": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 36,
+      "subtitle": "\"Chapter X, Verse 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fa/Deadpool_Vol_3_36.jpg/revision/latest/scale-to-width-down/130?cb=20191228203756",
+      "date": "2000-01-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 333
+    },
+    "335": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 37,
+      "subtitle": "\"Chapter X, Verse 4: Benediction\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/25/Deadpool_Vol_3_37.jpg/revision/latest/scale-to-width-down/130?cb=20191228203925",
+      "date": "2000-02-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 334
+    },
+    "336": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 38,
+      "subtitle": "\"Johnny Handsome, Scene 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/46/Deadpool_Vol_3_38.jpg/revision/latest/scale-to-width-down/130?cb=20191228204302",
+      "date": "2000-03-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 335
+    },
+    "337": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 39,
+      "subtitle": "\"Johnny Handsome, Scene 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a2/Deadpool_Vol_3_39.jpg/revision/latest/scale-to-width-down/130?cb=20191228224324",
+      "date": "2000-02-23T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 336
+    },
+    "338": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 40,
+      "subtitle": "\"Warriors Four!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/38/Deadpool_Vol_3_40.jpg/revision/latest/scale-to-width-down/130?cb=20191228224416",
+      "date": "2000-03-22T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 337
+    },
+    "339": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 41,
+      "subtitle": "\"Frag! Or: Why Lucas Won't Release SW on DVD is Beyond Us!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a8/Deadpool_Vol_3_41.jpg/revision/latest/scale-to-width-down/130?cb=20191228224458",
+      "date": "2000-04-26T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 338
+    },
+    "340": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 42,
+      "subtitle": "\"Silent but Deadly Interlude\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9e/Deadpool_Vol_3_42.jpg/revision/latest/scale-to-width-down/130?cb=20191228224545",
+      "date": "2000-05-31T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 339
+    },
+    "341": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 43,
+      "subtitle": "\"The Menaced Phantom\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e7/Deadpool_Vol_3_43.jpg/revision/latest/scale-to-width-down/130?cb=20191228225327",
+      "date": "2000-06-28T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 340
+    },
+    "342": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 44,
+      "subtitle": "\"Cat Trap (Or Wakanda, Merc are you?)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f6/Deadpool_Vol_3_44.jpg/revision/latest/scale-to-width-down/130?cb=20191228225601",
+      "date": "2000-07-26T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 341
+    },
+    "343": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 45,
+      "subtitle": "\"Johnny Handsome Bites the Dust\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b8/Deadpool_Vol_3_45.jpg/revision/latest/scale-to-width-down/130?cb=20191228225859",
+      "date": "2000-08-23T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 342
+    },
+    "344": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 46,
+      "subtitle": "\"Cruel Summer, Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/47/Deadpool_Vol_3_46.jpg/revision/latest/scale-to-width-down/130?cb=20191228231425",
+      "date": "2000-09-27T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 343
+    },
+    "345": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 47,
+      "subtitle": "\"Cruel Summer, Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/57/Deadpool_Vol_3_47.jpg/revision/latest/scale-to-width-down/130?cb=20191228084201",
+      "date": "2000-12-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 344
+    },
+    "346": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 48,
+      "subtitle": "\"Cruel Summer, Part 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7d/Deadpool_Vol_3_48.jpg/revision/latest/scale-to-width-down/130?cb=20191228231625",
+      "date": "2001-01-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 345
+    },
+    "347": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 49,
+      "subtitle": "\"Cat Magnet\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2e/Deadpool_Vol_3_49.jpg/revision/latest/scale-to-width-down/130?cb=20191228231712",
+      "date": "2001-02-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 346
+    },
+    "348": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 50,
+      "subtitle": "\"The Promise\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e7/Deadpool_Vol_3_50.jpg/revision/latest/scale-to-width-down/130?cb=20191228083739",
+      "date": "2001-03-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 347
+    },
+    "349": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 51,
+      "subtitle": "\"The Promise, Part Two of Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ac/Deadpool_Vol_3_51.jpg/revision/latest/scale-to-width-down/130?cb=20191227062133",
+      "date": "2001-04-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 348
+    },
+    "350": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 52,
+      "subtitle": "\"Talk of the Town\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fa/Deadpool_Vol_3_52.jpg/revision/latest/scale-to-width-down/130?cb=20191228185841",
+      "date": "2001-05-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 349
+    },
+    "351": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 53,
+      "subtitle": "\"Talk of the Town, Part 2 of 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/75/Deadpool_Vol_3_53.jpg/revision/latest/scale-to-width-down/130?cb=20191229074101",
+      "date": "2001-06-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 350
+    },
+    "352": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 54,
+      "subtitle": "\"End of the Road\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/df/Deadpool_Vol_3_54.jpg/revision/latest/scale-to-width-down/130?cb=20191229074456",
+      "date": "2001-07-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 351
+    },
+    "353": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 55,
+      "subtitle": "\"End of the Road, Part: 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fe/Deadpool_Vol_3_55.jpg/revision/latest/scale-to-width-down/130?cb=20191229074612",
+      "date": "2001-08-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 352
+    },
+    "354": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 56,
+      "subtitle": "\"Going Out With a Bang!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/05/Deadpool_Vol_3_56.jpg/revision/latest/scale-to-width-down/130?cb=20191229074712",
+      "date": "2001-09-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 353
+    },
+    "355": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 57,
+      "subtitle": "\"Agent of Weapon X, Part 1: Facelift\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/68/Deadpool_Vol_3_57.jpg/revision/latest/scale-to-width-down/130?cb=20191229074803",
+      "date": "2001-10-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 354
+    },
+    "356": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 58,
+      "subtitle": "\"Agent of Weapon X, Pt 2: Makeover\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/13/Deadpool_Vol_3_58.jpg/revision/latest/scale-to-width-down/132?cb=20191229074913",
+      "date": "2001-11-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 355
+    },
+    "357": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 59,
+      "subtitle": "\"Agent of Weapon X, Pt Three: Intensive Care\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d5/Deadpool_Vol_3_59.jpg/revision/latest/scale-to-width-down/132?cb=20191229075002",
+      "date": "2001-12-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 356
+    },
+    "358": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 60,
+      "subtitle": "\"Agent of Weapon X, Part 4: Flatline\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5d/Deadpool_Vol_3_60.jpg/revision/latest/scale-to-width-down/132?cb=20191229075032",
+      "date": "2002-01-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 357
+    },
+    "359": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 61,
+      "subtitle": "\"Funeral for a Freak, Part 1: 'Nuff Said!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8e/Deadpool_Vol_3_61.jpg/revision/latest/scale-to-width-down/132?cb=20191229075120",
+      "date": "2002-02-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 358
+    },
+    "360": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 62,
+      "subtitle": "\"Funeral for a Freak, Part 2: Reign of the Deadpools\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9b/Deadpool_Vol_3_62.jpg/revision/latest/scale-to-width-down/132?cb=20191229075204",
+      "date": "2002-03-01T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 359
+    },
+    "361": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 63,
+      "subtitle": "\"Funeral for a Freak, Part 3: Showtime!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/69/Deadpool_Vol_3_63.jpg/revision/latest/scale-to-width-down/132?cb=20191229075243",
+      "date": "2002-04-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 360
+    },
+    "362": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 64,
+      "subtitle": "\"Funeral for a Freak, Part 4: Deadpoolalooza!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/58/Deadpool_Vol_3_64.jpg/revision/latest/scale-to-width-down/132?cb=20191229075319",
+      "date": "2002-05-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 361
+    },
+    "363": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 65,
+      "subtitle": "\"Healing Factor: Prologue\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e8/Deadpool_Vol_3_65.jpg/revision/latest/scale-to-width-down/130?cb=20191227185934",
+      "date": "2002-05-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 362
+    },
+    "364": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 66,
+      "subtitle": "\"Healing Factor. Chapter One: I Forget\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5c/Deadpool_Vol_3_66.jpg/revision/latest/scale-to-width-down/130?cb=20191229075422",
+      "date": "2002-06-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 363
+    },
+    "365": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 67,
+      "subtitle": "\"Buddy Picture\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/18/Deadpool_Vol_3_67.jpg/revision/latest/scale-to-width-down/130?cb=20191206020615",
+      "date": "2002-07-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 364
+    },
+    "366": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 68,
+      "subtitle": "\"Healing Factor, Chapter 2: Headbanger's Ball\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b7/Deadpool_Vol_3_68.jpg/revision/latest/scale-to-width-down/130?cb=20191229075525",
+      "date": "2002-08-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 365
+    },
+    "367": {
+      "title": "Deadpool",
+      "vol": 3,
+      "no": 69,
+      "subtitle": "\"Healing Factor: Finale\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9a/Deadpool_Vol_3_69.jpg/revision/latest/scale-to-width-down/130?cb=20191227190040",
+      "date": "2002-09-01T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 366
+    },
+    "368": {
+      "title": "New Mutants",
+      "vol": 1,
+      "no": 98,
+      "subtitle": "\"The Beginning of the End, Pt. 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/87/New_Mutants_Vol_1_98.jpg/revision/latest/scale-to-width-down/320?cb=20140731070600",
+      "date": "1990-12-11T11:00:00.000Z",
+      "serie_id": 23,
+      "order": 367
+    },
+    "369": {
+      "title": "Deadpool",
+      "vol": 2,
+      "no": 1,
+      "subtitle": "\"If Looks Could Kill\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/72/Deadpool_Vol_2_1.jpg/revision/latest/scale-to-width-down/128?cb=20191226224037",
+      "date": "1994-06-14T10:00:00.000Z",
+      "serie_id": 25,
+      "order": 368
+    },
+    "370": {
+      "title": "Deadpool",
+      "vol": 2,
+      "no": 2,
+      "subtitle": "\"Luck of the Irish\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4d/Deadpool_Vol_2_2.jpg/revision/latest/scale-to-width-down/128?cb=20191226224659",
+      "date": "1994-07-12T10:00:00.000Z",
+      "serie_id": 25,
+      "order": 369
+    },
+    "371": {
+      "title": "Deadpool",
+      "vol": 2,
+      "no": 3,
+      "subtitle": "\"Deadpool Sandwich\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/66/Deadpool_Vol_2_3.jpg/revision/latest/scale-to-width-down/129?cb=20191226231511",
+      "date": "1994-08-09T10:00:00.000Z",
+      "serie_id": 25,
+      "order": 370
+    },
+    "372": {
+      "title": "Deadpool",
+      "vol": 2,
+      "no": 4,
+      "subtitle": "\"Mano @ Mano\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/53/Deadpool_Vol_2_4.jpg/revision/latest/scale-to-width-down/129?cb=20191226231603",
+      "date": "1994-09-06T10:00:00.000Z",
+      "serie_id": 25,
+      "order": 371
+    },
+    "373": {
+      "title": "Deadpool",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Ducks in a Row!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/70/Deadpool_Vol_1_1.jpg/revision/latest/scale-to-width-down/129?cb=20191226223844",
+      "date": "1993-06-15T10:00:00.000Z",
+      "serie_id": 24,
+      "order": 372
+    },
+    "374": {
+      "title": "Deadpool: The Circle Chase",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Rabbit Season, Duck Season\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/87/Deadpool_The_Circle_Chase_Vol_1_2.jpg/revision/latest/scale-to-width-down/129?cb=20191226223823",
+      "date": "1993-07-20T10:00:00.000Z",
+      "serie_id": 24,
+      "order": 373
+    },
+    "375": {
+      "title": "Deadpool: The Circle Chase",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"...And Quacks Like a Duck...\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/43/Deadpool_The_Circle_Chase_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20191226222854",
+      "date": "1993-08-17T10:00:00.000Z",
+      "serie_id": 24,
+      "order": 374
+    },
+    "376": {
+      "title": "Deadpool: The Circle Chase",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Duck Soup\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d1/Deadpool_The_Circle_Chase_Vol_1_4.jpg/revision/latest/scale-to-width-down/129?cb=20191226223730",
+      "date": "1993-09-21T10:00:00.000Z",
+      "serie_id": 24,
+      "order": 375
     }
   },
   "meta": {
-    "nextIndex": 297
+    "nextIndex": 377
   }
 }

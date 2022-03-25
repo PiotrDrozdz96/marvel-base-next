@@ -125,9 +125,33 @@
       "order": 20,
       "wave_id": 3,
       "is_filter": false
+    },
+    "22": {
+      "name": "Deadpool",
+      "order": 21,
+      "wave_id": 4,
+      "is_filter": true
+    },
+    "23": {
+      "name": "New Mutants",
+      "order": 22,
+      "wave_id": 4,
+      "is_filter": false
+    },
+    "24": {
+      "name": "Deadpool Vol 1",
+      "order": 23,
+      "wave_id": 4,
+      "is_filter": false
+    },
+    "25": {
+      "name": "Deadpool Vol 2",
+      "order": 24,
+      "wave_id": 4,
+      "is_filter": false
     }
   },
   "meta": {
-    "nextIndex": 22
+    "nextIndex": 26
   }
 }

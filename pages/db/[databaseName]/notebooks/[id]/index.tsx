@@ -50,11 +50,11 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
     const [, title, vol, no] = name.match(nameRegExp) || [];
     const appearing = $body('.mw-parser-output > h2:first-of-type').text();
     const [, subtitle] = appearing.match(/Appearing in ("[^"]+")/) || [];
-    const releaseDate = $body('aside:nth-child(2) > div.pi-item:first-of-type > div').text();
+    const releaseDate = $body('[data-source="ReleaseDate"]').text();
     const date = parseDate(`${releaseDate}, 12:00`);
 
     importedNotebook = {
-      title: title || '',
+      title: title?.trim() || '',
       vol: vol || '',
       no: no || '',
       subtitle: subtitle || '',

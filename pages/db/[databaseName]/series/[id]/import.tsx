@@ -36,9 +36,9 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ query }) =
   $body('.wikia-gallery-item').each(function (_, el) {
     const $item = $.load(el);
     const imageUrl = $item('img').attr('data-src') || '';
-    const name = $item('.lightbox-caption > center > div > span > a').attr('title') || '';
+    const name = $item('.lightbox-caption > center > div a').attr('title') || '';
     const [, title, vol, no] = name.match(nameRegExp) || [];
-    const description = $item('center > div > span:nth-child(2)').text();
+    const description = $item('center > div span:nth-child(2)').text();
     const [, subtitle, , releaseDate, coverDate] =
       description.match(/("[^"]+")?(Release date: ([^,]+, \d\d\d\d))?Cover date: ([^,]+, \d\d\d\d)/) || [];
     const date = releaseDate ? parseDate(`${releaseDate}, 12:00`) : parseDate(`${coverDate}, 12:00`);
