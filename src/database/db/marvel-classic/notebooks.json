@@ -5259,9 +5259,199 @@
       "date": "2012-10-17T10:00:00.000Z",
       "serie_id": 34,
       "order": 525
+    },
+    "527": {
+      "title": "Black Widow",
+      "vol": 3,
+      "no": 1,
+      "subtitle": "\"Right to a Life Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/35/Black_Widow_Vol_3_1.jpg/revision/latest/scale-to-width-down/130?cb=20180120034605",
+      "date": "2004-10-27T10:00:00.000Z",
+      "serie_id": 35,
+      "order": 526
+    },
+    "528": {
+      "title": "Black Widow",
+      "vol": 3,
+      "no": 2,
+      "subtitle": "\"Right to a Life Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/99/Black_Widow_Vol_3_2.jpg/revision/latest/scale-to-width-down/130?cb=20180120034504",
+      "date": "2004-11-01T11:00:00.000Z",
+      "serie_id": 35,
+      "order": 527
+    },
+    "529": {
+      "title": "Black Widow",
+      "vol": 3,
+      "no": 3,
+      "subtitle": "\"Now That's What I Call a Woman\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ab/Black_Widow_Vol_3_3.jpg/revision/latest/scale-to-width-down/130?cb=20180120034640",
+      "date": "2004-11-24T11:00:00.000Z",
+      "serie_id": 35,
+      "order": 528
+    },
+    "530": {
+      "title": "Black Widow",
+      "vol": 3,
+      "no": 4,
+      "subtitle": "\"No Place Like Home\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9f/Black_Widow_Vol_3_4.jpg/revision/latest/scale-to-width-down/130?cb=20180120034718",
+      "date": "2004-12-22T11:00:00.000Z",
+      "serie_id": 35,
+      "order": 529
+    },
+    "531": {
+      "title": "Black Widow",
+      "vol": 3,
+      "no": 5,
+      "subtitle": "\"A Field in the East\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a9/Black_Widow_Vol_3_5.jpg/revision/latest/scale-to-width-down/130?cb=20180120034922",
+      "date": "2005-01-26T11:00:00.000Z",
+      "serie_id": 35,
+      "order": 530
+    },
+    "532": {
+      "title": "Black Widow",
+      "vol": 3,
+      "no": 6,
+      "subtitle": "\"Now That's What I Call a Woman (Reprise)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c2/Black_Widow_Vol_3_6.jpg/revision/latest/scale-to-width-down/130?cb=20180120035018",
+      "date": "2005-02-23T11:00:00.000Z",
+      "serie_id": 35,
+      "order": 531
+    },
+    "533": {
+      "title": "Black Widow 2",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"The Things They Say About Her Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/01/Black_Widow_2_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20180120040808",
+      "date": "2005-09-28T10:00:00.000Z",
+      "serie_id": 36,
+      "order": 532
+    },
+    "534": {
+      "title": "Black Widow 2",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"What Do You Really Deep Down Want?\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f5/Black_Widow_2_Vol_1_2.jpg/revision/latest/scale-to-width-down/130?cb=20180120043143",
+      "date": "2005-10-26T10:00:00.000Z",
+      "serie_id": 36,
+      "order": 533
+    },
+    "535": {
+      "title": "Black Widow 2",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Help and Those Who Need It\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/62/Black_Widow_2_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20180120043235",
+      "date": "2005-11-23T11:00:00.000Z",
+      "serie_id": 36,
+      "order": 534
+    },
+    "536": {
+      "title": "Black Widow 2",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Women and Children First\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/42/Black_Widow_2_Vol_1_4.jpg/revision/latest/scale-to-width-down/130?cb=20180120043356",
+      "date": "2005-12-29T11:00:00.000Z",
+      "serie_id": 36,
+      "order": 535
+    },
+    "537": {
+      "title": "Black Widow 2",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"Do You Feel Better Now?\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6e/Black_Widow_2_Vol_1_5.jpg/revision/latest/scale-to-width-down/130?cb=20180120043439",
+      "date": "2006-02-08T11:00:00.000Z",
+      "serie_id": 36,
+      "order": 536
+    },
+    "538": {
+      "title": "Black Widow 2",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "\"Welcome to the Game\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/dd/Black_Widow_2_Vol_1_6.jpg/revision/latest/scale-to-width-down/130?cb=20180120043523",
+      "date": "2006-02-22T11:00:00.000Z",
+      "serie_id": 36,
+      "order": 537
+    },
+    "539": {
+      "title": "Hulk: Future Imperfect",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Future Imperfect Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b1/Hulk_Future_Imperfect_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20160406092103",
+      "date": "1992-12-22T11:00:00.000Z",
+      "serie_id": 37,
+      "order": 538
+    },
+    "540": {
+      "title": "Hulk: Future Imperfect",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Future Imperfect Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/db/Hulk_Future_Imperfect_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20160406092114",
+      "date": "1993-01-26T11:00:00.000Z",
+      "serie_id": 37,
+      "order": 539
+    },
+    "541": {
+      "title": "Incredible Hulk: The End",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"The Last Titan\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f1/Incredible_Hulk_The_End_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20200216075121",
+      "date": "2002-06-26T10:00:00.000Z",
+      "serie_id": 37,
+      "order": 540
+    },
+    "542": {
+      "title": "Marvel Knights: Hulk",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Transformé: Part 1 of 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/de/Marvel_Knights_Hulk_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20131114194354",
+      "date": "2013-12-11T11:00:00.000Z",
+      "serie_id": 37,
+      "order": 541
+    },
+    "543": {
+      "title": "Marvel Knights: Hulk",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"变鳥: Part 2 of 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b6/Marvel_Knights_Hulk_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20140111043017",
+      "date": "2014-01-15T11:00:00.000Z",
+      "serie_id": 37,
+      "order": 542
+    },
+    "544": {
+      "title": "Marvel Knights: Hulk",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Trans Form: Part 3 of 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/49/Marvel_Knights_Hulk_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20140215195550",
+      "date": "2014-02-19T11:00:00.000Z",
+      "serie_id": 37,
+      "order": 543
+    },
+    "545": {
+      "title": "Marvel Knights: Hulk",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Transform: Part 4 of 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/98/Marvel_Knights_Hulk_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20140317225008",
+      "date": "2014-03-19T11:00:00.000Z",
+      "serie_id": 37,
+      "order": 544
     }
   },
   "meta": {
-    "nextIndex": 527
+    "nextIndex": 546
   }
 }

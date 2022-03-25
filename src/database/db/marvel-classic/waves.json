@@ -2,27 +2,27 @@
   "waves": {
     "1": {
       "name": "Daredevil",
-      "order": 0
+      "order": 1
     },
     "2": {
       "name": "Pojedyncze albumy",
-      "order": 1
+      "order": 3
     },
     "3": {
       "name": "Anihilacja",
-      "order": 2
+      "order": 0
     },
     "4": {
       "name": "Deadpool",
-      "order": 3
+      "order": 2
     },
     "5": {
       "name": "X-Men",
-      "order": 4
+      "order": 5
     },
     "6": {
       "name": "Punisher",
-      "order": 5
+      "order": 4
     }
   },
   "meta": {

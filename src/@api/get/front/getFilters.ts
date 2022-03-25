@@ -1,5 +1,6 @@
 import { Filters } from 'types/Filter';
 import get from '@api/get';
+import sortBy from 'utils/sortBy';
 
 const getVolume = async (
   databaseName: string,
@@ -21,26 +22,33 @@ const getVolume = async (
       ),
     ];
 
-    const filters: Filters[] = Object.keys(waves).map((waveId) => {
-      const filteredSeries = Object.keys(series).filter(
-        (serieId) =>
-          series[serieId as unknown as number].wave_id === Number(waveId) && series[Number(serieId)].is_filter
-      );
+    const filters: Filters[] = sortBy(
+      Object.keys(waves).map((waveId) => {
+        const filteredSeries = Object.keys(series).filter(
+          (serieId) =>
+            series[serieId as unknown as number].wave_id === Number(waveId) && series[Number(serieId)].is_filter
+        );
 
-      return {
-        id: waveId,
-        name: waves[waveId as unknown as number].name,
-        checked: wavesIds.includes(waveId),
-        series:
-          filteredSeries.length > 1
-            ? filteredSeries.map((serieId) => ({
-                id: serieId,
-                name: series[serieId as unknown as number].name,
-                checked: wavesIds.includes(waveId) || seriesIds.includes(serieId),
-              }))
-            : [],
-      };
-    });
+        return {
+          id: waveId,
+          order: waves[waveId as unknown as number].order,
+          name: waves[waveId as unknown as number].name,
+          checked: wavesIds.includes(waveId),
+          series: sortBy(
+            filteredSeries.length > 1
+              ? filteredSeries.map((serieId) => ({
+                  id: serieId,
+                  order: series[serieId as unknown as number].order,
+                  name: series[serieId as unknown as number].name,
+                  checked: wavesIds.includes(waveId) || seriesIds.includes(serieId),
+                }))
+              : [],
+            'order'
+          ),
+        };
+      }),
+      'order'
+    );
 
     return { checkedSeries, filters };
   } catch {

@@ -32,12 +32,12 @@
     },
     "6": {
       "name": "Elektra - Assassin",
-      "order": 5,
+      "order": 2,
       "wave_id": 2,
       "is_filter": true
     },
     "7": {
-      "order": 6,
+      "order": 4,
       "wave_id": 2,
       "is_filter": true,
       "name": "Wojna Domowa"
@@ -203,9 +203,27 @@
       "order": 33,
       "wave_id": 6,
       "is_filter": false
+    },
+    "35": {
+      "name": "Czarna Wdowa",
+      "order": 0,
+      "wave_id": 2,
+      "is_filter": true
+    },
+    "36": {
+      "name": "Black Widow 2",
+      "order": 1,
+      "wave_id": 2,
+      "is_filter": false
+    },
+    "37": {
+      "name": "Hulk",
+      "order": 3,
+      "wave_id": 2,
+      "is_filter": true
     }
   },
   "meta": {
-    "nextIndex": 35
+    "nextIndex": 38
   }
 }

@@ -60,7 +60,7 @@
       "name": "Marvel Classic",
       "type": "SUB_MENU",
       "order": 7,
-      "url": "/preview/marvel-classic",
+      "url": "/preview/marvel-classic/classic",
       "icon": "",
       "parent_id": 7
     }
