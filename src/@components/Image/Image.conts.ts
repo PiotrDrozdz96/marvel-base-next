@@ -39,4 +39,9 @@ export const loaders: ImageLoader[] = [
     loader: (preset, [, protocol, , start]) =>
       `${protocol}vignette${start}${preset === 'full' ? 700 : dimensions[preset]?.width}`,
   },
+  {
+    name: 'gildia komiks sklep',
+    regExp: /^(https:\/\/assets\.gildia\.pl\/system\/thumbs\/.+\/)(\d*)(\.\w+)$/,
+    loader: (preset, [, start, , end]) => `${start}${preset === 'full' ? 700 : dimensions[preset]?.width}${end}`,
+  },
 ];
