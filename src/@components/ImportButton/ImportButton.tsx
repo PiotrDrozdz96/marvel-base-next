@@ -16,10 +16,11 @@ type Props = {
     pathname: string;
     query: ParsedUrlQueryInput;
   };
+  type?: 'push' | 'replace';
   withRange?: boolean;
 };
 
-const ImportButton = ({ url, withRange = false }: Props): JSX.Element => {
+const ImportButton = ({ url, type = 'push', withRange = false }: Props): JSX.Element => {
   const router = useRouter();
   const [isOpen, setIsOpen] = useState(false);
 
@@ -33,7 +34,12 @@ const ImportButton = ({ url, withRange = false }: Props): JSX.Element => {
         <Form
           onSubmit={(values) => {
             setIsOpen(false);
-            router.push({ pathname: url.pathname, query: { ...url.query, ...values } });
+            const finalUrl = { pathname: url.pathname, query: { ...url.query, ...values } };
+            if (type === 'push') {
+              router.push(finalUrl);
+            } else {
+              router.replace(finalUrl);
+            }
           }}
         >
           {({ handleSubmit }) => (

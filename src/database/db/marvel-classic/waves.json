@@ -18,14 +18,18 @@
     },
     "5": {
       "name": "X-Men",
-      "order": 5
+      "order": 6
     },
     "6": {
       "name": "Punisher",
       "order": 4
+    },
+    "7": {
+      "name": "Wolverine",
+      "order": 5
     }
   },
   "meta": {
-    "nextIndex": 7
+    "nextIndex": 8
   }
 }

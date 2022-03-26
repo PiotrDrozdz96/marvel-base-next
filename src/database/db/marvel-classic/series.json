@@ -221,9 +221,45 @@
       "order": 3,
       "wave_id": 2,
       "is_filter": true
+    },
+    "38": {
+      "name": "Wolverine Vol 3",
+      "order": 37,
+      "wave_id": 7,
+      "is_filter": false
+    },
+    "39": {
+      "name": "Wolverine Weapon X",
+      "order": 38,
+      "wave_id": 7,
+      "is_filter": false
+    },
+    "40": {
+      "name": "Wolverine: Manifest Destiny",
+      "order": 39,
+      "wave_id": 7,
+      "is_filter": false
+    },
+    "41": {
+      "name": "Wolverine pojedyncze historie",
+      "order": 40,
+      "wave_id": 7,
+      "is_filter": false
+    },
+    "42": {
+      "name": "Astonishing Spider-Man & Wolverine",
+      "order": 41,
+      "wave_id": 7,
+      "is_filter": false
+    },
+    "43": {
+      "name": "Wolverine: Jason Aaron",
+      "order": 42,
+      "wave_id": 7,
+      "is_filter": true
     }
   },
   "meta": {
-    "nextIndex": 38
+    "nextIndex": 44
   }
 }

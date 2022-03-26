@@ -40,6 +40,7 @@ const NotebooksForm = ({ variant, initialValues, databaseName, id, series }: Pro
       actions={
         variant === 'create' ? (
           <ImportButton
+            type="replace"
             url={{
               pathname: routes.notebooks.id.href,
               query: { databaseName, id: 'create', serie_id: initialValues.serie_id },

@@ -5449,9 +5449,899 @@
       "date": "2014-03-19T11:00:00.000Z",
       "serie_id": 37,
       "order": 544
+    },
+    "546": {
+      "title": "Wolverine",
+      "vol": 3,
+      "no": 56,
+      "subtitle": "\"The Man in the Pit\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/42/Wolverine_Vol_3_56.jpg/revision/latest/scale-to-width-down/130?cb=20090603003856",
+      "date": "2007-10-01T10:00:00.000Z",
+      "serie_id": 38,
+      "order": 545
+    },
+    "547": {
+      "title": "Wolverine",
+      "vol": 3,
+      "no": 57,
+      "subtitle": "\"Logan Dies: Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4f/Wolverine_Vol_3_57.jpg/revision/latest/scale-to-width-down/128?cb=20090603003856",
+      "date": "2007-11-01T11:00:00.000Z",
+      "serie_id": 38,
+      "order": 546
+    },
+    "548": {
+      "title": "Wolverine",
+      "vol": 3,
+      "no": 58,
+      "subtitle": "\"Logan Dies Part 2: Curaetar\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5d/Wolverine_Vol_3_58.jpg/revision/latest/scale-to-width-down/128?cb=20090603003856",
+      "date": "2007-11-01T11:00:00.000Z",
+      "serie_id": 38,
+      "order": 547
+    },
+    "549": {
+      "title": "Wolverine",
+      "vol": 3,
+      "no": 59,
+      "subtitle": "\"Logan Dies: Part 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c1/Wolverine_Vol_3_59.jpg/revision/latest/scale-to-width-down/126?cb=20090603003856",
+      "date": "2008-01-01T11:00:00.000Z",
+      "serie_id": 38,
+      "order": 548
+    },
+    "550": {
+      "title": "Wolverine",
+      "vol": 3,
+      "no": 60,
+      "subtitle": "\"Logan Dies Part 4: Wake the Dead\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3c/Wolverine_Vol_3_60.jpg/revision/latest/scale-to-width-down/130?cb=20090603004014",
+      "date": "2008-02-01T11:00:00.000Z",
+      "serie_id": 38,
+      "order": 549
+    },
+    "551": {
+      "title": "Wolverine",
+      "vol": 3,
+      "no": 61,
+      "subtitle": "\"Logan Dies Conclusion: Soul Survivor\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/18/Wolverine_Vol_3_61.jpg/revision/latest/scale-to-width-down/129?cb=20090603003931",
+      "date": "2008-03-01T11:00:00.000Z",
+      "serie_id": 38,
+      "order": 550
+    },
+    "552": {
+      "title": "Wolverine",
+      "vol": 3,
+      "no": 62,
+      "subtitle": "\"Get Mystique! Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/61/Wolverine_Vol_3_62.jpg/revision/latest/scale-to-width-down/129?cb=20090603003931",
+      "date": "2008-04-01T10:00:00.000Z",
+      "serie_id": 38,
+      "order": 551
+    },
+    "553": {
+      "title": "Wolverine",
+      "vol": 3,
+      "no": 63,
+      "subtitle": "\"Get Mystique! Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7a/Wolverine_Vol_3_63.jpg/revision/latest/scale-to-width-down/131?cb=20090603003931",
+      "date": "2008-03-12T11:00:00.000Z",
+      "serie_id": 38,
+      "order": 552
+    },
+    "554": {
+      "title": "Wolverine",
+      "vol": 3,
+      "no": 64,
+      "subtitle": "\"Get Mystique! Part 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/64/Wolverine_Vol_3_64.jpg/revision/latest/scale-to-width-down/130?cb=20090603003931",
+      "date": "2008-04-09T10:00:00.000Z",
+      "serie_id": 38,
+      "order": 553
+    },
+    "555": {
+      "title": "Wolverine",
+      "vol": 3,
+      "no": 65,
+      "subtitle": "\"Get Mystique! Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/55/Wolverine_Vol_3_65.jpg/revision/latest/scale-to-width-down/130?cb=20090603003930",
+      "date": "2008-05-14T10:00:00.000Z",
+      "serie_id": 38,
+      "order": 554
+    },
+    "556": {
+      "title": "Wolverine",
+      "vol": 3,
+      "no": 66,
+      "subtitle": "\"Old Man Logan: Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a5/Wolverine_Vol_3_66.jpg/revision/latest/scale-to-width-down/129?cb=20190818215722",
+      "date": "2008-08-01T10:00:00.000Z",
+      "serie_id": 38,
+      "order": 555
+    },
+    "557": {
+      "title": "Wolverine",
+      "vol": 3,
+      "no": 67,
+      "subtitle": "\"Old Man Logan: Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3b/Wolverine_Vol_3_67.jpg/revision/latest/scale-to-width-down/132?cb=20200417195326",
+      "date": "2008-09-01T10:00:00.000Z",
+      "serie_id": 38,
+      "order": 556
+    },
+    "558": {
+      "title": "Wolverine",
+      "vol": 3,
+      "no": 68,
+      "subtitle": "\"Old Man Logan: Part 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4f/Wolverine_Vol_3_68.jpg/revision/latest/scale-to-width-down/130?cb=20080830210821",
+      "date": "2008-10-01T10:00:00.000Z",
+      "serie_id": 38,
+      "order": 557
+    },
+    "559": {
+      "title": "Wolverine",
+      "vol": 3,
+      "no": 69,
+      "subtitle": "\"Old Man Logan: Part 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5e/Wolverine_Vol_3_69.jpg/revision/latest/scale-to-width-down/128?cb=20081114033713",
+      "date": "2009-01-01T11:00:00.000Z",
+      "serie_id": 38,
+      "order": 558
+    },
+    "560": {
+      "title": "Wolverine",
+      "vol": 3,
+      "no": 70,
+      "subtitle": "\"Old Man Logan: Part 5\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3a/Wolverine_Vol_3_70.jpg/revision/latest/scale-to-width-down/130?cb=20090105041840",
+      "date": "2009-02-01T11:00:00.000Z",
+      "serie_id": 38,
+      "order": 559
+    },
+    "561": {
+      "title": "Wolverine",
+      "vol": 3,
+      "no": 71,
+      "subtitle": "\"Old Man Logan: Part 6\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/12/Wolverine_Vol_3_71.jpg/revision/latest/scale-to-width-down/132?cb=20090321012753",
+      "date": "2009-05-01T10:00:00.000Z",
+      "serie_id": 38,
+      "order": 560
+    },
+    "562": {
+      "title": "Wolverine",
+      "vol": 3,
+      "no": 72,
+      "subtitle": "\"Old Man Logan: Part 7\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4c/Wolverine_Vol_3_72.jpg/revision/latest/scale-to-width-down/132?cb=20201030013842",
+      "date": "2009-06-01T10:00:00.000Z",
+      "serie_id": 38,
+      "order": 561
+    },
+    "563": {
+      "title": "Wolverine",
+      "vol": 3,
+      "no": 73,
+      "subtitle": "\"A Mile in my Moccasins: Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a7/Wolverine_Vol_3_73.jpg/revision/latest/scale-to-width-down/131?cb=20090513203101",
+      "date": "2009-07-01T10:00:00.000Z",
+      "serie_id": 38,
+      "order": 562
+    },
+    "564": {
+      "title": "Wolverine",
+      "vol": 3,
+      "no": 74,
+      "subtitle": "\"One Percenter: Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e6/Wolverine_Vol_3_74.jpg/revision/latest/scale-to-width-down/130?cb=20090609045852",
+      "date": "2009-06-10T10:00:00.000Z",
+      "serie_id": 38,
+      "order": 563
+    },
+    "565": {
+      "title": "Wolverine Weapon X",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"The Adamantium Men, part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1a/Wolverine_Weapon_X_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20090411013319",
+      "date": "2009-04-08T10:00:00.000Z",
+      "serie_id": 39,
+      "order": 564
+    },
+    "566": {
+      "title": "Wolverine Weapon X",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"The Adamantium Men: Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/72/Wolverine_Weapon_X_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20090523025326",
+      "date": "2009-05-20T10:00:00.000Z",
+      "serie_id": 39,
+      "order": 565
+    },
+    "567": {
+      "title": "Wolverine Weapon X",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"The Adamantium Men, part 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4c/Wolverine_Weapon_X_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20090626051322",
+      "date": "2009-06-24T10:00:00.000Z",
+      "serie_id": 39,
+      "order": 566
+    },
+    "568": {
+      "title": "Wolverine Weapon X",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"The Adamantium Men, Part 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/14/Wolverine_Weapon_X_Vol_1_4.jpg/revision/latest/scale-to-width-down/130?cb=20091013041258",
+      "date": "2009-08-19T10:00:00.000Z",
+      "serie_id": 39,
+      "order": 567
+    },
+    "569": {
+      "title": "Wolverine Weapon X",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"The Adamantium Men, Part 5\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/06/Wolverine_Weapon_X_Vol_1_5.jpg/revision/latest/scale-to-width-down/129?cb=20091013042234",
+      "date": "2009-09-30T10:00:00.000Z",
+      "serie_id": 39,
+      "order": 568
+    },
+    "570": {
+      "title": "Wolverine Weapon X",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "\"Insane in the Brain part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f2/Wolverine_Weapon_X_Vol_1_6.jpg/revision/latest/scale-to-width-down/129?cb=20100308162456",
+      "date": "2009-10-28T11:00:00.000Z",
+      "serie_id": 39,
+      "order": 569
+    },
+    "571": {
+      "title": "Wolverine Weapon X",
+      "vol": 1,
+      "no": 7,
+      "subtitle": "\"Insane In the Brain, Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/ec/Wolverine_Weapon_X_Vol_1_7.jpg/revision/latest/scale-to-width-down/128?cb=20100308164134",
+      "date": "2009-11-18T11:00:00.000Z",
+      "serie_id": 39,
+      "order": 570
+    },
+    "572": {
+      "title": "Wolverine Weapon X",
+      "vol": 1,
+      "no": 8,
+      "subtitle": "\"Insane In the Brain, Part 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/72/Wolverine_Weapon_X_Vol_1_8.jpg/revision/latest/scale-to-width-down/130?cb=20100109151720",
+      "date": "2009-12-23T11:00:00.000Z",
+      "serie_id": 39,
+      "order": 571
+    },
+    "573": {
+      "title": "Wolverine Weapon X",
+      "vol": 1,
+      "no": 9,
+      "subtitle": "\"Insane In The Brain, Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8f/Wolverine_Weapon_X_Vol_1_9.jpg/revision/latest/scale-to-width-down/132?cb=20100120202343",
+      "date": "2010-01-20T11:00:00.000Z",
+      "serie_id": 39,
+      "order": 572
+    },
+    "574": {
+      "title": "Wolverine Weapon X",
+      "vol": 1,
+      "no": 10,
+      "subtitle": "\"Love and the Wolverine\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/ba/Wolverine_Weapon_X_Vol_1_10.jpg/revision/latest/scale-to-width-down/129?cb=20100207214457",
+      "date": "2010-02-03T11:00:00.000Z",
+      "serie_id": 39,
+      "order": 573
+    },
+    "575": {
+      "title": "Wolverine Weapon X",
+      "vol": 1,
+      "no": 11,
+      "subtitle": "\"Tomorrow Dies Today (Part 1)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8f/Wolverine_Weapon_X_Vol_1_11.jpg/revision/latest/scale-to-width-down/129?cb=20100308201409",
+      "date": "2010-03-03T11:00:00.000Z",
+      "serie_id": 39,
+      "order": 574
+    },
+    "576": {
+      "title": "Wolverine Weapon X",
+      "vol": 1,
+      "no": 12,
+      "subtitle": "\"Tomorrow Dies Today (Part 2)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/ec/Wolverine_Weapon_X_Vol_1_12.jpg/revision/latest/scale-to-width-down/132?cb=20100408014944",
+      "date": "2010-04-07T10:00:00.000Z",
+      "serie_id": 39,
+      "order": 575
+    },
+    "577": {
+      "title": "Wolverine Weapon X",
+      "vol": 1,
+      "no": 13,
+      "subtitle": "\"Tomorrow Dies Today (Part 3)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/64/Wolverine_Weapon_X_Vol_1_13.jpg/revision/latest/scale-to-width-down/130?cb=20100531130326",
+      "date": "2010-05-26T10:00:00.000Z",
+      "serie_id": 39,
+      "order": 576
+    },
+    "578": {
+      "title": "Wolverine Weapon X",
+      "vol": 1,
+      "no": 14,
+      "subtitle": "\"Tomorrow Dies Today (Part 4)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/63/Wolverine_Weapon_X_Vol_1_14.jpg/revision/latest/scale-to-width-down/132?cb=20100627065927",
+      "date": "2010-06-23T10:00:00.000Z",
+      "serie_id": 39,
+      "order": 577
+    },
+    "579": {
+      "title": "Wolverine Weapon X",
+      "vol": 1,
+      "no": 15,
+      "subtitle": "\"Tomorrow Dies Today (conclusion)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cc/Wolverine_Weapon_X_Vol_1_15.jpg/revision/latest/scale-to-width-down/132?cb=20100730145927",
+      "date": "2010-07-28T10:00:00.000Z",
+      "serie_id": 39,
+      "order": 578
+    },
+    "580": {
+      "title": "Wolverine Weapon X",
+      "vol": 1,
+      "no": 16,
+      "subtitle": "\"The End of the Beginning\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f5/Wolverine_Weapon_X_Vol_1_16.jpg/revision/latest/scale-to-width-down/132?cb=20100818214025",
+      "date": "2010-08-18T10:00:00.000Z",
+      "serie_id": 39,
+      "order": 579
+    },
+    "581": {
+      "title": "Wolverine: Manifest Destiny",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Part One: Enter the Wolverine\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9a/Wolverine_Manifest_Destiny_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20160619165532",
+      "date": "2008-10-22T10:00:00.000Z",
+      "serie_id": 40,
+      "order": 580
+    },
+    "582": {
+      "title": "Wolverine: Manifest Destiny",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Part Two: Black Dragon Death Squad to the Edge of Panic\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6f/Wolverine_Manifest_Destiny_Vol_1_2.jpg/revision/latest/scale-to-width-down/130?cb=20160619165549",
+      "date": "2008-12-02T11:00:00.000Z",
+      "serie_id": 40,
+      "order": 581
+    },
+    "583": {
+      "title": "Wolverine: Manifest Destiny",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Part Three: Once Upon a Time in Chinatown\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/ed/Wolverine_Manifest_Destiny_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20160619165559",
+      "date": "2009-01-02T11:00:00.000Z",
+      "serie_id": 40,
+      "order": 582
+    },
+    "584": {
+      "title": "Wolverine: Manifest Destiny",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Part Four: The Way of the Black Dragon\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e1/Wolverine_Manifest_Destiny_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20160619165614",
+      "date": "2009-02-11T11:00:00.000Z",
+      "serie_id": 40,
+      "order": 583
+    },
+    "585": {
+      "title": "Dark Reign: The List - Wolverine",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"All We Want is the World and Everything in it\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/57/Dark_Reign_The_List_-_Wolverine_Vol_1_1.jpg/revision/latest/scale-to-width-down/129?cb=20091108232643",
+      "date": "2009-10-28T11:00:00.000Z",
+      "serie_id": 41,
+      "order": 584
+    },
+    "586": {
+      "title": "Dark X-Men: The Beginning",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Hidden Depths\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/77/Dark_X-Men_The_Beginning_Vol_1_3.jpg/revision/latest/scale-to-width-down/322?cb=20091220204635",
+      "date": "2009-08-26T10:00:00.000Z",
+      "serie_id": 41,
+      "order": 585
+    },
+    "587": {
+      "title": "All-New Wolverine Saga",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"All-New Wolverine Saga\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/bd/All-New_Wolverine_Saga_Vol_1_1.jpg/revision/latest/scale-to-width-down/131?cb=20220101223312",
+      "date": "2009-08-25T10:00:00.000Z",
+      "serie_id": 41,
+      "order": 586
+    },
+    "588": {
+      "title": "Wolverine: Road to Hell",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Falling\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/32/Wolverine_Road_to_Hell_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20100902000039",
+      "date": "2010-09-01T10:00:00.000Z",
+      "serie_id": 41,
+      "order": 587
+    },
+    "589": {
+      "title": "Astonishing Spider-Man & Wolverine",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Another Fine Mess (Part One)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4e/Astonishing_Spider-Man_%26_Wolverine_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20110421223227",
+      "date": "2010-05-05T10:00:00.000Z",
+      "serie_id": 42,
+      "order": 588
+    },
+    "590": {
+      "title": "Astonishing Spider-Man & Wolverine",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Another Fine Mess: Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a1/Astonishing_Spider-Man_%26_Wolverine_Vol_1_2.jpg/revision/latest/scale-to-width-down/129?cb=20101022202440",
+      "date": "2010-07-14T10:00:00.000Z",
+      "serie_id": 42,
+      "order": 589
+    },
+    "591": {
+      "title": "Astonishing Spider-Man & Wolverine",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Another Fine Mess (Part Three)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cb/Astonishing_Spider-Man_%26_Wolverine_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20101021044129",
+      "date": "2010-09-15T10:00:00.000Z",
+      "serie_id": 42,
+      "order": 590
+    },
+    "592": {
+      "title": "Astonishing Spider-Man & Wolverine",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Another Fine Mess, Part Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b3/Astonishing_Spider-Man_%26_Wolverine_Vol_1_4.jpg/revision/latest/scale-to-width-down/130?cb=20110130232907",
+      "date": "2010-12-29T11:00:00.000Z",
+      "serie_id": 42,
+      "order": 591
+    },
+    "593": {
+      "title": "Astonishing Spider-Man & Wolverine",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"Another Fine Mess, Part Five\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d1/Astonishing_Spider-Man_%26_Wolverine_Vol_1_5.jpg/revision/latest/scale-to-width-down/130?cb=20110331233219",
+      "date": "2011-03-23T11:00:00.000Z",
+      "serie_id": 42,
+      "order": 592
+    },
+    "594": {
+      "title": "Astonishing Spider-Man & Wolverine",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "\"Another Fine Mess, Part Six\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/eb/Astonishing_Spider-Man_%26_Wolverine_Vol_1_6.jpg/revision/latest/scale-to-width-down/132?cb=20110523150901",
+      "date": "2011-05-25T10:00:00.000Z",
+      "serie_id": 42,
+      "order": 593
+    },
+    "595": {
+      "title": "Wolverine",
+      "vol": 4,
+      "no": 1,
+      "subtitle": "\"Wolverine Goes To Hell: Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a2/Wolverine_Vol_4_1.jpg/revision/latest/scale-to-width-down/132?cb=20100901225220",
+      "date": "2010-09-01T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 594
+    },
+    "596": {
+      "title": "Wolverine",
+      "vol": 4,
+      "no": 2,
+      "subtitle": "\"Wolverine Goes To Hell: Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0b/Wolverine_Vol_4_2.jpg/revision/latest/scale-to-width-down/132?cb=20101007020341",
+      "date": "2010-10-06T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 595
+    },
+    "597": {
+      "title": "Wolverine",
+      "vol": 4,
+      "no": 3,
+      "subtitle": "\"Wolverine Goes to Hell: Part 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d8/Wolverine_Vol_4_3.jpg/revision/latest/scale-to-width-down/132?cb=20101103164112",
+      "date": "2010-11-03T11:00:00.000Z",
+      "serie_id": 43,
+      "order": 596
+    },
+    "598": {
+      "title": "Wolverine",
+      "vol": 4,
+      "no": 4,
+      "subtitle": "\"Wolverine Goes to Hell: Part 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9b/Wolverine_Vol_4_4.jpg/revision/latest/scale-to-width-down/132?cb=20101215193019",
+      "date": "2010-12-15T11:00:00.000Z",
+      "serie_id": 43,
+      "order": 597
+    },
+    "599": {
+      "title": "Wolverine",
+      "vol": 4,
+      "no": 5,
+      "subtitle": "\"Wolverine Goes To Hell: Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3e/Wolverine_Vol_4_5.jpg/revision/latest/scale-to-width-down/132?cb=20110119190023",
+      "date": "2011-01-19T11:00:00.000Z",
+      "serie_id": 43,
+      "order": 598
+    },
+    "600": {
+      "title": "Wolverine",
+      "vol": 4,
+      "no": 5.1,
+      "subtitle": "\"Happy\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1a/Wolverine_Vol_4_5.1.jpg/revision/latest/scale-to-width-down/132?cb=20110209190825",
+      "date": "2011-02-09T11:00:00.000Z",
+      "serie_id": 43,
+      "order": 599
+    },
+    "601": {
+      "title": "Wolverine",
+      "vol": 4,
+      "no": 6,
+      "subtitle": "\"Wolverine vs. the X-Men: Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3c/Wolverine_Vol_4_6.jpg/revision/latest/scale-to-width-down/132?cb=20110216192814",
+      "date": "2011-02-16T11:00:00.000Z",
+      "serie_id": 43,
+      "order": 600
+    },
+    "602": {
+      "title": "Wolverine",
+      "vol": 4,
+      "no": 7,
+      "subtitle": "\"Wolverine vs. the X-Men: Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/72/Wolverine_Vol_4_7.jpg/revision/latest/scale-to-width-down/132?cb=20110330180807",
+      "date": "2011-03-30T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 601
+    },
+    "603": {
+      "title": "Wolverine",
+      "vol": 4,
+      "no": 8,
+      "subtitle": "\"Wolverine vs. the X-Men: Part 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/93/Wolverine_Vol_4_8.jpg/revision/latest/scale-to-width-down/132?cb=20110420182423",
+      "date": "2011-04-20T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 602
+    },
+    "604": {
+      "title": "Wolverine",
+      "vol": 4,
+      "no": 9,
+      "subtitle": "\"Get Mystique: Final Repose\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/71/Wolverine_Vol_4_9.jpg/revision/latest/scale-to-width-down/132?cb=20110523185744",
+      "date": "2011-05-25T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 603
+    },
+    "605": {
+      "title": "Wolverine",
+      "vol": 4,
+      "no": 10,
+      "subtitle": "\"Wolverine's Revenge! Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/76/Wolverine_Vol_4_10.jpg/revision/latest/scale-to-width-down/132?cb=20110608171220",
+      "date": "2011-06-08T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 604
+    },
+    "606": {
+      "title": "Wolverine",
+      "vol": 4,
+      "no": 11,
+      "subtitle": "\"Wolverine's Revenge! Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/32/Wolverine_Vol_4_11.jpg/revision/latest/scale-to-width-down/132?cb=20110618005212",
+      "date": "2011-06-22T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 605
+    },
+    "607": {
+      "title": "Wolverine",
+      "vol": 4,
+      "no": 12,
+      "subtitle": "\"Wolverine's Revenge! Part 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/59/Wolverine_Vol_4_12.jpg/revision/latest/scale-to-width-down/132?cb=20110709002712",
+      "date": "2011-07-13T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 606
+    },
+    "608": {
+      "title": "Wolverine",
+      "vol": 4,
+      "no": 13,
+      "subtitle": "\"Wolverine's Revenge! Part 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/97/Wolverine_Vol_4_13.jpg/revision/latest/scale-to-width-down/132?cb=20110728151454",
+      "date": "2011-08-03T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 607
+    },
+    "609": {
+      "title": "Wolverine",
+      "vol": 4,
+      "no": 14,
+      "subtitle": "\"Wolverine's Revenge! Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/00/Wolverine_Vol_4_14.jpg/revision/latest/scale-to-width-down/132?cb=20110819042136",
+      "date": "2011-08-24T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 608
+    },
+    "610": {
+      "title": "Wolverine",
+      "vol": 4,
+      "no": 15,
+      "subtitle": "\"Wolverine No More\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/55/Wolverine_Vol_4_15.jpg/revision/latest/scale-to-width-down/132?cb=20110901214706",
+      "date": "2011-09-07T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 609
+    },
+    "611": {
+      "title": "Wolverine",
+      "vol": 4,
+      "no": 16,
+      "subtitle": "\"Wolverine Forever\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b1/Wolverine_Vol_4_16.jpg/revision/latest/scale-to-width-down/132?cb=20110928172305",
+      "date": "2011-09-28T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 610
+    },
+    "612": {
+      "title": "Wolverine",
+      "vol": 4,
+      "no": 17,
+      "subtitle": "\"Goodbye Chinatown: Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/aa/Wolverine_Vol_4_17.jpg/revision/latest/scale-to-width-down/132?cb=20111014234713",
+      "date": "2011-10-19T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 611
+    },
+    "613": {
+      "title": "Wolverine",
+      "vol": 4,
+      "no": 18,
+      "subtitle": "\"Goodbye Chinatown: Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/61/Wolverine_Vol_4_18.jpg/revision/latest/scale-to-width-down/132?cb=20111104203838",
+      "date": "2011-11-09T11:00:00.000Z",
+      "serie_id": 43,
+      "order": 612
+    },
+    "614": {
+      "title": "Wolverine",
+      "vol": 4,
+      "no": 19,
+      "subtitle": "\"Goodbye Chinatown: Part 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fe/Wolverine_Vol_4_19.jpg/revision/latest/scale-to-width-down/132?cb=20111124002931",
+      "date": "2011-11-30T11:00:00.000Z",
+      "serie_id": 43,
+      "order": 613
+    },
+    "615": {
+      "title": "Wolverine",
+      "vol": 4,
+      "no": 20,
+      "subtitle": "\"And Then There Was War: Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/35/Wolverine_Vol_4_20.jpg/revision/latest/scale-to-width-down/132?cb=20111216050438",
+      "date": "2011-12-21T11:00:00.000Z",
+      "serie_id": 43,
+      "order": 614
+    },
+    "616": {
+      "title": "Wolverine",
+      "vol": 2,
+      "no": 300,
+      "subtitle": "\"Back In Japan (Part 1)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/94/Wolverine_Vol_2_300.jpg/revision/latest/scale-to-width-down/130?cb=20200611003603",
+      "date": "2012-01-11T11:00:00.000Z",
+      "serie_id": 43,
+      "order": 615
+    },
+    "617": {
+      "title": "Wolverine",
+      "vol": 2,
+      "no": 301,
+      "subtitle": "\"Back In Japan (Part 2)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/00/Wolverine_Vol_2_301.jpg/revision/latest/scale-to-width-down/129?cb=20120610021654",
+      "date": "2012-02-15T11:00:00.000Z",
+      "serie_id": 43,
+      "order": 616
+    },
+    "618": {
+      "title": "Wolverine",
+      "vol": 2,
+      "no": 302,
+      "subtitle": "\"Back In Japan (Part 3)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3c/Wolverine_Vol_2_302.jpg/revision/latest/scale-to-width-down/132?cb=20120302233321",
+      "date": "2012-03-07T11:00:00.000Z",
+      "serie_id": 43,
+      "order": 617
+    },
+    "619": {
+      "title": "Wolverine",
+      "vol": 2,
+      "no": 303,
+      "subtitle": "\"Back In Japan (Part 4)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/98/Wolverine_Vol_2_303.jpg/revision/latest/scale-to-width-down/132?cb=20120316045132",
+      "date": "2012-03-21T11:00:00.000Z",
+      "serie_id": 43,
+      "order": 618
+    },
+    "620": {
+      "title": "Wolverine",
+      "vol": 2,
+      "no": 304,
+      "subtitle": "\"One More Round\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/91/Wolverine_Vol_2_304.jpg/revision/latest/scale-to-width-down/132?cb=20120406040843",
+      "date": "2012-04-11T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 619
+    },
+    "621": {
+      "title": "Wolverine",
+      "vol": 2,
+      "no": 305,
+      "subtitle": "\"Rot (Part 1)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cb/Wolverine_Vol_2_305.jpg/revision/latest/scale-to-width-down/132?cb=20120420050918",
+      "date": "2012-04-25T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 620
+    },
+    "622": {
+      "title": "Wolverine",
+      "vol": 2,
+      "no": 306,
+      "subtitle": "\"Rot (Part 2)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e4/Wolverine_Vol_2_306.jpg/revision/latest/scale-to-width-down/132?cb=20120504044603",
+      "date": "2012-05-09T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 621
+    },
+    "623": {
+      "title": "Wolverine",
+      "vol": 2,
+      "no": 307,
+      "subtitle": "\"Rot (Part 3)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/28/Wolverine_Vol_2_307.jpg/revision/latest/scale-to-width-down/132?cb=20120525043127",
+      "date": "2012-05-30T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 622
+    },
+    "624": {
+      "title": "Wolverine",
+      "vol": 2,
+      "no": 308,
+      "subtitle": "\"Rot (Part 4)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1b/Wolverine_Vol_2_308.jpg/revision/latest/scale-to-width-down/132?cb=20120615150254",
+      "date": "2012-06-20T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 623
+    },
+    "625": {
+      "title": "Wolverine",
+      "vol": 2,
+      "no": 309,
+      "subtitle": "\"Underneath\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6c/Wolverine_Vol_2_309.jpg/revision/latest/scale-to-width-down/132?cb=20120713202048",
+      "date": "2012-07-18T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 624
+    },
+    "626": {
+      "title": "Wolverine",
+      "vol": 2,
+      "no": 310,
+      "subtitle": "\"Sabretooth Reborn: Chapter One - Out of the Darkness\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/38/Wolverine_Vol_2_310.jpg/revision/latest/scale-to-width-down/132?cb=20120629140027",
+      "date": "2012-07-04T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 625
+    },
+    "627": {
+      "title": "Wolverine",
+      "vol": 2,
+      "no": 311,
+      "subtitle": "\"Sabretooth Reborn: Chapter Two - Nightmare in Red\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8a/Wolverine_Vol_2_311.jpg/revision/latest/scale-to-width-down/132?cb=20120803162812",
+      "date": "2012-08-08T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 626
+    },
+    "628": {
+      "title": "Wolverine",
+      "vol": 2,
+      "no": 312,
+      "subtitle": "\"Sabretooth Reborn: Chapter Three - Remus\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cf/Wolverine_Vol_2_312.jpg/revision/latest/scale-to-width-down/132?cb=20120818022734",
+      "date": "2012-08-22T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 627
+    },
+    "629": {
+      "title": "Wolverine",
+      "vol": 2,
+      "no": 313,
+      "subtitle": "\"Sabretooth Reborn: Chapter Four - Revolution\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/82/Wolverine_Vol_2_313.jpg/revision/latest/scale-to-width-down/132?cb=20120921132240",
+      "date": "2012-09-26T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 628
+    },
+    "630": {
+      "title": "Wolverine",
+      "vol": 2,
+      "no": 314,
+      "subtitle": "\"Covenant (Part 1)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9b/Wolverine_Vol_2_314.jpg/revision/latest/scale-to-width-down/132?cb=20121005223313",
+      "date": "2012-10-10T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 629
+    },
+    "631": {
+      "title": "Wolverine",
+      "vol": 2,
+      "no": 315,
+      "subtitle": "\"Covenant (Part 2)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/04/Wolverine_Vol_2_315.jpg/revision/latest/scale-to-width-down/132?cb=20121019033023",
+      "date": "2012-10-24T10:00:00.000Z",
+      "serie_id": 43,
+      "order": 630
+    },
+    "632": {
+      "title": "Wolverine",
+      "vol": 2,
+      "no": 316,
+      "subtitle": "\"Covenant (Part 3)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e8/Wolverine_Vol_2_316.jpg/revision/latest/scale-to-width-down/132?cb=20121116230341",
+      "date": "2012-11-21T11:00:00.000Z",
+      "serie_id": 43,
+      "order": 631
+    },
+    "633": {
+      "title": "Wolverine",
+      "vol": 2,
+      "no": 317,
+      "subtitle": "\"Covenant (Conclusion)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/24/Wolverine_Vol_2_317.jpg/revision/latest/scale-to-width-down/132?cb=20121208014223",
+      "date": "2012-12-12T11:00:00.000Z",
+      "serie_id": 43,
+      "order": 632
+    },
+    "634": {
+      "title": "Wolverine: Old Man Logan Giant-Size",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Old Man Logan: Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/bc/Wolverine_Old_Man_Logan_Giant-Size_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20201030020342",
+      "date": "2009-09-23T10:00:00.000Z",
+      "serie_id": 41,
+      "order": 633
     }
   },
   "meta": {
-    "nextIndex": 546
+    "nextIndex": 635
   }
 }
