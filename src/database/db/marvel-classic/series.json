@@ -257,9 +257,27 @@
       "order": 42,
       "wave_id": 7,
       "is_filter": true
+    },
+    "44": {
+      "name": "Spider-Man i Czarna Kotka",
+      "order": 43,
+      "wave_id": 2,
+      "is_filter": true
+    },
+    "45": {
+      "name": "Ultimate Spider-Man",
+      "order": 44,
+      "wave_id": 8,
+      "is_filter": true
+    },
+    "46": {
+      "name": "Ultimate Six",
+      "order": 45,
+      "wave_id": 8,
+      "is_filter": false
     }
   },
   "meta": {
-    "nextIndex": 44
+    "nextIndex": 47
   }
 }
