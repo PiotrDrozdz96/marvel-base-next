@@ -275,9 +275,159 @@
       "order": 45,
       "wave_id": 8,
       "is_filter": false
+    },
+    "47": {
+      "name": "Runaways",
+      "order": 46,
+      "wave_id": 9,
+      "is_filter": true
+    },
+    "48": {
+      "name": "Runaways Vol 2",
+      "order": 47,
+      "wave_id": 9,
+      "is_filter": false
+    },
+    "49": {
+      "name": "Thanos Quest",
+      "order": 48,
+      "wave_id": 12,
+      "is_filter": false
+    },
+    "50": {
+      "name": "Rękawica Nieskończoności",
+      "order": 49,
+      "wave_id": 12,
+      "is_filter": false
+    },
+    "51": {
+      "name": "Wojna nieskończoności",
+      "order": 50,
+      "wave_id": 12,
+      "is_filter": false
+    },
+    "52": {
+      "name": "Warlock and the Infinity Watch",
+      "order": 51,
+      "wave_id": 12,
+      "is_filter": false
+    },
+    "53": {
+      "name": "Marvel Comics Presents",
+      "order": 52,
+      "wave_id": 12,
+      "is_filter": false
+    },
+    "54": {
+      "name": "Spider-Man",
+      "order": 53,
+      "wave_id": 2,
+      "is_filter": true
+    },
+    "55": {
+      "name": "Uncanny X-Men",
+      "order": 54,
+      "wave_id": 5,
+      "is_filter": false
+    },
+    "56": {
+      "name": "Kapitan Ameryka",
+      "order": 55,
+      "wave_id": 10,
+      "is_filter": true
+    },
+    "57": {
+      "name": "Captain America Reborn",
+      "order": 56,
+      "wave_id": 10,
+      "is_filter": false
+    },
+    "58": {
+      "name": "Strażnicy Galaktyki",
+      "order": 57,
+      "wave_id": 11,
+      "is_filter": true
+    },
+    "59": {
+      "name": "Krucjata nieskończoności",
+      "order": 58,
+      "wave_id": 12,
+      "is_filter": false
+    },
+    "60": {
+      "name": "Warlock Chronicles",
+      "order": 59,
+      "wave_id": 12,
+      "is_filter": false
+    },
+    "61": {
+      "name": "X-Men: Emperor Volcan",
+      "order": 60,
+      "wave_id": 13,
+      "is_filter": false
+    },
+    "62": {
+      "name": "Pojedyncze albumy",
+      "order": 61,
+      "wave_id": 13,
+      "is_filter": false
+    },
+    "63": {
+      "name": "Wojna Królów",
+      "order": 62,
+      "wave_id": 13,
+      "is_filter": true
+    },
+    "64": {
+      "name": "X-Men: Kingbreaker",
+      "order": 63,
+      "wave_id": 13,
+      "is_filter": false
+    },
+    "65": {
+      "name": "War of Kings: Darkhawk",
+      "order": 64,
+      "wave_id": 13,
+      "is_filter": false
+    },
+    "66": {
+      "name": "War of Kings: Ascension",
+      "order": 65,
+      "wave_id": 13,
+      "is_filter": false
+    },
+    "67": {
+      "name": "War of Kings: Warriors",
+      "order": 66,
+      "wave_id": 13,
+      "is_filter": false
+    },
+    "68": {
+      "order": 67,
+      "wave_id": 2,
+      "is_filter": true,
+      "name": "Silver Surfer"
+    },
+    "69": {
+      "name": "Ultimate X-Men",
+      "order": 68,
+      "wave_id": 8,
+      "is_filter": true
+    },
+    "70": {
+      "name": "Ultimate War",
+      "order": 69,
+      "wave_id": 8,
+      "is_filter": false
+    },
+    "71": {
+      "name": "Amazing Spider-Man",
+      "order": 70,
+      "wave_id": 14,
+      "is_filter": true
     }
   },
   "meta": {
-    "nextIndex": 47
+    "nextIndex": 72
   }
 }

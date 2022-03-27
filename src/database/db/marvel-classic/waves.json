@@ -2,38 +2,62 @@
   "waves": {
     "1": {
       "name": "Daredevil",
-      "order": 1
+      "order": 2
     },
     "2": {
       "name": "Pojedyncze albumy",
-      "order": 3
+      "order": 5
     },
     "3": {
       "name": "Anihilacja",
-      "order": 0
+      "order": 1
     },
     "4": {
       "name": "Deadpool",
-      "order": 2
+      "order": 3
     },
     "5": {
       "name": "X-Men",
-      "order": 7
+      "order": 13
     },
     "6": {
       "name": "Punisher",
-      "order": 4
+      "order": 6
     },
     "7": {
       "name": "Wolverine",
-      "order": 6
+      "order": 12
     },
     "8": {
       "name": "Ultimate",
-      "order": 5
+      "order": 10
+    },
+    "9": {
+      "name": "Runaways",
+      "order": 7
+    },
+    "10": {
+      "name": "Kapitan Ameryka",
+      "order": 4
+    },
+    "11": {
+      "name": "Strażnicy Galaktyki",
+      "order": 9
+    },
+    "12": {
+      "name": "Saga nieskończoności",
+      "order": 8
+    },
+    "13": {
+      "name": "Wojna Królów",
+      "order": 11
+    },
+    "14": {
+      "name": "Amazing Spider-Man",
+      "order": 14
     }
   },
   "meta": {
-    "nextIndex": 9
+    "nextIndex": 15
   }
 }
