@@ -425,9 +425,21 @@
       "order": 70,
       "wave_id": 14,
       "is_filter": true
+    },
+    "72": {
+      "name": "The Spectacular Spider-Man",
+      "order": 71,
+      "wave_id": 14,
+      "is_filter": false
+    },
+    "73": {
+      "name": "Web of Spider-Man",
+      "order": 72,
+      "wave_id": 14,
+      "is_filter": false
     }
   },
   "meta": {
-    "nextIndex": 72
+    "nextIndex": 74
   }
 }

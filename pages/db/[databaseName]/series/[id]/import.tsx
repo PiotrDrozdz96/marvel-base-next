@@ -41,12 +41,21 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ query }) =
     const description = $item('center > div span:nth-child(2)').text();
     const [, subtitle, , releaseDate, coverDate] =
       description.match(/("[^"]+")?(Release date: ([^,]+, \d\d\d\d))?Cover date: ([^,]+, \d\d\d\d)/) || [];
-    const date = releaseDate ? parseDate(`${releaseDate}, 12:00`) : parseDate(`${coverDate}, 12:00`);
+    let date = releaseDate ? parseDate(`${releaseDate}, 12:00`) : parseDate(`${coverDate}, 12:00`);
+
+    let alternativeSubtitle = '';
+
+    if (!subtitle && !releaseDate && !coverDate) {
+      alternativeSubtitle = $item('.lightbox-caption > div > i').text();
+      const alternativeDate = $item('.lightbox-caption > div > a').text();
+      date = parseDate(`${alternativeDate}, 12:00`);
+    }
+
     notebooks.push({
       title: title || '',
       vol: vol || '',
       no: no || '',
-      subtitle: subtitle || '',
+      subtitle: subtitle || alternativeSubtitle,
       image_url: imageUrl || '',
       date: isValid(date) ? date.toISOString() : '',
       serie_id: id,

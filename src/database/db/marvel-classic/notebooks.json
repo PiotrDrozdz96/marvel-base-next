@@ -10789,9 +10789,599 @@
       "date": "2003-04-01T10:00:00.000Z",
       "serie_id": 70,
       "order": 1078
+    },
+    "1080": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 289,
+      "subtitle": "\"The Hobgoblin Revealed!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7a/Amazing_Spider-Man_Vol_1_289.jpg/revision/latest/scale-to-width-down/120?cb=20171230034542",
+      "date": "1987-06-01T10:00:00.000Z",
+      "serie_id": 71,
+      "order": 1079
+    },
+    "1081": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 290,
+      "subtitle": "\"The Big Question\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d1/Amazing_Spider-Man_Vol_1_290.jpg/revision/latest/scale-to-width-down/120?cb=20180112024926",
+      "date": "1987-07-01T10:00:00.000Z",
+      "serie_id": 71,
+      "order": 1080
+    },
+    "1082": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 291,
+      "subtitle": "\"Dark Journey!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1c/Amazing_Spider-Man_Vol_1_291.jpg/revision/latest/scale-to-width-down/120?cb=20180112025024",
+      "date": "1987-08-01T10:00:00.000Z",
+      "serie_id": 71,
+      "order": 1081
+    },
+    "1083": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 292,
+      "subtitle": "\"Growing Pains!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7a/Amazing_Spider-Man_Vol_1_292.jpg/revision/latest/scale-to-width-down/120?cb=20180112025200",
+      "date": "1987-09-01T10:00:00.000Z",
+      "serie_id": 71,
+      "order": 1082
+    },
+    "1084": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 293,
+      "subtitle": "\"Crawling\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fa/Amazing_Spider-Man_Vol_1_293.jpg/revision/latest/scale-to-width-down/122?cb=20171230035002",
+      "date": "1987-10-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1083
+    },
+    "1085": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 294,
+      "subtitle": "\"Thunder\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/df/Amazing_Spider-Man_Vol_1_294.jpg/revision/latest/scale-to-width-down/122?cb=20180112025232",
+      "date": "1987-11-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1084
+    },
+    "1086": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 295,
+      "subtitle": "\"Mad Dogs\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/bd/Amazing_Spider-Man_Vol_1_295.jpg/revision/latest/scale-to-width-down/120?cb=20180112025310",
+      "date": "1987-12-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1085
+    },
+    "1087": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 296,
+      "subtitle": "\"Force of Arms\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/54/Amazing_Spider-Man_Vol_1_296.jpg/revision/latest/scale-to-width-down/120?cb=20180112025422",
+      "date": "1988-01-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1086
+    },
+    "1088": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 297,
+      "subtitle": "\"I'll Take Manhattan!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/10/Amazing_Spider-Man_Vol_1_297.jpg/revision/latest/scale-to-width-down/120?cb=20180112025627",
+      "date": "1988-02-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1087
+    },
+    "1089": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 298,
+      "subtitle": "\"Chance Encounter\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9e/Amazing_Spider-Man_Vol_1_298.jpg/revision/latest/scale-to-width-down/120?cb=20180112025657",
+      "date": "1988-03-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1088
+    },
+    "1090": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 299,
+      "subtitle": "\"Survival of the Hittist!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f6/Amazing_Spider-Man_Vol_1_299.jpg/revision/latest/scale-to-width-down/120?cb=20180112025732",
+      "date": "1988-04-01T10:00:00.000Z",
+      "serie_id": 71,
+      "order": 1089
+    },
+    "1091": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 300,
+      "subtitle": "\"\"Venom\"\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/83/Amazing_Spider-Man_Vol_1_300.jpg/revision/latest/scale-to-width-down/120?cb=20180113020118",
+      "date": "1988-05-01T10:00:00.000Z",
+      "serie_id": 71,
+      "order": 1090
+    },
+    "1092": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 301,
+      "subtitle": "\"The Sable Gauntlet!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/ed/Amazing_Spider-Man_Vol_1_301.jpg/revision/latest/scale-to-width-down/120?cb=20180112025916",
+      "date": "1988-06-01T10:00:00.000Z",
+      "serie_id": 71,
+      "order": 1091
+    },
+    "1093": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 302,
+      "subtitle": "\"(Mid)American Gothic!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d5/Amazing_Spider-Man_Vol_1_302.jpg/revision/latest/scale-to-width-down/120?cb=20180112030029",
+      "date": "1988-07-01T10:00:00.000Z",
+      "serie_id": 71,
+      "order": 1092
+    },
+    "1094": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 303,
+      "subtitle": "\"Dock Savage\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/51/Amazing_Spider-Man_Vol_1_303.jpg/revision/latest/scale-to-width-down/120?cb=20180112030058",
+      "date": "1988-08-01T10:00:00.000Z",
+      "serie_id": 71,
+      "order": 1093
+    },
+    "1095": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 304,
+      "subtitle": "\"California Schemin'!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/37/Amazing_Spider-Man_Vol_1_304.jpg/revision/latest/scale-to-width-down/120?cb=20180112153228",
+      "date": "1988-09-01T10:00:00.000Z",
+      "serie_id": 71,
+      "order": 1094
+    },
+    "1096": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 305,
+      "subtitle": "\"Westward Woe!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f2/Amazing_Spider-Man_Vol_1_305.jpg/revision/latest/scale-to-width-down/120?cb=20180112153310",
+      "date": "1988-09-01T10:00:00.000Z",
+      "serie_id": 71,
+      "order": 1095
+    },
+    "1097": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 306,
+      "subtitle": "\"Humbugged!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/63/Amazing_Spider-Man_Vol_1_306.jpg/revision/latest/scale-to-width-down/120?cb=20180112153355",
+      "date": "1988-10-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1096
+    },
+    "1098": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 307,
+      "subtitle": "\"The Thief Who Stole Himself!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0e/Amazing_Spider-Man_Vol_1_307.jpg/revision/latest/scale-to-width-down/120?cb=20180112153441",
+      "date": "1988-10-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1097
+    },
+    "1099": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 308,
+      "subtitle": "\"Dread\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/26/Amazing_Spider-Man_Vol_1_308.jpg/revision/latest/scale-to-width-down/120?cb=20180112153524",
+      "date": "1988-11-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1098
+    },
+    "1100": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 309,
+      "subtitle": "\"Styx And Stone\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0c/Amazing_Spider-Man_Vol_1_309.jpg/revision/latest/scale-to-width-down/120?cb=20180112153606",
+      "date": "1988-11-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1099
+    },
+    "1101": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 310,
+      "subtitle": "\"Shrike Force!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/03/Amazing_Spider-Man_Vol_1_310.jpg/revision/latest/scale-to-width-down/120?cb=20180112153647",
+      "date": "1988-12-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1100
+    },
+    "1102": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 311,
+      "subtitle": "\"Mysteries Of The Dead\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/06/Amazing_Spider-Man_Vol_1_311.jpg/revision/latest/scale-to-width-down/120?cb=20180112153726",
+      "date": "1989-01-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1101
+    },
+    "1103": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 312,
+      "subtitle": "\"The Goblin War\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/36/Amazing_Spider-Man_Vol_1_312.jpg/revision/latest/scale-to-width-down/120?cb=20180112155133",
+      "date": "1989-02-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1102
+    },
+    "1104": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 313,
+      "subtitle": "\"Slithereens\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/de/Amazing_Spider-Man_Vol_1_313.jpg/revision/latest/scale-to-width-down/120?cb=20180112155202",
+      "date": "1989-03-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1103
+    },
+    "1105": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 314,
+      "subtitle": "\"Down And Out In Forest Hills\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4d/Amazing_Spider-Man_Vol_1_314.jpg/revision/latest/scale-to-width-down/120?cb=20180112155232",
+      "date": "1989-04-01T10:00:00.000Z",
+      "serie_id": 71,
+      "order": 1104
+    },
+    "1106": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 315,
+      "subtitle": "\"A Matter of Life and Debt\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/aa/Amazing_Spider-Man_Vol_1_315.jpg/revision/latest/scale-to-width-down/120?cb=20180112155257",
+      "date": "1989-05-01T10:00:00.000Z",
+      "serie_id": 71,
+      "order": 1105
+    },
+    "1107": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 316,
+      "subtitle": "\"Dead Meat\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8e/Amazing_Spider-Man_Vol_1_316.jpg/revision/latest/scale-to-width-down/120?cb=20180113020248",
+      "date": "1989-06-01T10:00:00.000Z",
+      "serie_id": 71,
+      "order": 1106
+    },
+    "1108": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 317,
+      "subtitle": "\"The Sand and the Fury\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3f/Amazing_Spider-Man_Vol_1_317.jpg/revision/latest/scale-to-width-down/120?cb=20180112155341",
+      "date": "1989-07-01T10:00:00.000Z",
+      "serie_id": 71,
+      "order": 1107
+    },
+    "1109": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 318,
+      "subtitle": "\"Sting Your Partner!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b4/Amazing_Spider-Man_Vol_1_318.jpg/revision/latest/scale-to-width-down/120?cb=20180112221258",
+      "date": "1989-08-01T10:00:00.000Z",
+      "serie_id": 71,
+      "order": 1108
+    },
+    "1110": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 319,
+      "subtitle": "\"The Scorpion's Tail Of Woe!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/44/Amazing_Spider-Man_Vol_1_319.jpg/revision/latest/scale-to-width-down/120?cb=20180112221338",
+      "date": "1989-09-01T10:00:00.000Z",
+      "serie_id": 71,
+      "order": 1109
+    },
+    "1111": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 320,
+      "subtitle": "\"License Invoked\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/df/Amazing_Spider-Man_Vol_1_320.jpg/revision/latest/scale-to-width-down/120?cb=20180112221415",
+      "date": "1989-09-01T10:00:00.000Z",
+      "serie_id": 71,
+      "order": 1110
+    },
+    "1112": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 321,
+      "subtitle": "\"Under War!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f3/Amazing_Spider-Man_Vol_1_321.jpg/revision/latest/scale-to-width-down/120?cb=20180112221444",
+      "date": "1989-10-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1111
+    },
+    "1113": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 322,
+      "subtitle": "\"Ceremony\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/73/Amazing_Spider-Man_Vol_1_322.jpg/revision/latest/scale-to-width-down/120?cb=20180112221528",
+      "date": "1989-10-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1112
+    },
+    "1114": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 323,
+      "subtitle": "\"Assault Rivals\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/68/Amazing_Spider-Man_Vol_1_323.jpg/revision/latest/scale-to-width-down/120?cb=20180112221605",
+      "date": "1989-11-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1113
+    },
+    "1115": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 324,
+      "subtitle": "\"Twos Day\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d7/Amazing_Spider-Man_Vol_1_324.jpg/revision/latest/scale-to-width-down/120?cb=20180112221641",
+      "date": "1989-11-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1114
+    },
+    "1116": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 325,
+      "subtitle": "\"Finale in Red!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/62/Amazing_Spider-Man_Vol_1_325.jpg/revision/latest/scale-to-width-down/120?cb=20180112221717",
+      "date": "1989-11-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1115
+    },
+    "1117": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 326,
+      "subtitle": "\"Gravity Storm\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/90/Amazing_Spider-Man_Vol_1_326.jpg/revision/latest/scale-to-width-down/120?cb=20171230063123",
+      "date": "1989-12-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1116
+    },
+    "1118": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 327,
+      "subtitle": "\"Cunning Attractions!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/dc/Amazing_Spider-Man_Vol_1_327.jpg/revision/latest/scale-to-width-down/120?cb=20171230063208",
+      "date": "1989-12-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1117
+    },
+    "1119": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 328,
+      "subtitle": "\"Shaw's Gambit\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/de/Amazing_Spider-Man_Vol_1_328.jpg/revision/latest/scale-to-width-down/120?cb=20171230063246",
+      "date": "1990-01-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1118
+    },
+    "1120": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 329,
+      "subtitle": "\"Power Prey!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/ed/Amazing_Spider-Man_Vol_1_329.jpg/revision/latest/scale-to-width-down/120?cb=20171230063331",
+      "date": "1990-02-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1119
+    },
+    "1121": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 330,
+      "subtitle": "\"The Powder Chase\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a3/Amazing_Spider-Man_Vol_1_330.jpg/revision/latest/scale-to-width-down/120?cb=20180112221758",
+      "date": "1990-03-01T11:00:00.000Z",
+      "serie_id": 71,
+      "order": 1120
+    },
+    "1122": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 331,
+      "subtitle": "\"\"The Death Standard\"\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f7/Amazing_Spider-Man_Vol_1_331.jpg/revision/latest/scale-to-width-down/120?cb=20180112221825",
+      "date": "1990-04-01T10:00:00.000Z",
+      "serie_id": 71,
+      "order": 1121
+    },
+    "1123": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 332,
+      "subtitle": "\"Sunday in the Park with Venom!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cc/Amazing_Spider-Man_Vol_1_332.jpg/revision/latest/scale-to-width-down/120?cb=20180112221902",
+      "date": "1990-05-01T10:00:00.000Z",
+      "serie_id": 71,
+      "order": 1122
+    },
+    "1124": {
+      "title": "Amazing Spider-Man",
+      "vol": 1,
+      "no": 333,
+      "subtitle": "\"Stalking Feat!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/57/Amazing_Spider-Man_Vol_1_333.jpg/revision/latest/scale-to-width-down/120?cb=20180112221930",
+      "date": "1990-06-01T10:00:00.000Z",
+      "serie_id": 71,
+      "order": 1123
+    },
+    "1125": {
+      "title": "Spectacular Spider-Man",
+      "vol": 1,
+      "no": 158,
+      "subtitle": "\"The Paste and the Power (Or a Very Sticky Situation)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/ee/Spectacular_Spider-Man_Vol_1_158.jpg/revision/latest/scale-to-width-down/130?cb=20200301022233",
+      "date": "1989-12-01T11:00:00.000Z",
+      "serie_id": 72,
+      "order": 3
+    },
+    "1126": {
+      "title": "Spectacular Spider-Man",
+      "vol": 1,
+      "no": 159,
+      "subtitle": "\"These Shattered Senses Or A Tale of the Brothers Grimm\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c7/Spectacular_Spider-Man_Vol_1_159.jpg/revision/latest/scale-to-width-down/130?cb=20200301022306",
+      "date": "1989-12-01T11:00:00.000Z",
+      "serie_id": 72,
+      "order": 4
+    },
+    "1127": {
+      "title": "Spectacular Spider-Man",
+      "vol": 1,
+      "no": 160,
+      "subtitle": "\"The Metal in Men's Souls\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/61/Spectacular_Spider-Man_Vol_1_160.jpg/revision/latest/scale-to-width-down/130?cb=20200301022342",
+      "date": "1990-01-01T11:00:00.000Z",
+      "serie_id": 72,
+      "order": 5
+    },
+    "1128": {
+      "title": "Web of Spider-Man",
+      "vol": 1,
+      "no": 29,
+      "subtitle": "\"Mask\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/87/Web_of_Spider-Man_Vol_1_29.jpg/revision/latest/scale-to-width-down/132?cb=20071208060858",
+      "date": "1987-08-01T10:00:00.000Z",
+      "serie_id": 73,
+      "order": 1127
+    },
+    "1129": {
+      "title": "Web of Spider-Man",
+      "vol": 1,
+      "no": 30,
+      "subtitle": "\"The Wages of Sin\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fa/Web_of_Spider-Man_Vol_1_30.jpg/revision/latest/scale-to-width-down/132?cb=20071208061514",
+      "date": "1987-09-01T10:00:00.000Z",
+      "serie_id": 73,
+      "order": 1128
+    },
+    "1130": {
+      "title": "Web of Spider-Man",
+      "vol": 1,
+      "no": 31,
+      "subtitle": "\"The Coffin\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6d/Web_of_Spider-Man_Vol_1_31.jpg/revision/latest/scale-to-width-down/132?cb=20200222230055",
+      "date": "1987-10-01T11:00:00.000Z",
+      "serie_id": 73,
+      "order": 1129
+    },
+    "1131": {
+      "title": "Web of Spider-Man",
+      "vol": 1,
+      "no": 32,
+      "subtitle": "\"Resurrection\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b8/Web_of_Spider-Man_Vol_1_32.jpg/revision/latest/scale-to-width-down/132?cb=20200222225956",
+      "date": "1987-11-01T11:00:00.000Z",
+      "serie_id": 73,
+      "order": 1130
+    },
+    "1132": {
+      "title": "Web of Spider-Man",
+      "vol": 1,
+      "no": 33,
+      "subtitle": "\"What's the Matter with Mommy?\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/27/Web_of_Spider-Man_Vol_1_33.jpg/revision/latest/scale-to-width-down/130?cb=20200222230203",
+      "date": "1987-12-01T11:00:00.000Z",
+      "serie_id": 73,
+      "order": 1131
+    },
+    "1133": {
+      "title": "Web of Spider-Man",
+      "vol": 1,
+      "no": 59,
+      "subtitle": "\"With Great Power\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a7/Web_of_Spider-Man_Vol_1_59.jpg/revision/latest/scale-to-width-down/130?cb=20080904072801",
+      "date": "1989-12-01T11:00:00.000Z",
+      "serie_id": 73,
+      "order": 1132
+    },
+    "1134": {
+      "title": "Web of Spider-Man",
+      "vol": 1,
+      "no": 60,
+      "subtitle": "\"The Harder They Fall\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/26/Web_of_Spider-Man_Vol_1_60.jpg/revision/latest/scale-to-width-down/130?cb=20201206010331",
+      "date": "1990-01-01T11:00:00.000Z",
+      "serie_id": 73,
+      "order": 1133
+    },
+    "1135": {
+      "title": "Web of Spider-Man",
+      "vol": 1,
+      "no": 61,
+      "subtitle": "\"Dragon in the Dark\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f3/Web_of_Spider-Man_Vol_1_61.jpg/revision/latest/scale-to-width-down/130?cb=20200118045216",
+      "date": "1990-02-01T11:00:00.000Z",
+      "serie_id": 73,
+      "order": 1134
+    },
+    "1136": {
+      "title": "Peter Parker, The Spectacular Spider-Man",
+      "vol": 1,
+      "no": 131,
+      "subtitle": "\"Descent\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f0/Peter_Parker%2C_The_Spectacular_Spider-Man_Vol_1_131.jpg/revision/latest/scale-to-width-down/132?cb=20200301043352",
+      "date": "1987-10-01T11:00:00.000Z",
+      "serie_id": 72,
+      "order": 0
+    },
+    "1137": {
+      "title": "Peter Parker, The Spectacular Spider-Man",
+      "vol": 1,
+      "no": 132,
+      "subtitle": "\"Ascending\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ac/Peter_Parker%2C_The_Spectacular_Spider-Man_Vol_1_132.jpg/revision/latest/scale-to-width-down/132?cb=20200301043420",
+      "date": "1987-11-01T11:00:00.000Z",
+      "serie_id": 72,
+      "order": 1
+    },
+    "1138": {
+      "title": "Peter Parker, The Spectacular Spider-Man",
+      "vol": 1,
+      "no": 133,
+      "subtitle": "\"I Am Spider!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/34/Peter_Parker%2C_The_Spectacular_Spider-Man_Vol_1_133.jpg/revision/latest/scale-to-width-down/130?cb=20200301043448",
+      "date": "1987-12-01T11:00:00.000Z",
+      "serie_id": 72,
+      "order": 2
     }
   },
   "meta": {
-    "nextIndex": 1080
+    "nextIndex": 1139
   }
 }
