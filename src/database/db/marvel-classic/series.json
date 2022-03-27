@@ -437,9 +437,15 @@
       "order": 72,
       "wave_id": 14,
       "is_filter": false
+    },
+    "74": {
+      "name": "Domena królów",
+      "order": 73,
+      "wave_id": 2,
+      "is_filter": true
     }
   },
   "meta": {
-    "nextIndex": 74
+    "nextIndex": 75
   }
 }

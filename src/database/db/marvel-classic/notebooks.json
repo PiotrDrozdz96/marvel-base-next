@@ -11379,9 +11379,159 @@
       "date": "1987-12-01T11:00:00.000Z",
       "serie_id": 72,
       "order": 2
+    },
+    "1139": {
+      "title": "Realm of Kings",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"The Stars Are Wrong\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c7/Realm_of_Kings_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20161216141425",
+      "date": "2009-11-18T11:00:00.000Z",
+      "serie_id": 74,
+      "order": 1138
+    },
+    "1140": {
+      "title": "Realm of Kings: Inhumans",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Duty Calls\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/32/Realm_of_Kings_Inhumans_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20161216141200",
+      "date": "2009-11-18T11:00:00.000Z",
+      "serie_id": 74,
+      "order": 1139
+    },
+    "1141": {
+      "title": "Realm of Kings: Inhumans",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"High and Mighty\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a7/Realm_of_Kings_Inhumans_Vol_1_2.jpg/revision/latest/scale-to-width-down/130?cb=20161216141228",
+      "date": "2009-12-16T11:00:00.000Z",
+      "serie_id": 74,
+      "order": 1140
+    },
+    "1142": {
+      "title": "Realm of Kings: Inhumans",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Weapons of Mass Distraction\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2d/Realm_of_Kings_Inhumans_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20161216141303",
+      "date": "2010-01-20T11:00:00.000Z",
+      "serie_id": 74,
+      "order": 1141
+    },
+    "1143": {
+      "title": "Realm of Kings: Inhumans",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Devices and Desires\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1a/Realm_of_Kings_Inhumans_Vol_1_4.jpg/revision/latest/scale-to-width-down/130?cb=20161216141318",
+      "date": "2010-02-24T11:00:00.000Z",
+      "serie_id": 74,
+      "order": 1142
+    },
+    "1144": {
+      "title": "Realm of Kings: Inhumans",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7f/Realm_of_Kings_Inhumans_Vol_1_5.jpg/revision/latest/scale-to-width-down/130?cb=20161216141336",
+      "date": "2010-03-31T10:00:00.000Z",
+      "serie_id": 74,
+      "order": 1143
+    },
+    "1145": {
+      "title": "Realm of Kings: Son of Hulk",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"The Conquest of Jarella's World Book I\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/44/Realm_of_Kings_Son_of_Hulk_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20161216142905",
+      "date": "2010-02-03T11:00:00.000Z",
+      "serie_id": 74,
+      "order": 1144
+    },
+    "1146": {
+      "title": "Realm of Kings: Son of Hulk",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Conquest of Jarella's World Book II\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/ff/Realm_of_Kings_Son_of_Hulk_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20161216142919",
+      "date": "2010-03-03T11:00:00.000Z",
+      "serie_id": 74,
+      "order": 1145
+    },
+    "1147": {
+      "title": "Realm of Kings: Son of Hulk",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"The Conquest of Jarella's World (Book III)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/74/Realm_of_Kings_Son_of_Hulk_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20161216142945",
+      "date": "2010-04-07T10:00:00.000Z",
+      "serie_id": 74,
+      "order": 1146
+    },
+    "1148": {
+      "title": "Realm of Kings: Son of Hulk",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"The End: Conquest of Jarella's World\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/62/Realm_of_Kings_Son_of_Hulk_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20161216143019",
+      "date": "2010-05-05T10:00:00.000Z",
+      "serie_id": 74,
+      "order": 1147
+    },
+    "1149": {
+      "title": "Realm of Kings: Imperial Guard",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/65/Realm_of_Kings_Imperial_Guard_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20161216142701",
+      "date": "2009-11-11T11:00:00.000Z",
+      "serie_id": 74,
+      "order": 1148
+    },
+    "1150": {
+      "title": "Realm of Kings: Imperial Guard",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/ef/Realm_of_Kings_Imperial_Guard_Vol_1_2.jpg/revision/latest/scale-to-width-down/130?cb=20161216142722",
+      "date": "2009-12-09T11:00:00.000Z",
+      "serie_id": 74,
+      "order": 1149
+    },
+    "1151": {
+      "title": "Realm of Kings: Imperial Guard",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e5/Realm_of_Kings_Imperial_Guard_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20161216142736",
+      "date": "2010-01-13T11:00:00.000Z",
+      "serie_id": 74,
+      "order": 1150
+    },
+    "1152": {
+      "title": "Realm of Kings: Imperial Guard",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7d/Realm_of_Kings_Imperial_Guard_Vol_1_4.jpg/revision/latest/scale-to-width-down/130?cb=20161216142749",
+      "date": "2010-02-10T11:00:00.000Z",
+      "serie_id": 74,
+      "order": 1151
+    },
+    "1153": {
+      "title": "Realm of Kings: Imperial Guard",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4e/Realm_of_Kings_Imperial_Guard_Vol_1_5.jpg/revision/latest/scale-to-width-down/130?cb=20161216142803",
+      "date": "2010-03-17T11:00:00.000Z",
+      "serie_id": 74,
+      "order": 1152
     }
   },
   "meta": {
-    "nextIndex": 1139
+    "nextIndex": 1154
   }
 }

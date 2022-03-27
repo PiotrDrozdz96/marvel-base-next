@@ -42,9 +42,9 @@ const labels: string[] = [
   notebooksMessages.id,
   notebooksMessages.image_url,
   notebooksMessages.title,
-  notebooksMessages.subtitle,
   notebooksMessages.vol,
   notebooksMessages.no,
+  notebooksMessages.subtitle,
   notebooksMessages.date,
 ];
 

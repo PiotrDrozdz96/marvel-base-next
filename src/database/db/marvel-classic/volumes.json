@@ -290,7 +290,7 @@
       "date": "2011-05-11T10:57:44.000Z",
       "serie_id": 3,
       "order": 11,
-      "global_order": 80,
+      "global_order": 81,
       "notebooks_ids": [
         202,
         203,
@@ -860,7 +860,7 @@
       "date": "2011-03-09T11:03:09.000Z",
       "serie_id": 28,
       "order": 37,
-      "global_order": 79,
+      "global_order": 80,
       "notebooks_ids": [
         493,
         494,
@@ -882,7 +882,7 @@
       "date": "2012-02-08T11:04:13.000Z",
       "serie_id": 28,
       "order": 38,
-      "global_order": 82,
+      "global_order": 83,
       "notebooks_ids": [
         504,
         505,
@@ -905,7 +905,7 @@
       "date": "2012-10-17T10:12:04.000Z",
       "serie_id": 28,
       "order": 39,
-      "global_order": 84,
+      "global_order": 85,
       "notebooks_ids": [
         472,
         516,
@@ -951,7 +951,7 @@
       "date": "2014-03-19T11:28:02.000Z",
       "serie_id": 37,
       "order": 41,
-      "global_order": 85,
+      "global_order": 86,
       "notebooks_ids": [
         539,
         540,
@@ -996,7 +996,7 @@
       "date": "2010-08-18T10:36:51.000Z",
       "serie_id": 43,
       "order": 2,
-      "global_order": 78,
+      "global_order": 79,
       "notebooks_ids": [
         587,
         586,
@@ -1021,7 +1021,7 @@
       "date": "2011-05-25T10:38:50.000Z",
       "serie_id": 43,
       "order": 3,
-      "global_order": 81,
+      "global_order": 82,
       "notebooks_ids": [
         589,
         590,
@@ -1049,7 +1049,7 @@
       "date": "2012-04-11T10:41:09.000Z",
       "serie_id": 43,
       "order": 4,
-      "global_order": 83,
+      "global_order": 84,
       "notebooks_ids": [
         605,
         606,
@@ -1997,9 +1997,35 @@
         1123,
         1124
       ]
+    },
+    "87": {
+      "title": "Domena królów",
+      "subtitle": "",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/domena-krolow/1/okladka-200.jpg",
+      "date": "2010-05-05T10:26:49.000Z",
+      "serie_id": 74,
+      "order": 86,
+      "global_order": 78,
+      "notebooks_ids": [
+        1139,
+        1140,
+        1141,
+        1142,
+        1143,
+        1144,
+        1145,
+        1146,
+        1147,
+        1148,
+        1149,
+        1150,
+        1151,
+        1152,
+        1153
+      ]
     }
   },
   "meta": {
-    "nextIndex": 87
+    "nextIndex": 88
   }
 }
