@@ -2,7 +2,7 @@
   "waves": {
     "1": {
       "name": "Daredevil",
-      "order": 2
+      "order": 1
     },
     "2": {
       "name": "Pojedyncze albumy",
@@ -10,11 +10,11 @@
     },
     "3": {
       "name": "Anihilacja",
-      "order": 1
+      "order": 0
     },
     "4": {
       "name": "Deadpool",
-      "order": 3
+      "order": 2
     },
     "5": {
       "name": "X-Men",
@@ -55,9 +55,13 @@
     "14": {
       "name": "Amazing Spider-Man",
       "order": 14
+    },
+    "15": {
+      "name": "Fantastyczna Czwórka",
+      "order": 3
     }
   },
   "meta": {
-    "nextIndex": 15
+    "nextIndex": 16
   }
 }

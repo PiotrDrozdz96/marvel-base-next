@@ -11529,9 +11529,929 @@
       "date": "2010-03-17T11:00:00.000Z",
       "serie_id": 74,
       "order": 1152
+    },
+    "1154": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"If Looks Could Kill - Part 1 of 6, Face to Face\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e9/Cable_%26_Deadpool_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20191226042852",
+      "date": "2004-03-24T11:00:00.000Z",
+      "serie_id": 75,
+      "order": 1153
+    },
+    "1155": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"If Looks Could Kill Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/59/Cable_%26_Deadpool_Vol_1_2.jpg/revision/latest/scale-to-width-down/130?cb=20191227041813",
+      "date": "2004-04-21T10:00:00.000Z",
+      "serie_id": 75,
+      "order": 1154
+    },
+    "1156": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"If Looks Could Kill (Part 3)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/81/Cable_%26_Deadpool_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20191227041625",
+      "date": "2004-05-19T10:00:00.000Z",
+      "serie_id": 75,
+      "order": 1155
+    },
+    "1157": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"If Looks Could Kill (Part 4)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/49/Cable_%26_Deadpool_Vol_1_4.jpg/revision/latest/scale-to-width-down/130?cb=20191227041655",
+      "date": "2004-06-16T10:00:00.000Z",
+      "serie_id": 75,
+      "order": 1156
+    },
+    "1158": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"If Looks Could Kill, Part 5: Not That There's Anything Wrong With That\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4d/Cable_%26_Deadpool_Vol_1_5.jpg/revision/latest/scale-to-width-down/130?cb=20191227041849",
+      "date": "2004-07-21T10:00:00.000Z",
+      "serie_id": 75,
+      "order": 1157
+    },
+    "1159": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "\"If Looks Could Kill, Part 6: I've Go You Under My Skin\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2b/Cable_%26_Deadpool_Vol_1_6.jpg/revision/latest/scale-to-width-down/130?cb=20191227041928",
+      "date": "2004-08-18T10:00:00.000Z",
+      "serie_id": 75,
+      "order": 1158
+    },
+    "1160": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 7,
+      "subtitle": "\"The Burnt Offering, Part 1: Headless Horseman\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e5/Cable_%26_Deadpool_Vol_1_7.jpg/revision/latest/scale-to-width-down/130?cb=20191227041956",
+      "date": "2004-09-15T10:00:00.000Z",
+      "serie_id": 75,
+      "order": 1159
+    },
+    "1161": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 8,
+      "subtitle": "\"The Burnt Offering, Part 2: Lepers at the Table\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c4/Cable_%26_Deadpool_Vol_1_8.jpg/revision/latest/scale-to-width-down/130?cb=20191227042030",
+      "date": "2004-10-20T10:00:00.000Z",
+      "serie_id": 75,
+      "order": 1160
+    },
+    "1162": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 9,
+      "subtitle": "\"The Burnt Offering, Part 3: When the Whip Comes Down\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/21/Cable_%26_Deadpool_Vol_1_9.jpg/revision/latest/scale-to-width-down/130?cb=20191228082633",
+      "date": "2004-11-17T11:00:00.000Z",
+      "serie_id": 75,
+      "order": 1161
+    },
+    "1163": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 10,
+      "subtitle": "\"The Burnt Offering, Part 4: Born Sinners\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/49/Cable_%26_Deadpool_Vol_1_10.jpg/revision/latest/scale-to-width-down/130?cb=20191228082809",
+      "date": "2004-12-15T11:00:00.000Z",
+      "serie_id": 75,
+      "order": 1162
+    },
+    "1164": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 11,
+      "subtitle": "\"Thirty Pieces, Part One: Predator & Pray\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e6/Cable_%26_Deadpool_Vol_1_11.jpg/revision/latest/scale-to-width-down/130?cb=20191228082902",
+      "date": "2005-01-19T11:00:00.000Z",
+      "serie_id": 75,
+      "order": 1163
+    },
+    "1165": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 12,
+      "subtitle": "\"Thirty Pieces, Part Two: True Confessions\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d1/Cable_%26_Deadpool_Vol_1_12.jpg/revision/latest/scale-to-width-down/130?cb=20191228082955",
+      "date": "2005-02-16T11:00:00.000Z",
+      "serie_id": 75,
+      "order": 1164
+    },
+    "1166": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 13,
+      "subtitle": "\"A Murder in Paradise, Part One: Flaw & Disorder\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/21/Cable_%26_Deadpool_Vol_1_13.jpg/revision/latest/scale-to-width-down/130?cb=20191228083152",
+      "date": "2005-03-16T11:00:00.000Z",
+      "serie_id": 75,
+      "order": 1165
+    },
+    "1167": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 14,
+      "subtitle": "\"A Murder in Paradise, Part Two: Don't Ask, Don't Tell\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3f/Cable_%26_Deadpool_Vol_1_14.jpg/revision/latest/scale-to-width-down/130?cb=20191228083220",
+      "date": "2005-04-20T10:00:00.000Z",
+      "serie_id": 75,
+      "order": 1166
+    },
+    "1168": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 15,
+      "subtitle": "\"Enema of the State Part One: Killer Clowns\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/10/Cable_%26_Deadpool_Vol_1_15.jpg/revision/latest/scale-to-width-down/133?cb=20191201023223",
+      "date": "2005-05-18T10:00:00.000Z",
+      "serie_id": 75,
+      "order": 1167
+    },
+    "1169": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 16,
+      "subtitle": "\"Enema of the State part 2: What If...?\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f8/Cable_%26_Deadpool_Vol_1_16.jpg/revision/latest/scale-to-width-down/130?cb=20190525231900",
+      "date": "2005-06-15T10:00:00.000Z",
+      "serie_id": 75,
+      "order": 1168
+    },
+    "1170": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 17,
+      "subtitle": "\"Enema Of The State, Part 3: House of Mmmm\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/41/Cable_%26_Deadpool_Vol_1_17.jpg/revision/latest/scale-to-width-down/130?cb=20191230070036",
+      "date": "2005-07-20T10:00:00.000Z",
+      "serie_id": 75,
+      "order": 1169
+    },
+    "1171": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 18,
+      "subtitle": "\"Enema of the State, Part 4: Bringing Up Baby\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a1/Cable_%26_Deadpool_Vol_1_18.jpg/revision/latest/scale-to-width-down/130?cb=20191230070123",
+      "date": "2005-08-17T10:00:00.000Z",
+      "serie_id": 75,
+      "order": 1170
+    },
+    "1172": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 19,
+      "subtitle": "\"Enema of the State Epilogue/Bosom Buddies Prologue: Why, Where I Was Your Age...\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/85/Cable_%26_Deadpool_Vol_1_19.jpg/revision/latest/scale-to-width-down/132?cb=20191230070153",
+      "date": "2005-09-07T10:00:00.000Z",
+      "serie_id": 75,
+      "order": 1171
+    },
+    "1173": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 20,
+      "subtitle": "\"Bosom Buddies, Part 1 of 4: B.A.D. to the Bone\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/67/Cable_%26_Deadpool_Vol_1_20.jpg/revision/latest/scale-to-width-down/135?cb=20191201041900",
+      "date": "2005-09-28T10:00:00.000Z",
+      "serie_id": 75,
+      "order": 1172
+    },
+    "1174": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 21,
+      "subtitle": "\"Bosom Buddies, Part 2 of 4: Friendly Fire\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b1/Cable_%26_Deadpool_Vol_1_21.jpg/revision/latest/scale-to-width-down/132?cb=20191230070319",
+      "date": "2005-10-12T10:00:00.000Z",
+      "serie_id": 75,
+      "order": 1173
+    },
+    "1175": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 22,
+      "subtitle": "\"Bosom Buddies, Part 3 of 4: Crack the Internet in Half\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/21/Cable_%26_Deadpool_Vol_1_22.jpg/revision/latest/scale-to-width-down/130?cb=20191230080437",
+      "date": "2005-11-09T11:00:00.000Z",
+      "serie_id": 75,
+      "order": 1174
+    },
+    "1176": {
+      "title": "Cable & Deadpool",
+      "vol": 1,
+      "no": 23,
+      "subtitle": "\"Bosom Buddies, Part 4 of 4: Fighting Myself\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/14/Cable_%26_Deadpool_Vol_1_23.jpg/revision/latest/scale-to-width-down/130?cb=20191230080533",
+      "date": "2005-12-14T11:00:00.000Z",
+      "serie_id": 75,
+      "order": 1175
+    },
+    "1177": {
+      "title": "Punisher",
+      "vol": 5,
+      "no": 1,
+      "subtitle": "\"Welcome Back, Frank\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f1/Punisher_Vol_5_1.jpg/revision/latest/scale-to-width-down/132?cb=20100509200709",
+      "date": "2000-02-09T11:00:00.000Z",
+      "serie_id": 77,
+      "order": 1176
+    },
+    "1178": {
+      "title": "Punisher",
+      "vol": 5,
+      "no": 2,
+      "subtitle": "\"Badaboom, Badabing\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/65/Punisher_Vol_5_2.jpg/revision/latest/scale-to-width-down/129?cb=20060621041252",
+      "date": "2000-05-01T10:00:00.000Z",
+      "serie_id": 77,
+      "order": 1177
+    },
+    "1179": {
+      "title": "Punisher",
+      "vol": 5,
+      "no": 3,
+      "subtitle": "\"The Devil by the Horns\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/35/Punisher_Vol_5_3.jpg/revision/latest/scale-to-width-down/132?cb=20180129050938",
+      "date": "2000-04-12T10:00:00.000Z",
+      "serie_id": 77,
+      "order": 1178
+    },
+    "1180": {
+      "title": "Punisher",
+      "vol": 5,
+      "no": 4,
+      "subtitle": "\"Wild Kingdom\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c8/Punisher_Vol_5_4.jpg/revision/latest/scale-to-width-down/133?cb=20100509201721",
+      "date": "2000-07-01T10:00:00.000Z",
+      "serie_id": 77,
+      "order": 1179
+    },
+    "1181": {
+      "title": "Punisher",
+      "vol": 5,
+      "no": 5,
+      "subtitle": "\"Even Worse Things\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8c/Punisher_Vol_5_5.jpg/revision/latest/scale-to-width-down/132?cb=20100509201724",
+      "date": "2000-06-14T10:00:00.000Z",
+      "serie_id": 77,
+      "order": 1180
+    },
+    "1182": {
+      "title": "Punisher",
+      "vol": 5,
+      "no": 6,
+      "subtitle": "\"Spit out of Luck\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/28/Punisher_Vol_5_6.jpg/revision/latest/scale-to-width-down/132?cb=20180129051100",
+      "date": "2000-07-12T10:00:00.000Z",
+      "serie_id": 77,
+      "order": 1181
+    },
+    "1183": {
+      "title": "Punisher",
+      "vol": 5,
+      "no": 7,
+      "subtitle": "\"Bring Out Your Dead\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c0/Punisher_Vol_5_7.jpg/revision/latest/scale-to-width-down/133?cb=20100509201728",
+      "date": "2000-08-09T10:00:00.000Z",
+      "serie_id": 77,
+      "order": 1182
+    },
+    "1184": {
+      "title": "Punisher",
+      "vol": 5,
+      "no": 8,
+      "subtitle": "\"Desperate Measures\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/39/Punisher_Vol_5_8.jpg/revision/latest/scale-to-width-down/132?cb=20180129051157",
+      "date": "2000-09-13T10:00:00.000Z",
+      "serie_id": 77,
+      "order": 1183
+    },
+    "1185": {
+      "title": "Punisher",
+      "vol": 5,
+      "no": 9,
+      "subtitle": "\"Fяom Яussia With Love\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/59/Punisher_Vol_5_9.jpg/revision/latest/scale-to-width-down/132?cb=20180129051240",
+      "date": "2000-12-01T11:00:00.000Z",
+      "serie_id": 77,
+      "order": 1184
+    },
+    "1186": {
+      "title": "Punisher",
+      "vol": 5,
+      "no": 10,
+      "subtitle": "\"Glutton for Punishment\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ac/Punisher_Vol_5_10.jpg/revision/latest/scale-to-width-down/132?cb=20100509201731",
+      "date": "2001-01-01T11:00:00.000Z",
+      "serie_id": 77,
+      "order": 1185
+    },
+    "1187": {
+      "title": "Punisher",
+      "vol": 5,
+      "no": 11,
+      "subtitle": "\"Any Which Way You Can\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/31/Punisher_Vol_5_11.jpg/revision/latest/scale-to-width-down/131?cb=20100509201734",
+      "date": "2001-02-01T11:00:00.000Z",
+      "serie_id": 77,
+      "order": 1186
+    },
+    "1188": {
+      "title": "Punisher",
+      "vol": 5,
+      "no": 12,
+      "subtitle": "\"Go Frank Go\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cc/Punisher_Vol_5_12.jpg/revision/latest/scale-to-width-down/132?cb=20180129051328",
+      "date": "2001-03-01T11:00:00.000Z",
+      "serie_id": 77,
+      "order": 1187
+    },
+    "1189": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 1,
+      "subtitle": "\"Well Come on Everybody and Let's Get Together Tonight\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4f/Punisher_Vol_6_1.jpg/revision/latest/scale-to-width-down/134?cb=20180402010851",
+      "date": "2001-08-01T10:00:00.000Z",
+      "serie_id": 76,
+      "order": 1188
+    },
+    "1190": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 2,
+      "subtitle": "\"Does Whatever a Spider Can\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3d/Punisher_Vol_6_2.jpg/revision/latest/scale-to-width-down/133?cb=20180402011006",
+      "date": "2001-08-01T10:00:00.000Z",
+      "serie_id": 76,
+      "order": 1189
+    },
+    "1191": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 3,
+      "subtitle": "\"American Ugly\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b3/Punisher_Vol_6_3.jpg/revision/latest/scale-to-width-down/133?cb=20180402011114",
+      "date": "2001-09-01T10:00:00.000Z",
+      "serie_id": 76,
+      "order": 1190
+    },
+    "1192": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 4,
+      "subtitle": "\"Dirty Work\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/97/Punisher_Vol_6_4.jpg/revision/latest/scale-to-width-down/133?cb=20180402011218",
+      "date": "2001-10-01T10:00:00.000Z",
+      "serie_id": 76,
+      "order": 1191
+    },
+    "1193": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 5,
+      "subtitle": "\"No Limits\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/58/Punisher_Vol_6_5.jpg/revision/latest/scale-to-width-down/133?cb=20180402040031",
+      "date": "2001-12-01T11:00:00.000Z",
+      "serie_id": 76,
+      "order": 1192
+    },
+    "1194": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 6,
+      "subtitle": "\"Do Not Fall in New York City\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/91/Punisher_Vol_6_6.jpg/revision/latest/scale-to-width-down/133?cb=20180402035912",
+      "date": "2002-01-01T11:00:00.000Z",
+      "serie_id": 76,
+      "order": 1193
+    },
+    "1195": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 7,
+      "subtitle": "\"'Nuff Said\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/43/Punisher_Vol_6_7.jpg/revision/latest/scale-to-width-down/133?cb=20180402040111",
+      "date": "2002-02-01T11:00:00.000Z",
+      "serie_id": 76,
+      "order": 1194
+    },
+    "1196": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 8,
+      "subtitle": "\"When Frank Sleeps\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/11/Punisher_Vol_6_8.jpg/revision/latest/scale-to-width-down/132?cb=20200621222207",
+      "date": "2002-03-01T11:00:00.000Z",
+      "serie_id": 76,
+      "order": 1195
+    },
+    "1197": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 9,
+      "subtitle": "\"You Talkin' to Me?\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8c/Punisher_Vol_6_9.jpg/revision/latest/scale-to-width-down/132?cb=20200621222619",
+      "date": "2002-04-01T10:00:00.000Z",
+      "serie_id": 76,
+      "order": 1196
+    },
+    "1198": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 10,
+      "subtitle": "\"This Makes It Personal!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4d/Punisher_Vol_6_10.jpg/revision/latest/scale-to-width-down/132?cb=20210416162729",
+      "date": "2002-05-01T10:00:00.000Z",
+      "serie_id": 76,
+      "order": 1197
+    },
+    "1199": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 11,
+      "subtitle": "\"Cabattoir\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/35/Punisher_Vol_6_11.jpg/revision/latest/scale-to-width-down/133?cb=20090208205556",
+      "date": "2002-06-01T10:00:00.000Z",
+      "serie_id": 76,
+      "order": 1198
+    },
+    "1200": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 12,
+      "subtitle": "\"Yo! There Shall Be an Ending!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d0/Punisher_Vol_6_12.jpg/revision/latest/scale-to-width-down/132?cb=20200621223007",
+      "date": "2002-07-01T10:00:00.000Z",
+      "serie_id": 76,
+      "order": 1199
+    },
+    "1201": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 13,
+      "subtitle": "\"A Good Clean Fight\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a3/Punisher_Vol_6_13.jpg/revision/latest/scale-to-width-down/130?cb=20200621223532",
+      "date": "2002-08-01T10:00:00.000Z",
+      "serie_id": 76,
+      "order": 1200
+    },
+    "1202": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 14,
+      "subtitle": "\"Killing la Vida Loca\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/65/Punisher_Vol_6_14.jpg/revision/latest/scale-to-width-down/130?cb=20200621223551",
+      "date": "2002-09-01T10:00:00.000Z",
+      "serie_id": 76,
+      "order": 1201
+    },
+    "1203": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 15,
+      "subtitle": "\"The Exclusive\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/78/Punisher_Vol_6_15.jpg/revision/latest/scale-to-width-down/130?cb=20200621223612",
+      "date": "2002-10-01T10:00:00.000Z",
+      "serie_id": 76,
+      "order": 1202
+    },
+    "1204": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 16,
+      "subtitle": "\"Vertical Challenge\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3d/Punisher_Vol_6_16.jpg/revision/latest/scale-to-width-down/130?cb=20200621223629",
+      "date": "2002-11-01T11:00:00.000Z",
+      "serie_id": 76,
+      "order": 1203
+    },
+    "1205": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 17,
+      "subtitle": "\"Aim Low\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/84/Punisher_Vol_6_17.jpg/revision/latest/scale-to-width-down/130?cb=20200621223648",
+      "date": "2002-12-01T11:00:00.000Z",
+      "serie_id": 76,
+      "order": 1204
+    },
+    "1206": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 18,
+      "subtitle": "\"Downtown\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3b/Punisher_Vol_6_18.jpg/revision/latest/scale-to-width-down/130?cb=20200621222046",
+      "date": "2002-12-01T11:00:00.000Z",
+      "serie_id": 76,
+      "order": 1205
+    },
+    "1207": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 19,
+      "subtitle": "\"Of Mice and Men\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3f/Punisher_Vol_6_19.jpg/revision/latest/scale-to-width-down/130?cb=20200621223946",
+      "date": "2003-01-01T11:00:00.000Z",
+      "serie_id": 76,
+      "order": 1206
+    },
+    "1208": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 20,
+      "subtitle": "\"Brotherhood, Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f7/Punisher_Vol_6_20.jpg/revision/latest/scale-to-width-down/130?cb=20200621224005",
+      "date": "2003-02-01T11:00:00.000Z",
+      "serie_id": 76,
+      "order": 1207
+    },
+    "1209": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 21,
+      "subtitle": "\"Brotherhood, Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/ff/Punisher_Vol_6_21.jpg/revision/latest/scale-to-width-down/130?cb=20200621224025",
+      "date": "2003-03-01T11:00:00.000Z",
+      "serie_id": 76,
+      "order": 1208
+    },
+    "1210": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 22,
+      "subtitle": "\"Brotherhood, Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ad/Punisher_Vol_6_22.jpg/revision/latest/scale-to-width-down/130?cb=20200621224107",
+      "date": "2003-04-01T10:00:00.000Z",
+      "serie_id": 76,
+      "order": 1209
+    },
+    "1211": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 23,
+      "subtitle": "\"Squid\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fe/Punisher_Vol_6_23.jpg/revision/latest/scale-to-width-down/130?cb=20200621224131",
+      "date": "2003-05-01T10:00:00.000Z",
+      "serie_id": 76,
+      "order": 1210
+    },
+    "1212": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 24,
+      "subtitle": "\"Hidden, Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a9/Punisher_Vol_6_24.jpg/revision/latest/scale-to-width-down/130?cb=20200621224217",
+      "date": "2003-06-01T10:00:00.000Z",
+      "serie_id": 76,
+      "order": 1211
+    },
+    "1213": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 25,
+      "subtitle": "\"Hidden, Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/ea/Punisher_Vol_6_25.jpg/revision/latest/scale-to-width-down/130?cb=20200621224241",
+      "date": "2003-06-01T10:00:00.000Z",
+      "serie_id": 76,
+      "order": 1212
+    },
+    "1214": {
+      "title": "Punisher",
+      "vol": 6,
+      "no": 26,
+      "subtitle": "\"Hidden, Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8c/Punisher_Vol_6_26.jpg/revision/latest/scale-to-width-down/130?cb=20200621224306",
+      "date": "2003-07-01T10:00:00.000Z",
+      "serie_id": 76,
+      "order": 1213
+    },
+    "1215": {
+      "title": "Fantastic Four",
+      "vol": 1,
+      "no": 570,
+      "subtitle": "\"Solve Everything: Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/35/Fantastic_Four_Vol_1_570.jpg/revision/latest/scale-to-width-down/131?cb=20090912034007",
+      "date": "2009-08-26T10:00:00.000Z",
+      "serie_id": 78,
+      "order": 1214
+    },
+    "1216": {
+      "title": "Fantastic Four",
+      "vol": 1,
+      "no": 571,
+      "subtitle": "\"Solve Everything: Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/42/Fantastic_Four_Vol_1_571.jpg/revision/latest/scale-to-width-down/130?cb=20100131114659",
+      "date": "2009-09-23T10:00:00.000Z",
+      "serie_id": 78,
+      "order": 1215
+    },
+    "1217": {
+      "title": "Fantastic Four",
+      "vol": 1,
+      "no": 572,
+      "subtitle": "\"Solve Everything: Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0a/Fantastic_Four_Vol_1_572.jpg/revision/latest/scale-to-width-down/129?cb=20100201010730",
+      "date": "2009-10-28T11:00:00.000Z",
+      "serie_id": 78,
+      "order": 1216
+    },
+    "1218": {
+      "title": "Fantastic Four",
+      "vol": 1,
+      "no": 573,
+      "subtitle": "\"Adventures on Nu-World\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/52/Fantastic_Four_Vol_1_573.jpg/revision/latest/scale-to-width-down/132?cb=20091204152650",
+      "date": "2009-11-25T11:00:00.000Z",
+      "serie_id": 78,
+      "order": 1217
+    },
+    "1219": {
+      "title": "Fantastic Four",
+      "vol": 1,
+      "no": 574,
+      "subtitle": "\"Days of Future Franklin!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/63/Fantastic_Four_Vol_1_574.jpg/revision/latest/scale-to-width-down/130?cb=20100201074021",
+      "date": "2009-12-23T11:00:00.000Z",
+      "serie_id": 78,
+      "order": 1218
+    },
+    "1220": {
+      "title": "Fantastic Four",
+      "vol": 1,
+      "no": 575,
+      "subtitle": "\"Part 1: The Abandoned City of the High Evolutionary\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/52/Fantastic_Four_Vol_1_575.jpg/revision/latest/scale-to-width-down/129?cb=20100201144159",
+      "date": "2010-01-27T11:00:00.000Z",
+      "serie_id": 78,
+      "order": 1219
+    },
+    "1221": {
+      "title": "Fantastic Four",
+      "vol": 1,
+      "no": 576,
+      "subtitle": "\"Part 2: The Old Kings of Atlantis\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cb/Fantastic_Four_Vol_1_576.jpg/revision/latest/scale-to-width-down/129?cb=20100313232853",
+      "date": "2010-02-24T11:00:00.000Z",
+      "serie_id": 78,
+      "order": 1220
+    },
+    "1222": {
+      "title": "Fantastic Four",
+      "vol": 1,
+      "no": 577,
+      "subtitle": "\"Part 3: Universal Inhumans\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3e/Fantastic_Four_Vol_1_577.jpg/revision/latest/scale-to-width-down/129?cb=20100820064620",
+      "date": "2010-03-31T10:00:00.000Z",
+      "serie_id": 78,
+      "order": 1221
+    },
+    "1223": {
+      "title": "Fantastic Four",
+      "vol": 1,
+      "no": 578,
+      "subtitle": "\"Part 4: The Cult of the Negative Zone\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/07/Fantastic_Four_Vol_1_578.jpg/revision/latest/scale-to-width-down/132?cb=20101026191609",
+      "date": "2010-04-28T10:00:00.000Z",
+      "serie_id": 78,
+      "order": 1222
+    },
+    "1224": {
+      "title": "Fantastic Four",
+      "vol": 1,
+      "no": 579,
+      "subtitle": "\"The Future Foundation\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/41/Fantastic_Four_Vol_1_579.jpg/revision/latest/scale-to-width-down/132?cb=20101026191836",
+      "date": "2010-05-26T10:00:00.000Z",
+      "serie_id": 78,
+      "order": 1223
+    },
+    "1225": {
+      "title": "Fantastic Four",
+      "vol": 1,
+      "no": 580,
+      "subtitle": "\"The Frank-tastic Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c3/Fantastic_Four_Vol_1_580.jpg/revision/latest/scale-to-width-down/129?cb=20101026191840",
+      "date": "2010-06-23T10:00:00.000Z",
+      "serie_id": 78,
+      "order": 1224
+    },
+    "1226": {
+      "title": "Fantastic Four",
+      "vol": 1,
+      "no": 581,
+      "subtitle": "\"When Everything's Lost, The Battle is Won...\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c0/Fantastic_Four_Vol_1_581.jpg/revision/latest/scale-to-width-down/130?cb=20101026054512",
+      "date": "2010-07-28T10:00:00.000Z",
+      "serie_id": 78,
+      "order": 1225
+    },
+    "1227": {
+      "title": "Fantastic Four",
+      "vol": 1,
+      "no": 582,
+      "subtitle": "\"... Because of All These Things I've Done.\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6d/Fantastic_Four_Vol_1_582.jpg/revision/latest/scale-to-width-down/132?cb=20101026192106",
+      "date": "2010-08-25T10:00:00.000Z",
+      "serie_id": 78,
+      "order": 1226
+    },
+    "1228": {
+      "title": "Fantastic Four",
+      "vol": 1,
+      "no": 583,
+      "subtitle": "\"Three Part 1: In Latveria, the Flowers Bloom in Winter\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/09/Fantastic_Four_Vol_1_583.jpg/revision/latest/scale-to-width-down/129?cb=20100928004210",
+      "date": "2010-09-22T10:00:00.000Z",
+      "serie_id": 78,
+      "order": 1227
+    },
+    "1229": {
+      "title": "Fantastic Four",
+      "vol": 1,
+      "no": 584,
+      "subtitle": "\"Three Part 2: Congratulations, Mister Grimm. You're Handsome Again!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d3/Fantastic_Four_Vol_1_584.jpg/revision/latest/scale-to-width-down/129?cb=20101027221222",
+      "date": "2010-10-27T10:00:00.000Z",
+      "serie_id": 78,
+      "order": 1228
+    },
+    "1230": {
+      "title": "Fantastic Four",
+      "vol": 1,
+      "no": 585,
+      "subtitle": "\"Three Part 3: The Kings of Atlantis!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d7/Fantastic_Four_Vol_1_585.jpg/revision/latest/scale-to-width-down/132?cb=20101126021650",
+      "date": "2010-11-24T11:00:00.000Z",
+      "serie_id": 78,
+      "order": 1229
+    },
+    "1231": {
+      "title": "Fantastic Four",
+      "vol": 1,
+      "no": 586,
+      "subtitle": "\"Three Part 4: World-Eater!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/02/Fantastic_Four_Vol_1_586.jpg/revision/latest/scale-to-width-down/130?cb=20110105213019",
+      "date": "2010-12-22T11:00:00.000Z",
+      "serie_id": 78,
+      "order": 1230
+    },
+    "1232": {
+      "title": "Fantastic Four",
+      "vol": 1,
+      "no": 587,
+      "subtitle": "\"Three Part 5: The Last Stand!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fd/Fantastic_Four_Vol_1_587.jpg/revision/latest/scale-to-width-down/129?cb=20110126073543",
+      "date": "2011-01-26T11:00:00.000Z",
+      "serie_id": 78,
+      "order": 1231
+    },
+    "1233": {
+      "title": "Fantastic Four",
+      "vol": 1,
+      "no": 588,
+      "subtitle": "\"Three Epilogue: Month of Mourning\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7b/Fantastic_Four_Vol_1_588.jpg/revision/latest/scale-to-width-down/130?cb=20110225013852",
+      "date": "2011-02-23T11:00:00.000Z",
+      "serie_id": 78,
+      "order": 1232
+    },
+    "1234": {
+      "title": "Dark Reign: Fantastic Four",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"The Bridge, Chapter One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e3/Dark_Reign_Fantastic_Four_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20201010202002",
+      "date": "2009-03-04T11:00:00.000Z",
+      "serie_id": 79,
+      "order": 1233
+    },
+    "1235": {
+      "title": "Dark Reign: Fantastic Four",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"The Bridge, Chapter Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/76/Dark_Reign_Fantastic_Four_Vol_1_2.jpg/revision/latest/scale-to-width-down/130?cb=20201010202051",
+      "date": "2009-04-01T10:00:00.000Z",
+      "serie_id": 79,
+      "order": 1234
+    },
+    "1236": {
+      "title": "Dark Reign: Fantastic Four",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"The Bridge, Chapter Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1f/Dark_Reign_Fantastic_Four_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20201010202109",
+      "date": "2009-05-20T10:00:00.000Z",
+      "serie_id": 79,
+      "order": 1235
+    },
+    "1237": {
+      "title": "Dark Reign: Fantastic Four",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"The Bridge, Chapter Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e9/Dark_Reign_Fantastic_Four_Vol_1_4.jpg/revision/latest/scale-to-width-down/130?cb=20201010202129",
+      "date": "2009-06-17T10:00:00.000Z",
+      "serie_id": 79,
+      "order": 1236
+    },
+    "1238": {
+      "title": "Dark Reign: Fantastic Four",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"The Bridge, Chapter Five\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3d/Dark_Reign_Fantastic_Four_Vol_1_5.jpg/revision/latest/scale-to-width-down/130?cb=20201010202154",
+      "date": "2009-07-22T10:00:00.000Z",
+      "serie_id": 79,
+      "order": 1237
+    },
+    "1239": {
+      "title": "X-Force / Cable: Messiah War",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Messiah War (Chapter 1)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5c/X-Force_Cable_Messiah_War_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20160423005636",
+      "date": "2009-03-25T11:00:00.000Z",
+      "serie_id": 80,
+      "order": 1238
+    },
+    "1240": {
+      "title": "Cable",
+      "vol": 2,
+      "no": 13,
+      "subtitle": "\"Messiah War (Chapter 2)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4e/Cable_Vol_2_13.jpg/revision/latest/scale-to-width-down/130?cb=20090404230620",
+      "date": "2009-04-01T10:00:00.000Z",
+      "serie_id": 81,
+      "order": 1239
+    },
+    "1241": {
+      "title": "Cable",
+      "vol": 2,
+      "no": 14,
+      "subtitle": "\"Messiah War (Chapter 4)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/03/Cable_Vol_2_14.jpg/revision/latest/scale-to-width-down/129?cb=20090507204946",
+      "date": "2009-05-06T10:00:00.000Z",
+      "serie_id": 81,
+      "order": 1240
+    },
+    "1242": {
+      "title": "Cable",
+      "vol": 2,
+      "no": 15,
+      "subtitle": "\"Messiah War (Chapter 6)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fa/Cable_Vol_2_15.jpg/revision/latest/scale-to-width-down/130?cb=20090616042941",
+      "date": "2009-06-17T10:00:00.000Z",
+      "serie_id": 81,
+      "order": 1241
+    },
+    "1243": {
+      "title": "X-Force",
+      "vol": 3,
+      "no": 14,
+      "subtitle": "\"Messiah War (Chapter 3)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/12/X-Force_Vol_3_14.jpg/revision/latest/scale-to-width-down/130?cb=20160423010643",
+      "date": "2009-06-01T10:00:00.000Z",
+      "serie_id": 82,
+      "order": 1242
+    },
+    "1244": {
+      "title": "X-Force",
+      "vol": 3,
+      "no": 15,
+      "subtitle": "\"Messiah War (Chapter 5)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fe/X-Force_Vol_3_15.jpg/revision/latest/scale-to-width-down/130?cb=20160423010658",
+      "date": "2009-07-01T10:00:00.000Z",
+      "serie_id": 82,
+      "order": 1243
+    },
+    "1245": {
+      "title": "X-Force",
+      "vol": 3,
+      "no": 16,
+      "subtitle": "\"Messiah War (Conclusion)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d7/X-Force_Vol_3_16.jpg/revision/latest/scale-to-width-down/130?cb=20160423010713",
+      "date": "2009-06-24T10:00:00.000Z",
+      "serie_id": 82,
+      "order": 1244
     }
   },
   "meta": {
-    "nextIndex": 1154
+    "nextIndex": 1246
   }
 }

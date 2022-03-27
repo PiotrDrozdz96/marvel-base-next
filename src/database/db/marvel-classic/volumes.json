@@ -136,7 +136,7 @@
       "date": "2003-02-01T11:40:41.000Z",
       "serie_id": 3,
       "order": 5,
-      "global_order": 28,
+      "global_order": 29,
       "notebooks_ids": [
         98,
         99,
@@ -166,7 +166,7 @@
       "date": "2004-07-01T10:42:21.000Z",
       "serie_id": 3,
       "order": 6,
-      "global_order": 35,
+      "global_order": 37,
       "notebooks_ids": [
         123,
         124,
@@ -192,7 +192,7 @@
       "date": "2006-01-25T11:44:33.000Z",
       "serie_id": 3,
       "order": 7,
-      "global_order": 42,
+      "global_order": 45,
       "notebooks_ids": [
         148,
         149,
@@ -219,7 +219,7 @@
       "date": "2007-03-01T11:47:34.000Z",
       "serie_id": 3,
       "order": 8,
-      "global_order": 54,
+      "global_order": 57,
       "notebooks_ids": [
         164,
         165,
@@ -242,7 +242,7 @@
       "date": "2008-04-01T10:48:55.000Z",
       "serie_id": 3,
       "order": 9,
-      "global_order": 63,
+      "global_order": 66,
       "notebooks_ids": [
         176,
         177,
@@ -264,7 +264,7 @@
       "date": "2009-06-24T10:50:06.000Z",
       "serie_id": 3,
       "order": 10,
-      "global_order": 71,
+      "global_order": 74,
       "notebooks_ids": [
         188,
         189,
@@ -290,7 +290,7 @@
       "date": "2011-05-11T10:57:44.000Z",
       "serie_id": 3,
       "order": 11,
-      "global_order": 81,
+      "global_order": 86,
       "notebooks_ids": [
         202,
         203,
@@ -343,7 +343,7 @@
       "date": "2007-02-21T11:39:22.000Z",
       "serie_id": 7,
       "order": 13,
-      "global_order": 52,
+      "global_order": 55,
       "notebooks_ids": [
         233,
         234,
@@ -361,7 +361,7 @@
       "date": "2006-07-19T10:50:07.000Z",
       "serie_id": 9,
       "order": 14,
-      "global_order": 47,
+      "global_order": 50,
       "notebooks_ids": [
         240,
         241,
@@ -381,7 +381,7 @@
       "date": "2006-07-26T10:52:42.000Z",
       "serie_id": 9,
       "order": 15,
-      "global_order": 48,
+      "global_order": 51,
       "notebooks_ids": [
         259,
         260,
@@ -404,7 +404,7 @@
       "date": "2007-04-04T10:54:48.000Z",
       "serie_id": 9,
       "order": 16,
-      "global_order": 55,
+      "global_order": 58,
       "notebooks_ids": [
         245,
         246,
@@ -424,7 +424,7 @@
       "date": "2007-10-31T11:03:05.000Z",
       "serie_id": 9,
       "order": 17,
-      "global_order": 60,
+      "global_order": 63,
       "notebooks_ids": [
         270,
         277,
@@ -445,7 +445,7 @@
       "date": "2008-04-16T10:30:44.000Z",
       "serie_id": 9,
       "order": 18,
-      "global_order": 64,
+      "global_order": 67,
       "notebooks_ids": [
         286,
         287,
@@ -612,7 +612,7 @@
       "date": "2002-05-01T10:28:50.000Z",
       "serie_id": 22,
       "order": 26,
-      "global_order": 24,
+      "global_order": 25,
       "notebooks_ids": [
         355,
         356,
@@ -631,7 +631,7 @@
       "date": "2002-11-27T11:31:15.000Z",
       "serie_id": 22,
       "order": 27,
-      "global_order": 26,
+      "global_order": 27,
       "notebooks_ids": [
         363,
         364,
@@ -652,7 +652,7 @@
       "date": "2003-10-15T10:32:22.000Z",
       "serie_id": 22,
       "order": 28,
-      "global_order": 31,
+      "global_order": 33,
       "notebooks_ids": [
         383,
         384,
@@ -672,7 +672,7 @@
       "date": "2006-05-17T10:39:04.000Z",
       "serie_id": 27,
       "order": 29,
-      "global_order": 46,
+      "global_order": 49,
       "notebooks_ids": [
         392,
         393,
@@ -689,7 +689,7 @@
       "date": "2004-12-01T11:44:01.000Z",
       "serie_id": 28,
       "order": 30,
-      "global_order": 37,
+      "global_order": 39,
       "notebooks_ids": [
         398,
         399,
@@ -712,7 +712,7 @@
       "date": "2005-10-01T10:45:08.000Z",
       "serie_id": 28,
       "order": 31,
-      "global_order": 39,
+      "global_order": 41,
       "notebooks_ids": [
         410,
         411,
@@ -735,7 +735,7 @@
       "date": "2006-10-01T10:46:09.000Z",
       "serie_id": 28,
       "order": 32,
-      "global_order": 51,
+      "global_order": 54,
       "notebooks_ids": [
         422,
         423,
@@ -758,7 +758,7 @@
       "date": "2007-07-05T10:47:36.000Z",
       "serie_id": 28,
       "order": 33,
-      "global_order": 57,
+      "global_order": 60,
       "notebooks_ids": [
         434,
         435,
@@ -782,7 +782,7 @@
       "date": "2008-10-01T10:48:47.000Z",
       "serie_id": 28,
       "order": 34,
-      "global_order": 66,
+      "global_order": 69,
       "notebooks_ids": [
         447,
         448,
@@ -804,7 +804,7 @@
       "date": "2009-09-10T10:49:45.000Z",
       "serie_id": 28,
       "order": 35,
-      "global_order": 74,
+      "global_order": 78,
       "notebooks_ids": [
         473,
         474,
@@ -831,7 +831,7 @@
       "date": "2007-07-05T10:58:17.000Z",
       "serie_id": 28,
       "order": 36,
-      "global_order": 58,
+      "global_order": 61,
       "notebooks_ids": [
         484,
         485,
@@ -860,7 +860,7 @@
       "date": "2011-03-09T11:03:09.000Z",
       "serie_id": 28,
       "order": 37,
-      "global_order": 80,
+      "global_order": 85,
       "notebooks_ids": [
         493,
         494,
@@ -882,7 +882,7 @@
       "date": "2012-02-08T11:04:13.000Z",
       "serie_id": 28,
       "order": 38,
-      "global_order": 83,
+      "global_order": 88,
       "notebooks_ids": [
         504,
         505,
@@ -905,7 +905,7 @@
       "date": "2012-10-17T10:12:04.000Z",
       "serie_id": 28,
       "order": 39,
-      "global_order": 85,
+      "global_order": 90,
       "notebooks_ids": [
         472,
         516,
@@ -928,7 +928,7 @@
       "date": "2006-02-22T11:20:41.000Z",
       "serie_id": 35,
       "order": 40,
-      "global_order": 44,
+      "global_order": 47,
       "notebooks_ids": [
         527,
         528,
@@ -951,7 +951,7 @@
       "date": "2014-03-19T11:28:02.000Z",
       "serie_id": 37,
       "order": 41,
-      "global_order": 86,
+      "global_order": 91,
       "notebooks_ids": [
         539,
         540,
@@ -969,7 +969,7 @@
       "date": "2009-09-30T10:34:49.000Z",
       "serie_id": 43,
       "order": 1,
-      "global_order": 75,
+      "global_order": 79,
       "notebooks_ids": [
         546,
         552,
@@ -996,7 +996,7 @@
       "date": "2010-08-18T10:36:51.000Z",
       "serie_id": 43,
       "order": 2,
-      "global_order": 79,
+      "global_order": 84,
       "notebooks_ids": [
         587,
         586,
@@ -1021,7 +1021,7 @@
       "date": "2011-05-25T10:38:50.000Z",
       "serie_id": 43,
       "order": 3,
-      "global_order": 82,
+      "global_order": 87,
       "notebooks_ids": [
         589,
         590,
@@ -1049,7 +1049,7 @@
       "date": "2012-04-11T10:41:09.000Z",
       "serie_id": 43,
       "order": 4,
-      "global_order": 84,
+      "global_order": 89,
       "notebooks_ids": [
         605,
         606,
@@ -1076,7 +1076,7 @@
       "date": "2009-06-01T10:42:45.000Z",
       "serie_id": 43,
       "order": 47,
-      "global_order": 70,
+      "global_order": 73,
       "notebooks_ids": [
         556,
         557,
@@ -1095,7 +1095,7 @@
       "date": "2006-01-25T11:20:48.000Z",
       "serie_id": 44,
       "order": 47,
-      "global_order": 41,
+      "global_order": 44,
       "notebooks_ids": [
         635,
         636,
@@ -1135,7 +1135,7 @@
       "date": "2002-11-01T11:27:35.000Z",
       "serie_id": 45,
       "order": 49,
-      "global_order": 25,
+      "global_order": 26,
       "notebooks_ids": [
         654,
         655,
@@ -1161,7 +1161,7 @@
       "date": "2003-06-01T10:30:06.000Z",
       "serie_id": 45,
       "order": 50,
-      "global_order": 29,
+      "global_order": 30,
       "notebooks_ids": [
         668,
         669,
@@ -1184,7 +1184,7 @@
       "date": "2004-02-04T11:31:27.000Z",
       "serie_id": 45,
       "order": 51,
-      "global_order": 32,
+      "global_order": 34,
       "notebooks_ids": [
         680,
         681,
@@ -1208,7 +1208,7 @@
       "date": "2004-07-01T10:37:32.000Z",
       "serie_id": 45,
       "order": 52,
-      "global_order": 34,
+      "global_order": 36,
       "notebooks_ids": [
         774,
         775,
@@ -1233,7 +1233,7 @@
       "date": "2005-03-01T11:39:23.000Z",
       "serie_id": 45,
       "order": 53,
-      "global_order": 38,
+      "global_order": 40,
       "notebooks_ids": [
         700,
         701,
@@ -1256,7 +1256,7 @@
       "date": "2006-01-01T11:40:22.000Z",
       "serie_id": 45,
       "order": 54,
-      "global_order": 40,
+      "global_order": 43,
       "notebooks_ids": [
         712,
         713,
@@ -1281,7 +1281,7 @@
       "date": "2006-08-01T10:42:30.000Z",
       "serie_id": 45,
       "order": 55,
-      "global_order": 49,
+      "global_order": 52,
       "notebooks_ids": [
         726,
         727,
@@ -1303,7 +1303,7 @@
       "date": "2007-09-01T10:44:20.000Z",
       "serie_id": 45,
       "order": 56,
-      "global_order": 59,
+      "global_order": 62,
       "notebooks_ids": [
         737,
         738,
@@ -1329,7 +1329,7 @@
       "date": "2008-05-29T10:45:36.000Z",
       "serie_id": 45,
       "order": 57,
-      "global_order": 65,
+      "global_order": 68,
       "notebooks_ids": [
         752,
         753,
@@ -1351,7 +1351,7 @@
       "date": "2004-11-01T11:05:44.000Z",
       "serie_id": 47,
       "order": 58,
-      "global_order": 36,
+      "global_order": 38,
       "notebooks_ids": [
         781,
         782,
@@ -1380,7 +1380,7 @@
       "date": "2006-03-01T11:06:46.000Z",
       "serie_id": 47,
       "order": 59,
-      "global_order": 45,
+      "global_order": 48,
       "notebooks_ids": [
         799,
         800,
@@ -1403,7 +1403,7 @@
       "date": "2007-03-01T11:07:41.000Z",
       "serie_id": 47,
       "order": 60,
-      "global_order": 53,
+      "global_order": 56,
       "notebooks_ids": [
         811,
         812,
@@ -1496,7 +1496,7 @@
       "date": "2007-07-01T10:18:01.000Z",
       "serie_id": 55,
       "order": 1,
-      "global_order": 56,
+      "global_order": 59,
       "notebooks_ids": [
         879,
         880,
@@ -1541,7 +1541,7 @@
       "date": "2006-02-01T11:26:21.000Z",
       "serie_id": 56,
       "order": 66,
-      "global_order": 43,
+      "global_order": 46,
       "notebooks_ids": [
         891,
         892,
@@ -1565,7 +1565,7 @@
       "date": "2006-10-01T10:28:25.000Z",
       "serie_id": 56,
       "order": 67,
-      "global_order": 50,
+      "global_order": 53,
       "notebooks_ids": [
         905,
         906,
@@ -1583,7 +1583,7 @@
       "date": "2007-11-01T11:30:02.000Z",
       "serie_id": 56,
       "order": 68,
-      "global_order": 61,
+      "global_order": 64,
       "notebooks_ids": [
         912,
         913,
@@ -1603,7 +1603,7 @@
       "date": "2008-11-01T11:33:22.000Z",
       "serie_id": 56,
       "order": 69,
-      "global_order": 67,
+      "global_order": 70,
       "notebooks_ids": [
         921,
         922,
@@ -1626,7 +1626,7 @@
       "date": "2009-07-15T10:34:44.000Z",
       "serie_id": 56,
       "order": 70,
-      "global_order": 72,
+      "global_order": 76,
       "notebooks_ids": [
         933,
         934,
@@ -1647,7 +1647,7 @@
       "date": "2010-01-27T11:39:01.000Z",
       "serie_id": 56,
       "order": 71,
-      "global_order": 76,
+      "global_order": 80,
       "notebooks_ids": [
         943,
         944,
@@ -1664,7 +1664,7 @@
       "date": "2009-05-01T10:45:11.000Z",
       "serie_id": 58,
       "order": 72,
-      "global_order": 69,
+      "global_order": 72,
       "notebooks_ids": [
         949,
         950,
@@ -1687,7 +1687,7 @@
       "date": "2010-04-21T10:46:12.000Z",
       "serie_id": 58,
       "order": 73,
-      "global_order": 77,
+      "global_order": 81,
       "notebooks_ids": [
         961,
         962,
@@ -1738,7 +1738,7 @@
       "date": "2009-03-18T11:06:47.000Z",
       "serie_id": 63,
       "order": 75,
-      "global_order": 68,
+      "global_order": 71,
       "notebooks_ids": [
         993,
         994,
@@ -1761,7 +1761,7 @@
       "date": "2009-08-05T10:13:10.000Z",
       "serie_id": 63,
       "order": 76,
-      "global_order": 73,
+      "global_order": 77,
       "notebooks_ids": [
         1002,
         1003,
@@ -1788,7 +1788,7 @@
       "date": "2008-02-06T11:21:31.000Z",
       "serie_id": 68,
       "order": 77,
-      "global_order": 62,
+      "global_order": 65,
       "notebooks_ids": [
         1021,
         1022,
@@ -1809,7 +1809,7 @@
       "date": "2002-01-01T11:26:02.000Z",
       "serie_id": 69,
       "order": 78,
-      "global_order": 23,
+      "global_order": 24,
       "notebooks_ids": [
         1031,
         1032,
@@ -1832,7 +1832,7 @@
       "date": "2003-01-01T11:30:10.000Z",
       "serie_id": 69,
       "order": 79,
-      "global_order": 27,
+      "global_order": 28,
       "notebooks_ids": [
         1043,
         1044,
@@ -1856,7 +1856,7 @@
       "date": "2003-07-01T10:31:14.000Z",
       "serie_id": 69,
       "order": 80,
-      "global_order": 30,
+      "global_order": 31,
       "notebooks_ids": [
         1076,
         1077,
@@ -1879,7 +1879,7 @@
       "date": "2004-07-01T10:33:18.000Z",
       "serie_id": 69,
       "order": 81,
-      "global_order": 33,
+      "global_order": 35,
       "notebooks_ids": [
         1064,
         1065,
@@ -2005,7 +2005,7 @@
       "date": "2010-05-05T10:26:49.000Z",
       "serie_id": 74,
       "order": 86,
-      "global_order": 78,
+      "global_order": 83,
       "notebooks_ids": [
         1139,
         1140,
@@ -2023,9 +2023,141 @@
         1152,
         1153
       ]
+    },
+    "88": {
+      "title": "Deadpool i Cable",
+      "subtitle": "Tom 1",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool-cable/1/okladka-200.jpg",
+      "date": "2005-12-14T11:34:02.000Z",
+      "serie_id": 75,
+      "order": 87,
+      "global_order": 42,
+      "notebooks_ids": [
+        1154,
+        1155,
+        1156,
+        1157,
+        1158,
+        1159,
+        1160,
+        1161,
+        1162,
+        1163,
+        1164,
+        1165,
+        1166,
+        1167,
+        1168,
+        1169,
+        1170,
+        1171,
+        1172,
+        1173,
+        1174,
+        1175,
+        1176
+      ]
+    },
+    "89": {
+      "title": "Marvel Knights Punisher",
+      "subtitle": "Tom 1",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/punisher/mk-1/okladka-200.jpg",
+      "date": "2001-12-01T11:39:41.000Z",
+      "serie_id": 76,
+      "order": 88,
+      "global_order": 23,
+      "notebooks_ids": [
+        1177,
+        1178,
+        1179,
+        1180,
+        1181,
+        1182,
+        1183,
+        1184,
+        1185,
+        1186,
+        1187,
+        1188,
+        1189,
+        1190,
+        1191,
+        1192,
+        1193
+      ]
+    },
+    "90": {
+      "title": "Marvel Knights Punisher",
+      "subtitle": "Tom 2",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/punisher/mk-2/okladka-200.jpg",
+      "date": "2003-07-01T10:41:25.000Z",
+      "serie_id": 76,
+      "order": 89,
+      "global_order": 32,
+      "notebooks_ids": [
+        1194,
+        1195,
+        1201,
+        1202,
+        1203,
+        1204,
+        1205,
+        1206,
+        1207,
+        1208,
+        1209,
+        1210,
+        1211,
+        1212,
+        1213,
+        1214
+      ]
+    },
+    "91": {
+      "title": "Fantastyczna Czwórka",
+      "subtitle": "Tom 1",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/fantastyczna-czworka/1/okladka-200.jpg",
+      "date": "2010-04-28T10:46:23.000Z",
+      "serie_id": 78,
+      "order": 90,
+      "global_order": 82,
+      "notebooks_ids": [
+        1234,
+        1235,
+        1236,
+        1237,
+        1238,
+        1215,
+        1216,
+        1217,
+        1218,
+        1219,
+        1220,
+        1221,
+        1222,
+        1223
+      ]
+    },
+    "92": {
+      "title": "X-Men: Punkty zwrotne – Wojna o mesjasza",
+      "subtitle": "",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/x_men/wojna-o-mesjasza/okladka-200.jpg",
+      "date": "2009-06-24T10:53:08.000Z",
+      "serie_id": 80,
+      "order": 91,
+      "global_order": 75,
+      "notebooks_ids": [
+        1239,
+        1240,
+        1243,
+        1241,
+        1244,
+        1242,
+        1245
+      ]
     }
   },
   "meta": {
-    "nextIndex": 88
+    "nextIndex": 93
   }
 }

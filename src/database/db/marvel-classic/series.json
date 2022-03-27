@@ -163,44 +163,44 @@
       "is_filter": false
     },
     "28": {
-      "name": "Punisher",
-      "order": 27,
+      "name": "MAX",
+      "order": 2,
       "wave_id": 6,
       "is_filter": true
     },
     "29": {
       "name": "Punisher pojedyncze historie",
-      "order": 28,
+      "order": 3,
       "wave_id": 6,
       "is_filter": false
     },
     "30": {
       "name": "Punisher MAX: The Platoon",
-      "order": 29,
+      "order": 4,
       "wave_id": 6,
       "is_filter": false
     },
     "31": {
       "name": "Born",
-      "order": 30,
+      "order": 5,
       "wave_id": 6,
       "is_filter": false
     },
     "32": {
       "name": "Punisher Presents Barracuda MAX",
-      "order": 31,
+      "order": 6,
       "wave_id": 6,
       "is_filter": false
     },
     "33": {
       "name": "Punishermax",
-      "order": 32,
+      "order": 7,
       "wave_id": 6,
       "is_filter": false
     },
     "34": {
       "name": "Untold Tales of Punisher MAX",
-      "order": 33,
+      "order": 8,
       "wave_id": 6,
       "is_filter": false
     },
@@ -443,9 +443,57 @@
       "order": 73,
       "wave_id": 2,
       "is_filter": true
+    },
+    "75": {
+      "name": "Deadpool i Cable",
+      "order": 74,
+      "wave_id": 4,
+      "is_filter": true
+    },
+    "76": {
+      "name": "Marvel Knights",
+      "order": 1,
+      "wave_id": 6,
+      "is_filter": true
+    },
+    "77": {
+      "name": "Punisher Vol 5",
+      "order": 0,
+      "wave_id": 6,
+      "is_filter": false
+    },
+    "78": {
+      "name": "Fantastyczna Czwórka",
+      "order": 77,
+      "wave_id": 15,
+      "is_filter": true
+    },
+    "79": {
+      "name": "Dark Reign: Fantastic Four",
+      "order": 78,
+      "wave_id": 15,
+      "is_filter": false
+    },
+    "80": {
+      "name": "X-Men: Punkty zwrotne – Wojna o mesjasza",
+      "order": 79,
+      "wave_id": 5,
+      "is_filter": false
+    },
+    "81": {
+      "name": "Cable",
+      "order": 80,
+      "wave_id": 5,
+      "is_filter": false
+    },
+    "82": {
+      "name": "X-Force",
+      "order": 81,
+      "wave_id": 5,
+      "is_filter": false
     }
   },
   "meta": {
-    "nextIndex": 75
+    "nextIndex": 83
   }
 }
