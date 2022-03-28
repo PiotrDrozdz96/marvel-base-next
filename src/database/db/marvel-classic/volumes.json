@@ -290,7 +290,7 @@
       "date": "2011-05-11T10:57:44.000Z",
       "serie_id": 3,
       "order": 11,
-      "global_order": 86,
+      "global_order": 87,
       "notebooks_ids": [
         202,
         203,
@@ -860,7 +860,7 @@
       "date": "2011-03-09T11:03:09.000Z",
       "serie_id": 28,
       "order": 37,
-      "global_order": 85,
+      "global_order": 86,
       "notebooks_ids": [
         493,
         494,
@@ -882,7 +882,7 @@
       "date": "2012-02-08T11:04:13.000Z",
       "serie_id": 28,
       "order": 38,
-      "global_order": 88,
+      "global_order": 89,
       "notebooks_ids": [
         504,
         505,
@@ -905,7 +905,7 @@
       "date": "2012-10-17T10:12:04.000Z",
       "serie_id": 28,
       "order": 39,
-      "global_order": 90,
+      "global_order": 91,
       "notebooks_ids": [
         472,
         516,
@@ -951,7 +951,7 @@
       "date": "2014-03-19T11:28:02.000Z",
       "serie_id": 37,
       "order": 41,
-      "global_order": 91,
+      "global_order": 92,
       "notebooks_ids": [
         539,
         540,
@@ -996,7 +996,7 @@
       "date": "2010-08-18T10:36:51.000Z",
       "serie_id": 43,
       "order": 2,
-      "global_order": 84,
+      "global_order": 85,
       "notebooks_ids": [
         587,
         586,
@@ -1021,7 +1021,7 @@
       "date": "2011-05-25T10:38:50.000Z",
       "serie_id": 43,
       "order": 3,
-      "global_order": 87,
+      "global_order": 88,
       "notebooks_ids": [
         589,
         590,
@@ -1049,7 +1049,7 @@
       "date": "2012-04-11T10:41:09.000Z",
       "serie_id": 43,
       "order": 4,
-      "global_order": 89,
+      "global_order": 90,
       "notebooks_ids": [
         605,
         606,
@@ -1647,7 +1647,7 @@
       "date": "2010-01-27T11:39:01.000Z",
       "serie_id": 56,
       "order": 71,
-      "global_order": 80,
+      "global_order": 81,
       "notebooks_ids": [
         943,
         944,
@@ -1687,7 +1687,7 @@
       "date": "2010-04-21T10:46:12.000Z",
       "serie_id": 58,
       "order": 73,
-      "global_order": 81,
+      "global_order": 82,
       "notebooks_ids": [
         961,
         962,
@@ -2005,7 +2005,7 @@
       "date": "2010-05-05T10:26:49.000Z",
       "serie_id": 74,
       "order": 86,
-      "global_order": 83,
+      "global_order": 84,
       "notebooks_ids": [
         1139,
         1140,
@@ -2120,7 +2120,7 @@
       "date": "2010-04-28T10:46:23.000Z",
       "serie_id": 78,
       "order": 90,
-      "global_order": 82,
+      "global_order": 83,
       "notebooks_ids": [
         1234,
         1235,
@@ -2155,9 +2155,36 @@
         1242,
         1245
       ]
+    },
+    "93": {
+      "title": "Thor",
+      "subtitle": "",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/thor/classic/okladka-200.jpg",
+      "date": "2009-09-30T10:37:12.000Z",
+      "serie_id": 83,
+      "order": 92,
+      "global_order": 80,
+      "notebooks_ids": [
+        1246,
+        1247,
+        1248,
+        1249,
+        1250,
+        1251,
+        1252,
+        1253,
+        1254,
+        1255,
+        1256,
+        1257,
+        1258,
+        1259,
+        1260,
+        1261
+      ]
     }
   },
   "meta": {
-    "nextIndex": 93
+    "nextIndex": 94
   }
 }

@@ -32,12 +32,12 @@
     },
     "6": {
       "name": "Elektra - Assassin",
-      "order": 2,
+      "order": 3,
       "wave_id": 2,
       "is_filter": true
     },
     "7": {
-      "order": 4,
+      "order": 9,
       "wave_id": 2,
       "is_filter": true,
       "name": "Wojna Domowa"
@@ -218,7 +218,7 @@
     },
     "37": {
       "name": "Hulk",
-      "order": 3,
+      "order": 4,
       "wave_id": 2,
       "is_filter": true
     },
@@ -260,7 +260,7 @@
     },
     "44": {
       "name": "Spider-Man i Czarna Kotka",
-      "order": 43,
+      "order": 5,
       "wave_id": 2,
       "is_filter": true
     },
@@ -320,7 +320,7 @@
     },
     "54": {
       "name": "Spider-Man",
-      "order": 53,
+      "order": 6,
       "wave_id": 2,
       "is_filter": true
     },
@@ -403,7 +403,7 @@
       "is_filter": false
     },
     "68": {
-      "order": 67,
+      "order": 7,
       "wave_id": 2,
       "is_filter": true,
       "name": "Silver Surfer"
@@ -440,7 +440,7 @@
     },
     "74": {
       "name": "Domena królów",
-      "order": 73,
+      "order": 2,
       "wave_id": 2,
       "is_filter": true
     },
@@ -491,9 +491,15 @@
       "order": 81,
       "wave_id": 5,
       "is_filter": false
+    },
+    "83": {
+      "name": "Thor",
+      "order": 8,
+      "wave_id": 2,
+      "is_filter": true
     }
   },
   "meta": {
-    "nextIndex": 83
+    "nextIndex": 84
   }
 }

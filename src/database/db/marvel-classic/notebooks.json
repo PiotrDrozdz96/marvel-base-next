@@ -12449,9 +12449,169 @@
       "date": "2009-06-24T10:00:00.000Z",
       "serie_id": 82,
       "order": 1244
+    },
+    "1246": {
+      "title": "Thor",
+      "vol": 3,
+      "no": 1,
+      "subtitle": "\"Brakka-Dooooom!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d1/Thor_Vol_3_1.jpg/revision/latest/scale-to-width-down/132?cb=20181231052808",
+      "date": "2007-07-05T10:00:00.000Z",
+      "serie_id": 83,
+      "order": 1245
+    },
+    "1247": {
+      "title": "Thor",
+      "vol": 3,
+      "no": 2,
+      "subtitle": "\"Diner\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/93/Thor_Vol_3_2.jpg/revision/latest/scale-to-width-down/132?cb=20190520015236",
+      "date": "2007-08-01T10:00:00.000Z",
+      "serie_id": 83,
+      "order": 1246
+    },
+    "1248": {
+      "title": "Thor",
+      "vol": 3,
+      "no": 3,
+      "subtitle": "\"Everything Old Is New Again\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e9/Thor_Vol_3_3.jpg/revision/latest/scale-to-width-down/132?cb=20191206163151",
+      "date": "2007-09-12T10:00:00.000Z",
+      "serie_id": 83,
+      "order": 1247
+    },
+    "1249": {
+      "title": "Thor",
+      "vol": 3,
+      "no": 4,
+      "subtitle": "\"No Borders\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c8/Thor_Vol_3_4.jpg/revision/latest/scale-to-width-down/132?cb=20191230224927",
+      "date": "2007-11-14T11:00:00.000Z",
+      "serie_id": 83,
+      "order": 1248
+    },
+    "1250": {
+      "title": "Thor",
+      "vol": 3,
+      "no": 5,
+      "subtitle": "\"Special Delivery\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b5/Thor_Vol_3_5.jpg/revision/latest/scale-to-width-down/132?cb=20191206163030",
+      "date": "2007-12-28T11:00:00.000Z",
+      "serie_id": 83,
+      "order": 1249
+    },
+    "1251": {
+      "title": "Thor",
+      "vol": 3,
+      "no": 6,
+      "subtitle": "\"Wandering Gods\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/ed/Thor_Vol_3_6.jpg/revision/latest/scale-to-width-down/132?cb=20191206163205",
+      "date": "2008-02-27T11:00:00.000Z",
+      "serie_id": 83,
+      "order": 1250
+    },
+    "1252": {
+      "title": "Thor",
+      "vol": 3,
+      "no": 7,
+      "subtitle": "\"Father Issues\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/62/Thor_Vol_3_7.jpg/revision/latest/scale-to-width-down/131?cb=20090624105048",
+      "date": "2008-03-19T11:00:00.000Z",
+      "serie_id": 83,
+      "order": 1251
+    },
+    "1253": {
+      "title": "Thor",
+      "vol": 3,
+      "no": 8,
+      "subtitle": "\"Father Issues (Part 2)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b4/Thor_Vol_3_8.jpg/revision/latest/scale-to-width-down/132?cb=20191206163307",
+      "date": "2008-04-23T10:00:00.000Z",
+      "serie_id": 83,
+      "order": 1252
+    },
+    "1254": {
+      "title": "Thor",
+      "vol": 3,
+      "no": 9,
+      "subtitle": "\"Forced Perspective\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/83/Thor_Vol_3_9.jpg/revision/latest/scale-to-width-down/132?cb=20191206163358",
+      "date": "2008-05-29T10:00:00.000Z",
+      "serie_id": 83,
+      "order": 1253
+    },
+    "1255": {
+      "title": "Thor",
+      "vol": 3,
+      "no": 10,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9c/Thor_Vol_3_10.jpg/revision/latest/scale-to-width-down/132?cb=20191206163421",
+      "date": "2008-07-30T10:00:00.000Z",
+      "serie_id": 83,
+      "order": 1254
+    },
+    "1256": {
+      "title": "Thor",
+      "vol": 3,
+      "no": 11,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/37/Thor_Vol_3_11.jpg/revision/latest/scale-to-width-down/132?cb=20191206163503",
+      "date": "2008-10-29T11:00:00.000Z",
+      "serie_id": 83,
+      "order": 1255
+    },
+    "1257": {
+      "title": "Thor",
+      "vol": 3,
+      "no": 12,
+      "subtitle": "\"Diversions and Misdirections\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ab/Thor_Vol_3_12.jpg/revision/latest/scale-to-width-down/129?cb=20101120182846",
+      "date": "2008-12-24T11:00:00.000Z",
+      "serie_id": 83,
+      "order": 1256
+    },
+    "1258": {
+      "title": "Thor",
+      "vol": 1,
+      "no": 600,
+      "subtitle": "\"Victory\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fe/Thor_Vol_1_600.jpg/revision/latest/scale-to-width-down/132?cb=20200622031316",
+      "date": "2009-02-11T11:00:00.000Z",
+      "serie_id": 83,
+      "order": 1257
+    },
+    "1259": {
+      "title": "Thor",
+      "vol": 1,
+      "no": 601,
+      "subtitle": "\"Defining Moments\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6b/Thor_Vol_1_601.jpg/revision/latest/scale-to-width-down/132?cb=20201012045701",
+      "date": "2009-04-22T10:00:00.000Z",
+      "serie_id": 83,
+      "order": 1258
+    },
+    "1260": {
+      "title": "Thor",
+      "vol": 1,
+      "no": 602,
+      "subtitle": "\"Uncertain Destinies\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8e/Thor_Vol_1_602.jpg/revision/latest/scale-to-width-down/129?cb=20090625003345",
+      "date": "2009-06-24T10:00:00.000Z",
+      "serie_id": 83,
+      "order": 1259
+    },
+    "1261": {
+      "title": "Thor",
+      "vol": 1,
+      "no": 603,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cb/Thor_Vol_1_603.jpg/revision/latest/scale-to-width-down/130?cb=20091001005839",
+      "date": "2009-09-30T10:00:00.000Z",
+      "serie_id": 83,
+      "order": 1260
     }
   },
   "meta": {
-    "nextIndex": 1246
+    "nextIndex": 1262
   }
 }
