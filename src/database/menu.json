@@ -63,9 +63,17 @@
       "url": "/preview/marvel-classic/classic",
       "icon": "",
       "parent_id": 7
+    },
+    "9": {
+      "name": "Marvel Now!",
+      "type": "SUB_MENU",
+      "order": 8,
+      "url": "/preview/marvel-now/moje",
+      "icon": "",
+      "parent_id": 7
     }
   },
   "meta": {
-    "nextIndex": 9
+    "nextIndex": 10
   }
 }

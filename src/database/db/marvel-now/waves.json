@@ -1,0 +1,35 @@
+{
+  "waves": {
+    "1": {
+      "name": "X-Men",
+      "order": 5
+    },
+    "2": {
+      "name": "Cosmic",
+      "order": 1
+    },
+    "3": {
+      "name": "Avengers",
+      "order": 0
+    },
+    "4": {
+      "name": "Spider-Man",
+      "order": 3
+    },
+    "5": {
+      "name": "Eventy",
+      "order": 2
+    },
+    "6": {
+      "name": "Street",
+      "order": 4
+    },
+    "7": {
+      "name": "Tajne Wojny",
+      "order": 6
+    }
+  },
+  "meta": {
+    "nextIndex": 8
+  }
+}

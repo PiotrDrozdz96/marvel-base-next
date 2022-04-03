@@ -1,0 +1,1834 @@
+{
+  "volumes": {
+    "1": {
+      "title": "All-New X-Men",
+      "subtitle": "Tom 1 - Wczorajsi X-Men",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/all-new-x-men/wczorajsi-x-men/okladka-200.jpg",
+      "date": "2013-01-02T11:19:52.000Z",
+      "serie_id": 1,
+      "order": 0,
+      "global_order": 13,
+      "notebooks_ids": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "2": {
+      "title": "All-New X-Men",
+      "subtitle": "Tom 2 - Tu zostajemy",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/all-new-x-men/tu-zostajemy/okladka-200.jpg",
+      "date": "2013-04-03T10:20:44.000Z",
+      "serie_id": 1,
+      "order": 1,
+      "global_order": 15,
+      "notebooks_ids": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "3": {
+      "title": "All-New X-Men",
+      "subtitle": "Tom 3 - Zagubieni",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/all-new-x-men/3/okladka-200.jpg",
+      "date": "2013-08-07T10:21:49.000Z",
+      "serie_id": 1,
+      "order": 2,
+      "global_order": 33,
+      "notebooks_ids": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    "4": {
+      "title": "All-New X-Men",
+      "subtitle": "Tom 4 - Tak inni",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/all-new-x-men/4/okladka-200.jpg",
+      "date": "2014-01-15T11:23:36.000Z",
+      "serie_id": 1,
+      "order": 3,
+      "global_order": 46,
+      "notebooks_ids": [
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    "5": {
+      "title": "All-New X-Men",
+      "subtitle": "Tom 5 - Jeden z głowy",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/all-new-x-men/5/okladka-200.jpg",
+      "date": "2014-08-13T10:25:36.000Z",
+      "serie_id": 1,
+      "order": 4,
+      "global_order": 73,
+      "notebooks_ids": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ]
+    },
+    "6": {
+      "title": "All-New X-Men",
+      "subtitle": "Tom 6 - Przygoda w Świecie Ultimate",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/all-new-x-men/6/okladka-200.jpg",
+      "date": "2015-02-11T11:26:32.000Z",
+      "serie_id": 1,
+      "order": 5,
+      "global_order": 87,
+      "notebooks_ids": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ]
+    },
+    "7": {
+      "title": "All-New X-Men",
+      "subtitle": "Tom 7 - Utopianie",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/all-new-x-men/7/okladka-200.jpg",
+      "date": "2015-06-03T10:27:32.000Z",
+      "serie_id": 1,
+      "order": 6,
+      "global_order": 89,
+      "notebooks_ids": [
+        36,
+        37,
+        38,
+        39,
+        40
+      ]
+    },
+    "8": {
+      "title": "Strażnicy Galaktyki",
+      "subtitle": "Tom 1 - Kosmiczni Avengers",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/straznicy-galaktyki/1/okladka-200.jpg",
+      "date": "2013-06-12T10:30:24.000Z",
+      "serie_id": 2,
+      "order": 7,
+      "global_order": 23,
+      "notebooks_ids": [
+        41,
+        42,
+        43,
+        44
+      ]
+    },
+    "9": {
+      "title": "Strażnicy Galaktyki",
+      "subtitle": "Tom 2 - Angela",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/straznicy-galaktyki/2/okladka-200.jpg",
+      "date": "2013-10-16T10:31:25.000Z",
+      "serie_id": 2,
+      "order": 8,
+      "global_order": 24,
+      "notebooks_ids": [
+        45,
+        46,
+        47,
+        48
+      ]
+    },
+    "10": {
+      "title": "Strażnicy Galaktyki",
+      "subtitle": "Tom 3 - Nieskończoność",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/straznicy-galaktyki/3/okladka-200.jpg",
+      "date": "2013-12-13T11:32:14.000Z",
+      "serie_id": 2,
+      "order": 9,
+      "global_order": 41,
+      "notebooks_ids": [
+        49,
+        50,
+        51
+      ]
+    },
+    "11": {
+      "title": "Strażnicy Galaktyki/All-New X-Men",
+      "subtitle": "Proces Jean Grey",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/straznicy-galaktyki/4/okladka-200.jpg",
+      "date": "2014-03-26T11:34:50.000Z",
+      "serie_id": 2,
+      "order": 10,
+      "global_order": 47,
+      "notebooks_ids": [
+        69,
+        52,
+        22,
+        53,
+        23,
+        54
+      ]
+    },
+    "12": {
+      "title": "Strażnicy Galaktyki",
+      "subtitle": "Tom 4 - Strażnicy w rozsypce",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/straznicy-galaktyki/4-/okladka-200.jpg",
+      "date": "2014-07-30T10:40:30.000Z",
+      "serie_id": 2,
+      "order": 11,
+      "global_order": 64,
+      "notebooks_ids": [
+        55,
+        56,
+        57,
+        58
+      ]
+    },
+    "13": {
+      "title": "Strażnicy Galaktyki",
+      "subtitle": "Tom 5 - Grzech Pierworodny",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/straznicy-galaktyki/5/okladka-200.jpg",
+      "date": "2015-01-21T11:41:26.000Z",
+      "serie_id": 2,
+      "order": 12,
+      "global_order": 72,
+      "notebooks_ids": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        64
+      ]
+    },
+    "14": {
+      "title": "Strażnicy Galaktyki",
+      "subtitle": "Tom 6 - Po drugiej stronie lustra",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/straznicy-galaktyki/6/okladka-200.jpg",
+      "date": "2015-05-20T10:45:02.000Z",
+      "serie_id": 2,
+      "order": 13,
+      "global_order": 90,
+      "notebooks_ids": [
+        65,
+        66,
+        67,
+        68
+      ]
+    },
+    "15": {
+      "title": "Avengers",
+      "subtitle": "Tom 1 - Świat Avengers",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/swiat-avengers/okladka-200.jpg",
+      "date": "2013-02-20T11:50:39.000Z",
+      "serie_id": 3,
+      "order": 14,
+      "global_order": 8,
+      "notebooks_ids": [
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ]
+    },
+    "16": {
+      "title": "Avengers",
+      "subtitle": "Tom 2 - Ostatnie białe zdarzenie",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/swiat-avengers-2/okladka-200.jpg",
+      "date": "2013-05-08T10:51:35.000Z",
+      "serie_id": 3,
+      "order": 15,
+      "global_order": 17,
+      "notebooks_ids": [
+        76,
+        77,
+        78,
+        79,
+        80
+      ]
+    },
+    "17": {
+      "title": "Avengers",
+      "subtitle": "Tom 3 - Preludium Nieskończoności",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/preludium-nieskonczonosci/okladka-200.jpg",
+      "date": "2013-08-07T10:53:04.000Z",
+      "serie_id": 3,
+      "order": 16,
+      "global_order": 36,
+      "notebooks_ids": [
+        81,
+        82,
+        83,
+        84,
+        85,
+        86
+      ]
+    },
+    "18": {
+      "title": "Avengers",
+      "subtitle": "Tom 4 - Nieskończoność",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/nieskonczonosc/okladka-200.jpg",
+      "date": "2013-11-20T11:54:07.000Z",
+      "serie_id": 3,
+      "order": 17,
+      "global_order": 37,
+      "notebooks_ids": [
+        87,
+        88,
+        89,
+        90,
+        91,
+        92
+      ]
+    },
+    "19": {
+      "title": "Avengers",
+      "subtitle": "Tom 5 - Dostosuj się lub zgiń",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/dostosuj-sie-lub-zgin/okladka-200.jpg",
+      "date": "2014-04-01T10:55:48.000Z",
+      "serie_id": 3,
+      "order": 18,
+      "global_order": 55,
+      "notebooks_ids": [
+        93,
+        94,
+        95,
+        96,
+        97
+      ]
+    },
+    "20": {
+      "title": "Avengers",
+      "subtitle": "Tom 6 - Wieczni Avengers",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/wieczni-avengers/okladka-200.jpg",
+      "date": "2014-08-27T10:57:21.000Z",
+      "serie_id": 3,
+      "order": 19,
+      "global_order": 71,
+      "notebooks_ids": [
+        98,
+        99,
+        100,
+        101,
+        102,
+        103
+      ]
+    },
+    "21": {
+      "title": "Avengers",
+      "subtitle": "Czas się kończy - Tom 1",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/czas-sie-konczy/okladka-200.jpg",
+      "date": "2014-10-22T10:00:40.000Z",
+      "serie_id": 3,
+      "order": 20,
+      "global_order": 95,
+      "notebooks_ids": [
+        106,
+        139,
+        107,
+        140,
+        108
+      ]
+    },
+    "22": {
+      "title": "Avengers",
+      "subtitle": "Czas się kończy - Tom 2",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/czas-sie-konczy-2/okladka-200.jpg",
+      "date": "2014-12-24T11:01:50.000Z",
+      "serie_id": 3,
+      "order": 21,
+      "global_order": 96,
+      "notebooks_ids": [
+        141,
+        109,
+        142,
+        110,
+        143
+      ]
+    },
+    "23": {
+      "title": "Avengers",
+      "subtitle": "Czas się kończy - Tom 3",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/czas-sie-konczy-3/okladka-200.jpg",
+      "date": "2015-03-04T11:02:56.000Z",
+      "serie_id": 3,
+      "order": 22,
+      "global_order": 97,
+      "notebooks_ids": [
+        111,
+        144,
+        112,
+        145,
+        113
+      ]
+    },
+    "24": {
+      "title": "Avengers",
+      "subtitle": "Czas się kończy - Tom 4",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/czas-sie-konczy-4/okladka-200.jpg",
+      "date": "2015-04-29T10:04:13.000Z",
+      "serie_id": 3,
+      "order": 23,
+      "global_order": 98,
+      "notebooks_ids": [
+        146,
+        147,
+        114,
+        148,
+        115
+      ]
+    },
+    "25": {
+      "title": "New Avengers",
+      "subtitle": "Tom 1 - Wszystko Umiera",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/new-avengers/wszystko-umiera/okladka-200.jpg",
+      "date": "2013-05-29T10:06:11.000Z",
+      "serie_id": 4,
+      "order": 24,
+      "global_order": 4,
+      "notebooks_ids": [
+        116,
+        117,
+        118,
+        119,
+        120,
+        121
+      ]
+    },
+    "26": {
+      "title": "New Avengers",
+      "subtitle": "Tom 2 - Nieskończoność",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/new-avengers/nieskonczonosc/okladka-200.jpg",
+      "date": "2013-11-27T11:07:06.000Z",
+      "serie_id": 4,
+      "order": 25,
+      "global_order": 38,
+      "notebooks_ids": [
+        122,
+        123,
+        124,
+        125,
+        126,
+        127
+      ]
+    },
+    "27": {
+      "title": "New Avengers",
+      "subtitle": "Tom 3 - Inne światy",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/new-avengers/inne-swiaty/okladka-200.jpg",
+      "date": "2014-04-30T10:08:33.000Z",
+      "serie_id": 4,
+      "order": 26,
+      "global_order": 54,
+      "notebooks_ids": [
+        128,
+        129,
+        130,
+        131,
+        132
+      ]
+    },
+    "28": {
+      "title": "New Avengers",
+      "subtitle": "Tom 4 - Doskonały świat",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/new-avengers/doskonaly-swiat/okladka-200.jpg",
+      "date": "2014-08-20T10:09:28.000Z",
+      "serie_id": 4,
+      "order": 27,
+      "global_order": 75,
+      "notebooks_ids": [
+        133,
+        134,
+        135,
+        136,
+        137,
+        138
+      ]
+    },
+    "29": {
+      "title": "Superior Spider-Man",
+      "subtitle": "Tom 1 - Ostatnie życzenie",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/superiorspiderman/1/okladka-200.jpg",
+      "date": "2012-12-26T11:15:41.000Z",
+      "serie_id": 5,
+      "order": 28,
+      "global_order": 9,
+      "notebooks_ids": [
+        149,
+        150,
+        151
+      ]
+    },
+    "30": {
+      "title": "Superior Spider-Man",
+      "subtitle": "Tom 2 - Mój własny najgorszy wróg",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/superiorspiderman/2/okladka-200.jpg",
+      "date": "2013-03-06T11:17:19.000Z",
+      "serie_id": 5,
+      "order": 29,
+      "global_order": 10,
+      "notebooks_ids": [
+        152,
+        153,
+        154,
+        155,
+        156
+      ]
+    },
+    "31": {
+      "title": "Superior Spider-Man",
+      "subtitle": "Tom 3 - Kłopoty z głową",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/superiorspiderman/3/okladka-200.jpg",
+      "date": "2013-05-22T10:18:21.000Z",
+      "serie_id": 5,
+      "order": 30,
+      "global_order": 25,
+      "notebooks_ids": [
+        157,
+        159,
+        160,
+        161,
+        162
+      ]
+    },
+    "32": {
+      "title": "Superior Spider-Man",
+      "subtitle": "Tom 4 - Nie ma ucieczki",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/superiorspiderman/4/okladka-200.jpg",
+      "date": "2013-08-21T10:19:21.000Z",
+      "serie_id": 5,
+      "order": 31,
+      "global_order": 26,
+      "notebooks_ids": [
+        163,
+        164,
+        165,
+        166,
+        167,
+        168
+      ]
+    },
+    "33": {
+      "title": "Superior Spider-Man",
+      "subtitle": "Tom 5 - Zło konieczne",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/superiorspiderman/5/okladka-200.jpg",
+      "date": "2013-11-13T11:20:56.000Z",
+      "serie_id": 5,
+      "order": 32,
+      "global_order": 44,
+      "notebooks_ids": [
+        169,
+        170,
+        171,
+        172,
+        173
+      ]
+    },
+    "34": {
+      "title": "Superior Spider-Man",
+      "subtitle": "Tom 6 - Superior Venom",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/superiorspiderman/6/okladka-200.jpg",
+      "date": "2014-01-29T11:22:21.000Z",
+      "serie_id": 5,
+      "order": 33,
+      "global_order": 51,
+      "notebooks_ids": [
+        174,
+        175,
+        176,
+        177,
+        178
+      ]
+    },
+    "35": {
+      "title": "Superior Spider-Man",
+      "subtitle": "Tom 7 - Lud Goblinów",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/superiorspiderman/7/okladka-200.jpg",
+      "date": "2014-04-16T10:23:18.000Z",
+      "serie_id": 5,
+      "order": 34,
+      "global_order": 52,
+      "notebooks_ids": [
+        179,
+        180,
+        181,
+        182,
+        183
+      ]
+    },
+    "36": {
+      "title": "Spider-Man 2099",
+      "subtitle": "Tom 1 - Nie z tego czasu",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/spider-man-2099/1/okladka-200.jpg",
+      "date": "2014-10-15T10:26:35.000Z",
+      "serie_id": 6,
+      "order": 35,
+      "global_order": 82,
+      "notebooks_ids": [
+        186,
+        187,
+        188,
+        189,
+        190
+      ]
+    },
+    "37": {
+      "title": "Spider-Man 2099",
+      "subtitle": "Tom 2 - Spiderversum",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/spider-man-2099/2/okladka-200.jpg",
+      "date": "2015-05-13T10:27:19.000Z",
+      "serie_id": 6,
+      "order": 36,
+      "global_order": 85,
+      "notebooks_ids": [
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197
+      ]
+    },
+    "38": {
+      "title": "Amazing Spider-Man",
+      "subtitle": "Tom 1 - Szczęście Parkera",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/amazing_spider-man/szczescie-parkera/okladka-200.jpg",
+      "date": "2014-09-10T10:29:36.000Z",
+      "serie_id": 7,
+      "order": 37,
+      "global_order": 53,
+      "notebooks_ids": [
+        198,
+        204,
+        205,
+        206,
+        207,
+        208
+      ]
+    },
+    "39": {
+      "title": "Amazing Spider-Man",
+      "subtitle": "Tom 2 - Preludium do Spiderversum",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/amazing_spider-man/preludium-do-spiderversum/okladka-200.jpg",
+      "date": "2014-10-22T10:30:52.000Z",
+      "serie_id": 7,
+      "order": 38,
+      "global_order": 83,
+      "notebooks_ids": [
+        209,
+        210,
+        184,
+        185
+      ]
+    },
+    "40": {
+      "title": "Amazing Spider-Man",
+      "subtitle": "Tom 3 - Spiderversum",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/amazing_spider-man/spiderversum/okladka-200.jpg",
+      "date": "2015-02-25T11:32:40.000Z",
+      "serie_id": 7,
+      "order": 39,
+      "global_order": 84,
+      "notebooks_ids": [
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217
+      ]
+    },
+    "41": {
+      "title": "Amazing Spider-Man",
+      "subtitle": "Tom 4 - Nocna Zmiana",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/amazing_spider-man/nocna-zmiana/okladka-200.jpg",
+      "date": "2015-05-06T10:34:10.000Z",
+      "serie_id": 7,
+      "order": 40,
+      "global_order": 86,
+      "notebooks_ids": [
+        218,
+        220,
+        222
+      ]
+    },
+    "42": {
+      "title": "Wolverine i X-Men",
+      "subtitle": "Tom 1 - Cyrk przybył do miasta",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/wolverinexmen/1/okladka-200.jpg",
+      "date": "2013-01-23T11:56:36.000Z",
+      "serie_id": 8,
+      "order": 41,
+      "global_order": 1,
+      "notebooks_ids": [
+        244,
+        245,
+        246,
+        247,
+        248,
+        249
+      ]
+    },
+    "43": {
+      "title": "Wolverine i X-Men",
+      "subtitle": "Tom 2 - Szkoła przetrwania",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/wolverinexmen/2/okladka-200.jpg",
+      "date": "2013-05-15T10:57:30.000Z",
+      "serie_id": 8,
+      "order": 42,
+      "global_order": 2,
+      "notebooks_ids": [
+        250,
+        251,
+        252,
+        254,
+        255
+      ]
+    },
+    "44": {
+      "title": "Wolverine i X-Men",
+      "subtitle": "Tom 3 - Saga Hellfire",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/wolverinexmen/3/okladka-200.jpg",
+      "date": "2013-08-28T10:58:24.000Z",
+      "serie_id": 8,
+      "order": 43,
+      "global_order": 32,
+      "notebooks_ids": [
+        256,
+        257,
+        258,
+        259,
+        260,
+        261
+      ]
+    },
+    "45": {
+      "title": "Wolverine i X-Men",
+      "subtitle": "Tom 4 - Starzy kumple, nowi wrogowie",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/wolverinexmen/4/okladka-200.jpg",
+      "date": "2014-02-26T11:00:53.000Z",
+      "serie_id": 8,
+      "order": 44,
+      "global_order": 43,
+      "notebooks_ids": [
+        264,
+        265,
+        266,
+        267,
+        268
+      ]
+    },
+    "46": {
+      "title": "Era Ultrona",
+      "subtitle": "",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/era-ultrona/1/okladka-200.jpg",
+      "date": "2013-06-26T10:05:47.000Z",
+      "serie_id": 9,
+      "order": 45,
+      "global_order": 18,
+      "notebooks_ids": [
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279
+      ]
+    },
+    "47": {
+      "title": "Deadpool",
+      "subtitle": "Tom 1 - Martwi prezydenci",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/1/okladka-200.jpg",
+      "date": "2013-03-20T11:10:41.000Z",
+      "serie_id": 10,
+      "order": 46,
+      "global_order": 5,
+      "notebooks_ids": [
+        280,
+        281,
+        282,
+        283,
+        284,
+        285
+      ]
+    },
+    "48": {
+      "title": "Deadpool",
+      "subtitle": "Tom 2 - Łowca Dusz",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/2/okladka-200.jpg",
+      "date": "2013-06-26T10:11:31.000Z",
+      "serie_id": 10,
+      "order": 47,
+      "global_order": 30,
+      "notebooks_ids": [
+        286,
+        287,
+        288,
+        289,
+        290,
+        291
+      ]
+    },
+    "49": {
+      "title": "Deadpool",
+      "subtitle": "Tom 3 - Dobry, zły i brzydki",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/3/okladka-200.jpg",
+      "date": "2013-11-13T11:13:27.000Z",
+      "serie_id": 10,
+      "order": 48,
+      "global_order": 31,
+      "notebooks_ids": [
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298
+      ]
+    },
+    "50": {
+      "title": "Deadpool",
+      "subtitle": "Tom 4 - Deadpool kontra SHIELD",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/4/okladka-200.jpg",
+      "date": "2014-03-12T11:14:20.000Z",
+      "serie_id": 10,
+      "order": 49,
+      "global_order": 45,
+      "notebooks_ids": [
+        299,
+        300,
+        301,
+        302,
+        303,
+        304
+      ]
+    },
+    "51": {
+      "title": "Deadpool",
+      "subtitle": "Tom 5 - Wyzwanie Draculi",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/5/okladka-200.jpg",
+      "date": "2014-08-20T10:18:10.000Z",
+      "serie_id": 10,
+      "order": 50,
+      "global_order": 57,
+      "notebooks_ids": [
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331
+      ]
+    },
+    "52": {
+      "title": "Deadpool",
+      "subtitle": "Tom 6 - Deadpool się żeni",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/6/okladka-200.jpg",
+      "date": "2014-05-14T10:20:32.000Z",
+      "serie_id": 10,
+      "order": 51,
+      "global_order": 58,
+      "notebooks_ids": [
+        305,
+        306,
+        307
+      ]
+    },
+    "53": {
+      "title": "Deadpool",
+      "subtitle": "Tom 7 - Grzech pierworodny",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/7/okladka-200.jpg",
+      "date": "2014-09-10T10:22:31.000Z",
+      "serie_id": 10,
+      "order": 52,
+      "global_order": 70,
+      "notebooks_ids": [
+        308,
+        309,
+        310,
+        311,
+        312,
+        313
+      ]
+    },
+    "54": {
+      "title": "Deadpool",
+      "subtitle": "Tom 8 - Axis",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/8/okladka-200.jpg",
+      "date": "2015-01-14T11:23:53.000Z",
+      "serie_id": 10,
+      "order": 53,
+      "global_order": 81,
+      "notebooks_ids": [
+        314,
+        315,
+        316,
+        317,
+        318,
+        319
+      ]
+    },
+    "55": {
+      "title": "Deadpool",
+      "subtitle": "Tom 9 - Wszystko, co dobre...",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/9/okladka-200.jpg",
+      "date": "2015-04-08T10:25:43.000Z",
+      "serie_id": 10,
+      "order": 54,
+      "global_order": 93,
+      "notebooks_ids": [
+        320,
+        321,
+        322,
+        323,
+        324
+      ]
+    },
+    "56": {
+      "title": "Deadpool",
+      "subtitle": "Tom 10 - Deadpooliana wybrane",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/10/okladka-200.jpg",
+      "date": "2015-10-28T11:29:06.000Z",
+      "serie_id": 10,
+      "order": 55,
+      "global_order": 94,
+      "notebooks_ids": [
+        332,
+        333,
+        334,
+        335,
+        336
+      ]
+    },
+    "57": {
+      "title": "Thunderbolts",
+      "subtitle": "Tom 1 - Bez pardonu",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/thunderbolts/1/okladka-200.jpg",
+      "date": "2013-03-13T11:32:10.000Z",
+      "serie_id": 14,
+      "order": 56,
+      "global_order": 11,
+      "notebooks_ids": [
+        337,
+        338,
+        339,
+        340,
+        341,
+        342
+      ]
+    },
+    "58": {
+      "title": "Thunderbolts",
+      "subtitle": "Tom 2 - Czerwony Postrach",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/thunderbolts/2/okladka-200.jpg",
+      "date": "2013-07-03T10:32:56.000Z",
+      "serie_id": 14,
+      "order": 57,
+      "global_order": 12,
+      "notebooks_ids": [
+        343,
+        344,
+        345,
+        346,
+        347,
+        348
+      ]
+    },
+    "59": {
+      "title": "Thunderbolts",
+      "subtitle": "Tom 3 - Nieskończoność",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/thunderbolts/3/okladka-200.jpg",
+      "date": "2013-12-11T11:33:45.000Z",
+      "serie_id": 14,
+      "order": 58,
+      "global_order": 40,
+      "notebooks_ids": [
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355
+      ]
+    },
+    "60": {
+      "title": "Thunderbolts",
+      "subtitle": "Tom 4 - Bez litości",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/thunderbolts/4/okladka-200.jpg",
+      "date": "2014-05-28T10:34:41.000Z",
+      "serie_id": 14,
+      "order": 59,
+      "global_order": 60,
+      "notebooks_ids": [
+        356,
+        357,
+        358,
+        359,
+        360,
+        361,
+        362
+      ]
+    },
+    "61": {
+      "title": "Thunderbolts",
+      "subtitle": "Tom 5 - Punisher kontra Thunderbolts",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/thunderbolts/5/okladka-200.jpg",
+      "date": "2014-10-29T11:36:24.000Z",
+      "serie_id": 14,
+      "order": 60,
+      "global_order": 76,
+      "notebooks_ids": [
+        363,
+        364,
+        365,
+        366,
+        367,
+        368
+      ]
+    },
+    "62": {
+      "title": "Uncanny Avengers",
+      "subtitle": "Tom 1 - Czerwony cień",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/uncanny-avengers/1/okladka-200.jpg",
+      "date": "2013-03-27T11:39:28.000Z",
+      "serie_id": 15,
+      "order": 61,
+      "global_order": 3,
+      "notebooks_ids": [
+        369,
+        370,
+        371,
+        372,
+        373
+      ]
+    },
+    "63": {
+      "title": "Uncanny Avengers",
+      "subtitle": "Tom 2 - Bliźnięta Apokalipsy",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/uncanny-avengers/2/okladka-200.jpg",
+      "date": "2013-08-28T10:40:05.000Z",
+      "serie_id": 15,
+      "order": 62,
+      "global_order": 19,
+      "notebooks_ids": [
+        374,
+        375,
+        376,
+        377,
+        378,
+        379,
+        380
+      ]
+    },
+    "64": {
+      "title": "Uncanny Avengers",
+      "subtitle": "Tom 3 - Czas na Ragnarok",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/uncanny-avengers/3/okladka-200.jpg",
+      "date": "2014-02-26T11:41:05.000Z",
+      "serie_id": 15,
+      "order": 63,
+      "global_order": 20,
+      "notebooks_ids": [
+        381,
+        382,
+        383,
+        384,
+        385,
+        386
+      ]
+    },
+    "65": {
+      "title": "Uncanny Avengers",
+      "subtitle": "Tom 4 - Pomścić Ziemię",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/uncanny-avengers/4/okladka-200.jpg",
+      "date": "2014-07-30T10:43:21.000Z",
+      "serie_id": 15,
+      "order": 64,
+      "global_order": 21,
+      "notebooks_ids": [
+        387,
+        388,
+        389,
+        390,
+        391
+      ]
+    },
+    "66": {
+      "title": "Uncanny Avengers",
+      "subtitle": "Tom 5 - Preludium do Axis",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/uncanny-avengers/5/okladka-200.jpg",
+      "date": "2014-10-01T10:45:30.000Z",
+      "serie_id": 15,
+      "order": 65,
+      "global_order": 77,
+      "notebooks_ids": [
+        392,
+        393,
+        394,
+        403,
+        404
+      ]
+    },
+    "67": {
+      "title": "Uncanny Avengers",
+      "subtitle": "Tom 6 - Kontrewolucjoniści",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/uncanny-avengers/6/okladka-200.jpg",
+      "date": "2015-06-24T10:52:42.000Z",
+      "serie_id": 15,
+      "order": 66,
+      "global_order": 100,
+      "notebooks_ids": [
+        416,
+        417,
+        418,
+        419,
+        420
+      ]
+    },
+    "68": {
+      "title": "Uncanny X-Men",
+      "subtitle": "Tom 1 - Rewolucja",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/uncanny-x-men/1/okladka-200.jpg",
+      "date": "2013-04-24T10:00:40.000Z",
+      "serie_id": 18,
+      "order": 67,
+      "global_order": 14,
+      "notebooks_ids": [
+        421,
+        422,
+        423,
+        424,
+        425
+      ]
+    },
+    "69": {
+      "title": "Uncanny X-Men",
+      "subtitle": "Tom 2 - Złamani",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/uncanny-x-men/2/okladka-200.jpg",
+      "date": "2013-08-28T10:01:41.000Z",
+      "serie_id": 18,
+      "order": 68,
+      "global_order": 16,
+      "notebooks_ids": [
+        426,
+        427,
+        428,
+        429,
+        430,
+        431
+      ]
+    },
+    "70": {
+      "title": "Uncanny X-Men",
+      "subtitle": "Tom 3 - Dobry, zły, Inhuman",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/uncanny-x-men/3/okladka-200.jpg",
+      "date": "2014-03-05T11:02:29.000Z",
+      "serie_id": 18,
+      "order": 69,
+      "global_order": 42,
+      "notebooks_ids": [
+        434,
+        435,
+        436,
+        437,
+        438
+      ]
+    },
+    "71": {
+      "title": "Uncanny X-Men",
+      "subtitle": "Tom 4 - Kontra SHIELD",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/uncanny-x-men/4/okladka-200.jpg",
+      "date": "2014-09-03T10:03:52.000Z",
+      "serie_id": 18,
+      "order": 70,
+      "global_order": 48,
+      "notebooks_ids": [
+        439,
+        440,
+        441,
+        442,
+        443,
+        444,
+        445
+      ]
+    },
+    "72": {
+      "title": "Uncanny X-Men",
+      "subtitle": "Tom 5 - Mutant Omega",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/uncanny-x-men/5/okladka-200.jpg",
+      "date": "2015-02-18T11:05:09.000Z",
+      "serie_id": 18,
+      "order": 71,
+      "global_order": 88,
+      "notebooks_ids": [
+        446,
+        447,
+        448,
+        449,
+        450,
+        451
+      ]
+    },
+    "73": {
+      "title": "Uncanny X-Men",
+      "subtitle": "Tom 6 - Historie małe",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/uncanny-x-men/6/okladka-200.jpg",
+      "date": "2015-11-04T11:06:15.000Z",
+      "serie_id": 18,
+      "order": 72,
+      "global_order": 101,
+      "notebooks_ids": [
+        452,
+        453,
+        454,
+        455,
+        456
+      ]
+    },
+    "74": {
+      "title": "Thor Gromowładny",
+      "subtitle": "Tom 1 - Bogobójca",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/thor-gromowladny/1/okladka-200.jpg",
+      "date": "2013-02-20T11:09:43.000Z",
+      "serie_id": 19,
+      "order": 73,
+      "global_order": 6,
+      "notebooks_ids": [
+        457,
+        458,
+        459,
+        460,
+        461
+      ]
+    },
+    "75": {
+      "title": "Thor Gromowładny",
+      "subtitle": "Tom 2 - Boża Bomba",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/thor-gromowladny/2/okladka-200.jpg",
+      "date": "2013-08-14T10:10:29.000Z",
+      "serie_id": 19,
+      "order": 74,
+      "global_order": 7,
+      "notebooks_ids": [
+        462,
+        463,
+        464,
+        465,
+        466,
+        467
+      ]
+    },
+    "76": {
+      "title": "Thor Gromowładny",
+      "subtitle": "Tom 3 - Przeklęty",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/thor-gromowladny/3/okladka-200.jpg",
+      "date": "2014-01-29T11:11:19.000Z",
+      "serie_id": 19,
+      "order": 75,
+      "global_order": 22,
+      "notebooks_ids": [
+        468,
+        469,
+        470,
+        471,
+        472,
+        473,
+        474
+      ]
+    },
+    "77": {
+      "title": "Thor Gromowładny",
+      "subtitle": "Tom 4 - Ostatnie dni Midgardu",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/thor-gromowladny/4/okladka-200.jpg",
+      "date": "2014-09-17T10:12:13.000Z",
+      "serie_id": 19,
+      "order": 76,
+      "global_order": 56,
+      "notebooks_ids": [
+        475,
+        476,
+        477,
+        478,
+        479,
+        480,
+        481
+      ]
+    },
+    "78": {
+      "title": "Thanos powstaje",
+      "subtitle": "",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/thanos/1/okladka-200.jpg",
+      "date": "2013-08-28T10:14:54.000Z",
+      "serie_id": 20,
+      "order": 77,
+      "global_order": 35,
+      "notebooks_ids": [
+        482,
+        483,
+        484,
+        485,
+        486
+      ]
+    },
+    "79": {
+      "title": "Nieskończoność",
+      "subtitle": "",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/nieskonczonosc/1/okladka-200.jpg",
+      "date": "2013-11-27T11:16:16.000Z",
+      "serie_id": 21,
+      "order": 78,
+      "global_order": 39,
+      "notebooks_ids": [
+        487,
+        488,
+        489,
+        490,
+        491,
+        492
+      ]
+    },
+    "80": {
+      "title": "X-Men: Bitwa Atomu",
+      "subtitle": "",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/x_men/bitwa-atomu/okladka-200.jpg",
+      "date": "2013-10-30T11:18:44.000Z",
+      "serie_id": 22,
+      "order": 79,
+      "global_order": 34,
+      "notebooks_ids": [
+        493,
+        16,
+        495,
+        432,
+        262,
+        17,
+        496,
+        433,
+        263,
+        494
+      ]
+    },
+    "81": {
+      "title": "Ms. Marvel",
+      "subtitle": "Tom 1 - Niezwykła",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/ms-marvel/1/okladka-200.jpg",
+      "date": "2014-06-25T10:25:53.000Z",
+      "serie_id": 24,
+      "order": 80,
+      "global_order": 65,
+      "notebooks_ids": [
+        497,
+        498,
+        499,
+        500,
+        501
+      ]
+    },
+    "82": {
+      "title": "Ms. Marvel",
+      "subtitle": "Tom 2 - Pokolenie Czemu",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/ms-marvel/2/okladka-200.jpg",
+      "date": "2015-02-04T11:26:36.000Z",
+      "serie_id": 24,
+      "order": 81,
+      "global_order": 66,
+      "notebooks_ids": [
+        502,
+        503,
+        504,
+        505,
+        506,
+        507
+      ]
+    },
+    "83": {
+      "title": "Ms. Marvel",
+      "subtitle": "Tom 3 - Zdruzgotana",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/ms-marvel/3/okladka-200.jpg",
+      "date": "2015-05-13T10:27:38.000Z",
+      "serie_id": 24,
+      "order": 82,
+      "global_order": 102,
+      "notebooks_ids": [
+        508,
+        509,
+        510,
+        511
+      ]
+    },
+    "84": {
+      "title": "Ms. Marvel",
+      "subtitle": "Tom 4 - Dni ostatnie",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/ms-marvel/4/okladka-200.jpg",
+      "date": "2015-10-14T10:28:40.000Z",
+      "serie_id": 24,
+      "order": 83,
+      "global_order": 103,
+      "notebooks_ids": [
+        512,
+        513,
+        514,
+        515
+      ]
+    },
+    "85": {
+      "title": "Hawkeye",
+      "subtitle": "Tom 1 - Moje życie to walka",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/hawkeye/1/okladka-200.jpg",
+      "date": "2012-12-05T11:32:04.000Z",
+      "serie_id": 25,
+      "order": 84,
+      "global_order": 0,
+      "notebooks_ids": [
+        516,
+        517,
+        518,
+        519,
+        520
+      ]
+    },
+    "86": {
+      "title": "Hawkeye",
+      "subtitle": "Tom 2 - Lekkie trafienia",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/hawkeye/2/okladka-200.jpg",
+      "date": "2013-06-26T10:33:16.000Z",
+      "serie_id": 25,
+      "order": 85,
+      "global_order": 27,
+      "notebooks_ids": [
+        521,
+        522,
+        523,
+        524,
+        525,
+        526
+      ]
+    },
+    "87": {
+      "title": "Hawkeye",
+      "subtitle": "Tom 3 - L.A. Woman",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/hawkeye/3/okladka-200.jpg",
+      "date": "2014-09-10T10:34:26.000Z",
+      "serie_id": 25,
+      "order": 86,
+      "global_order": 28,
+      "notebooks_ids": [
+        529,
+        531,
+        533,
+        535
+      ]
+    },
+    "88": {
+      "title": "Hawkeye",
+      "subtitle": "Tom 4 - Rio Bravo",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/hawkeye/4/okladka-200.jpg",
+      "date": "2015-07-15T10:35:15.000Z",
+      "serie_id": 25,
+      "order": 87,
+      "global_order": 29,
+      "notebooks_ids": [
+        527,
+        528,
+        530,
+        532,
+        534,
+        536,
+        537
+      ]
+    },
+    "89": {
+      "title": "Grzech pierworodny",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/grzech-pierworodny/1/okladka-200.jpg",
+      "date": "2014-09-03T10:38:08.000Z",
+      "serie_id": 26,
+      "order": 88,
+      "global_order": 67,
+      "notebooks_ids": [
+        538,
+        539,
+        540,
+        541,
+        546,
+        547,
+        553,
+        554,
+        555
+      ]
+    },
+    "90": {
+      "title": "Grzech pierworodny",
+      "subtitle": "Hulk kontra Iron Man",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/grzech-pierworodny/3/okladka-200.jpg",
+      "date": "2014-08-06T10:39:24.000Z",
+      "serie_id": 26,
+      "order": 89,
+      "global_order": 68,
+      "notebooks_ids": [
+        542,
+        543,
+        544,
+        545
+      ]
+    },
+    "91": {
+      "title": "Grzech pierworodny",
+      "subtitle": "Thor i Loki - Dziesiąty świat",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/grzech-pierworodny/2/okladka-200.jpg",
+      "date": "2014-09-17T10:40:07.000Z",
+      "serie_id": 26,
+      "order": 90,
+      "global_order": 69,
+      "notebooks_ids": [
+        548,
+        549,
+        550,
+        551,
+        552
+      ]
+    },
+    "92": {
+      "title": "Wolverine",
+      "subtitle": "Trzy miesiące do śmierci - Tom 1",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/wolverine/trzy-miesiace-do-smierci-1/okladka-200.jpg",
+      "date": "2014-05-28T10:26:22.000Z",
+      "serie_id": 27,
+      "order": 91,
+      "global_order": 49,
+      "notebooks_ids": [
+        556,
+        557,
+        558,
+        559,
+        560,
+        561,
+        562
+      ]
+    },
+    "93": {
+      "title": "Wolverine",
+      "subtitle": "Trzy miesiące do śmierci - Tom 2",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/wolverine/trzy-miesiace-do-smierci-2/okladka-200.jpg",
+      "date": "2014-08-27T10:27:19.000Z",
+      "serie_id": 27,
+      "order": 92,
+      "global_order": 74,
+      "notebooks_ids": [
+        563,
+        564,
+        565,
+        566,
+        567
+      ]
+    },
+    "94": {
+      "title": "Śmierć Wolverine'a",
+      "subtitle": "",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/wolverine/smierc-wolverinea/okladka-200.jpg",
+      "date": "2014-10-15T10:28:32.000Z",
+      "serie_id": 27,
+      "order": 93,
+      "global_order": 78,
+      "notebooks_ids": [
+        568,
+        569,
+        570,
+        571
+      ]
+    },
+    "95": {
+      "title": "Moon Knight",
+      "subtitle": "Tom 1 - Z martwych",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/moon-knight/1/okladka-200.jpg",
+      "date": "2014-08-06T10:31:30.000Z",
+      "serie_id": 30,
+      "order": 94,
+      "global_order": 61,
+      "notebooks_ids": [
+        572,
+        573,
+        574,
+        575,
+        576,
+        577
+      ]
+    },
+    "96": {
+      "title": "Moon Knight",
+      "subtitle": "Tom 2 - Martwych powstaną",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/moon-knight/2/okladka-200.jpg",
+      "date": "2015-02-18T11:33:04.000Z",
+      "serie_id": 30,
+      "order": 95,
+      "global_order": 62,
+      "notebooks_ids": [
+        578,
+        579,
+        580,
+        581,
+        582,
+        583
+      ]
+    },
+    "97": {
+      "title": "Moon Knight",
+      "subtitle": "Tom 3 - W noc",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/moon-knight/3/okladka-200.jpg",
+      "date": "2015-07-15T10:34:06.000Z",
+      "serie_id": 30,
+      "order": 96,
+      "global_order": 63,
+      "notebooks_ids": [
+        584,
+        585,
+        586,
+        587,
+        588
+      ]
+    },
+    "98": {
+      "title": "Axis",
+      "subtitle": "Avengers i X-Men",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/axis/avengers-i-x-men/okladka-200.jpg",
+      "date": "2014-12-24T11:44:55.000Z",
+      "serie_id": 31,
+      "order": 97,
+      "global_order": 79,
+      "notebooks_ids": [
+        589,
+        590,
+        591,
+        592,
+        593,
+        594,
+        595,
+        596,
+        597
+      ]
+    },
+    "99": {
+      "title": "Axis",
+      "subtitle": "Carnage & Hobgoblin",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/axis/1/okladka-200.jpg",
+      "date": "2014-12-17T11:45:57.000Z",
+      "serie_id": 31,
+      "order": 98,
+      "global_order": 80,
+      "notebooks_ids": [
+        598,
+        599,
+        600,
+        601,
+        602,
+        603
+      ]
+    },
+    "100": {
+      "title": "Thor",
+      "subtitle": "Tom 1 - Gromowładna",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/thor/1-gromowladna/okladka-200.jpg",
+      "date": "2015-02-11T11:50:29.000Z",
+      "serie_id": 34,
+      "order": 99,
+      "global_order": 91,
+      "notebooks_ids": [
+        604,
+        605,
+        606,
+        607,
+        608
+      ]
+    },
+    "101": {
+      "title": "Thor",
+      "subtitle": "Tom 2 - Kto dzierży młot?",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/thor/2/okladka-200.jpg",
+      "date": "2015-05-13T10:51:05.000Z",
+      "serie_id": 34,
+      "order": 100,
+      "global_order": 92,
+      "notebooks_ids": [
+        609,
+        610,
+        611
+      ]
+    },
+    "102": {
+      "title": "Ant-Man",
+      "subtitle": "Druga szansa",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/ant-man/1/okladka-200.jpg",
+      "date": "2015-05-06T10:53:01.000Z",
+      "serie_id": 35,
+      "order": 101,
+      "global_order": 99,
+      "notebooks_ids": [
+        612,
+        613,
+        614,
+        615,
+        616
+      ]
+    },
+    "103": {
+      "title": "Hawkeye kontra Deadpool",
+      "subtitle": "",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/hawkeye-kontra-deadpool/1/okladka-200.jpg",
+      "date": "2015-01-07T11:55:55.000Z",
+      "serie_id": 25,
+      "order": 102,
+      "global_order": 59,
+      "notebooks_ids": [
+        617,
+        618,
+        619,
+        620,
+        621
+      ]
+    },
+    "104": {
+      "title": "Tajne Wojny",
+      "subtitle": "",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/tajne-wojny/1/okladka-200.jpg",
+      "date": "2016-01-13T11:01:25.000Z",
+      "serie_id": 37,
+      "order": 103,
+      "global_order": 105,
+      "notebooks_ids": [
+        622,
+        623,
+        624,
+        625,
+        626,
+        627,
+        628,
+        629,
+        630
+      ]
+    },
+    "105": {
+      "title": "Tajne tajne wojny Deadpoola",
+      "subtitle": "",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/tajne-wojny/4/okladka-200.jpg",
+      "date": "2015-08-26T10:03:44.000Z",
+      "serie_id": 38,
+      "order": 104,
+      "global_order": 104,
+      "notebooks_ids": [
+        631,
+        632,
+        633,
+        634
+      ]
+    },
+    "106": {
+      "title": "Amazing Spider-Man",
+      "subtitle": "Odnowić śluby",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/tajne-wojny/2/okladka-200.jpg",
+      "date": "2015-09-09T10:06:38.000Z",
+      "serie_id": 39,
+      "order": 105,
+      "global_order": 106,
+      "notebooks_ids": [
+        635,
+        636,
+        637,
+        638,
+        639
+      ]
+    },
+    "107": {
+      "title": "Thorowie",
+      "subtitle": "",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/tajne-wojny/3/okladka-200.jpg",
+      "date": "2015-11-11T11:08:01.000Z",
+      "serie_id": 40,
+      "order": 106,
+      "global_order": 107,
+      "notebooks_ids": [
+        640,
+        641,
+        642,
+        643
+      ]
+    },
+    "108": {
+      "title": "Wojna domowa",
+      "subtitle": "",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/tajne-wojny/6/okladka-200.jpg",
+      "date": "2015-10-14T10:09:49.000Z",
+      "serie_id": 41,
+      "order": 107,
+      "global_order": 108,
+      "notebooks_ids": [
+        644,
+        645,
+        646,
+        647,
+        648
+      ]
+    },
+    "109": {
+      "title": "Oblężenie",
+      "subtitle": "",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/tajne-wojny/5/okladka-200.jpg",
+      "date": "2015-10-07T10:11:15.000Z",
+      "serie_id": 42,
+      "order": 108,
+      "global_order": 109,
+      "notebooks_ids": [
+        649,
+        650,
+        651,
+        652
+      ]
+    },
+    "110": {
+      "title": "Lepsi wrogowie Spider-Mana",
+      "subtitle": "",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/lepsi-wrogowie-spider-mana/1/okladka-200.jpg",
+      "date": "2014-11-26T11:16:31.000Z",
+      "serie_id": 43,
+      "order": 109,
+      "global_order": 50,
+      "notebooks_ids": [
+        653,
+        654,
+        655,
+        656,
+        657,
+        658,
+        659,
+        660,
+        661,
+        662,
+        663,
+        664,
+        665,
+        666,
+        667,
+        668,
+        669
+      ]
+    }
+  },
+  "meta": {
+    "nextIndex": 111
+  }
+}
