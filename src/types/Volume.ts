@@ -8,6 +8,7 @@ type ApiVolume = {
   global_order: number;
   notebooks_ids: number[];
   is_event?: true;
+  event_id?: number;
 };
 
 type Volume = ApiVolume & {

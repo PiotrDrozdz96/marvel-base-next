@@ -3,7 +3,7 @@ import { InferGetServerSidePropsType } from 'next';
 import AppServerSideProps from 'types/AppServerSideProps';
 import FormPartial from 'types/FormPartial';
 import FormVariant from 'types/FormVariant';
-import { ApiVolume } from 'types/Volume';
+import { ApiVolume, Volume } from 'types/Volume';
 import { Serie } from 'types/Serie';
 import { Wave } from 'types/Wave';
 import { Notebook } from 'types/Notebook';
@@ -19,6 +19,7 @@ type Props = {
   id: number | null;
   databaseName: string;
   initialValues: FormPartial<ApiVolume>;
+  events: Volume[];
   series: Serie[];
   waves: Wave[];
   waveId: string;
@@ -68,6 +69,7 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
       id: isCreate ? null : id,
       databaseName,
       series: mapApiToFront(series).filter((serie) => serie.wave_id === Number(waveId)),
+      events: mapApiToFront(volumes).filter((volume) => volume.is_event),
       waves: mapApiToFront(waves),
       notebooks,
       volumeNotebooks,
@@ -92,6 +94,7 @@ const NotebooksFormPage = ({
   databaseName,
   initialValues,
   series,
+  events,
   waves,
   waveId,
   notebooks,
@@ -103,6 +106,7 @@ const NotebooksFormPage = ({
     databaseName={databaseName}
     initialValues={initialValues}
     series={series}
+    events={events}
     notebooks={notebooks}
     waves={waves}
     waveId={waveId}

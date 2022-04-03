@@ -7,7 +7,7 @@ import { Notebook } from 'types/Notebook';
 import SelectOption from 'types/SelectOption';
 import { Serie } from 'types/Serie';
 import { Wave } from 'types/Wave';
-import { ApiVolume } from 'types/Volume';
+import { ApiVolume, Volume } from 'types/Volume';
 import getFetch from 'utils/getFetch';
 
 import VolumesForm from './VolumesForm';
@@ -16,6 +16,7 @@ type Props = {
   initialValues: FormPartial<ApiVolume>;
   waves: Wave[];
   series: Serie[];
+  events: Volume[];
   notebooks: Notebook[];
   volumeNotebooks: Notebook[];
   variant: FormVariant;
@@ -29,6 +30,7 @@ const VolumesFormContainer = ({
   initialValues,
   databaseName,
   id,
+  events,
   series: initialSeries,
   waves,
   waveId: initialWaveId,
@@ -36,6 +38,7 @@ const VolumesFormContainer = ({
   volumeNotebooks: initialVolumeNotebooks,
 }: Props): JSX.Element => {
   const wavesOptions: SelectOption[] = waves.map(({ id: wavesId, name }) => ({ value: `${wavesId}`, label: name }));
+  const eventsOptions: SelectOption[] = events.map(({ id: eventId, title }) => ({ value: `${eventId}`, label: title }));
   const [waveId, setWaveId] = useState(initialWaveId);
   const [series, setSeries] = useState(initialSeries);
 
@@ -72,6 +75,7 @@ const VolumesFormContainer = ({
         initialValues={initialValues}
         seriesOptions={seriesOptions}
         wavesOptions={wavesOptions}
+        eventsOptions={eventsOptions}
         variant={variant}
         databaseName={databaseName}
         id={id}

@@ -16,13 +16,14 @@ import ImageInput from '@components/ImageInput';
 import Spacing from '@components/Spacing';
 import Switch from '@components/Switch';
 
-import { numberFields } from '../VolumeForm.consts';
+import { numberFields, nullableFields } from '../VolumeForm.consts';
 import volumesMessages from '../Volumes.messages';
 
 type Props = {
   initialValues: FormPartial<ApiVolume>;
   seriesOptions: SelectOption[];
   wavesOptions: SelectOption[];
+  eventsOptions: SelectOption[];
   variant: FormVariant;
   databaseName: string;
   id?: number;
@@ -36,6 +37,7 @@ const VolumesForm = ({
   databaseName,
   seriesOptions,
   wavesOptions,
+  eventsOptions,
   waveId,
   id,
   setWaveId,
@@ -50,6 +52,7 @@ const VolumesForm = ({
         databaseName={`db/${databaseName}/volumes`}
         messages={volumesMessages}
         numberFields={numberFields}
+        nullableFields={nullableFields}
         id={id}
         showPathname={routes.volumes.id.show.href}
         query={{ databaseName, id }}
@@ -69,6 +72,7 @@ const VolumesForm = ({
               onChange={(e) => setWaveId(e.target.value)}
             />
             <Select name="serie_id" placeholder={volumesMessages.serie_id} options={seriesOptions} required />
+            <Select name="event_id" placeholder={volumesMessages.event_id} options={eventsOptions} />
             <Input name="order" placeholder={volumesMessages.order} />
             <Input name="global_order" placeholder={volumesMessages.global_order} />
             <Switch name="is_event" placeholder={volumesMessages.is_event} />

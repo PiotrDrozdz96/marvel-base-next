@@ -20,6 +20,7 @@ const volumesField: (keyof ApiVolume)[] = [
   'global_order',
   'notebooks_ids',
   'is_event',
+  'event_id',
 ];
 const requiredVolumesField: (keyof ApiVolume)[] = ['title', 'image_url', 'date', 'serie_id'];
 

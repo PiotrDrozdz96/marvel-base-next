@@ -14,4 +14,5 @@ export default {
   global_order: 'Globalna Kolejność',
   is_event: 'Jest Eventem?',
   notebooks: 'Zeszyty',
+  event_id: 'Event',
 };
