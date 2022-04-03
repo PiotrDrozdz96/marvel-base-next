@@ -26,7 +26,7 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
   }
 
   const menu = await getMenu();
-  const volumes = await getVolumes(id, () => true, 'global_order');
+  const volumes = await getVolumes(id, (volume) => !volume.is_event, 'global_order');
 
   let wavesIds: string[] = [];
   let seriesIds: string[] = [];

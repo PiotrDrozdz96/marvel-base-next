@@ -4,6 +4,7 @@ import ApiHandler from 'types/ApiHandler';
 import JsonData from 'types/JsonData';
 import messages from 'utils/apiValidators/apiValidators.messages';
 import { interpolate } from 'utils/interpolate';
+import stringifyDataBase from 'utils/stringifyDatabase';
 
 type Props = {
   ids: number[];
@@ -46,7 +47,7 @@ const reorderApi =
           meta: parsedData.meta,
         };
 
-        fs.writeFile(`src/database/${databaseName}.json`, JSON.stringify(newDatabase, null, 2), (writeErr) => {
+        fs.writeFile(`src/database/${databaseName}.json`, stringifyDataBase(newDatabase), (writeErr) => {
           if (writeErr) {
             resolve(res.status(500).json(writeErr));
             return;

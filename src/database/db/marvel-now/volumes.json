@@ -8,13 +8,7 @@
       "serie_id": 1,
       "order": 0,
       "global_order": 13,
-      "notebooks_ids": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ]
+      "notebooks_ids": [1,2,3,4,5]
     },
     "2": {
       "title": "All-New X-Men",
@@ -24,13 +18,7 @@
       "serie_id": 1,
       "order": 1,
       "global_order": 15,
-      "notebooks_ids": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ]
+      "notebooks_ids": [6,7,8,9,10]
     },
     "3": {
       "title": "All-New X-Men",
@@ -40,13 +28,7 @@
       "serie_id": 1,
       "order": 2,
       "global_order": 33,
-      "notebooks_ids": [
-        11,
-        12,
-        13,
-        14,
-        15
-      ]
+      "notebooks_ids": [11,12,13,14,15]
     },
     "4": {
       "title": "All-New X-Men",
@@ -56,12 +38,7 @@
       "serie_id": 1,
       "order": 3,
       "global_order": 46,
-      "notebooks_ids": [
-        18,
-        19,
-        20,
-        21
-      ]
+      "notebooks_ids": [18,19,20,21]
     },
     "5": {
       "title": "All-New X-Men",
@@ -71,14 +48,7 @@
       "serie_id": 1,
       "order": 4,
       "global_order": 73,
-      "notebooks_ids": [
-        24,
-        25,
-        26,
-        27,
-        28,
-        29
-      ]
+      "notebooks_ids": [24,25,26,27,28,29]
     },
     "6": {
       "title": "All-New X-Men",
@@ -88,14 +58,7 @@
       "serie_id": 1,
       "order": 5,
       "global_order": 87,
-      "notebooks_ids": [
-        30,
-        31,
-        32,
-        33,
-        34,
-        35
-      ]
+      "notebooks_ids": [30,31,32,33,34,35]
     },
     "7": {
       "title": "All-New X-Men",
@@ -105,13 +68,7 @@
       "serie_id": 1,
       "order": 6,
       "global_order": 89,
-      "notebooks_ids": [
-        36,
-        37,
-        38,
-        39,
-        40
-      ]
+      "notebooks_ids": [36,37,38,39,40]
     },
     "8": {
       "title": "Strażnicy Galaktyki",
@@ -121,12 +78,7 @@
       "serie_id": 2,
       "order": 7,
       "global_order": 23,
-      "notebooks_ids": [
-        41,
-        42,
-        43,
-        44
-      ]
+      "notebooks_ids": [41,42,43,44]
     },
     "9": {
       "title": "Strażnicy Galaktyki",
@@ -136,12 +88,7 @@
       "serie_id": 2,
       "order": 8,
       "global_order": 24,
-      "notebooks_ids": [
-        45,
-        46,
-        47,
-        48
-      ]
+      "notebooks_ids": [45,46,47,48]
     },
     "10": {
       "title": "Strażnicy Galaktyki",
@@ -151,11 +98,7 @@
       "serie_id": 2,
       "order": 9,
       "global_order": 41,
-      "notebooks_ids": [
-        49,
-        50,
-        51
-      ]
+      "notebooks_ids": [49,50,51]
     },
     "11": {
       "title": "Strażnicy Galaktyki/All-New X-Men",
@@ -165,14 +108,7 @@
       "serie_id": 2,
       "order": 10,
       "global_order": 47,
-      "notebooks_ids": [
-        69,
-        52,
-        22,
-        53,
-        23,
-        54
-      ]
+      "notebooks_ids": [69,52,22,53,23,54]
     },
     "12": {
       "title": "Strażnicy Galaktyki",
@@ -182,12 +118,7 @@
       "serie_id": 2,
       "order": 11,
       "global_order": 64,
-      "notebooks_ids": [
-        55,
-        56,
-        57,
-        58
-      ]
+      "notebooks_ids": [55,56,57,58]
     },
     "13": {
       "title": "Strażnicy Galaktyki",
@@ -197,14 +128,7 @@
       "serie_id": 2,
       "order": 12,
       "global_order": 72,
-      "notebooks_ids": [
-        59,
-        60,
-        61,
-        62,
-        63,
-        64
-      ]
+      "notebooks_ids": [59,60,61,62,63,64]
     },
     "14": {
       "title": "Strażnicy Galaktyki",
@@ -214,12 +138,7 @@
       "serie_id": 2,
       "order": 13,
       "global_order": 90,
-      "notebooks_ids": [
-        65,
-        66,
-        67,
-        68
-      ]
+      "notebooks_ids": [65,66,67,68]
     },
     "15": {
       "title": "Avengers",
@@ -229,14 +148,7 @@
       "serie_id": 3,
       "order": 14,
       "global_order": 8,
-      "notebooks_ids": [
-        70,
-        71,
-        72,
-        73,
-        74,
-        75
-      ]
+      "notebooks_ids": [70,71,72,73,74,75]
     },
     "16": {
       "title": "Avengers",
@@ -246,13 +158,7 @@
       "serie_id": 3,
       "order": 15,
       "global_order": 17,
-      "notebooks_ids": [
-        76,
-        77,
-        78,
-        79,
-        80
-      ]
+      "notebooks_ids": [76,77,78,79,80]
     },
     "17": {
       "title": "Avengers",
@@ -262,14 +168,7 @@
       "serie_id": 3,
       "order": 16,
       "global_order": 36,
-      "notebooks_ids": [
-        81,
-        82,
-        83,
-        84,
-        85,
-        86
-      ]
+      "notebooks_ids": [81,82,83,84,85,86]
     },
     "18": {
       "title": "Avengers",
@@ -279,14 +178,7 @@
       "serie_id": 3,
       "order": 17,
       "global_order": 37,
-      "notebooks_ids": [
-        87,
-        88,
-        89,
-        90,
-        91,
-        92
-      ]
+      "notebooks_ids": [87,88,89,90,91,92]
     },
     "19": {
       "title": "Avengers",
@@ -296,13 +188,7 @@
       "serie_id": 3,
       "order": 18,
       "global_order": 55,
-      "notebooks_ids": [
-        93,
-        94,
-        95,
-        96,
-        97
-      ]
+      "notebooks_ids": [93,94,95,96,97]
     },
     "20": {
       "title": "Avengers",
@@ -312,14 +198,7 @@
       "serie_id": 3,
       "order": 19,
       "global_order": 71,
-      "notebooks_ids": [
-        98,
-        99,
-        100,
-        101,
-        102,
-        103
-      ]
+      "notebooks_ids": [98,99,100,101,102,103]
     },
     "21": {
       "title": "Avengers",
@@ -329,13 +208,7 @@
       "serie_id": 3,
       "order": 20,
       "global_order": 95,
-      "notebooks_ids": [
-        106,
-        139,
-        107,
-        140,
-        108
-      ]
+      "notebooks_ids": [106,139,107,140,108]
     },
     "22": {
       "title": "Avengers",
@@ -345,13 +218,7 @@
       "serie_id": 3,
       "order": 21,
       "global_order": 96,
-      "notebooks_ids": [
-        141,
-        109,
-        142,
-        110,
-        143
-      ]
+      "notebooks_ids": [141,109,142,110,143]
     },
     "23": {
       "title": "Avengers",
@@ -361,13 +228,7 @@
       "serie_id": 3,
       "order": 22,
       "global_order": 97,
-      "notebooks_ids": [
-        111,
-        144,
-        112,
-        145,
-        113
-      ]
+      "notebooks_ids": [111,144,112,145,113]
     },
     "24": {
       "title": "Avengers",
@@ -377,13 +238,7 @@
       "serie_id": 3,
       "order": 23,
       "global_order": 98,
-      "notebooks_ids": [
-        146,
-        147,
-        114,
-        148,
-        115
-      ]
+      "notebooks_ids": [146,147,114,148,115]
     },
     "25": {
       "title": "New Avengers",
@@ -393,14 +248,7 @@
       "serie_id": 4,
       "order": 24,
       "global_order": 4,
-      "notebooks_ids": [
-        116,
-        117,
-        118,
-        119,
-        120,
-        121
-      ]
+      "notebooks_ids": [116,117,118,119,120,121]
     },
     "26": {
       "title": "New Avengers",
@@ -410,14 +258,7 @@
       "serie_id": 4,
       "order": 25,
       "global_order": 38,
-      "notebooks_ids": [
-        122,
-        123,
-        124,
-        125,
-        126,
-        127
-      ]
+      "notebooks_ids": [122,123,124,125,126,127]
     },
     "27": {
       "title": "New Avengers",
@@ -427,13 +268,7 @@
       "serie_id": 4,
       "order": 26,
       "global_order": 54,
-      "notebooks_ids": [
-        128,
-        129,
-        130,
-        131,
-        132
-      ]
+      "notebooks_ids": [128,129,130,131,132]
     },
     "28": {
       "title": "New Avengers",
@@ -443,14 +278,7 @@
       "serie_id": 4,
       "order": 27,
       "global_order": 75,
-      "notebooks_ids": [
-        133,
-        134,
-        135,
-        136,
-        137,
-        138
-      ]
+      "notebooks_ids": [133,134,135,136,137,138]
     },
     "29": {
       "title": "Superior Spider-Man",
@@ -460,11 +288,7 @@
       "serie_id": 5,
       "order": 28,
       "global_order": 9,
-      "notebooks_ids": [
-        149,
-        150,
-        151
-      ]
+      "notebooks_ids": [149,150,151]
     },
     "30": {
       "title": "Superior Spider-Man",
@@ -474,13 +298,7 @@
       "serie_id": 5,
       "order": 29,
       "global_order": 10,
-      "notebooks_ids": [
-        152,
-        153,
-        154,
-        155,
-        156
-      ]
+      "notebooks_ids": [152,153,154,155,156]
     },
     "31": {
       "title": "Superior Spider-Man",
@@ -490,13 +308,7 @@
       "serie_id": 5,
       "order": 30,
       "global_order": 25,
-      "notebooks_ids": [
-        157,
-        159,
-        160,
-        161,
-        162
-      ]
+      "notebooks_ids": [157,159,160,161,162]
     },
     "32": {
       "title": "Superior Spider-Man",
@@ -506,14 +318,7 @@
       "serie_id": 5,
       "order": 31,
       "global_order": 26,
-      "notebooks_ids": [
-        163,
-        164,
-        165,
-        166,
-        167,
-        168
-      ]
+      "notebooks_ids": [163,164,165,166,167,168]
     },
     "33": {
       "title": "Superior Spider-Man",
@@ -523,13 +328,7 @@
       "serie_id": 5,
       "order": 32,
       "global_order": 44,
-      "notebooks_ids": [
-        169,
-        170,
-        171,
-        172,
-        173
-      ]
+      "notebooks_ids": [169,170,171,172,173]
     },
     "34": {
       "title": "Superior Spider-Man",
@@ -539,13 +338,7 @@
       "serie_id": 5,
       "order": 33,
       "global_order": 51,
-      "notebooks_ids": [
-        174,
-        175,
-        176,
-        177,
-        178
-      ]
+      "notebooks_ids": [174,175,176,177,178]
     },
     "35": {
       "title": "Superior Spider-Man",
@@ -555,13 +348,7 @@
       "serie_id": 5,
       "order": 34,
       "global_order": 52,
-      "notebooks_ids": [
-        179,
-        180,
-        181,
-        182,
-        183
-      ]
+      "notebooks_ids": [179,180,181,182,183]
     },
     "36": {
       "title": "Spider-Man 2099",
@@ -571,13 +358,7 @@
       "serie_id": 6,
       "order": 35,
       "global_order": 82,
-      "notebooks_ids": [
-        186,
-        187,
-        188,
-        189,
-        190
-      ]
+      "notebooks_ids": [186,187,188,189,190]
     },
     "37": {
       "title": "Spider-Man 2099",
@@ -587,15 +368,7 @@
       "serie_id": 6,
       "order": 36,
       "global_order": 85,
-      "notebooks_ids": [
-        191,
-        192,
-        193,
-        194,
-        195,
-        196,
-        197
-      ]
+      "notebooks_ids": [191,192,193,194,195,196,197]
     },
     "38": {
       "title": "Amazing Spider-Man",
@@ -605,14 +378,7 @@
       "serie_id": 7,
       "order": 37,
       "global_order": 53,
-      "notebooks_ids": [
-        198,
-        204,
-        205,
-        206,
-        207,
-        208
-      ]
+      "notebooks_ids": [198,204,205,206,207,208]
     },
     "39": {
       "title": "Amazing Spider-Man",
@@ -622,12 +388,7 @@
       "serie_id": 7,
       "order": 38,
       "global_order": 83,
-      "notebooks_ids": [
-        209,
-        210,
-        184,
-        185
-      ]
+      "notebooks_ids": [209,210,184,185]
     },
     "40": {
       "title": "Amazing Spider-Man",
@@ -637,15 +398,7 @@
       "serie_id": 7,
       "order": 39,
       "global_order": 84,
-      "notebooks_ids": [
-        211,
-        212,
-        213,
-        214,
-        215,
-        216,
-        217
-      ]
+      "notebooks_ids": [211,212,213,214,215,216,217]
     },
     "41": {
       "title": "Amazing Spider-Man",
@@ -655,11 +408,7 @@
       "serie_id": 7,
       "order": 40,
       "global_order": 86,
-      "notebooks_ids": [
-        218,
-        220,
-        222
-      ]
+      "notebooks_ids": [218,220,222]
     },
     "42": {
       "title": "Wolverine i X-Men",
@@ -669,14 +418,7 @@
       "serie_id": 8,
       "order": 41,
       "global_order": 1,
-      "notebooks_ids": [
-        244,
-        245,
-        246,
-        247,
-        248,
-        249
-      ]
+      "notebooks_ids": [244,245,246,247,248,249]
     },
     "43": {
       "title": "Wolverine i X-Men",
@@ -686,13 +428,7 @@
       "serie_id": 8,
       "order": 42,
       "global_order": 2,
-      "notebooks_ids": [
-        250,
-        251,
-        252,
-        254,
-        255
-      ]
+      "notebooks_ids": [250,251,252,254,255]
     },
     "44": {
       "title": "Wolverine i X-Men",
@@ -702,14 +438,7 @@
       "serie_id": 8,
       "order": 43,
       "global_order": 32,
-      "notebooks_ids": [
-        256,
-        257,
-        258,
-        259,
-        260,
-        261
-      ]
+      "notebooks_ids": [256,257,258,259,260,261]
     },
     "45": {
       "title": "Wolverine i X-Men",
@@ -719,13 +448,7 @@
       "serie_id": 8,
       "order": 44,
       "global_order": 43,
-      "notebooks_ids": [
-        264,
-        265,
-        266,
-        267,
-        268
-      ]
+      "notebooks_ids": [264,265,266,267,268]
     },
     "46": {
       "title": "Era Ultrona",
@@ -735,19 +458,7 @@
       "serie_id": 9,
       "order": 45,
       "global_order": 18,
-      "notebooks_ids": [
-        269,
-        270,
-        271,
-        272,
-        273,
-        274,
-        275,
-        276,
-        277,
-        278,
-        279
-      ]
+      "notebooks_ids": [269,270,271,272,273,274,275,276,277,278,279]
     },
     "47": {
       "title": "Deadpool",
@@ -757,14 +468,7 @@
       "serie_id": 10,
       "order": 46,
       "global_order": 5,
-      "notebooks_ids": [
-        280,
-        281,
-        282,
-        283,
-        284,
-        285
-      ]
+      "notebooks_ids": [280,281,282,283,284,285]
     },
     "48": {
       "title": "Deadpool",
@@ -774,14 +478,7 @@
       "serie_id": 10,
       "order": 47,
       "global_order": 30,
-      "notebooks_ids": [
-        286,
-        287,
-        288,
-        289,
-        290,
-        291
-      ]
+      "notebooks_ids": [286,287,288,289,290,291]
     },
     "49": {
       "title": "Deadpool",
@@ -791,15 +488,7 @@
       "serie_id": 10,
       "order": 48,
       "global_order": 31,
-      "notebooks_ids": [
-        292,
-        293,
-        294,
-        295,
-        296,
-        297,
-        298
-      ]
+      "notebooks_ids": [292,293,294,295,296,297,298]
     },
     "50": {
       "title": "Deadpool",
@@ -809,14 +498,7 @@
       "serie_id": 10,
       "order": 49,
       "global_order": 45,
-      "notebooks_ids": [
-        299,
-        300,
-        301,
-        302,
-        303,
-        304
-      ]
+      "notebooks_ids": [299,300,301,302,303,304]
     },
     "51": {
       "title": "Deadpool",
@@ -826,15 +508,7 @@
       "serie_id": 10,
       "order": 50,
       "global_order": 57,
-      "notebooks_ids": [
-        325,
-        326,
-        327,
-        328,
-        329,
-        330,
-        331
-      ]
+      "notebooks_ids": [325,326,327,328,329,330,331]
     },
     "52": {
       "title": "Deadpool",
@@ -844,11 +518,7 @@
       "serie_id": 10,
       "order": 51,
       "global_order": 58,
-      "notebooks_ids": [
-        305,
-        306,
-        307
-      ]
+      "notebooks_ids": [305,306,307]
     },
     "53": {
       "title": "Deadpool",
@@ -858,14 +528,7 @@
       "serie_id": 10,
       "order": 52,
       "global_order": 70,
-      "notebooks_ids": [
-        308,
-        309,
-        310,
-        311,
-        312,
-        313
-      ]
+      "notebooks_ids": [308,309,310,311,312,313]
     },
     "54": {
       "title": "Deadpool",
@@ -875,14 +538,7 @@
       "serie_id": 10,
       "order": 53,
       "global_order": 81,
-      "notebooks_ids": [
-        314,
-        315,
-        316,
-        317,
-        318,
-        319
-      ]
+      "notebooks_ids": [314,315,316,317,318,319]
     },
     "55": {
       "title": "Deadpool",
@@ -892,13 +548,7 @@
       "serie_id": 10,
       "order": 54,
       "global_order": 93,
-      "notebooks_ids": [
-        320,
-        321,
-        322,
-        323,
-        324
-      ]
+      "notebooks_ids": [320,321,322,323,324]
     },
     "56": {
       "title": "Deadpool",
@@ -908,13 +558,7 @@
       "serie_id": 10,
       "order": 55,
       "global_order": 94,
-      "notebooks_ids": [
-        332,
-        333,
-        334,
-        335,
-        336
-      ]
+      "notebooks_ids": [332,333,334,335,336]
     },
     "57": {
       "title": "Thunderbolts",
@@ -924,14 +568,7 @@
       "serie_id": 14,
       "order": 56,
       "global_order": 11,
-      "notebooks_ids": [
-        337,
-        338,
-        339,
-        340,
-        341,
-        342
-      ]
+      "notebooks_ids": [337,338,339,340,341,342]
     },
     "58": {
       "title": "Thunderbolts",
@@ -941,14 +578,7 @@
       "serie_id": 14,
       "order": 57,
       "global_order": 12,
-      "notebooks_ids": [
-        343,
-        344,
-        345,
-        346,
-        347,
-        348
-      ]
+      "notebooks_ids": [343,344,345,346,347,348]
     },
     "59": {
       "title": "Thunderbolts",
@@ -958,15 +588,7 @@
       "serie_id": 14,
       "order": 58,
       "global_order": 40,
-      "notebooks_ids": [
-        349,
-        350,
-        351,
-        352,
-        353,
-        354,
-        355
-      ]
+      "notebooks_ids": [349,350,351,352,353,354,355]
     },
     "60": {
       "title": "Thunderbolts",
@@ -976,15 +598,7 @@
       "serie_id": 14,
       "order": 59,
       "global_order": 60,
-      "notebooks_ids": [
-        356,
-        357,
-        358,
-        359,
-        360,
-        361,
-        362
-      ]
+      "notebooks_ids": [356,357,358,359,360,361,362]
     },
     "61": {
       "title": "Thunderbolts",
@@ -994,14 +608,7 @@
       "serie_id": 14,
       "order": 60,
       "global_order": 76,
-      "notebooks_ids": [
-        363,
-        364,
-        365,
-        366,
-        367,
-        368
-      ]
+      "notebooks_ids": [363,364,365,366,367,368]
     },
     "62": {
       "title": "Uncanny Avengers",
@@ -1011,13 +618,7 @@
       "serie_id": 15,
       "order": 61,
       "global_order": 3,
-      "notebooks_ids": [
-        369,
-        370,
-        371,
-        372,
-        373
-      ]
+      "notebooks_ids": [369,370,371,372,373]
     },
     "63": {
       "title": "Uncanny Avengers",
@@ -1027,15 +628,7 @@
       "serie_id": 15,
       "order": 62,
       "global_order": 19,
-      "notebooks_ids": [
-        374,
-        375,
-        376,
-        377,
-        378,
-        379,
-        380
-      ]
+      "notebooks_ids": [374,375,376,377,378,379,380]
     },
     "64": {
       "title": "Uncanny Avengers",
@@ -1045,14 +638,7 @@
       "serie_id": 15,
       "order": 63,
       "global_order": 20,
-      "notebooks_ids": [
-        381,
-        382,
-        383,
-        384,
-        385,
-        386
-      ]
+      "notebooks_ids": [381,382,383,384,385,386]
     },
     "65": {
       "title": "Uncanny Avengers",
@@ -1062,13 +648,7 @@
       "serie_id": 15,
       "order": 64,
       "global_order": 21,
-      "notebooks_ids": [
-        387,
-        388,
-        389,
-        390,
-        391
-      ]
+      "notebooks_ids": [387,388,389,390,391]
     },
     "66": {
       "title": "Uncanny Avengers",
@@ -1078,13 +658,7 @@
       "serie_id": 15,
       "order": 65,
       "global_order": 77,
-      "notebooks_ids": [
-        392,
-        393,
-        394,
-        403,
-        404
-      ]
+      "notebooks_ids": [392,393,394,403,404]
     },
     "67": {
       "title": "Uncanny Avengers",
@@ -1094,13 +668,7 @@
       "serie_id": 15,
       "order": 66,
       "global_order": 100,
-      "notebooks_ids": [
-        416,
-        417,
-        418,
-        419,
-        420
-      ]
+      "notebooks_ids": [416,417,418,419,420]
     },
     "68": {
       "title": "Uncanny X-Men",
@@ -1110,13 +678,7 @@
       "serie_id": 18,
       "order": 67,
       "global_order": 14,
-      "notebooks_ids": [
-        421,
-        422,
-        423,
-        424,
-        425
-      ]
+      "notebooks_ids": [421,422,423,424,425]
     },
     "69": {
       "title": "Uncanny X-Men",
@@ -1126,14 +688,7 @@
       "serie_id": 18,
       "order": 68,
       "global_order": 16,
-      "notebooks_ids": [
-        426,
-        427,
-        428,
-        429,
-        430,
-        431
-      ]
+      "notebooks_ids": [426,427,428,429,430,431]
     },
     "70": {
       "title": "Uncanny X-Men",
@@ -1143,13 +698,7 @@
       "serie_id": 18,
       "order": 69,
       "global_order": 42,
-      "notebooks_ids": [
-        434,
-        435,
-        436,
-        437,
-        438
-      ]
+      "notebooks_ids": [434,435,436,437,438]
     },
     "71": {
       "title": "Uncanny X-Men",
@@ -1159,15 +708,7 @@
       "serie_id": 18,
       "order": 70,
       "global_order": 48,
-      "notebooks_ids": [
-        439,
-        440,
-        441,
-        442,
-        443,
-        444,
-        445
-      ]
+      "notebooks_ids": [439,440,441,442,443,444,445]
     },
     "72": {
       "title": "Uncanny X-Men",
@@ -1177,14 +718,7 @@
       "serie_id": 18,
       "order": 71,
       "global_order": 88,
-      "notebooks_ids": [
-        446,
-        447,
-        448,
-        449,
-        450,
-        451
-      ]
+      "notebooks_ids": [446,447,448,449,450,451]
     },
     "73": {
       "title": "Uncanny X-Men",
@@ -1194,13 +728,7 @@
       "serie_id": 18,
       "order": 72,
       "global_order": 101,
-      "notebooks_ids": [
-        452,
-        453,
-        454,
-        455,
-        456
-      ]
+      "notebooks_ids": [452,453,454,455,456]
     },
     "74": {
       "title": "Thor Gromowładny",
@@ -1210,13 +738,7 @@
       "serie_id": 19,
       "order": 73,
       "global_order": 6,
-      "notebooks_ids": [
-        457,
-        458,
-        459,
-        460,
-        461
-      ]
+      "notebooks_ids": [457,458,459,460,461]
     },
     "75": {
       "title": "Thor Gromowładny",
@@ -1226,14 +748,7 @@
       "serie_id": 19,
       "order": 74,
       "global_order": 7,
-      "notebooks_ids": [
-        462,
-        463,
-        464,
-        465,
-        466,
-        467
-      ]
+      "notebooks_ids": [462,463,464,465,466,467]
     },
     "76": {
       "title": "Thor Gromowładny",
@@ -1243,15 +758,7 @@
       "serie_id": 19,
       "order": 75,
       "global_order": 22,
-      "notebooks_ids": [
-        468,
-        469,
-        470,
-        471,
-        472,
-        473,
-        474
-      ]
+      "notebooks_ids": [468,469,470,471,472,473,474]
     },
     "77": {
       "title": "Thor Gromowładny",
@@ -1261,15 +768,7 @@
       "serie_id": 19,
       "order": 76,
       "global_order": 56,
-      "notebooks_ids": [
-        475,
-        476,
-        477,
-        478,
-        479,
-        480,
-        481
-      ]
+      "notebooks_ids": [475,476,477,478,479,480,481]
     },
     "78": {
       "title": "Thanos powstaje",
@@ -1279,13 +778,7 @@
       "serie_id": 20,
       "order": 77,
       "global_order": 35,
-      "notebooks_ids": [
-        482,
-        483,
-        484,
-        485,
-        486
-      ]
+      "notebooks_ids": [482,483,484,485,486]
     },
     "79": {
       "title": "Nieskończoność",
@@ -1295,14 +788,7 @@
       "serie_id": 21,
       "order": 78,
       "global_order": 39,
-      "notebooks_ids": [
-        487,
-        488,
-        489,
-        490,
-        491,
-        492
-      ]
+      "notebooks_ids": [487,488,489,490,491,492]
     },
     "80": {
       "title": "X-Men: Bitwa Atomu",
@@ -1312,18 +798,7 @@
       "serie_id": 22,
       "order": 79,
       "global_order": 34,
-      "notebooks_ids": [
-        493,
-        16,
-        495,
-        432,
-        262,
-        17,
-        496,
-        433,
-        263,
-        494
-      ]
+      "notebooks_ids": [493,16,495,432,262,17,496,433,263,494]
     },
     "81": {
       "title": "Ms. Marvel",
@@ -1333,13 +808,7 @@
       "serie_id": 24,
       "order": 80,
       "global_order": 65,
-      "notebooks_ids": [
-        497,
-        498,
-        499,
-        500,
-        501
-      ]
+      "notebooks_ids": [497,498,499,500,501]
     },
     "82": {
       "title": "Ms. Marvel",
@@ -1349,14 +818,7 @@
       "serie_id": 24,
       "order": 81,
       "global_order": 66,
-      "notebooks_ids": [
-        502,
-        503,
-        504,
-        505,
-        506,
-        507
-      ]
+      "notebooks_ids": [502,503,504,505,506,507]
     },
     "83": {
       "title": "Ms. Marvel",
@@ -1366,12 +828,7 @@
       "serie_id": 24,
       "order": 82,
       "global_order": 102,
-      "notebooks_ids": [
-        508,
-        509,
-        510,
-        511
-      ]
+      "notebooks_ids": [508,509,510,511]
     },
     "84": {
       "title": "Ms. Marvel",
@@ -1381,12 +838,7 @@
       "serie_id": 24,
       "order": 83,
       "global_order": 103,
-      "notebooks_ids": [
-        512,
-        513,
-        514,
-        515
-      ]
+      "notebooks_ids": [512,513,514,515]
     },
     "85": {
       "title": "Hawkeye",
@@ -1396,13 +848,7 @@
       "serie_id": 25,
       "order": 84,
       "global_order": 0,
-      "notebooks_ids": [
-        516,
-        517,
-        518,
-        519,
-        520
-      ]
+      "notebooks_ids": [516,517,518,519,520]
     },
     "86": {
       "title": "Hawkeye",
@@ -1412,14 +858,7 @@
       "serie_id": 25,
       "order": 85,
       "global_order": 27,
-      "notebooks_ids": [
-        521,
-        522,
-        523,
-        524,
-        525,
-        526
-      ]
+      "notebooks_ids": [521,522,523,524,525,526]
     },
     "87": {
       "title": "Hawkeye",
@@ -1429,12 +868,7 @@
       "serie_id": 25,
       "order": 86,
       "global_order": 28,
-      "notebooks_ids": [
-        529,
-        531,
-        533,
-        535
-      ]
+      "notebooks_ids": [529,531,533,535]
     },
     "88": {
       "title": "Hawkeye",
@@ -1444,15 +878,7 @@
       "serie_id": 25,
       "order": 87,
       "global_order": 29,
-      "notebooks_ids": [
-        527,
-        528,
-        530,
-        532,
-        534,
-        536,
-        537
-      ]
+      "notebooks_ids": [527,528,530,532,534,536,537]
     },
     "89": {
       "title": "Grzech pierworodny",
@@ -1461,17 +887,7 @@
       "serie_id": 26,
       "order": 88,
       "global_order": 67,
-      "notebooks_ids": [
-        538,
-        539,
-        540,
-        541,
-        546,
-        547,
-        553,
-        554,
-        555
-      ]
+      "notebooks_ids": [538,539,540,541,546,547,553,554,555]
     },
     "90": {
       "title": "Grzech pierworodny",
@@ -1481,12 +897,7 @@
       "serie_id": 26,
       "order": 89,
       "global_order": 68,
-      "notebooks_ids": [
-        542,
-        543,
-        544,
-        545
-      ]
+      "notebooks_ids": [542,543,544,545]
     },
     "91": {
       "title": "Grzech pierworodny",
@@ -1496,13 +907,7 @@
       "serie_id": 26,
       "order": 90,
       "global_order": 69,
-      "notebooks_ids": [
-        548,
-        549,
-        550,
-        551,
-        552
-      ]
+      "notebooks_ids": [548,549,550,551,552]
     },
     "92": {
       "title": "Wolverine",
@@ -1512,15 +917,7 @@
       "serie_id": 27,
       "order": 91,
       "global_order": 49,
-      "notebooks_ids": [
-        556,
-        557,
-        558,
-        559,
-        560,
-        561,
-        562
-      ]
+      "notebooks_ids": [556,557,558,559,560,561,562]
     },
     "93": {
       "title": "Wolverine",
@@ -1530,13 +927,7 @@
       "serie_id": 27,
       "order": 92,
       "global_order": 74,
-      "notebooks_ids": [
-        563,
-        564,
-        565,
-        566,
-        567
-      ]
+      "notebooks_ids": [563,564,565,566,567]
     },
     "94": {
       "title": "Śmierć Wolverine'a",
@@ -1546,12 +937,7 @@
       "serie_id": 27,
       "order": 93,
       "global_order": 78,
-      "notebooks_ids": [
-        568,
-        569,
-        570,
-        571
-      ]
+      "notebooks_ids": [568,569,570,571]
     },
     "95": {
       "title": "Moon Knight",
@@ -1561,14 +947,7 @@
       "serie_id": 30,
       "order": 94,
       "global_order": 61,
-      "notebooks_ids": [
-        572,
-        573,
-        574,
-        575,
-        576,
-        577
-      ]
+      "notebooks_ids": [572,573,574,575,576,577]
     },
     "96": {
       "title": "Moon Knight",
@@ -1578,14 +957,7 @@
       "serie_id": 30,
       "order": 95,
       "global_order": 62,
-      "notebooks_ids": [
-        578,
-        579,
-        580,
-        581,
-        582,
-        583
-      ]
+      "notebooks_ids": [578,579,580,581,582,583]
     },
     "97": {
       "title": "Moon Knight",
@@ -1595,13 +967,7 @@
       "serie_id": 30,
       "order": 96,
       "global_order": 63,
-      "notebooks_ids": [
-        584,
-        585,
-        586,
-        587,
-        588
-      ]
+      "notebooks_ids": [584,585,586,587,588]
     },
     "98": {
       "title": "Axis",
@@ -1611,17 +977,7 @@
       "serie_id": 31,
       "order": 97,
       "global_order": 79,
-      "notebooks_ids": [
-        589,
-        590,
-        591,
-        592,
-        593,
-        594,
-        595,
-        596,
-        597
-      ]
+      "notebooks_ids": [589,590,591,592,593,594,595,596,597]
     },
     "99": {
       "title": "Axis",
@@ -1631,14 +987,7 @@
       "serie_id": 31,
       "order": 98,
       "global_order": 80,
-      "notebooks_ids": [
-        598,
-        599,
-        600,
-        601,
-        602,
-        603
-      ]
+      "notebooks_ids": [598,599,600,601,602,603]
     },
     "100": {
       "title": "Thor",
@@ -1648,13 +997,7 @@
       "serie_id": 34,
       "order": 99,
       "global_order": 91,
-      "notebooks_ids": [
-        604,
-        605,
-        606,
-        607,
-        608
-      ]
+      "notebooks_ids": [604,605,606,607,608]
     },
     "101": {
       "title": "Thor",
@@ -1664,11 +1007,7 @@
       "serie_id": 34,
       "order": 100,
       "global_order": 92,
-      "notebooks_ids": [
-        609,
-        610,
-        611
-      ]
+      "notebooks_ids": [609,610,611]
     },
     "102": {
       "title": "Ant-Man",
@@ -1678,13 +1017,7 @@
       "serie_id": 35,
       "order": 101,
       "global_order": 99,
-      "notebooks_ids": [
-        612,
-        613,
-        614,
-        615,
-        616
-      ]
+      "notebooks_ids": [612,613,614,615,616]
     },
     "103": {
       "title": "Hawkeye kontra Deadpool",
@@ -1694,13 +1027,7 @@
       "serie_id": 25,
       "order": 102,
       "global_order": 59,
-      "notebooks_ids": [
-        617,
-        618,
-        619,
-        620,
-        621
-      ]
+      "notebooks_ids": [617,618,619,620,621]
     },
     "104": {
       "title": "Tajne Wojny",
@@ -1710,17 +1037,7 @@
       "serie_id": 37,
       "order": 103,
       "global_order": 105,
-      "notebooks_ids": [
-        622,
-        623,
-        624,
-        625,
-        626,
-        627,
-        628,
-        629,
-        630
-      ]
+      "notebooks_ids": [622,623,624,625,626,627,628,629,630]
     },
     "105": {
       "title": "Tajne tajne wojny Deadpoola",
@@ -1730,12 +1047,7 @@
       "serie_id": 38,
       "order": 104,
       "global_order": 104,
-      "notebooks_ids": [
-        631,
-        632,
-        633,
-        634
-      ]
+      "notebooks_ids": [631,632,633,634]
     },
     "106": {
       "title": "Amazing Spider-Man",
@@ -1745,13 +1057,7 @@
       "serie_id": 39,
       "order": 105,
       "global_order": 106,
-      "notebooks_ids": [
-        635,
-        636,
-        637,
-        638,
-        639
-      ]
+      "notebooks_ids": [635,636,637,638,639]
     },
     "107": {
       "title": "Thorowie",
@@ -1761,12 +1067,7 @@
       "serie_id": 40,
       "order": 106,
       "global_order": 107,
-      "notebooks_ids": [
-        640,
-        641,
-        642,
-        643
-      ]
+      "notebooks_ids": [640,641,642,643]
     },
     "108": {
       "title": "Wojna domowa",
@@ -1776,13 +1077,7 @@
       "serie_id": 41,
       "order": 107,
       "global_order": 108,
-      "notebooks_ids": [
-        644,
-        645,
-        646,
-        647,
-        648
-      ]
+      "notebooks_ids": [644,645,646,647,648]
     },
     "109": {
       "title": "Oblężenie",
@@ -1792,12 +1087,7 @@
       "serie_id": 42,
       "order": 108,
       "global_order": 109,
-      "notebooks_ids": [
-        649,
-        650,
-        651,
-        652
-      ]
+      "notebooks_ids": [649,650,651,652]
     },
     "110": {
       "title": "Lepsi wrogowie Spider-Mana",
@@ -1807,28 +1097,21 @@
       "serie_id": 43,
       "order": 109,
       "global_order": 50,
-      "notebooks_ids": [
-        653,
-        654,
-        655,
-        656,
-        657,
-        658,
-        659,
-        660,
-        661,
-        662,
-        663,
-        664,
-        665,
-        666,
-        667,
-        668,
-        669
-      ]
+      "notebooks_ids": [653,654,655,656,657,658,659,660,661,662,663,664,665,666,667,668,669]
+    },
+    "111": {
+      "title": "Nieskończoność",
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f7/Infinity_%28Event%29_003.jpg/revision/latest/scale-to-width-down/329?cb=20130429204345",
+      "date": "2013-11-27T11:41:48.000Z",
+      "serie_id": 21,
+      "order": 110,
+      "global_order": 110,
+      "notebooks_ids": [83,84,85,86,487,350,123,87,124,351,352,488,125,88,489,89,490,90,126,491,91,353,354,92,49,50,492,127],
+      "is_event": true
     }
   },
   "meta": {
-    "nextIndex": 111
+    "nextIndex": 112
   }
 }

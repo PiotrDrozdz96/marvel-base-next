@@ -14,6 +14,7 @@ import DatePicker from '@components/DatePicker';
 import Select, { SelectInput } from '@components/Select';
 import ImageInput from '@components/ImageInput';
 import Spacing from '@components/Spacing';
+import Switch from '@components/Switch';
 
 import { numberFields } from '../VolumeForm.consts';
 import volumesMessages from '../Volumes.messages';
@@ -70,6 +71,7 @@ const VolumesForm = ({
             <Select name="serie_id" placeholder={volumesMessages.serie_id} options={seriesOptions} required />
             <Input name="order" placeholder={volumesMessages.order} />
             <Input name="global_order" placeholder={volumesMessages.global_order} />
+            <Switch name="is_event" placeholder={volumesMessages.is_event} />
             <FormActions
               backHref={{ pathname: routes.series.id.show.href, query: { id: initialValues.serie_id, databaseName } }}
             />

@@ -23,6 +23,7 @@ type Props<FormValues> = {
   actions?: ReactNode;
   query?: UrlObject['query'];
   numberFields?: (keyof FormValues)[];
+  nullableFields?: (keyof FormValues)[];
   showPathname?: string;
   additionalValues?: Record<string, unknown>;
   children: ((props: FormRenderProps<FormValues, Partial<FormValues>>) => ReactNode) | ReactNode;
@@ -39,16 +40,24 @@ const FormContainer = <FormValues,>({
   children,
   query,
   numberFields,
+  nullableFields,
   additionalValues,
 }: Props<FormValues>): JSX.Element => {
   const router = useRouter();
 
   const onSubmit = async (values: FormValues) => {
     const numberValues = convertValuesTo(Number, values, numberFields);
+    const clearedValues = { ...values };
+
+    nullableFields?.forEach((field) => {
+      if (!clearedValues[field]) {
+        delete clearedValues[field];
+      }
+    });
 
     await fetch(variant === 'create' ? `/api/${databaseName}` : `/api/${databaseName}/${id}`, {
       method: 'POST',
-      body: JSON.stringify({ ...values, ...numberValues, ...additionalValues }),
+      body: JSON.stringify({ ...clearedValues, ...numberValues, ...additionalValues }),
     });
     router.back();
   };

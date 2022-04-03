@@ -7,6 +7,7 @@ type ApiVolume = {
   order: number;
   global_order: number;
   notebooks_ids: number[];
+  is_event?: true;
 };
 
 type Volume = ApiVolume & {

@@ -12,5 +12,6 @@ export default {
   wave_id: 'Nurt',
   order: 'Kolejność',
   global_order: 'Globalna Kolejność',
+  is_event: 'Jest Eventem?',
   notebooks: 'Zeszyty',
 };

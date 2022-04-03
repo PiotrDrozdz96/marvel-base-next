@@ -30,7 +30,7 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) 
   const database = await getDatabase(id);
   const { waves } = await get(id, 'waves');
   const aliases = await get(id, 'aliases');
-  const volumes = await getVolumes(id, () => true, 'global_order');
+  const volumes = await getVolumes(id, (volume) => !volume.is_event, 'global_order');
 
   if (!database) {
     return { notFound: true };
