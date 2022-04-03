@@ -8,11 +8,12 @@ export const getSearchParams = (wavesIds: string[], seriesIds: string[]): string
     seriesIds.length ? `seriesIds=[${seriesIds.toString()}]` : ''
   }`;
 
-const getCheckboxHref = (databaseName: string, wavesIds: string[], seriesIds: string[]): string =>
-  `/preview/${databaseName}?${getSearchParams(wavesIds, seriesIds)}`;
+const getCheckboxHref = (databaseName: string, alias: string, wavesIds: string[], seriesIds: string[]): string =>
+  `/preview/${databaseName}${alias}?${getSearchParams(wavesIds, seriesIds)}`;
 
 export const getWaveCheckboxHref = (
   databaseName: string,
+  alias: string,
   filters: Filters[],
   wavesIds: string[],
   seriesIds: string[],
@@ -23,11 +24,12 @@ export const getWaveCheckboxHref = (
   const seriesInsideWave = filters.find((filter) => filter.id === id)?.series.map((serie) => serie.id) || [];
   const newSeriesIds = checked ? seriesIds : seriesIds.filter((serieId) => !seriesInsideWave.includes(serieId));
 
-  return getCheckboxHref(databaseName, newWavesIds, newSeriesIds);
+  return getCheckboxHref(databaseName, alias, newWavesIds, newSeriesIds);
 };
 
 export const getSerieCheckboxHref = (
   databaseName: string,
+  alias: string,
   filters: Filters[],
   wavesIds: string[],
   seriesIds: string[],
@@ -51,5 +53,5 @@ export const getSerieCheckboxHref = (
     newSeriesIds = getNewList(seriesIds, id, checked);
   }
 
-  return getCheckboxHref(databaseName, newWavesIds, newSeriesIds);
+  return getCheckboxHref(databaseName, alias, newWavesIds, newSeriesIds);
 };

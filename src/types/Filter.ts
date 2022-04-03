@@ -5,6 +5,7 @@ type Filter = {
 };
 
 type Filters = Filter & {
+  hide?: boolean;
   series: Filter[];
 };
 

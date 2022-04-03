@@ -9,16 +9,17 @@ import FormActions, { FormActionsProps } from '@components/FormActions';
 export type Props = {
   name: string;
   editHref?: ActionButtonProps['href'];
-  backHref: FormActionsProps['backHref'];
+  backHref?: FormActionsProps['backHref'];
   children: ReactNode;
+  isPreview?: boolean;
 };
 
-const Show = ({ name, editHref, backHref, children }: Props): JSX.Element => (
+const Show = ({ name, editHref, backHref, children, isPreview }: Props): JSX.Element => (
   <Container>
-    <Toolbar name={name}>{!!editHref && <ActionButton variant="edit" href={editHref} />}</Toolbar>
+    {!isPreview && <Toolbar name={name}>{!!editHref && <ActionButton variant="edit" href={editHref} />}</Toolbar>}
     <Paper>
       {children}
-      <FormActions backHref={backHref} withoutSave />
+      {!isPreview && <FormActions backHref={backHref} withoutSave />}
     </Paper>
   </Container>
 );
