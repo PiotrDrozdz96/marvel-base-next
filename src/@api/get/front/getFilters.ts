@@ -36,7 +36,7 @@ const getFilters = async ({
           const filteredSeries = Object.keys(series).filter(
             (serieId) =>
               series[serieId as unknown as number].wave_id === Number(waveId) &&
-              series[Number(serieId)].is_filter &&
+              (keepSeriesIds.length || series[Number(serieId)].is_filter) &&
               (!keepSeriesIds.length || keepSeriesIds.includes(Number(serieId)))
           );
 

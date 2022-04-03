@@ -1107,11 +1107,55 @@
       "serie_id": 21,
       "order": 110,
       "global_order": 110,
-      "notebooks_ids": [83,84,85,86,487,350,123,87,124,351,352,488,125,88,489,89,490,90,126,491,91,353,354,92,49,50,492,127],
+      "notebooks_ids": [83,84,85,86,487,123,87,350,351,124,488,125,352,88,489,353,354,89,490,90,126,491,91,92,49,50,492,127],
+      "is_event": true
+    },
+    "112": {
+      "title": "Grzech pierworodny",
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6f/Original_Sin_poster_015.jpg/revision/latest/scale-to-width-down/317?cb=20140402010226",
+      "date": "2014-10-29T11:04:54.000Z",
+      "serie_id": 26,
+      "order": 111,
+      "global_order": 111,
+      "notebooks_ids": [538,539,540,542,543,544,545,548,549,550,551,552,206,207,308,98,99,100,101,102,309,310,311,312,541,546,547,103,553,554,555,59,60,61,443,444,445],
+      "is_event": true
+    },
+    "113": {
+      "title": "Axis",
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b5/Avengers_%26_X-Men_AXIS_Vol_1_1.jpg/revision/latest/scale-to-width-down/900?cb=20141003021259",
+      "date": "2014-12-24T11:20:02.000Z",
+      "serie_id": 31,
+      "order": 112,
+      "global_order": 112,
+      "notebooks_ids": [403,393,404,394,589,590,405,591,406,315,592,601,602,603,598,599,600,316,593,594,317,595,596,597,318],
+      "is_event": true
+    },
+    "114": {
+      "title": "Spider-Verse",
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a6/Spider-Verse_003.jpg/revision/latest/scale-to-width-down/329?cb=20140324215429",
+      "date": "2015-02-25T11:34:16.000Z",
+      "serie_id": 7,
+      "order": 113,
+      "global_order": 113,
+      "notebooks_ids": [184,185,209,190,210,211,212,191,213,214,192,215,193,216,217],
+      "is_event": true
+    },
+    "115": {
+      "title": "Tajne Wojny",
+      "subtitle": "",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/tajne-wojny/1/okladka-66.jpg",
+      "date": "2016-01-13T11:49:12.000Z",
+      "serie_id": 37,
+      "order": 114,
+      "global_order": 114,
+      "notebooks_ids": [631,632,633,634,622,512,513,514,515,412,413,414,415,623,624,635,636,637,638,639,625,640,641,642,644,645,646,647,648,626,649,650,651,627,652,643,628,629,630],
       "is_event": true
     }
   },
   "meta": {
-    "nextIndex": 112
+    "nextIndex": 116
   }
 }
