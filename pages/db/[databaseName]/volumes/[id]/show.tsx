@@ -23,6 +23,14 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) 
     return { notFound: true };
   }
 
+  if (item.is_event) {
+    return {
+      redirect: {
+        destination: `/preview/${databaseName}/${id}`,
+      },
+    } as unknown as { props: InferGetServerSidePropsType<typeof getServerSideProps> };
+  }
+
   let volumeNotebooks: Notebook[] = [];
 
   if (item.notebooks_ids.length) {

@@ -21,12 +21,11 @@ type Props = {
 const VolumesShow = ({ item, databaseName, notebooks, isPreview }: Props): JSX.Element => (
   <>
     <ShowWithImage
-      name={interpolate(volumesMessages.itemName, { id: item.id })}
+      name={isPreview ? '' : interpolate(volumesMessages.itemName, { id: item.id })}
       editHref={{ pathname: routes.volumes.id.href, query: { id: item.id, databaseName } }}
       backHref={{ pathname: routes.series.id.show.href, query: { id: item.serie_id, databaseName } }}
       imageUrl={item.image_url}
       alt={`${item.title} ${item.subtitle}`.trim()}
-      isPreview={isPreview}
     >
       <TextField label={volumesMessages.title} value={item.title} />
       <TextField label={volumesMessages.subtitle} value={item.subtitle} />
