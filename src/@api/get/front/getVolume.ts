@@ -7,7 +7,8 @@ const getVolume = async (databaseName: string, id: number): Promise<FrontVolume 
     const { series } = await get(databaseName, 'series');
     const volume: Partial<FrontVolume> = volumes[id];
     volume.id = id;
-    volume.serieName = volume.serie_id ? (series[volume.serie_id].name as string) : '';
+    volume.serieName = volume.serie_id ? series[volume.serie_id].name : '';
+    volume.eventName = volume.event_id ? volumes[volume.event_id].title : '';
 
     return volume as FrontVolume;
   } catch {

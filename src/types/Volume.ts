@@ -17,6 +17,7 @@ type Volume = ApiVolume & {
 
 type FrontVolume = Volume & {
   serieName: string;
+  eventName: string;
 };
 
 export type { ApiVolume, Volume, FrontVolume };

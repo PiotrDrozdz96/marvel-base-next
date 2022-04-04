@@ -32,6 +32,11 @@ const VolumesShow = ({ item, databaseName, notebooks, isPreview }: Props): JSX.E
       <TextField label={volumesMessages.date} value={dateFormat(item.date)} />
       <TextField label={volumesMessages.serie_id} value={item.serieName} />
       <TextField
+        label={volumesMessages.event_id}
+        value={item.eventName}
+        href={{ pathname: routes.preview.event.href, query: { databaseName, eventId: item.event_id } }}
+      />
+      <TextField
         label={volumesMessages.notebooks}
         value={
           <div className={classes.content}>

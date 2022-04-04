@@ -4,6 +4,9 @@ const routes = {
   },
   preview: {
     href: '/preview/[databaseName]',
+    event: {
+      href: '/preview/[databaseName]/[eventId]',
+    },
   },
   menu: {
     id: {
