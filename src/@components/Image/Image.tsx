@@ -25,6 +25,7 @@ const Image = ({ preset, src, alt, className, onError, onLoad, withLink, ...prop
         const match = src.match(regExp);
         if (match) {
           result = [loader(preset, match), loader('full', match)];
+          return true;
         }
         return false;
       });

@@ -6689,9 +6689,389 @@
       "date": "2014-11-26T11:00:00.000Z",
       "serie_id": 43,
       "order": 668
+    },
+    "670": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 1,
+      "subtitle": "\"Believe 1 of 5: Demons and Genies\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/76/Iron_Man_Vol_5_1.jpg/revision/latest/scale-to-width-down/131?cb=20120806195051",
+      "date": "2012-11-07T11:00:00.000Z",
+      "serie_id": 44,
+      "order": 669
+    },
+    "671": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 2,
+      "subtitle": "\"Believe 2 of 5: A Gentleman's Wager\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6c/Iron_Man_Vol_5_2.jpg/revision/latest/scale-to-width-down/132?cb=20121116011138",
+      "date": "2012-11-21T11:00:00.000Z",
+      "serie_id": 44,
+      "order": 670
+    },
+    "672": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 3,
+      "subtitle": "\"Believe 3 of 5: It Makes us Stronger\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2c/Iron_Man_Vol_5_3.jpg/revision/latest/scale-to-width-down/130?cb=20120918182526",
+      "date": "2012-12-05T11:00:00.000Z",
+      "serie_id": 44,
+      "order": 671
+    },
+    "673": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 4,
+      "subtitle": "\"Believe 4 of 5: Fear of the Void\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6b/Iron_Man_Vol_5_4.jpg/revision/latest/scale-to-width-down/130?cb=20120918182316",
+      "date": "2012-12-12T11:00:00.000Z",
+      "serie_id": 44,
+      "order": 672
+    },
+    "674": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 5,
+      "subtitle": "\"Believe 5 of 5: Men of the World\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d1/Iron_Man_Vol_5_5.jpg/revision/latest/scale-to-width-down/132?cb=20121012192246",
+      "date": "2013-01-02T11:00:00.000Z",
+      "serie_id": 44,
+      "order": 673
+    },
+    "675": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 6,
+      "subtitle": "\"The Godkiller: 1 of 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f9/Iron_Man_Vol_5_6.jpg/revision/latest/scale-to-width-down/132?cb=20130201060834",
+      "date": "2013-02-06T11:00:00.000Z",
+      "serie_id": 44,
+      "order": 674
+    },
+    "676": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 7,
+      "subtitle": "\"The Godkiller: 2 of 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e6/Iron_Man_Vol_5_7.jpg/revision/latest/scale-to-width-down/132?cb=20130301031111",
+      "date": "2013-03-06T11:00:00.000Z",
+      "serie_id": 44,
+      "order": 675
+    },
+    "677": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 8,
+      "subtitle": "\"The Godkiller: Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/01/Iron_Man_Vol_5_8.jpg/revision/latest/scale-to-width-down/132?cb=20130319200021",
+      "date": "2013-04-17T10:00:00.000Z",
+      "serie_id": 44,
+      "order": 676
+    },
+    "678": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 9,
+      "subtitle": "\"The Secret Origin of Tony Stark, Prologue\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5e/Iron_Man_Vol_5_9.jpg/revision/latest/scale-to-width-down/130?cb=20130208205303",
+      "date": "2013-05-01T10:00:00.000Z",
+      "serie_id": 44,
+      "order": 677
+    },
+    "679": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 10,
+      "subtitle": "\"The Secret Origin of Tony Stark: Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c0/Iron_Man_Vol_5_10.jpg/revision/latest/scale-to-width-down/132?cb=20130509195810",
+      "date": "2013-05-15T10:00:00.000Z",
+      "serie_id": 44,
+      "order": 678
+    },
+    "680": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 11,
+      "subtitle": "\"The Secret Origin of Tony Stark: Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/06/Iron_Man_Vol_5_11.jpg/revision/latest/scale-to-width-down/132?cb=20130531211321",
+      "date": "2013-06-05T10:00:00.000Z",
+      "serie_id": 44,
+      "order": 679
+    },
+    "681": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 12,
+      "subtitle": "\"The Secret Origin of Tony Stark: Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3a/Iron_Man_Vol_5_12.jpg/revision/latest/scale-to-width-down/131?cb=20130628205319",
+      "date": "2013-07-03T10:00:00.000Z",
+      "serie_id": 44,
+      "order": 680
+    },
+    "682": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 13,
+      "subtitle": "\"The Secret Origin of Tony Stark: The Best Offense, Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9a/Iron_Man_Vol_5_13.jpg/revision/latest/scale-to-width-down/130?cb=20130612000932",
+      "date": "2013-07-17T10:00:00.000Z",
+      "serie_id": 44,
+      "order": 681
+    },
+    "683": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 14,
+      "subtitle": "\"The Secret Origin of Tony Stark: The Best Offense, Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/49/Iron_Man_Vol_5_14.jpg/revision/latest/scale-to-width-down/132?cb=20130808025453",
+      "date": "2013-08-07T10:00:00.000Z",
+      "serie_id": 44,
+      "order": 682
+    },
+    "684": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 15,
+      "subtitle": "\"The Secret Origin of Tony Stark: The Best Offense, Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8a/Iron_Man_Vol_5_15.jpg/revision/latest/scale-to-width-down/132?cb=20130811041853",
+      "date": "2013-09-04T10:00:00.000Z",
+      "serie_id": 44,
+      "order": 683
+    },
+    "685": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 16,
+      "subtitle": "\"The Secret Origin of Tony Stark: The Best Offense, Part Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e9/Iron_Man_Vol_5_16.jpg/revision/latest/scale-to-width-down/132?cb=20130927215035",
+      "date": "2013-10-02T10:00:00.000Z",
+      "serie_id": 44,
+      "order": 684
+    },
+    "686": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 17,
+      "subtitle": "\"The Secret Origin of Tony Stark: Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b0/Iron_Man_Vol_5_17.jpg/revision/latest/scale-to-width-down/130?cb=20130920232009",
+      "date": "2013-10-23T10:00:00.000Z",
+      "serie_id": 44,
+      "order": 685
+    },
+    "687": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 18,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0a/Iron_Man_Vol_5_18.jpg/revision/latest/scale-to-width-down/132?cb=20131101220542",
+      "date": "2013-11-06T11:00:00.000Z",
+      "serie_id": 44,
+      "order": 686
+    },
+    "688": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 19,
+      "subtitle": "\"Iron Metropolitan\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b5/Iron_Man_Vol_5_19.jpg/revision/latest/scale-to-width-down/132?cb=20131128174042",
+      "date": "2013-12-04T11:00:00.000Z",
+      "serie_id": 44,
+      "order": 687
+    },
+    "689": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 20,
+      "subtitle": "\"Iron Metropolitan: Part 3 of 5\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a2/Iron_Man_Vol_5_20.jpg/revision/latest/scale-to-width-down/132?cb=20140109054137",
+      "date": "2014-01-08T11:00:00.000Z",
+      "serie_id": 44,
+      "order": 688
+    },
+    "690": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 20.1,
+      "subtitle": "\"Inhumanity\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1f/Iron_Man_Vol_5_20.INH.jpg/revision/latest/scale-to-width-down/132?cb=20140126233315",
+      "date": "2014-01-22T11:00:00.000Z",
+      "serie_id": 44,
+      "order": 689
+    },
+    "691": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 21,
+      "subtitle": "\"Iron Metropolitan: Part 4 of 5\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/26/Iron_Man_Vol_5_21.jpg/revision/latest/scale-to-width-down/132?cb=20140208030919",
+      "date": "2014-02-05T11:00:00.000Z",
+      "serie_id": 44,
+      "order": 690
+    },
+    "692": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 22,
+      "subtitle": "\"Iron Metropolitan: Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e8/Iron_Man_Vol_5_22.jpg/revision/latest/scale-to-width-down/132?cb=20140228053900",
+      "date": "2014-03-05T11:00:00.000Z",
+      "serie_id": 44,
+      "order": 691
+    },
+    "693": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 23,
+      "subtitle": "\"Rings of the Mandarin: Chapter I\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/49/Iron_Man_Vol_5_23.NOW.jpg/revision/latest/scale-to-width-down/132?cb=20140317224544",
+      "date": "2014-03-19T11:00:00.000Z",
+      "serie_id": 44,
+      "order": 692
+    },
+    "694": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 24,
+      "subtitle": "\"Rings of the Mandarin: Chapter II\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/97/Iron_Man_Vol_5_24.jpg/revision/latest/scale-to-width-down/132?cb=20140409201158",
+      "date": "2014-04-09T10:00:00.000Z",
+      "serie_id": 44,
+      "order": 693
+    },
+    "695": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 25,
+      "subtitle": "\"Rings of the Mandarin: Chapter III\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/28/Iron_Man_Vol_5_25.jpg/revision/latest/scale-to-width-down/132?cb=20140508213807",
+      "date": "2014-05-14T10:00:00.000Z",
+      "serie_id": 44,
+      "order": 694
+    },
+    "696": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 26,
+      "subtitle": "\"Rings of the Mandarins: Chapter IV\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/15/Iron_Man_Vol_5_26.jpg/revision/latest/scale-to-width-down/132?cb=20140523090914",
+      "date": "2014-05-28T10:00:00.000Z",
+      "serie_id": 44,
+      "order": 695
+    },
+    "697": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 27,
+      "subtitle": "\"Rings of the Mandarins: Chapter V\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4c/Iron_Man_Vol_5_27.jpg/revision/latest/scale-to-width-down/132?cb=20140530164008",
+      "date": "2014-06-04T10:00:00.000Z",
+      "serie_id": 44,
+      "order": 696
+    },
+    "698": {
+      "title": "Iron Man",
+      "vol": 5,
+      "no": 28,
+      "subtitle": "\"Rings of the Mandarins: Chapter VI\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/32/Iron_Man_Vol_5_28.jpg/revision/latest/scale-to-width-down/132?cb=20140613133231",
+      "date": "2014-06-18T10:00:00.000Z",
+      "serie_id": 44,
+      "order": 697
+    },
+    "699": {
+      "title": "Superior Iron Man",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Be Superior - Chapter 1: Nightmare Scenario\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/88/Superior_Iron_Man_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20141107170555",
+      "date": "2014-11-12T11:00:00.000Z",
+      "serie_id": 45,
+      "order": 698
+    },
+    "700": {
+      "title": "Superior Iron Man",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Be Superior - Chapter 2: Daredevil vs. Iron Man\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/07/Superior_Iron_Man_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20141120153525",
+      "date": "2014-11-26T11:00:00.000Z",
+      "serie_id": 45,
+      "order": 699
+    },
+    "701": {
+      "title": "Superior Iron Man",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Be Superior - Chapter 3: Man of Vision\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2a/Superior_Iron_Man_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20141219201502",
+      "date": "2014-12-24T11:00:00.000Z",
+      "serie_id": 45,
+      "order": 700
+    },
+    "702": {
+      "title": "Superior Iron Man",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Be Superior - Chapter 4: The Choice\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d6/Superior_Iron_Man_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20150119043229",
+      "date": "2015-01-21T11:00:00.000Z",
+      "serie_id": 45,
+      "order": 701
+    },
+    "703": {
+      "title": "Superior Iron Man",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"Be Superior - Chapter 5: The Origin of Teen Abomination\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/66/Superior_Iron_Man_Vol_1_5.jpg/revision/latest/scale-to-width-down/130?cb=20150221054444",
+      "date": "2015-02-25T11:00:00.000Z",
+      "serie_id": 45,
+      "order": 702
+    },
+    "704": {
+      "title": "Superior Iron Man",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "\"Be Superior - Chapter 6: In His Own Image\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/80/Superior_Iron_Man_Vol_1_6.jpg/revision/latest/scale-to-width-down/132?cb=20150307001147",
+      "date": "2015-03-11T11:00:00.000Z",
+      "serie_id": 45,
+      "order": 703
+    },
+    "705": {
+      "title": "Superior Iron Man",
+      "vol": 1,
+      "no": 7,
+      "subtitle": "\"Be Superior - Chapter 7: Stark Contrast\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0d/Superior_Iron_Man_Vol_1_7.jpg/revision/latest/scale-to-width-down/132?cb=20150410195448",
+      "date": "2015-04-15T10:00:00.000Z",
+      "serie_id": 45,
+      "order": 704
+    },
+    "706": {
+      "title": "Superior Iron Man",
+      "vol": 1,
+      "no": 8,
+      "subtitle": "\"Be Superior - Chapter 8: Stark Contrast\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c2/Superior_Iron_Man_Vol_1_8.jpg/revision/latest/scale-to-width-down/132?cb=20150425025608",
+      "date": "2015-04-29T10:00:00.000Z",
+      "serie_id": 45,
+      "order": 705
+    },
+    "707": {
+      "title": "Superior Iron Man",
+      "vol": 1,
+      "no": 9,
+      "subtitle": "\"Be Superior - Chapter 9: Freedom\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c2/Superior_Iron_Man_Vol_1_9.jpg/revision/latest/scale-to-width-down/132?cb=20150530070814",
+      "date": "2015-06-03T10:00:00.000Z",
+      "serie_id": 45,
+      "order": 706
     }
   },
   "meta": {
-    "nextIndex": 670
+    "nextIndex": 708
   }
 }

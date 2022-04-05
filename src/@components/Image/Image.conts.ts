@@ -44,4 +44,14 @@ export const loaders: ImageLoader[] = [
     regExp: /^(https:\/\/assets\.gildia\.pl\/system\/thumbs\/.+\/)(\d*)(\.\w+)$/,
     loader: (preset, [, start, , end]) => `${start}${preset === 'full' ? 700 : dimensions[preset]?.width}${end}`,
   },
+  {
+    name: 'bokxcessonline',
+    regExp: /^(https:\/\/cdn\.shopify\.com\/s\/file.*_)(\d+)(x.jpg)$/,
+    loader: (preset, [, start, , end]) => `${start}${preset === 'full' ? 700 : dimensions[preset]?.width}${end}`,
+  },
+  {
+    name: 'kobo',
+    regExp: /^(https:\/\/kbimages1-a.akamaihd.net\/[^/]*\/)(\d+)(.+)$/,
+    loader: (preset, [, start, , end]) => `${start}${preset === 'full' ? 700 : dimensions[preset]?.width}${end}`,
+  },
 ];

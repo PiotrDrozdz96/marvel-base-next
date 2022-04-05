@@ -110,9 +110,9 @@
     },
     "19": {
       "name": "Thor Gromowładny",
-      "order": 6,
+      "order": 8,
       "wave_id": 3,
-      "is_filter": true
+      "is_filter": false
     },
     "20": {
       "name": "Thanos powstaje",
@@ -200,13 +200,13 @@
     },
     "34": {
       "name": "Thor",
-      "order": 7,
+      "order": 9,
       "wave_id": 3,
       "is_filter": true
     },
     "35": {
       "name": "Ant-Man",
-      "order": 8,
+      "order": 10,
       "wave_id": 3,
       "is_filter": true
     },
@@ -257,9 +257,21 @@
       "order": 1,
       "wave_id": 4,
       "is_filter": true
+    },
+    "44": {
+      "name": "Iron Man",
+      "order": 6,
+      "wave_id": 3,
+      "is_filter": true
+    },
+    "45": {
+      "name": "Superior Iron Man",
+      "order": 7,
+      "wave_id": 3,
+      "is_filter": false
     }
   },
   "meta": {
-    "nextIndex": 44
+    "nextIndex": 46
   }
 }
