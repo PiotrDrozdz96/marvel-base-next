@@ -11,7 +11,7 @@ export const dimensions: Record<Preset, Dimension> = {
   },
   preview: {
     width: 370,
-    height: 528,
+    height: 560,
   },
 };
 
@@ -53,5 +53,11 @@ export const loaders: ImageLoader[] = [
     name: 'kobo',
     regExp: /^(https:\/\/kbimages1-a.akamaihd.net\/[^/]*\/)(\d+)(.+)$/,
     loader: (preset, [, start, , end]) => `${start}${preset === 'full' ? 700 : dimensions[preset]?.width}${end}`,
+  },
+  {
+    name: 'comicbookwire',
+    regExp: /^(https:\/\/i0\.wp\.com\/www\.comicbookwire\.com\/.*resize=)(\d+)(%2C)(\d+)/,
+    loader: (preset, [, start]) =>
+      `${start}${preset === 'full' ? '' : `${dimensions[preset]?.width}%2C${dimensions[preset]?.height}`}`,
   },
 ];

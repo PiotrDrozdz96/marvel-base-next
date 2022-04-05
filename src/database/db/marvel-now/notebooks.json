@@ -7069,9 +7069,929 @@
       "date": "2015-06-03T10:00:00.000Z",
       "serie_id": 45,
       "order": 706
+    },
+    "708": {
+      "title": "Avengers vs. X-Men",
+      "vol": 1,
+      "no": 0,
+      "subtitle": "\"Prologue\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/aa/Avengers_vs._X-Men_Vol_1_0.jpg/revision/latest/scale-to-width-down/130?cb=20111213190834",
+      "date": "2012-03-28T10:00:00.000Z",
+      "serie_id": 46,
+      "order": 707
+    },
+    "709": {
+      "title": "Avengers vs. X-Men",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Avengers vs. X-Men (Part One)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/15/Avengers_vs._X-Men_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20120116200025",
+      "date": "2012-04-04T10:00:00.000Z",
+      "serie_id": 46,
+      "order": 708
+    },
+    "710": {
+      "title": "Avengers vs. X-Men",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Avengers vs. X-Men (Part Two)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8f/Avengers_vs._X-Men_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20120809184754",
+      "date": "2012-04-18T10:00:00.000Z",
+      "serie_id": 46,
+      "order": 709
+    },
+    "711": {
+      "title": "Avengers vs. X-Men",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Avengers vs. X-Men (Part Three)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/68/Avengers_vs._X-Men_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20120419014752",
+      "date": "2012-05-02T10:00:00.000Z",
+      "serie_id": 46,
+      "order": 710
+    },
+    "712": {
+      "title": "Avengers vs. X-Men",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Avengers Vs. X-Men (Part Four)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/14/Avengers_vs._X-Men_Vol_1_4.jpg/revision/latest/scale-to-width-down/131?cb=20120419195456",
+      "date": "2012-05-16T10:00:00.000Z",
+      "serie_id": 46,
+      "order": 711
+    },
+    "713": {
+      "title": "Avengers vs. X-Men",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"Avengers Vs. X-Men (Part Five)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0e/Avengers_vs._X-Men_Vol_1_5.jpg/revision/latest/scale-to-width-down/132?cb=20120531195414",
+      "date": "2012-06-06T10:00:00.000Z",
+      "serie_id": 46,
+      "order": 712
+    },
+    "714": {
+      "title": "Avengers vs. X-Men",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "\"Avengers Vs. X-Men (Part Six)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8d/Avengers_vs._X-Men_Vol_1_6.jpg/revision/latest/scale-to-width-down/132?cb=20120606203050",
+      "date": "2012-06-20T10:00:00.000Z",
+      "serie_id": 46,
+      "order": 713
+    },
+    "715": {
+      "title": "Avengers vs. X-Men",
+      "vol": 1,
+      "no": 7,
+      "subtitle": "\"Avengers Vs. X-Men (Part Seven)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ac/Avengers_vs._X-Men_Vol_1_7.jpg/revision/latest/scale-to-width-down/132?cb=20120628201144",
+      "date": "2012-07-04T10:00:00.000Z",
+      "serie_id": 46,
+      "order": 714
+    },
+    "716": {
+      "title": "Avengers vs. X-Men",
+      "vol": 1,
+      "no": 8,
+      "subtitle": "\"Avengers Vs. X-Men (Part Eight)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/78/Avengers_vs._X-Men_Vol_1_8.jpg/revision/latest/scale-to-width-down/132?cb=20120712185256",
+      "date": "2012-07-18T10:00:00.000Z",
+      "serie_id": 46,
+      "order": 715
+    },
+    "717": {
+      "title": "Avengers vs. X-Men",
+      "vol": 1,
+      "no": 9,
+      "subtitle": "\"Avengers Vs. X-Men (Part Nine)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/da/Avengers_vs._X-Men_Vol_1_9.jpg/revision/latest/scale-to-width-down/132?cb=20120726191349",
+      "date": "2012-08-01T10:00:00.000Z",
+      "serie_id": 46,
+      "order": 716
+    },
+    "718": {
+      "title": "Avengers vs. X-Men",
+      "vol": 1,
+      "no": 10,
+      "subtitle": "\"Avengers Vs. X-Men (Part Ten)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2d/Avengers_vs._X-Men_Vol_1_10.jpg/revision/latest/scale-to-width-down/132?cb=20120809154427",
+      "date": "2012-08-15T10:00:00.000Z",
+      "serie_id": 46,
+      "order": 717
+    },
+    "719": {
+      "title": "Avengers vs. X-Men",
+      "vol": 1,
+      "no": 11,
+      "subtitle": "\"Avengers Vs. X-Men (Part Eleven)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/01/Avengers_vs._X-Men_Vol_1_11.jpg/revision/latest/scale-to-width-down/130?cb=20120613204706",
+      "date": "2012-09-12T10:00:00.000Z",
+      "serie_id": 46,
+      "order": 718
+    },
+    "720": {
+      "title": "Avengers vs. X-Men",
+      "vol": 1,
+      "no": 12,
+      "subtitle": "\"Avengers Vs. X-Men (Part Twelve)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/95/Avengers_vs._X-Men_Vol_1_12.jpg/revision/latest/scale-to-width-down/132?cb=20120714001452",
+      "date": "2012-10-03T10:00:00.000Z",
+      "serie_id": 46,
+      "order": 719
+    },
+    "721": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 1,
+      "subtitle": "\"Castaway in Dimension Z (Chapter One)\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/52/Captain_America_Vol_7_1.jpg/revision/latest/scale-to-width-down/131?cb=20120810183429",
+      "date": "2012-11-21T11:00:00.000Z",
+      "serie_id": 47,
+      "order": 720
+    },
+    "722": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 2,
+      "subtitle": "\"Castaway in Dimension Z, Chapter II: One Year Later\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b6/Captain_America_Vol_7_2.jpg/revision/latest/scale-to-width-down/132?cb=20121214182818",
+      "date": "2012-12-19T11:00:00.000Z",
+      "serie_id": 47,
+      "order": 721
+    },
+    "723": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 3,
+      "subtitle": "\"Castaway in Dimension Z: Chapter III\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a8/Captain_America_Vol_7_3.jpg/revision/latest/scale-to-width-down/132?cb=20121012202332",
+      "date": "2013-01-16T11:00:00.000Z",
+      "serie_id": 47,
+      "order": 722
+    },
+    "724": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 4,
+      "subtitle": "\"Castaway in Dimension Z: Chapter IV\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/46/Captain_America_Vol_7_4.jpg/revision/latest/scale-to-width-down/130?cb=20130320164143",
+      "date": "2013-02-20T11:00:00.000Z",
+      "serie_id": 47,
+      "order": 723
+    },
+    "725": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 5,
+      "subtitle": "\"Castaway in Dimension Z: Chapter V\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/16/Captain_America_Vol_7_5.jpg/revision/latest/scale-to-width-down/130?cb=20130320164354",
+      "date": "2013-03-20T11:00:00.000Z",
+      "serie_id": 47,
+      "order": 724
+    },
+    "726": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 6,
+      "subtitle": "\"Castaway in Dimension Z: Chapter VI\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fa/Captain_America_Vol_7_6.jpg/revision/latest/scale-to-width-down/132?cb=20130412214418",
+      "date": "2013-04-17T10:00:00.000Z",
+      "serie_id": 47,
+      "order": 725
+    },
+    "727": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 7,
+      "subtitle": "\"Castaway in Dimension Z, Part VII : Ashes of Our Fathers\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f4/Captain_America_Vol_7_7.jpg/revision/latest/scale-to-width-down/132?cb=20130527200435",
+      "date": "2013-05-29T10:00:00.000Z",
+      "serie_id": 47,
+      "order": 726
+    },
+    "728": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 8,
+      "subtitle": "\"Prisoners in Dimension Z: Part VIII\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/ff/Captain_America_Vol_7_8.jpg/revision/latest/scale-to-width-down/132?cb=20130628213005",
+      "date": "2013-06-26T10:00:00.000Z",
+      "serie_id": 47,
+      "order": 727
+    },
+    "729": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 9,
+      "subtitle": "\"Castaway in Dimension Z: Part IX\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f2/Captain_America_Vol_7_9.jpg/revision/latest/scale-to-width-down/131?cb=20130922203815",
+      "date": "2013-07-24T10:00:00.000Z",
+      "serie_id": 47,
+      "order": 728
+    },
+    "730": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 10,
+      "subtitle": "\"Castaway in Dimension Z: Part X, Man Further Out of Time\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2b/Captain_America_Vol_7_10.jpg/revision/latest/scale-to-width-down/132?cb=20130922203603",
+      "date": "2013-08-28T10:00:00.000Z",
+      "serie_id": 47,
+      "order": 729
+    },
+    "731": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 11,
+      "subtitle": "\"A Fire in the Rain\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d1/Captain_America_Vol_7_11.jpg/revision/latest/scale-to-width-down/132?cb=20170921095549",
+      "date": "2013-09-11T10:00:00.000Z",
+      "serie_id": 47,
+      "order": 730
+    },
+    "732": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 12,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/df/Captain_America_Vol_7_12.jpg/revision/latest/scale-to-width-down/132?cb=20131010032204",
+      "date": "2013-10-09T10:00:00.000Z",
+      "serie_id": 47,
+      "order": 731
+    },
+    "733": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 13,
+      "subtitle": "\"Live Weapons!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7a/Captain_America_Vol_7_13.jpg/revision/latest/scale-to-width-down/132?cb=20131108191538",
+      "date": "2013-11-06T11:00:00.000Z",
+      "serie_id": 47,
+      "order": 732
+    },
+    "734": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 14,
+      "subtitle": "\"Loose Nuke: Part 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/93/Captain_America_Vol_7_14.jpg/revision/latest/scale-to-width-down/132?cb=20131212025326",
+      "date": "2013-12-11T11:00:00.000Z",
+      "serie_id": 47,
+      "order": 733
+    },
+    "735": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 15,
+      "subtitle": "\"Loose Nuke: Part 5\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ae/Captain_America_Vol_7_15.jpg/revision/latest/scale-to-width-down/132?cb=20140126231145",
+      "date": "2014-01-22T11:00:00.000Z",
+      "serie_id": 47,
+      "order": 734
+    },
+    "736": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 16,
+      "subtitle": "\"New Friends\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/31/Captain_America_Vol_7_16.NOW.jpg/revision/latest/scale-to-width-down/132?cb=20140208004918",
+      "date": "2014-02-05T11:00:00.000Z",
+      "serie_id": 47,
+      "order": 735
+    },
+    "737": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 17,
+      "subtitle": "\"The Iron Nail: Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/81/Captain_America_Vol_7_17.jpg/revision/latest/scale-to-width-down/132?cb=20140215182739",
+      "date": "2014-02-19T11:00:00.000Z",
+      "serie_id": 47,
+      "order": 736
+    },
+    "738": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 18,
+      "subtitle": "\"The Iron Nail: Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8d/Captain_America_Vol_7_18.jpg/revision/latest/scale-to-width-down/132?cb=20140228053738",
+      "date": "2014-03-05T11:00:00.000Z",
+      "serie_id": 47,
+      "order": 737
+    },
+    "739": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 19,
+      "subtitle": "\"The Iron Nail: Part 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7b/Captain_America_Vol_7_19.jpg/revision/latest/scale-to-width-down/132?cb=20140402141623",
+      "date": "2014-04-02T10:00:00.000Z",
+      "serie_id": 47,
+      "order": 738
+    },
+    "740": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 20,
+      "subtitle": "\"The Iron Nail: Part 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b3/Captain_America_Vol_7_20.jpg/revision/latest/scale-to-width-down/130?cb=20140510022558",
+      "date": "2014-05-14T10:00:00.000Z",
+      "serie_id": 47,
+      "order": 739
+    },
+    "741": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 21,
+      "subtitle": "\"The Iron Nail: Part 5\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9e/Captain_America_Vol_7_21.jpg/revision/latest/scale-to-width-down/132?cb=20140529173139",
+      "date": "2014-06-04T10:00:00.000Z",
+      "serie_id": 47,
+      "order": 740
+    },
+    "742": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 22,
+      "subtitle": "\"The Tomorrow Soldier: Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/24/Captain_America_Vol_7_22.jpg/revision/latest/scale-to-width-down/132?cb=20140626181851",
+      "date": "2014-07-02T10:00:00.000Z",
+      "serie_id": 47,
+      "order": 741
+    },
+    "743": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 23,
+      "subtitle": "\"The Tomorrow Soldier: Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/bc/Captain_America_Vol_7_23.jpg/revision/latest/scale-to-width-down/132?cb=20140813230058",
+      "date": "2014-08-13T10:00:00.000Z",
+      "serie_id": 47,
+      "order": 742
+    },
+    "744": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 24,
+      "subtitle": "\"The Tomorrow Soldier: Part 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d9/Captain_America_Vol_7_24.jpg/revision/latest/scale-to-width-down/132?cb=20140903213043",
+      "date": "2014-09-03T10:00:00.000Z",
+      "serie_id": 47,
+      "order": 743
+    },
+    "745": {
+      "title": "Captain America",
+      "vol": 7,
+      "no": 25,
+      "subtitle": "\"The Tomorrow Soldier: Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e6/Captain_America_Vol_7_25.jpg/revision/latest/scale-to-width-down/131?cb=20140930230322",
+      "date": "2014-10-01T10:00:00.000Z",
+      "serie_id": 47,
+      "order": 744
+    },
+    "746": {
+      "title": "All-New Captain America",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/03/All-New_Captain_America_Vol_1_1.jpg/revision/latest/scale-to-width-down/131?cb=20141107051913",
+      "date": "2014-11-12T11:00:00.000Z",
+      "serie_id": 48,
+      "order": 745
+    },
+    "747": {
+      "title": "All-New Captain America",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/ff/All-New_Captain_America_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20141213010120",
+      "date": "2014-12-17T11:00:00.000Z",
+      "serie_id": 48,
+      "order": 746
+    },
+    "748": {
+      "title": "All-New Captain America",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6b/All-New_Captain_America_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20150113213418",
+      "date": "2015-01-14T11:00:00.000Z",
+      "serie_id": 48,
+      "order": 747
+    },
+    "749": {
+      "title": "All-New Captain America",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/16/All-New_Captain_America_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20150219035423",
+      "date": "2015-02-18T11:00:00.000Z",
+      "serie_id": 48,
+      "order": 748
+    },
+    "750": {
+      "title": "All-New Captain America",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/46/All-New_Captain_America_Vol_1_5.jpg/revision/latest/scale-to-width-down/132?cb=20150315234905",
+      "date": "2015-03-18T11:00:00.000Z",
+      "serie_id": 48,
+      "order": 749
+    },
+    "751": {
+      "title": "All-New Captain America",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6c/All-New_Captain_America_Vol_1_6.jpg/revision/latest/scale-to-width-down/132?cb=20150428020351",
+      "date": "2015-04-29T10:00:00.000Z",
+      "serie_id": 48,
+      "order": 750
+    },
+    "752": {
+      "title": "Hail Hydra",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e3/Hail_Hydra_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20150712234403",
+      "date": "2015-07-15T10:00:00.000Z",
+      "serie_id": 49,
+      "order": 751
+    },
+    "753": {
+      "title": "Hail Hydra",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/38/Hail_Hydra_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20150828230856",
+      "date": "2015-09-02T10:00:00.000Z",
+      "serie_id": 49,
+      "order": 752
+    },
+    "754": {
+      "title": "Hail Hydra",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/35/Hail_Hydra_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20150925065420",
+      "date": "2015-09-30T10:00:00.000Z",
+      "serie_id": 49,
+      "order": 753
+    },
+    "755": {
+      "title": "Hail Hydra",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Futility\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/56/Hail_Hydra_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20151120075843",
+      "date": "2015-11-25T11:00:00.000Z",
+      "serie_id": 49,
+      "order": 754
+    },
+    "756": {
+      "title": "Wolverine",
+      "vol": 5,
+      "no": 1,
+      "subtitle": "\"Hunting Season - Part 1 of 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9b/Wolverine_Vol_5_1.jpg/revision/latest/scale-to-width-down/131?cb=20121120173607",
+      "date": "2013-03-13T11:00:00.000Z",
+      "serie_id": 27,
+      "order": 755
+    },
+    "757": {
+      "title": "Wolverine",
+      "vol": 5,
+      "no": 2,
+      "subtitle": "\"Hunting Season - Part 2 of 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0b/Wolverine_Vol_5_2.jpg/revision/latest/scale-to-width-down/132?cb=20130407192132",
+      "date": "2013-04-10T10:00:00.000Z",
+      "serie_id": 27,
+      "order": 756
+    },
+    "758": {
+      "title": "Wolverine",
+      "vol": 5,
+      "no": 3,
+      "subtitle": "\"Hunting Season - Part 3 of 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8e/Wolverine_Vol_5_3.jpg/revision/latest/scale-to-width-down/132?cb=20130508173524",
+      "date": "2013-05-08T10:00:00.000Z",
+      "serie_id": 27,
+      "order": 757
+    },
+    "759": {
+      "title": "Wolverine",
+      "vol": 5,
+      "no": 4,
+      "subtitle": "\"Hunting Season - Part 4 of 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0f/Wolverine_Vol_5_4.jpg/revision/latest/scale-to-width-down/132?cb=20130607080828",
+      "date": "2013-06-12T10:00:00.000Z",
+      "serie_id": 27,
+      "order": 758
+    },
+    "760": {
+      "title": "Wolverine",
+      "vol": 5,
+      "no": 5,
+      "subtitle": "\"Drowning Logan - Part 1 of 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/12/Wolverine_Vol_5_5_Textless.jpg/revision/latest/scale-to-width-down/132?cb=20130621161726",
+      "date": "2013-06-26T10:00:00.000Z",
+      "serie_id": 27,
+      "order": 759
+    },
+    "761": {
+      "title": "Wolverine",
+      "vol": 5,
+      "no": 6,
+      "subtitle": "\"Drowning Logan - Part 2 of 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/54/Wolverine_Vol_5_6.jpg/revision/latest/scale-to-width-down/132?cb=20130705121938",
+      "date": "2013-07-10T10:00:00.000Z",
+      "serie_id": 27,
+      "order": 760
+    },
+    "762": {
+      "title": "Wolverine",
+      "vol": 5,
+      "no": 7,
+      "subtitle": "\"Mortal\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b1/Wolverine_Vol_5_7.jpg/revision/latest/scale-to-width-down/128?cb=20130724193359",
+      "date": "2013-07-24T10:00:00.000Z",
+      "serie_id": 27,
+      "order": 761
+    },
+    "763": {
+      "title": "Wolverine",
+      "vol": 5,
+      "no": 8,
+      "subtitle": "\"Killable: Part 1 of 6\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d0/Wolverine_Vol_5_8.jpg/revision/latest/scale-to-width-down/132?cb=20130809133837",
+      "date": "2013-08-14T10:00:00.000Z",
+      "serie_id": 27,
+      "order": 762
+    },
+    "764": {
+      "title": "Wolverine",
+      "vol": 5,
+      "no": 9,
+      "subtitle": "\"Killable: Part 2 of 6\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4f/Wolverine_Vol_5_9.jpg/revision/latest/scale-to-width-down/132?cb=20130911174946",
+      "date": "2013-09-11T10:00:00.000Z",
+      "serie_id": 27,
+      "order": 763
+    },
+    "765": {
+      "title": "Wolverine",
+      "vol": 5,
+      "no": 10,
+      "subtitle": "\"Killable: Part 3 of 6\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5d/Wolverine_Vol_5_10.jpg/revision/latest/scale-to-width-down/132?cb=20131009173017",
+      "date": "2013-10-09T10:00:00.000Z",
+      "serie_id": 27,
+      "order": 764
+    },
+    "766": {
+      "title": "Wolverine",
+      "vol": 5,
+      "no": 11,
+      "subtitle": "\"Killable: Part 4 of 6\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/03/Wolverine_Vol_5_11.jpg/revision/latest/scale-to-width-down/132?cb=20131124051149",
+      "date": "2013-11-13T11:00:00.000Z",
+      "serie_id": 27,
+      "order": 765
+    },
+    "767": {
+      "title": "Wolverine",
+      "vol": 5,
+      "no": 12,
+      "subtitle": "\"Killable: Part 5 of 6\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/43/Wolverine_Vol_5_12.jpg/revision/latest/scale-to-width-down/132?cb=20131211183952",
+      "date": "2013-12-11T11:00:00.000Z",
+      "serie_id": 27,
+      "order": 766
+    },
+    "768": {
+      "title": "Wolverine",
+      "vol": 5,
+      "no": 13,
+      "subtitle": "\"Killable: Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8c/Wolverine_Vol_5_13.jpg/revision/latest/scale-to-width-down/132?cb=20140104035402",
+      "date": "2014-01-08T11:00:00.000Z",
+      "serie_id": 27,
+      "order": 767
+    },
+    "769": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 1,
+      "subtitle": "\"Nova\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f6/Nova_Vol_5_1.jpg/revision/latest/scale-to-width-down/132?cb=20121013232510",
+      "date": "2013-02-20T11:00:00.000Z",
+      "serie_id": 50,
+      "order": 768
+    },
+    "770": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 2,
+      "subtitle": "\"Chapter 2: Believe\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/40/Nova_Vol_5_2.jpg/revision/latest/scale-to-width-down/132?cb=20121013232517",
+      "date": "2013-03-20T11:00:00.000Z",
+      "serie_id": 50,
+      "order": 769
+    },
+    "771": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 3,
+      "subtitle": "\"Chapter 3: Train\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fa/Nova_Vol_5_3.jpg/revision/latest/scale-to-width-down/132?cb=20130414212806",
+      "date": "2013-04-17T10:00:00.000Z",
+      "serie_id": 50,
+      "order": 770
+    },
+    "772": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 4,
+      "subtitle": "\"Betrayal\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a0/Nova_Vol_5_4.jpg/revision/latest/scale-to-width-down/131?cb=20131108170550",
+      "date": "2013-05-15T10:00:00.000Z",
+      "serie_id": 50,
+      "order": 771
+    },
+    "773": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 5,
+      "subtitle": "\"Chapter 5: Victory\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/24/Nova_Vol_5_5.jpg/revision/latest/scale-to-width-down/132?cb=20130628213801",
+      "date": "2013-06-26T10:00:00.000Z",
+      "serie_id": 50,
+      "order": 772
+    },
+    "774": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 6,
+      "subtitle": "\"Chapter Six: Home Field\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0e/Nova_Vol_5_6.jpg/revision/latest/scale-to-width-down/132?cb=20130714071725",
+      "date": "2013-07-17T10:00:00.000Z",
+      "serie_id": 50,
+      "order": 773
+    },
+    "775": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 7,
+      "subtitle": "\"Chapter 7: Away game\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/58/Nova_Vol_5_7.jpg/revision/latest/scale-to-width-down/131?cb=20130831001936",
+      "date": "2013-08-21T10:00:00.000Z",
+      "serie_id": 50,
+      "order": 774
+    },
+    "776": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 8,
+      "subtitle": "\"Chapter 8: Infinity\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f9/Nova_Vol_5_8.jpg/revision/latest/scale-to-width-down/132?cb=20130920043825",
+      "date": "2013-09-25T10:00:00.000Z",
+      "serie_id": 50,
+      "order": 775
+    },
+    "777": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 9,
+      "subtitle": "\"Chapter 9: Infinity #2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/42/Nova_Vol_5_9.jpg/revision/latest/scale-to-width-down/132?cb=20131019000440",
+      "date": "2013-10-23T10:00:00.000Z",
+      "serie_id": 50,
+      "order": 776
+    },
+    "778": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 10,
+      "subtitle": "\"Chapter 10: Land and Launch\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/30/Nova_Vol_5_10.jpg/revision/latest/scale-to-width-down/132?cb=20131122132534",
+      "date": "2013-11-27T11:00:00.000Z",
+      "serie_id": 50,
+      "order": 777
+    },
+    "779": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 11,
+      "subtitle": "\"Chapter XI: Pawn Takes Night\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d8/Nova_Vol_5_11.jpg/revision/latest/scale-to-width-down/132?cb=20131212013953",
+      "date": "2013-12-11T11:00:00.000Z",
+      "serie_id": 50,
+      "order": 778
+    },
+    "780": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 12,
+      "subtitle": "\"Chapter XII: Help Wanted\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/ca/Nova_Vol_5_12.jpg/revision/latest/scale-to-width-down/132?cb=20140111043541",
+      "date": "2014-01-15T11:00:00.000Z",
+      "serie_id": 50,
+      "order": 779
+    },
+    "781": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 13,
+      "subtitle": "\"Chapter XIII: The Punch-Out at the Carefree Corral\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fb/Nova_Vol_5_13.NOW.jpg/revision/latest/scale-to-width-down/130?cb=20131108164928",
+      "date": "2014-02-19T11:00:00.000Z",
+      "serie_id": 50,
+      "order": 780
+    },
+    "782": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 14,
+      "subtitle": "\"Chapter XIV: Road to Knowhere\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2d/Nova_Vol_5_14.jpg/revision/latest/scale-to-width-down/132?cb=20140228060855",
+      "date": "2014-03-05T11:00:00.000Z",
+      "serie_id": 50,
+      "order": 781
+    },
+    "783": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 15,
+      "subtitle": "\"Chapter XV: Can we keep him?\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c7/Nova_Vol_5_15.jpg/revision/latest/scale-to-width-down/132?cb=20140317231646",
+      "date": "2014-03-19T11:00:00.000Z",
+      "serie_id": 50,
+      "order": 782
+    },
+    "784": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 16,
+      "subtitle": "\"Chapter XVI: Battle Skaarns\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4d/Nova_Vol_5_16.jpg/revision/latest/scale-to-width-down/132?cb=20140419000718",
+      "date": "2014-04-16T10:00:00.000Z",
+      "serie_id": 50,
+      "order": 783
+    },
+    "785": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 17,
+      "subtitle": "\"Chapter XVII: Home Alone\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/49/Nova_Vol_5_17.jpg/revision/latest/scale-to-width-down/132?cb=20140516060138",
+      "date": "2014-05-21T10:00:00.000Z",
+      "serie_id": 50,
+      "order": 784
+    },
+    "786": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 18,
+      "subtitle": "\"Chapter XVIII: El Día de los Muertos\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3d/Nova_Vol_5_18.jpg/revision/latest/scale-to-width-down/132?cb=20140613135128",
+      "date": "2014-06-18T10:00:00.000Z",
+      "serie_id": 50,
+      "order": 785
+    },
+    "787": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 19,
+      "subtitle": "\"Chapter XIX: Original Sin Part II\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/da/Nova_Vol_5_19.jpg/revision/latest/scale-to-width-down/132?cb=20140716181553",
+      "date": "2014-07-16T10:00:00.000Z",
+      "serie_id": 50,
+      "order": 786
+    },
+    "788": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 20,
+      "subtitle": "\"Chapter XX: The Truth About the Black Hats\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/ca/Nova_Vol_5_20.jpg/revision/latest/scale-to-width-down/132?cb=20140821185748",
+      "date": "2014-08-20T10:00:00.000Z",
+      "serie_id": 50,
+      "order": 787
+    },
+    "789": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 21,
+      "subtitle": "\"Chapter XXI: Moving Day\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/29/Nova_Vol_5_21.jpg/revision/latest/scale-to-width-down/132?cb=20140917224300",
+      "date": "2014-09-17T10:00:00.000Z",
+      "serie_id": 50,
+      "order": 788
+    },
+    "790": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 22,
+      "subtitle": "\"Chapter XXII: Children of the Candy Corn\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/bd/Nova_Vol_5_22.jpg/revision/latest/scale-to-width-down/132?cb=20141030215855",
+      "date": "2014-10-29T11:00:00.000Z",
+      "serie_id": 50,
+      "order": 789
+    },
+    "791": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 23,
+      "subtitle": "\"Chapter XXIII: Wouldn't Mama Be Proud\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c4/Nova_Vol_5_23.jpg/revision/latest/scale-to-width-down/132?cb=20141113223517",
+      "date": "2014-11-12T11:00:00.000Z",
+      "serie_id": 50,
+      "order": 790
+    },
+    "792": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 24,
+      "subtitle": "\"Chapter XXIV: Stupidity Tries\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2b/Nova_Vol_5_24.jpg/revision/latest/scale-to-width-down/132?cb=20141121214921",
+      "date": "2014-11-26T11:00:00.000Z",
+      "serie_id": 50,
+      "order": 791
+    },
+    "793": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 25,
+      "subtitle": "\"Chapter XXV: The Super-Saver Club Card\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/36/Nova_Vol_5_25.jpg/revision/latest/scale-to-width-down/132?cb=20141219202441",
+      "date": "2014-12-24T11:00:00.000Z",
+      "serie_id": 50,
+      "order": 792
+    },
+    "794": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 26,
+      "subtitle": "\"Chapter XXVI: Look What The Bus Dragged In\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/70/Nova_Vol_5_26.jpg/revision/latest/scale-to-width-down/132?cb=20150123164902",
+      "date": "2015-01-28T11:00:00.000Z",
+      "serie_id": 50,
+      "order": 793
+    },
+    "795": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 27,
+      "subtitle": "\"Chapter XXVII: Mr.Carnage Goes To Carefree\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/93/Nova_Vol_5_27.jpg/revision/latest/scale-to-width-down/132?cb=20150214005634",
+      "date": "2015-02-18T11:00:00.000Z",
+      "serie_id": 50,
+      "order": 794
+    },
+    "796": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 28,
+      "subtitle": "\"Chapter XXVIII: The Black Vortex\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/73/Nova_Vol_5_28.jpg/revision/latest/scale-to-width-down/132?cb=20150321011831",
+      "date": "2015-03-25T11:00:00.000Z",
+      "serie_id": 50,
+      "order": 795
+    },
+    "797": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 29,
+      "subtitle": "\"Chapter XXIX: A Sort Of Homecoming - Part I\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6b/Nova_Vol_5_29.jpg/revision/latest/scale-to-width-down/132?cb=20150410205539",
+      "date": "2015-04-15T10:00:00.000Z",
+      "serie_id": 50,
+      "order": 796
+    },
+    "798": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 30,
+      "subtitle": "\"Chapter XXX: A Sort of Homecoming, Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6c/Nova_Vol_5_30.jpg/revision/latest/scale-to-width-down/132?cb=20150426023216",
+      "date": "2015-04-29T10:00:00.000Z",
+      "serie_id": 50,
+      "order": 797
+    },
+    "799": {
+      "title": "Nova",
+      "vol": 5,
+      "no": 31,
+      "subtitle": "\"Chapter XXXI: A Sort of Homecoming, Finale\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/24/Nova_Vol_5_31.jpg/revision/latest/scale-to-width-down/132?cb=20150522185831",
+      "date": "2015-05-27T10:00:00.000Z",
+      "serie_id": 50,
+      "order": 798
     }
   },
   "meta": {
-    "nextIndex": 708
+    "nextIndex": 800
   }
 }
