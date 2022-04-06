@@ -39,17 +39,19 @@ const VolumesShow = ({ item, databaseName, notebooks, isPreview }: Props): JSX.E
       <TextField
         label={volumesMessages.notebooks}
         value={
-          <div className={classes.content}>
-            {notebooks.map((notebook) => (
-              <Link
-                key={notebook.id}
-                className={classes.previewElement}
-                href={{ pathname: routes.notebooks.id.show.href, query: { databaseName, id: notebook.id } }}
-              >
-                <Book {...notebook} />
-              </Link>
-            ))}
-          </div>
+          notebooks.length ? (
+            <div className={classes.content}>
+              {notebooks.map((notebook) => (
+                <Link
+                  key={notebook.id}
+                  className={classes.previewElement}
+                  href={{ pathname: routes.notebooks.id.show.href, query: { databaseName, id: notebook.id } }}
+                >
+                  <Book {...notebook} />
+                </Link>
+              ))}
+            </div>
+          ) : undefined
         }
       />
     </ShowWithImage>

@@ -33,7 +33,7 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) 
 
   let volumeNotebooks: Notebook[] = [];
 
-  if (item.notebooks_ids.length) {
+  if (item.notebooks_ids?.length) {
     const { notebooks } = await get(databaseName, 'notebooks');
     volumeNotebooks = item.notebooks_ids.map((notebookId) => ({
       ...notebooks[notebookId],

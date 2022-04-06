@@ -3,6 +3,7 @@ export default {
   post: 'Only POST requests allowed',
   delete: 'Only DELETE requests allowed',
   postAndDelete: 'Only POST and DELETE requests allowed',
+  genericNotFound: '{name} not found',
   notFound: 'Record of id "{id}" not found in table "{basename}"',
   conflict: 'Record of id "{id}" exists in table "{basename}',
   internal: 'Internal Error',

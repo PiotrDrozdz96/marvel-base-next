@@ -3,8 +3,9 @@ import { useInView } from 'react-intersection-observer';
 import classNames from 'classnames';
 
 import Link from '@components/Link';
+import { dimensions } from 'consts/presets';
 
-import { dimensions, loaders } from './Image.conts';
+import { loaders } from './Image.conts';
 import { Props } from './Image.types';
 import classes from './Image.module.scss';
 
@@ -18,7 +19,7 @@ const Image = ({ preset, src, alt, className, onError, onLoad, withLink, ...prop
   }, []);
 
   const [finalSrc, srcLink] = useMemo(() => {
-    let result = [src, src];
+    let result = [`/api/img/${preset}?url=${src}`, src];
 
     if (src) {
       loaders.find(({ regExp, loader }) => {

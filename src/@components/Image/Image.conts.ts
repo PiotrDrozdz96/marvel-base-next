@@ -1,19 +1,7 @@
-import { Preset, Dimension, ImageLoader } from './Image.types';
+import { Preset } from 'types/Image';
+import { dimensions } from 'consts/presets';
 
-export const dimensions: Record<Preset, Dimension> = {
-  thumb: {
-    width: 122,
-    height: 186,
-  },
-  mini: {
-    width: 66,
-    height: 93,
-  },
-  preview: {
-    width: 370,
-    height: 560,
-  },
-};
+import { ImageLoader } from './Image.types';
 
 const filmwebPresetMap: Record<Preset | 'full', 1 | 2 | 3 | 4 | 5> = {
   thumb: 2,
