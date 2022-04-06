@@ -373,9 +373,163 @@
       "global_order": 33,
       "notebooks_ids": [209,210,211,212,213],
       "event_id": 0
+    },
+    "35": {
+      "title": "All-New Wolverine",
+      "subtitle": "Tom 1 - Cztery siostry",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/all-new-wolverine/1/okladka-200.jpg",
+      "date": "2016-03-09T11:30:27.000Z",
+      "serie_id": 11,
+      "order": 34,
+      "global_order": 34,
+      "notebooks_ids": [218,219,220,221,222,223],
+      "event_id": 0
+    },
+    "36": {
+      "title": "All-New Wolverine",
+      "subtitle": "Tom 2 - II Wojna Domowa",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/all-new-wolverine/2/okladka-200.jpg",
+      "date": "2016-09-21T10:31:13.000Z",
+      "serie_id": 11,
+      "order": 35,
+      "global_order": 35,
+      "notebooks_ids": [224,225,226,227,228,229],
+      "event_id": 0
+    },
+    "37": {
+      "title": "All-New Wolverine",
+      "subtitle": "Tom 3 - Wróg publiczny II",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/all-new-wolverine/3/okladka-200.jpg",
+      "date": "2017-03-08T11:32:06.000Z",
+      "serie_id": 11,
+      "order": 36,
+      "global_order": 36,
+      "notebooks_ids": [230,231,232,233,234,235],
+      "event_id": 0
+    },
+    "38": {
+      "title": "All-New Wolverine",
+      "subtitle": "Tom 4 - Odporna",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/all-new-wolverine/4/okladka-200.jpg",
+      "date": "2017-09-13T10:32:54.000Z",
+      "serie_id": 11,
+      "order": 37,
+      "global_order": 37,
+      "notebooks_ids": [236,237,238,239,240,241],
+      "event_id": 0
+    },
+    "39": {
+      "title": "All-New Wolverine",
+      "subtitle": "Tom 5 - Sieroty X",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/all-new-wolverine/5/okladka-200.jpg",
+      "date": "2018-01-31T11:33:41.000Z",
+      "serie_id": 11,
+      "order": 38,
+      "global_order": 38,
+      "notebooks_ids": [242,243,244,245,246,247],
+      "event_id": 0
+    },
+    "40": {
+      "title": "All-New Wolverine",
+      "subtitle": "Tom 6 - Staruszka Laura",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/all-new-wolverine/6/okladka-200.jpg",
+      "date": "2018-05-16T10:34:48.000Z",
+      "serie_id": 11,
+      "order": 39,
+      "global_order": 39,
+      "notebooks_ids": [248,249,250,251,252],
+      "event_id": 0
+    },
+    "41": {
+      "title": "Avengers",
+      "subtitle": "Tom 1 - Siedmiu wspaniałych",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/all-new-1-/okladka-200.jpg",
+      "date": "2016-02-24T11:38:43.000Z",
+      "serie_id": 13,
+      "order": 0,
+      "global_order": 40,
+      "notebooks_ids": [253,254,255,256,257,258],
+      "event_id": 0
+    },
+    "42": {
+      "title": "Avengers",
+      "subtitle": "Tom 2 - Rodzinny interes",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/all-new-2/okladka-200.jpg",
+      "date": "2016-07-27T10:39:48.000Z",
+      "serie_id": 13,
+      "order": 2,
+      "global_order": 41,
+      "notebooks_ids": [261,262,263,264],
+      "event_id": 0
+    },
+    "43": {
+      "title": "Avengers",
+      "subtitle": "Tom 3 - II Wojna domowa",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/all-new-3/okladka-200.jpg",
+      "date": "2016-10-26T10:40:56.000Z",
+      "serie_id": 13,
+      "order": 3,
+      "global_order": 42,
+      "notebooks_ids": [265,266,267],
+      "event_id": 0
+    },
+    "44": {
+      "title": "Avengers",
+      "subtitle": "Impas. Atak na Pleasant Hill",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/impas-1/okladka-200.jpg",
+      "date": "2016-04-27T10:51:01.000Z",
+      "serie_id": 13,
+      "order": 1,
+      "global_order": 43,
+      "notebooks_ids": [268,269,271,274,273,259,278,279,281,275,277,272,260,276,280,270],
+      "event_id": 0
+    },
+    "45": {
+      "title": "Avengers",
+      "subtitle": "Tom 4 - I Wojna Kanga",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/all-new-4/okladka-200.jpg",
+      "date": "2017-04-05T10:58:44.000Z",
+      "serie_id": 13,
+      "order": 44,
+      "global_order": 44,
+      "notebooks_ids": [282,285,287,289,291,293],
+      "event_id": 0
+    },
+    "46": {
+      "title": "Avengers",
+      "subtitle": "Tom 5 - Tajne imperium",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/all-new-5/okladka-200.jpg",
+      "date": "2017-09-20T10:59:45.000Z",
+      "serie_id": 13,
+      "order": 45,
+      "global_order": 45,
+      "notebooks_ids": [294,295,296,297,298],
+      "event_id": 0
+    },
+    "47": {
+      "title": "Avengers",
+      "subtitle": "Tom 6 - Zderzenie światów",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/all-new-6/okladka-200.jpg",
+      "date": "2017-12-06T11:02:05.000Z",
+      "serie_id": 13,
+      "order": 46,
+      "global_order": 46,
+      "notebooks_ids": [299,300,301],
+      "event_id": 0
+    },
+    "48": {
+      "title": "Avengers",
+      "subtitle": "Nie poddamy się",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/nie-poddamy-sie/okladka-200.jpg",
+      "date": "2018-04-25T10:03:26.000Z",
+      "serie_id": 13,
+      "order": 47,
+      "global_order": 47,
+      "notebooks_ids": [302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317],
+      "event_id": 0
     }
   },
   "meta": {
-    "nextIndex": 35
+    "nextIndex": 49
   }
 }

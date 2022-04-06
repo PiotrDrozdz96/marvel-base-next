@@ -26,7 +26,7 @@
     },
     "5": {
       "name": "Extraordinary X-Men",
-      "order": 4,
+      "order": 3,
       "wave_id": 1,
       "is_filter": true
     },
@@ -59,9 +59,39 @@
       "order": 9,
       "wave_id": 3,
       "is_filter": false
+    },
+    "11": {
+      "name": "All-New Wolverine",
+      "order": 2,
+      "wave_id": 1,
+      "is_filter": true
+    },
+    "12": {
+      "name": "All-New, All-Different Avengers",
+      "order": 1,
+      "wave_id": 4,
+      "is_filter": false
+    },
+    "13": {
+      "name": "Avengers",
+      "order": 0,
+      "wave_id": 4,
+      "is_filter": true
+    },
+    "14": {
+      "name": "Avengers: Impas Atak na Pleasant Hill",
+      "order": 13,
+      "wave_id": 4,
+      "is_filter": false
+    },
+    "15": {
+      "name": "Captain America: Sam Wilson",
+      "order": 14,
+      "wave_id": 2,
+      "is_filter": false
     }
   },
   "meta": {
-    "nextIndex": 11
+    "nextIndex": 16
   }
 }

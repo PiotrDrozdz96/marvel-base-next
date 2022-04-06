@@ -2169,9 +2169,1009 @@
       "date": "2018-01-17T11:00:00.000Z",
       "serie_id": 10,
       "order": 216
+    },
+    "218": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/39/All-New_Wolverine_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20151106072527",
+      "date": "2015-11-11T11:00:00.000Z",
+      "serie_id": 11,
+      "order": 217
+    },
+    "219": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/ca/All-New_Wolverine_Vol_1_2.jpg/revision/latest/scale-to-width-down/131?cb=20151119220542",
+      "date": "2015-11-25T11:00:00.000Z",
+      "serie_id": 11,
+      "order": 218
+    },
+    "220": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/01/All-New_Wolverine_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20151225055556",
+      "date": "2015-12-30T11:00:00.000Z",
+      "serie_id": 11,
+      "order": 219
+    },
+    "221": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/69/All-New_Wolverine_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20160108065344",
+      "date": "2016-01-13T11:00:00.000Z",
+      "serie_id": 11,
+      "order": 220
+    },
+    "222": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/77/All-New_Wolverine_Vol_1_5.jpg/revision/latest/scale-to-width-down/132?cb=20160204134817",
+      "date": "2016-02-10T11:00:00.000Z",
+      "serie_id": 11,
+      "order": 221
+    },
+    "223": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/46/All-New_Wolverine_Vol_1_6.jpg/revision/latest/scale-to-width-down/132?cb=20160304083043",
+      "date": "2016-03-09T11:00:00.000Z",
+      "serie_id": 11,
+      "order": 222
+    },
+    "224": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 7,
+      "subtitle": "\"Father Lost\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cf/All-New_Wolverine_Vol_1_7.jpg/revision/latest/scale-to-width-down/132?cb=20160421230217",
+      "date": "2016-04-27T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 223
+    },
+    "225": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 8,
+      "subtitle": "\"The Box: Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d0/All-New_Wolverine_Vol_1_8.jpg/revision/latest/scale-to-width-down/132?cb=20160513052132",
+      "date": "2016-05-18T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 224
+    },
+    "226": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 9,
+      "subtitle": "\"The Box: Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/46/All-New_Wolverine_Vol_1_9.jpg/revision/latest/scale-to-width-down/132?cb=20160526172304",
+      "date": "2016-06-01T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 225
+    },
+    "227": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 10,
+      "subtitle": "\"Destiny: Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f3/All-New_Wolverine_Vol_1_10.jpg/revision/latest/scale-to-width-down/132?cb=20160714051257",
+      "date": "2016-07-20T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 226
+    },
+    "228": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 11,
+      "subtitle": "\"Destiny: Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/41/All-New_Wolverine_Vol_1_11.jpg/revision/latest/scale-to-width-down/132?cb=20160812060948",
+      "date": "2016-08-17T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 227
+    },
+    "229": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 12,
+      "subtitle": "\"Destiny: Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/01/All-New_Wolverine_Vol_1_12.jpg/revision/latest/scale-to-width-down/132?cb=20160916105344",
+      "date": "2016-09-21T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 228
+    },
+    "230": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 13,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7b/All-New_Wolverine_Vol_1_13.jpg/revision/latest/scale-to-width-down/131?cb=20160929073230",
+      "date": "2016-10-05T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 229
+    },
+    "231": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 14,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/51/All-New_Wolverine_Vol_1_14.jpg/revision/latest/scale-to-width-down/132?cb=20161112012558",
+      "date": "2016-11-16T11:00:00.000Z",
+      "serie_id": 11,
+      "order": 230
+    },
+    "232": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 15,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c9/All-New_Wolverine_Vol_1_15.jpg/revision/latest/scale-to-width-down/132?cb=20161202073512",
+      "date": "2016-12-07T11:00:00.000Z",
+      "serie_id": 11,
+      "order": 231
+    },
+    "233": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 16,
+      "subtitle": "\"Enemy of the State II: Part Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9b/All-New_Wolverine_Vol_1_16.jpg/revision/latest/scale-to-width-down/132?cb=20170105185930",
+      "date": "2017-01-11T11:00:00.000Z",
+      "serie_id": 11,
+      "order": 232
+    },
+    "234": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 17,
+      "subtitle": "\"Enemy of the State II: Part Five\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6a/All-New_Wolverine_Vol_1_17.jpg/revision/latest/scale-to-width-down/132?cb=20170203084400",
+      "date": "2017-02-08T11:00:00.000Z",
+      "serie_id": 11,
+      "order": 233
+    },
+    "235": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 18,
+      "subtitle": "\"Enemy of the State II: Part Six\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fc/All-New_Wolverine_Vol_1_18.jpg/revision/latest/scale-to-width-down/132?cb=20170303105727",
+      "date": "2017-03-08T11:00:00.000Z",
+      "serie_id": 11,
+      "order": 234
+    },
+    "236": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 19,
+      "subtitle": "\"Immune: Part 1 of 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/56/All-New_Wolverine_Vol_1_19.jpg/revision/latest/scale-to-width-down/132?cb=20170331092914",
+      "date": "2017-04-05T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 235
+    },
+    "237": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 20,
+      "subtitle": "\"Immune: Part 2 of 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/51/All-New_Wolverine_Vol_1_20.jpg/revision/latest/scale-to-width-down/132?cb=20170505011953",
+      "date": "2017-05-10T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 236
+    },
+    "238": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 21,
+      "subtitle": "\"Immune: Part 3 of 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c9/All-New_Wolverine_Vol_1_21.jpg/revision/latest/scale-to-width-down/132?cb=20170609120008",
+      "date": "2017-06-14T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 237
+    },
+    "239": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 22,
+      "subtitle": "\"Hive: Part 1 of 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b3/All-New_Wolverine_Vol_1_22.jpg/revision/latest/scale-to-width-down/132?cb=20170630075104",
+      "date": "2017-07-05T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 238
+    },
+    "240": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 23,
+      "subtitle": "\"Hive: Part 2 of 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2a/All-New_Wolverine_Vol_1_23.jpg/revision/latest/scale-to-width-down/132?cb=20170804051139",
+      "date": "2017-08-09T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 239
+    },
+    "241": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 24,
+      "subtitle": "\"Hive: Part 3 of 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/24/All-New_Wolverine_Vol_1_24.jpg/revision/latest/scale-to-width-down/132?cb=20170908112709",
+      "date": "2017-09-13T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 240
+    },
+    "242": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 25,
+      "subtitle": "\"Orphans of X: Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a1/All-New_Wolverine_Vol_1_25.jpg/revision/latest/scale-to-width-down/132?cb=20171011211627",
+      "date": "2017-10-11T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 241
+    },
+    "243": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 26,
+      "subtitle": "\"Orphans of X: Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e1/All-New_Wolverine_Vol_1_26.jpg/revision/latest/scale-to-width-down/130?cb=20171007172411",
+      "date": "2017-10-25T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 242
+    },
+    "244": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 27,
+      "subtitle": "\"Orphans of X: Part 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/93/All-New_Wolverine_Vol_1_27.jpg/revision/latest/scale-to-width-down/132?cb=20171117071642",
+      "date": "2017-11-22T11:00:00.000Z",
+      "serie_id": 11,
+      "order": 243
+    },
+    "245": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 28,
+      "subtitle": "\"Orphans of X: Part 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/bf/All-New_Wolverine_Vol_1_28.jpg/revision/latest/scale-to-width-down/132?cb=20171208072117",
+      "date": "2017-12-13T11:00:00.000Z",
+      "serie_id": 11,
+      "order": 244
+    },
+    "246": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 29,
+      "subtitle": "\"Orphans of X: Part 5\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f8/All-New_Wolverine_Vol_1_29.jpg/revision/latest/scale-to-width-down/130?cb=20180116015427",
+      "date": "2018-01-17T11:00:00.000Z",
+      "serie_id": 11,
+      "order": 245
+    },
+    "247": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 30,
+      "subtitle": "\"Orphans of X: Part 6\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e3/All-New_Wolverine_Vol_1_30.jpg/revision/latest/scale-to-width-down/130?cb=20180128003226",
+      "date": "2018-01-31T11:00:00.000Z",
+      "serie_id": 11,
+      "order": 246
+    },
+    "248": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 31,
+      "subtitle": "\"Honey Badger & Deadpool\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a4/All-New_Wolverine_Vol_1_31.jpg/revision/latest/scale-to-width-down/132?cb=20180223124614",
+      "date": "2018-02-28T11:00:00.000Z",
+      "serie_id": 11,
+      "order": 247
+    },
+    "249": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 32,
+      "subtitle": "\"The Orphans\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9a/All-New_Wolverine_Vol_1_32.jpg/revision/latest/scale-to-width-down/132?cb=20180309004431",
+      "date": "2018-03-14T11:00:00.000Z",
+      "serie_id": 11,
+      "order": 248
+    },
+    "250": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 33,
+      "subtitle": "\"Old Woman Laura: Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2e/All-New_Wolverine_Vol_1_33.jpg/revision/latest/scale-to-width-down/132?cb=20180330060103",
+      "date": "2018-04-04T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 249
+    },
+    "251": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 34,
+      "subtitle": "\"Old Woman Laura: Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/08/All-New_Wolverine_Vol_1_34.jpg/revision/latest/scale-to-width-down/132?cb=20180420131658",
+      "date": "2018-04-25T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 250
+    },
+    "252": {
+      "title": "All-New Wolverine",
+      "vol": 1,
+      "no": 35,
+      "subtitle": "\"Old Woman Laura: Part 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a5/All-New_Wolverine_Vol_1_35.jpg/revision/latest/scale-to-width-down/130?cb=20180516063449",
+      "date": "2018-05-16T10:00:00.000Z",
+      "serie_id": 11,
+      "order": 251
+    },
+    "253": {
+      "title": "All-New, All-Different Avengers",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Assemble!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5e/All-New%2C_All-Different_Avengers_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20151106063110",
+      "date": "2015-11-11T11:00:00.000Z",
+      "serie_id": 12,
+      "order": 252
+    },
+    "254": {
+      "title": "All-New, All-Different Avengers",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e2/All-New%2C_All-Different_Avengers_Vol_1_2.jpg/revision/latest/scale-to-width-down/131?cb=20151127053928",
+      "date": "2015-12-02T11:00:00.000Z",
+      "serie_id": 12,
+      "order": 253
+    },
+    "255": {
+      "title": "All-New, All-Different Avengers",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e5/All-New%2C_All-Different_Avengers_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20160107195327",
+      "date": "2016-01-13T11:00:00.000Z",
+      "serie_id": 12,
+      "order": 254
+    },
+    "256": {
+      "title": "All-New, All-Different Avengers",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f7/All-New%2C_All-Different_Avengers_Vol_1_4.jpg/revision/latest/scale-to-width-down/131?cb=20160121122611",
+      "date": "2016-01-27T11:00:00.000Z",
+      "serie_id": 12,
+      "order": 255
+    },
+    "257": {
+      "title": "All-New, All-Different Avengers",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6f/All-New%2C_All-Different_Avengers_Vol_1_5.jpg/revision/latest/scale-to-width-down/132?cb=20160204234518",
+      "date": "2016-02-10T11:00:00.000Z",
+      "serie_id": 12,
+      "order": 256
+    },
+    "258": {
+      "title": "All-New, All-Different Avengers",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/36/All-New%2C_All-Different_Avengers_Vol_1_6.jpg/revision/latest/scale-to-width-down/132?cb=20160218144441",
+      "date": "2016-02-24T11:00:00.000Z",
+      "serie_id": 12,
+      "order": 257
+    },
+    "259": {
+      "title": "All-New, All-Different Avengers",
+      "vol": 1,
+      "no": 7,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/de/All-New%2C_All-Different_Avengers_Vol_1_7.jpg/revision/latest/scale-to-width-down/132?cb=20160317164744",
+      "date": "2016-03-23T11:00:00.000Z",
+      "serie_id": 12,
+      "order": 258
+    },
+    "260": {
+      "title": "All-New, All-Different Avengers",
+      "vol": 1,
+      "no": 8,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7b/All-New%2C_All-Different_Avengers_Vol_1_8.jpg/revision/latest/scale-to-width-down/132?cb=20160407172915",
+      "date": "2016-04-13T10:00:00.000Z",
+      "serie_id": 12,
+      "order": 259
+    },
+    "261": {
+      "title": "All-New, All-Different Avengers",
+      "vol": 1,
+      "no": 9,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/06/All-New%2C_All-Different_Avengers_Vol_1_9.jpg/revision/latest/scale-to-width-down/132?cb=20160414174242",
+      "date": "2016-05-11T10:00:00.000Z",
+      "serie_id": 12,
+      "order": 260
+    },
+    "262": {
+      "title": "All-New, All-Different Avengers",
+      "vol": 1,
+      "no": 10,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/38/All-New%2C_All-Different_Avengers_Vol_1_10.jpg/revision/latest/scale-to-width-down/131?cb=20160526194455",
+      "date": "2016-06-01T10:00:00.000Z",
+      "serie_id": 12,
+      "order": 261
+    },
+    "263": {
+      "title": "All-New, All-Different Avengers",
+      "vol": 1,
+      "no": 11,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8c/All-New%2C_All-Different_Avengers_Vol_1_11.jpg/revision/latest/scale-to-width-down/131?cb=20160623184944",
+      "date": "2016-06-29T10:00:00.000Z",
+      "serie_id": 12,
+      "order": 262
+    },
+    "264": {
+      "title": "All-New, All-Different Avengers",
+      "vol": 1,
+      "no": 12,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cc/All-New%2C_All-Different_Avengers_Vol_1_12.jpg/revision/latest/scale-to-width-down/132?cb=20160722074232",
+      "date": "2016-07-27T10:00:00.000Z",
+      "serie_id": 12,
+      "order": 263
+    },
+    "265": {
+      "title": "All-New, All-Different Avengers",
+      "vol": 1,
+      "no": 13,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f9/All-New%2C_All-Different_Avengers_Vol_1_13.jpg/revision/latest/scale-to-width-down/131?cb=20160804231738",
+      "date": "2016-08-10T10:00:00.000Z",
+      "serie_id": 12,
+      "order": 264
+    },
+    "266": {
+      "title": "All-New, All-Different Avengers",
+      "vol": 1,
+      "no": 14,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/37/All-New%2C_All-Different_Avengers_Vol_1_14.jpg/revision/latest/scale-to-width-down/132?cb=20160901151856",
+      "date": "2016-09-07T10:00:00.000Z",
+      "serie_id": 12,
+      "order": 265
+    },
+    "267": {
+      "title": "All-New, All-Different Avengers",
+      "vol": 1,
+      "no": 15,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e0/All-New%2C_All-Different_Avengers_Vol_1_15.jpg/revision/latest/scale-to-width-down/132?cb=20161020160355",
+      "date": "2016-10-26T10:00:00.000Z",
+      "serie_id": 12,
+      "order": 266
+    },
+    "268": {
+      "title": "Avengers Standoff: Welcome to Pleasant Hill",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/00/Avengers_Standoff_Welcome_to_Pleasant_Hill_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20160211195022",
+      "date": "2016-02-17T11:00:00.000Z",
+      "serie_id": 14,
+      "order": 0
+    },
+    "269": {
+      "title": "Avengers Standoff: Assault On Pleasant Hill Alpha",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8b/Avengers_Standoff_Assault_On_Pleasant_Hill_Alpha_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20160225193500",
+      "date": "2016-03-02T11:00:00.000Z",
+      "serie_id": 14,
+      "order": 1
+    },
+    "270": {
+      "title": "Avengers Standoff: Assault On Pleasant Hill Omega",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/28/Avengers_Standoff_Assault_On_Pleasant_Hill_Omega_Vol_1_1.jpg/revision/latest/scale-to-width-down/134?cb=20160119184528",
+      "date": "2016-04-27T10:00:00.000Z",
+      "serie_id": 14,
+      "order": 2
+    },
+    "271": {
+      "title": "Agents of S.H.I.E.L.D.",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"The Coulson Protocols - Episode Three: Free Fall\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/97/Agents_of_S.H.I.E.L.D._Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20160303171924",
+      "date": "2016-03-09T11:00:00.000Z",
+      "serie_id": 14,
+      "order": 3
+    },
+    "272": {
+      "title": "Agents of S.H.I.E.L.D.",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"The Coulson Protocols - Episode Four: Reversals of Fortune\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/22/Agents_of_S.H.I.E.L.D._Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20160408044109",
+      "date": "2016-04-13T10:00:00.000Z",
+      "serie_id": 14,
+      "order": 4
+    },
+    "273": {
+      "title": "Uncanny Avengers",
+      "vol": 3,
+      "no": 7,
+      "subtitle": "\"The Hills are Alive... with the Sound of Gunfire\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5b/Uncanny_Avengers_Vol_3_7.jpg/revision/latest/scale-to-width-down/329?cb=20160303141012",
+      "date": "2016-03-09T11:00:00.000Z",
+      "serie_id": 14,
+      "order": 5
+    },
+    "274": {
+      "title": "New Avengers",
+      "vol": 4,
+      "no": 8,
+      "subtitle": "\"Of Course, You Realize...\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/78/New_Avengers_Vol_4_8.jpg/revision/latest/scale-to-width-down/132?cb=20160317171254",
+      "date": "2016-03-23T11:00:00.000Z",
+      "serie_id": 14,
+      "order": 7
+    },
+    "275": {
+      "title": "New Avengers",
+      "vol": 4,
+      "no": 9,
+      "subtitle": "\"Up From The Depths\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/bf/New_Avengers_Vol_4_9.jpg/revision/latest/scale-to-width-down/131?cb=20160331203356",
+      "date": "2016-04-06T10:00:00.000Z",
+      "serie_id": 14,
+      "order": 8
+    },
+    "276": {
+      "title": "New Avengers",
+      "vol": 4,
+      "no": 10,
+      "subtitle": "\"Everybody Dance Now\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b9/New_Avengers_Vol_4_10.jpg/revision/latest/scale-to-width-down/131?cb=20160414193622",
+      "date": "2016-04-20T10:00:00.000Z",
+      "serie_id": 14,
+      "order": 9
+    },
+    "277": {
+      "title": "Illuminati",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/24/Illuminati_Vol_1_6.jpg/revision/latest/scale-to-width-down/329?cb=20160408083621",
+      "date": "2016-04-13T10:00:00.000Z",
+      "serie_id": 14,
+      "order": 10
+    },
+    "278": {
+      "title": "Howling Commandos of S.H.I.E.L.D.",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3d/Howling_Commandos_of_S.H.I.E.L.D._Vol_1_6.jpg/revision/latest/scale-to-width-down/329?cb=20160318065140",
+      "date": "2016-03-23T11:00:00.000Z",
+      "serie_id": 14,
+      "order": 11
+    },
+    "279": {
+      "title": "Captain America: Sam Wilson",
+      "vol": 1,
+      "no": 7,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8b/Captain_America_Sam_Wilson_Vol_1_7.jpg/revision/latest/scale-to-width-down/130?cb=20160307163406",
+      "date": "2016-03-30T10:00:00.000Z",
+      "serie_id": 15,
+      "order": 278
+    },
+    "280": {
+      "title": "Captain America: Sam Wilson",
+      "vol": 1,
+      "no": 8,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/93/Captain_America_Sam_Wilson_Vol_1_8.jpg/revision/latest/scale-to-width-down/132?cb=20160414143338",
+      "date": "2016-04-20T10:00:00.000Z",
+      "serie_id": 15,
+      "order": 279
+    },
+    "281": {
+      "title": "Uncanny Avengers",
+      "vol": 3,
+      "no": 8,
+      "subtitle": "\"Student Debt\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0e/Uncanny_Avengers_Vol_3_8.jpg/revision/latest/scale-to-width-down/329?cb=20160331210906",
+      "date": "2016-04-06T10:00:00.000Z",
+      "serie_id": 14,
+      "order": 6
+    },
+    "282": {
+      "title": "Avengers",
+      "vol": 7,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/21/Avengers_Vol_7_1.jpg/revision/latest/scale-to-width-down/132?cb=20161028043344",
+      "date": "2016-11-02T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 281
+    },
+    "283": {
+      "title": "Avengers",
+      "vol": 7,
+      "no": 1.1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fa/Avengers_Vol_7_1.1.jpg/revision/latest/scale-to-width-down/132?cb=20161104064749",
+      "date": "2016-11-09T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 282
+    },
+    "284": {
+      "title": "Avengers",
+      "vol": 7,
+      "no": 1.2,
+      "subtitle": "\"Minor Monster, Major Monster\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ac/Avengers_Vol_7_1.MU.jpg/revision/latest/scale-to-width-down/131?cb=20170120052634",
+      "date": "2017-01-25T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 283
+    },
+    "285": {
+      "title": "Avengers",
+      "vol": 7,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1b/Avengers_Vol_7_2.jpg/revision/latest/scale-to-width-down/132?cb=20161201211223",
+      "date": "2016-12-07T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 284
+    },
+    "286": {
+      "title": "Avengers",
+      "vol": 7,
+      "no": 2.1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/72/Avengers_Vol_7_2.1.jpg/revision/latest/scale-to-width-down/132?cb=20161216080452",
+      "date": "2016-12-21T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 285
+    },
+    "287": {
+      "title": "Avengers",
+      "vol": 7,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/71/Avengers_Vol_7_3.jpg/revision/latest/scale-to-width-down/132?cb=20161230063234",
+      "date": "2017-01-04T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 286
+    },
+    "288": {
+      "title": "Avengers",
+      "vol": 7,
+      "no": 3.1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b8/Avengers_Vol_7_3.1.jpg/revision/latest/scale-to-width-down/132?cb=20170113130439",
+      "date": "2017-01-18T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 287
+    },
+    "289": {
+      "title": "Avengers",
+      "vol": 7,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/18/Avengers_Vol_7_4.jpg/revision/latest/scale-to-width-down/132?cb=20170127091520",
+      "date": "2017-02-01T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 288
+    },
+    "290": {
+      "title": "Avengers",
+      "vol": 7,
+      "no": 4.1,
+      "subtitle": "\"Showdown with the Frightful Four!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/74/Avengers_Vol_7_4.1.jpg/revision/latest/scale-to-width-down/132?cb=20170217092700",
+      "date": "2017-02-22T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 289
+    },
+    "291": {
+      "title": "Avengers",
+      "vol": 7,
+      "no": 5,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/84/Avengers_Vol_7_5.jpg/revision/latest/scale-to-width-down/132?cb=20170224065145",
+      "date": "2017-03-01T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 290
+    },
+    "292": {
+      "title": "Avengers",
+      "vol": 7,
+      "no": 5.1,
+      "subtitle": "\"Death Be Not Proud!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a0/Avengers_Vol_7_5.1.jpg/revision/latest/scale-to-width-down/132?cb=20170324083610",
+      "date": "2017-03-29T10:00:00.000Z",
+      "serie_id": 13,
+      "order": 291
+    },
+    "293": {
+      "title": "Avengers",
+      "vol": 7,
+      "no": 6,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b6/Avengers_Vol_7_6.jpg/revision/latest/scale-to-width-down/132?cb=20170331073119",
+      "date": "2017-04-05T10:00:00.000Z",
+      "serie_id": 13,
+      "order": 292
+    },
+    "294": {
+      "title": "Avengers",
+      "vol": 7,
+      "no": 7,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/38/Avengers_Vol_7_7.jpg/revision/latest/scale-to-width-down/130?cb=20170509010035",
+      "date": "2017-05-10T10:00:00.000Z",
+      "serie_id": 13,
+      "order": 293
+    },
+    "295": {
+      "title": "Avengers",
+      "vol": 7,
+      "no": 8,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c6/Avengers_Vol_7_8.jpg/revision/latest/scale-to-width-down/132?cb=20170602122749",
+      "date": "2017-06-07T10:00:00.000Z",
+      "serie_id": 13,
+      "order": 294
+    },
+    "296": {
+      "title": "Avengers",
+      "vol": 7,
+      "no": 9,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f7/Avengers_Vol_7_9.jpg/revision/latest/scale-to-width-down/132?cb=20170629154512",
+      "date": "2017-07-05T10:00:00.000Z",
+      "serie_id": 13,
+      "order": 295
+    },
+    "297": {
+      "title": "Avengers",
+      "vol": 7,
+      "no": 10,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/01/Avengers_Vol_7_10.jpg/revision/latest/scale-to-width-down/132?cb=20170727194200",
+      "date": "2017-08-02T10:00:00.000Z",
+      "serie_id": 13,
+      "order": 296
+    },
+    "298": {
+      "title": "Avengers",
+      "vol": 7,
+      "no": 11,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/27/Avengers_Vol_7_11.jpg/revision/latest/scale-to-width-down/132?cb=20170921192524",
+      "date": "2017-09-20T10:00:00.000Z",
+      "serie_id": 13,
+      "order": 297
+    },
+    "299": {
+      "title": "Avengers",
+      "vol": 1,
+      "no": 672,
+      "subtitle": "\"Worlds Collide: Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/ec/Avengers_Vol_1_672.jpg/revision/latest/scale-to-width-down/130?cb=20170923184446",
+      "date": "2017-10-04T10:00:00.000Z",
+      "serie_id": 13,
+      "order": 298
+    },
+    "300": {
+      "title": "Avengers",
+      "vol": 1,
+      "no": 673,
+      "subtitle": "\"Worlds Collide: Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7f/Avengers_Vol_1_673.jpg/revision/latest/scale-to-width-down/131?cb=20171027021959",
+      "date": "2017-11-01T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 299
+    },
+    "301": {
+      "title": "Avengers",
+      "vol": 1,
+      "no": 674,
+      "subtitle": "\"Worlds Collide: Part Five\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/49/Avengers_Vol_1_674.jpg/revision/latest/scale-to-width-down/132?cb=20171130191805",
+      "date": "2017-12-06T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 300
+    },
+    "302": {
+      "title": "Avengers",
+      "vol": 1,
+      "no": 675,
+      "subtitle": "\"Avengers: No Surrender\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fb/Avengers_Vol_1_675.jpg/revision/latest/scale-to-width-down/130?cb=20180101154144",
+      "date": "2018-01-10T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 301
+    },
+    "303": {
+      "title": "Avengers",
+      "vol": 1,
+      "no": 676,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/37/Avengers_Vol_1_676.jpg/revision/latest/scale-to-width-down/130?cb=20180104163533",
+      "date": "2018-01-17T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 302
+    },
+    "304": {
+      "title": "Avengers",
+      "vol": 1,
+      "no": 677,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a1/Avengers_Vol_1_677.jpg/revision/latest/scale-to-width-down/132?cb=20180120184724",
+      "date": "2018-01-24T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 303
+    },
+    "305": {
+      "title": "Avengers",
+      "vol": 1,
+      "no": 678,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/43/Avengers_Vol_1_678.jpg/revision/latest/scale-to-width-down/130?cb=20180119000823",
+      "date": "2018-01-31T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 304
+    },
+    "306": {
+      "title": "Avengers",
+      "vol": 1,
+      "no": 679,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/96/Avengers_Vol_1_679.jpg/revision/latest/scale-to-width-down/132?cb=20180202211430",
+      "date": "2018-02-07T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 305
+    },
+    "307": {
+      "title": "Avengers",
+      "vol": 1,
+      "no": 680,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/07/Avengers_Vol_1_680.jpg/revision/latest/scale-to-width-down/130?cb=20180202164402",
+      "date": "2018-02-14T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 306
+    },
+    "308": {
+      "title": "Avengers",
+      "vol": 1,
+      "no": 681,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/01/Avengers_Vol_1_681.jpg/revision/latest/scale-to-width-down/130?cb=20180202164249",
+      "date": "2018-02-21T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 307
+    },
+    "309": {
+      "title": "Avengers",
+      "vol": 1,
+      "no": 682,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e3/Avengers_Vol_1_682.jpg/revision/latest/scale-to-width-down/132?cb=20180223104317",
+      "date": "2018-02-28T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 308
+    },
+    "310": {
+      "title": "Avengers",
+      "vol": 1,
+      "no": 683,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/13/Avengers_Vol_1_683.jpg/revision/latest/scale-to-width-down/130?cb=20171212193439",
+      "date": "2018-03-07T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 309
+    },
+    "311": {
+      "title": "Avengers",
+      "vol": 1,
+      "no": 684,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/83/Avengers_Vol_1_684.jpg/revision/latest/scale-to-width-down/132?cb=20180313110300",
+      "date": "2018-03-14T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 310
+    },
+    "312": {
+      "title": "Avengers",
+      "vol": 1,
+      "no": 685,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/de/Avengers_Vol_1_685.jpg/revision/latest/scale-to-width-down/131?cb=20180316043411",
+      "date": "2018-03-21T11:00:00.000Z",
+      "serie_id": 13,
+      "order": 311
+    },
+    "313": {
+      "title": "Avengers",
+      "vol": 1,
+      "no": 686,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/62/Avengers_Vol_1_686.jpg/revision/latest/scale-to-width-down/132?cb=20180323054742",
+      "date": "2018-03-28T10:00:00.000Z",
+      "serie_id": 13,
+      "order": 312
+    },
+    "314": {
+      "title": "Avengers",
+      "vol": 1,
+      "no": 687,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/dd/Avengers_Vol_1_687.jpg/revision/latest/scale-to-width-down/132?cb=20180330044145",
+      "date": "2018-04-04T10:00:00.000Z",
+      "serie_id": 13,
+      "order": 313
+    },
+    "315": {
+      "title": "Avengers",
+      "vol": 1,
+      "no": 688,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/07/Avengers_Vol_1_688.jpg/revision/latest/scale-to-width-down/132?cb=20180406013925",
+      "date": "2018-04-11T10:00:00.000Z",
+      "serie_id": 13,
+      "order": 314
+    },
+    "316": {
+      "title": "Avengers",
+      "vol": 1,
+      "no": 689,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/67/Avengers_Vol_1_689.jpg/revision/latest/scale-to-width-down/130?cb=20180412174327",
+      "date": "2018-04-18T10:00:00.000Z",
+      "serie_id": 13,
+      "order": 315
+    },
+    "317": {
+      "title": "Avengers",
+      "vol": 1,
+      "no": 690,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/65/Avengers_Vol_1_690.jpg/revision/latest/scale-to-width-down/132?cb=20180419222123",
+      "date": "2018-04-25T10:00:00.000Z",
+      "serie_id": 13,
+      "order": 316
     }
   },
   "meta": {
-    "nextIndex": 218
+    "nextIndex": 318
   }
 }
