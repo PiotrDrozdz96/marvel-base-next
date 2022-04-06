@@ -47,7 +47,7 @@
       "date": "2014-08-13T10:25:36.000Z",
       "serie_id": 1,
       "order": 4,
-      "global_order": 94,
+      "global_order": 99,
       "notebooks_ids": [24,25,26,27,28,29]
     },
     "6": {
@@ -57,7 +57,7 @@
       "date": "2015-02-11T11:26:32.000Z",
       "serie_id": 1,
       "order": 5,
-      "global_order": 95,
+      "global_order": 100,
       "notebooks_ids": [30,31,32,33,34,35]
     },
     "7": {
@@ -67,7 +67,7 @@
       "date": "2015-06-03T10:27:32.000Z",
       "serie_id": 1,
       "order": 6,
-      "global_order": 114,
+      "global_order": 121,
       "notebooks_ids": [36,37,38,39,40]
     },
     "8": {
@@ -108,7 +108,7 @@
       "date": "2014-03-26T11:34:50.000Z",
       "serie_id": 2,
       "order": 10,
-      "global_order": 75,
+      "global_order": 79,
       "notebooks_ids": [69,52,22,53,23,54]
     },
     "12": {
@@ -118,7 +118,7 @@
       "date": "2014-07-30T10:40:30.000Z",
       "serie_id": 2,
       "order": 11,
-      "global_order": 76,
+      "global_order": 80,
       "notebooks_ids": [55,56,57,58]
     },
     "13": {
@@ -128,7 +128,7 @@
       "date": "2015-01-21T11:41:26.000Z",
       "serie_id": 2,
       "order": 12,
-      "global_order": 88,
+      "global_order": 93,
       "notebooks_ids": [59,60,61,62,63,64],
       "event_id": 112
     },
@@ -139,7 +139,7 @@
       "date": "2015-05-20T10:45:02.000Z",
       "serie_id": 2,
       "order": 13,
-      "global_order": 113,
+      "global_order": 120,
       "notebooks_ids": [65,66,67,68]
     },
     "15": {
@@ -191,7 +191,7 @@
       "date": "2014-04-01T10:55:48.000Z",
       "serie_id": 3,
       "order": 18,
-      "global_order": 62,
+      "global_order": 65,
       "notebooks_ids": [93,94,95,96,97]
     },
     "20": {
@@ -201,7 +201,7 @@
       "date": "2014-08-27T10:57:21.000Z",
       "serie_id": 3,
       "order": 19,
-      "global_order": 87,
+      "global_order": 92,
       "notebooks_ids": [98,99,100,101,102,103],
       "event_id": 112
     },
@@ -212,7 +212,7 @@
       "date": "2014-10-22T10:00:40.000Z",
       "serie_id": 3,
       "order": 20,
-      "global_order": 123,
+      "global_order": 132,
       "notebooks_ids": [106,139,107,140,108]
     },
     "22": {
@@ -222,7 +222,7 @@
       "date": "2014-12-24T11:01:50.000Z",
       "serie_id": 3,
       "order": 21,
-      "global_order": 124,
+      "global_order": 133,
       "notebooks_ids": [141,109,142,110,143]
     },
     "23": {
@@ -232,7 +232,7 @@
       "date": "2015-03-04T11:02:56.000Z",
       "serie_id": 3,
       "order": 22,
-      "global_order": 125,
+      "global_order": 134,
       "notebooks_ids": [111,144,112,145,113]
     },
     "24": {
@@ -242,7 +242,7 @@
       "date": "2015-04-29T10:04:13.000Z",
       "serie_id": 3,
       "order": 23,
-      "global_order": 126,
+      "global_order": 135,
       "notebooks_ids": [146,147,114,148,115]
     },
     "25": {
@@ -273,7 +273,7 @@
       "date": "2014-04-30T10:08:33.000Z",
       "serie_id": 4,
       "order": 26,
-      "global_order": 61,
+      "global_order": 64,
       "notebooks_ids": [128,129,130,131,132]
     },
     "28": {
@@ -283,7 +283,7 @@
       "date": "2014-08-20T10:09:28.000Z",
       "serie_id": 4,
       "order": 27,
-      "global_order": 63,
+      "global_order": 66,
       "notebooks_ids": [133,134,135,136,137,138]
     },
     "29": {
@@ -353,7 +353,7 @@
       "date": "2014-04-16T10:23:18.000Z",
       "serie_id": 5,
       "order": 34,
-      "global_order": 77,
+      "global_order": 81,
       "notebooks_ids": [179,180,181,182,183]
     },
     "36": {
@@ -363,7 +363,7 @@
       "date": "2014-10-15T10:26:35.000Z",
       "serie_id": 6,
       "order": 35,
-      "global_order": 109,
+      "global_order": 116,
       "notebooks_ids": [186,187,188,189,190]
     },
     "37": {
@@ -373,7 +373,7 @@
       "date": "2015-05-13T10:27:19.000Z",
       "serie_id": 6,
       "order": 36,
-      "global_order": 112,
+      "global_order": 119,
       "notebooks_ids": [191,192,193,194,195,196,197],
       "event_id": 114
     },
@@ -384,7 +384,7 @@
       "date": "2014-09-10T10:29:36.000Z",
       "serie_id": 7,
       "order": 37,
-      "global_order": 78,
+      "global_order": 82,
       "notebooks_ids": [198,204,205,206,207,208],
       "event_id": 112
     },
@@ -395,7 +395,7 @@
       "date": "2014-10-22T10:30:52.000Z",
       "serie_id": 7,
       "order": 38,
-      "global_order": 110,
+      "global_order": 117,
       "notebooks_ids": [209,210,184,185],
       "event_id": 114
     },
@@ -406,7 +406,7 @@
       "date": "2015-02-25T11:32:40.000Z",
       "serie_id": 7,
       "order": 39,
-      "global_order": 111,
+      "global_order": 118,
       "notebooks_ids": [211,212,213,214,215,216,217],
       "event_id": 114
     },
@@ -417,7 +417,7 @@
       "date": "2015-05-06T10:34:10.000Z",
       "serie_id": 7,
       "order": 40,
-      "global_order": 117,
+      "global_order": 124,
       "notebooks_ids": [218,220,222]
     },
     "42": {
@@ -517,7 +517,7 @@
       "date": "2014-08-20T10:18:10.000Z",
       "serie_id": 10,
       "order": 50,
-      "global_order": 79,
+      "global_order": 83,
       "notebooks_ids": [325,326,327,328,329,330,331]
     },
     "52": {
@@ -527,17 +527,17 @@
       "date": "2014-05-14T10:20:32.000Z",
       "serie_id": 10,
       "order": 51,
-      "global_order": 80,
+      "global_order": 84,
       "notebooks_ids": [305,306,307]
     },
     "53": {
       "title": "Deadpool",
-      "subtitle": "Tom 7 - Grzech pierworodny",
+      "subtitle": "Tom 7 - Grzech Pierworodny",
       "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/7/okladka-200.jpg",
       "date": "2014-09-10T10:22:31.000Z",
       "serie_id": 10,
       "order": 52,
-      "global_order": 86,
+      "global_order": 91,
       "notebooks_ids": [308,309,310,311,312,313],
       "event_id": 112
     },
@@ -548,7 +548,7 @@
       "date": "2015-01-14T11:23:53.000Z",
       "serie_id": 10,
       "order": 53,
-      "global_order": 103,
+      "global_order": 109,
       "notebooks_ids": [314,315,316,317,318,319],
       "event_id": 113
     },
@@ -559,7 +559,7 @@
       "date": "2015-04-08T10:25:43.000Z",
       "serie_id": 10,
       "order": 54,
-      "global_order": 119,
+      "global_order": 126,
       "notebooks_ids": [320,321,322,323,324]
     },
     "56": {
@@ -569,7 +569,7 @@
       "date": "2015-10-28T11:29:06.000Z",
       "serie_id": 10,
       "order": 55,
-      "global_order": 120,
+      "global_order": 127,
       "notebooks_ids": [332,333,334,335,336]
     },
     "57": {
@@ -610,7 +610,7 @@
       "date": "2014-05-28T10:34:41.000Z",
       "serie_id": 14,
       "order": 59,
-      "global_order": 70,
+      "global_order": 74,
       "notebooks_ids": [356,357,358,359,360,361,362]
     },
     "61": {
@@ -620,7 +620,7 @@
       "date": "2014-10-29T11:36:24.000Z",
       "serie_id": 14,
       "order": 60,
-      "global_order": 71,
+      "global_order": 75,
       "notebooks_ids": [363,364,365,366,367,368]
     },
     "62": {
@@ -670,7 +670,7 @@
       "date": "2014-10-01T10:45:30.000Z",
       "serie_id": 15,
       "order": 65,
-      "global_order": 99,
+      "global_order": 105,
       "notebooks_ids": [392,393,394,403,404],
       "event_id": 113
     },
@@ -681,7 +681,7 @@
       "date": "2015-06-24T10:52:42.000Z",
       "serie_id": 15,
       "order": 66,
-      "global_order": 116,
+      "global_order": 123,
       "notebooks_ids": [416,417,418,419,420]
     },
     "68": {
@@ -721,7 +721,7 @@
       "date": "2014-09-03T10:03:52.000Z",
       "serie_id": 18,
       "order": 70,
-      "global_order": 81,
+      "global_order": 86,
       "notebooks_ids": [439,440,441,442,443,444,445],
       "event_id": 112
     },
@@ -732,7 +732,7 @@
       "date": "2015-02-18T11:05:09.000Z",
       "serie_id": 18,
       "order": 71,
-      "global_order": 96,
+      "global_order": 101,
       "notebooks_ids": [446,447,448,449,450,451]
     },
     "73": {
@@ -742,7 +742,7 @@
       "date": "2015-11-04T11:06:15.000Z",
       "serie_id": 18,
       "order": 72,
-      "global_order": 121,
+      "global_order": 129,
       "notebooks_ids": [452,453,454,455,456]
     },
     "74": {
@@ -782,7 +782,7 @@
       "date": "2014-09-17T10:12:13.000Z",
       "serie_id": 19,
       "order": 76,
-      "global_order": 64,
+      "global_order": 68,
       "notebooks_ids": [475,476,477,478,479,480,481]
     },
     "78": {
@@ -823,7 +823,7 @@
       "date": "2014-06-25T10:25:53.000Z",
       "serie_id": 24,
       "order": 80,
-      "global_order": 67,
+      "global_order": 71,
       "notebooks_ids": [497,498,499,500,501]
     },
     "82": {
@@ -833,7 +833,7 @@
       "date": "2015-02-04T11:26:36.000Z",
       "serie_id": 24,
       "order": 81,
-      "global_order": 68,
+      "global_order": 72,
       "notebooks_ids": [502,503,504,505,506,507]
     },
     "83": {
@@ -843,17 +843,17 @@
       "date": "2015-05-13T10:27:38.000Z",
       "serie_id": 24,
       "order": 82,
-      "global_order": 69,
+      "global_order": 73,
       "notebooks_ids": [508,509,510,511]
     },
     "84": {
       "title": "Ms. Marvel",
-      "subtitle": "Tom 4 - Dni ostatnie",
+      "subtitle": "Tom 4 - Dni Ostatnie",
       "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/ms-marvel/4/okladka-200.jpg",
       "date": "2015-10-14T10:28:40.000Z",
       "serie_id": 24,
       "order": 83,
-      "global_order": 127,
+      "global_order": 137,
       "notebooks_ids": [512,513,514,515],
       "event_id": 115
     },
@@ -874,7 +874,7 @@
       "date": "2013-06-26T10:33:16.000Z",
       "serie_id": 25,
       "order": 85,
-      "global_order": 90,
+      "global_order": 95,
       "notebooks_ids": [521,522,523,524,525,526]
     },
     "87": {
@@ -884,7 +884,7 @@
       "date": "2014-09-10T10:34:26.000Z",
       "serie_id": 25,
       "order": 86,
-      "global_order": 91,
+      "global_order": 96,
       "notebooks_ids": [529,531,533,535]
     },
     "88": {
@@ -894,38 +894,38 @@
       "date": "2015-07-15T10:35:15.000Z",
       "serie_id": 25,
       "order": 87,
-      "global_order": 92,
+      "global_order": 97,
       "notebooks_ids": [527,528,530,532,534,536,537]
     },
     "89": {
-      "title": "Grzech pierworodny",
+      "title": "Grzech Pierworodny",
       "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/grzech-pierworodny/1/okladka-200.jpg",
       "date": "2014-09-03T10:38:08.000Z",
       "serie_id": 26,
       "order": 88,
-      "global_order": 83,
+      "global_order": 88,
       "notebooks_ids": [538,539,540,541,546,547,553,554,555],
       "event_id": 112
     },
     "90": {
-      "title": "Grzech pierworodny",
+      "title": "Grzech Pierworodny",
       "subtitle": "Hulk kontra Iron Man",
       "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/grzech-pierworodny/3/okladka-200.jpg",
       "date": "2014-08-06T10:39:24.000Z",
       "serie_id": 26,
       "order": 89,
-      "global_order": 84,
+      "global_order": 89,
       "notebooks_ids": [542,543,544,545],
       "event_id": 112
     },
     "91": {
-      "title": "Grzech pierworodny",
+      "title": "Grzech Pierworodny",
       "subtitle": "Thor i Loki - Dziesiąty świat",
       "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/grzech-pierworodny/2/okladka-200.jpg",
       "date": "2014-09-17T10:40:07.000Z",
       "serie_id": 26,
       "order": 90,
-      "global_order": 85,
+      "global_order": 90,
       "notebooks_ids": [548,549,550,551,552],
       "event_id": 112
     },
@@ -946,7 +946,7 @@
       "date": "2014-08-27T10:27:19.000Z",
       "serie_id": 27,
       "order": 3,
-      "global_order": 82,
+      "global_order": 87,
       "notebooks_ids": [563,564,565,566,567]
     },
     "94": {
@@ -956,7 +956,7 @@
       "date": "2014-10-15T10:28:32.000Z",
       "serie_id": 27,
       "order": 4,
-      "global_order": 100,
+      "global_order": 106,
       "notebooks_ids": [568,569,570,571]
     },
     "95": {
@@ -966,7 +966,7 @@
       "date": "2014-08-06T10:31:30.000Z",
       "serie_id": 30,
       "order": 94,
-      "global_order": 72,
+      "global_order": 76,
       "notebooks_ids": [572,573,574,575,576,577]
     },
     "96": {
@@ -976,7 +976,7 @@
       "date": "2015-02-18T11:33:04.000Z",
       "serie_id": 30,
       "order": 95,
-      "global_order": 73,
+      "global_order": 77,
       "notebooks_ids": [578,579,580,581,582,583]
     },
     "97": {
@@ -986,7 +986,7 @@
       "date": "2015-07-15T10:34:06.000Z",
       "serie_id": 30,
       "order": 96,
-      "global_order": 74,
+      "global_order": 78,
       "notebooks_ids": [584,585,586,587,588]
     },
     "98": {
@@ -996,7 +996,7 @@
       "date": "2014-12-24T11:44:55.000Z",
       "serie_id": 31,
       "order": 97,
-      "global_order": 101,
+      "global_order": 107,
       "notebooks_ids": [589,590,591,592,593,594,595,596,597],
       "event_id": 113
     },
@@ -1007,7 +1007,7 @@
       "date": "2014-12-17T11:45:57.000Z",
       "serie_id": 31,
       "order": 98,
-      "global_order": 102,
+      "global_order": 108,
       "notebooks_ids": [598,599,600,601,602,603],
       "event_id": 113
     },
@@ -1018,7 +1018,7 @@
       "date": "2015-02-11T11:50:29.000Z",
       "serie_id": 34,
       "order": 99,
-      "global_order": 107,
+      "global_order": 114,
       "notebooks_ids": [604,605,606,607,608]
     },
     "101": {
@@ -1028,7 +1028,7 @@
       "date": "2015-05-13T10:51:05.000Z",
       "serie_id": 34,
       "order": 100,
-      "global_order": 108,
+      "global_order": 115,
       "notebooks_ids": [609,610,611]
     },
     "102": {
@@ -1038,7 +1038,7 @@
       "date": "2015-05-06T10:53:01.000Z",
       "serie_id": 35,
       "order": 101,
-      "global_order": 122,
+      "global_order": 130,
       "notebooks_ids": [612,613,614,615,616]
     },
     "103": {
@@ -1048,7 +1048,7 @@
       "date": "2015-01-07T11:55:55.000Z",
       "serie_id": 25,
       "order": 102,
-      "global_order": 93,
+      "global_order": 98,
       "notebooks_ids": [617,618,619,620,621]
     },
     "104": {
@@ -1058,7 +1058,7 @@
       "date": "2016-01-13T11:01:25.000Z",
       "serie_id": 37,
       "order": 103,
-      "global_order": 129,
+      "global_order": 140,
       "notebooks_ids": [622,623,624,625,626,627,628,629,630],
       "event_id": 115
     },
@@ -1069,7 +1069,7 @@
       "date": "2015-08-26T10:03:44.000Z",
       "serie_id": 38,
       "order": 104,
-      "global_order": 128,
+      "global_order": 139,
       "notebooks_ids": [631,632,633,634],
       "event_id": 115
     },
@@ -1080,7 +1080,7 @@
       "date": "2015-09-09T10:06:38.000Z",
       "serie_id": 39,
       "order": 105,
-      "global_order": 130,
+      "global_order": 141,
       "notebooks_ids": [635,636,637,638,639],
       "event_id": 115
     },
@@ -1091,7 +1091,7 @@
       "date": "2015-11-11T11:08:01.000Z",
       "serie_id": 40,
       "order": 106,
-      "global_order": 131,
+      "global_order": 142,
       "notebooks_ids": [640,641,642,643],
       "event_id": 115
     },
@@ -1102,7 +1102,7 @@
       "date": "2015-10-14T10:09:49.000Z",
       "serie_id": 41,
       "order": 107,
-      "global_order": 132,
+      "global_order": 143,
       "notebooks_ids": [644,645,646,647,648],
       "event_id": 115
     },
@@ -1113,7 +1113,7 @@
       "date": "2015-10-07T10:11:15.000Z",
       "serie_id": 42,
       "order": 108,
-      "global_order": 134,
+      "global_order": 145,
       "notebooks_ids": [649,650,651,652],
       "event_id": 115
     },
@@ -1159,7 +1159,7 @@
       "serie_id": 31,
       "order": 112,
       "global_order": 112,
-      "notebooks_ids": [403,393,404,742,743,744,394,745,589,590,405,591,406,315,592,601,602,603,598,599,600,316,593,791,792,594,317,595,596,597,318,793],
+      "notebooks_ids": [403,393,404,742,743,744,826,394,745,589,590,827,405,591,406,315,592,601,602,603,598,599,600,316,593,791,792,814,815,828,594,317,595,596,597,318,829,793],
       "is_event": true,
       "event_id": null
     },
@@ -1182,7 +1182,7 @@
       "serie_id": 37,
       "order": 114,
       "global_order": 114,
-      "notebooks_ids": [631,632,633,634,622,512,513,514,515,412,413,414,415,623,624,635,636,637,638,639,625,640,641,642,644,645,646,647,648,752,753,754,755,626,649,650,651,627,652,643,628,629,630],
+      "notebooks_ids": [631,632,633,634,622,834,835,512,513,514,515,412,413,414,415,836,837,623,624,635,636,637,638,639,625,640,641,642,644,645,646,647,648,752,753,754,755,626,649,650,651,627,652,643,628,629,630],
       "is_event": true,
       "event_id": null
     },
@@ -1237,7 +1237,7 @@
       "date": "2014-06-18T10:12:21.000Z",
       "serie_id": 44,
       "order": 119,
-      "global_order": 65,
+      "global_order": 69,
       "notebooks_ids": [693,694,695,696,697,698],
       "event_id": 0
     },
@@ -1248,7 +1248,7 @@
       "date": "2015-02-25T11:19:45.000Z",
       "serie_id": 44,
       "order": 120,
-      "global_order": 105,
+      "global_order": 112,
       "notebooks_ids": [699,700,701,702,703],
       "event_id": 0
     },
@@ -1259,7 +1259,7 @@
       "date": "2015-06-03T10:21:55.000Z",
       "serie_id": 44,
       "order": 121,
-      "global_order": 106,
+      "global_order": 113,
       "notebooks_ids": [704,705,706,707],
       "event_id": 0
     },
@@ -1336,7 +1336,7 @@
       "date": "2014-06-04T10:59:39.000Z",
       "serie_id": 47,
       "order": 128,
-      "global_order": 97,
+      "global_order": 102,
       "notebooks_ids": [736,737,738,739,740,741],
       "event_id": 0
     },
@@ -1347,7 +1347,7 @@
       "date": "2014-10-01T10:02:23.000Z",
       "serie_id": 47,
       "order": 129,
-      "global_order": 98,
+      "global_order": 103,
       "notebooks_ids": [742,743,744,745],
       "event_id": 113
     },
@@ -1358,7 +1358,7 @@
       "date": "2015-04-25T10:13:52.000Z",
       "serie_id": 47,
       "order": 130,
-      "global_order": 118,
+      "global_order": 125,
       "notebooks_ids": [746,747,748,749,750,751],
       "event_id": 0
     },
@@ -1369,7 +1369,7 @@
       "date": "2015-11-25T11:20:49.000Z",
       "serie_id": 49,
       "order": 131,
-      "global_order": 133,
+      "global_order": 144,
       "notebooks_ids": [752,753,754,755],
       "event_id": 115
     },
@@ -1424,18 +1424,18 @@
       "date": "2014-04-16T10:14:35.000Z",
       "serie_id": 50,
       "order": 136,
-      "global_order": 66,
+      "global_order": 70,
       "notebooks_ids": [779,780,781,782,783,784],
       "event_id": 0
     },
     "138": {
       "title": "Nova",
-      "subtitle": "Tom 4 - Grzech pierworodny",
+      "subtitle": "Tom 4 - Grzech Pierworodny",
       "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420627992l/22798019.jpg",
       "date": "2014-10-29T11:20:00.000Z",
       "serie_id": 50,
       "order": 137,
-      "global_order": 89,
+      "global_order": 94,
       "notebooks_ids": [785,786,787,788,789,790],
       "event_id": 112
     },
@@ -1446,7 +1446,7 @@
       "date": "2015-02-18T11:22:13.000Z",
       "serie_id": 50,
       "order": 138,
-      "global_order": 104,
+      "global_order": 111,
       "notebooks_ids": [791,792,793,794,795],
       "event_id": 113
     },
@@ -1457,12 +1457,133 @@
       "date": "2015-05-27T10:23:44.000Z",
       "serie_id": 50,
       "order": 139,
-      "global_order": 115,
+      "global_order": 122,
       "notebooks_ids": [796,797,798,799],
       "event_id": 0
+    },
+    "141": {
+      "title": "Avengers World",
+      "subtitle": "Tom 1 - A.I.M.PIRE",
+      "image_url": "https://cdn.shopify.com/s/files/1/0023/9278/4940/products/9780785189817_1_1ed78acc-698c-4871-bd6b-7aff8afbc9ac_2000x.jpg",
+      "date": "2014-04-30T10:32:16.000Z",
+      "serie_id": 51,
+      "order": 140,
+      "global_order": 61,
+      "notebooks_ids": [800,801,802,803,804],
+      "event_id": 0
+    },
+    "142": {
+      "title": "Avengers World",
+      "subtitle": "Tom 2 - Ascension",
+      "image_url": "https://d2svrcwl6l7hz1.cloudfront.net/content/B00O5FZ4IY/resources/0",
+      "date": "2014-07-16T10:33:43.000Z",
+      "serie_id": 51,
+      "order": 141,
+      "global_order": 62,
+      "notebooks_ids": [805,806,807,808],
+      "event_id": 0
+    },
+    "143": {
+      "title": "Avengers World",
+      "subtitle": "Tom 3 - Next World",
+      "image_url": "https://cdn.shopify.com/s/files/1/0023/9278/4940/products/9780785192510_1_2000x.jpg",
+      "date": "2014-12-10T11:37:19.000Z",
+      "serie_id": 51,
+      "order": 142,
+      "global_order": 63,
+      "notebooks_ids": [809,810,811,812,813,814,815],
+      "event_id": 113
+    },
+    "144": {
+      "title": "Avengers World",
+      "subtitle": "Tom 4 - Czas się kończy",
+      "image_url": "https://d2svrcwl6l7hz1.cloudfront.net/content/B013H37TNC/resources/0",
+      "date": "2015-05-20T10:40:49.000Z",
+      "serie_id": 51,
+      "order": 143,
+      "global_order": 131,
+      "notebooks_ids": [816,817,818,819,820],
+      "event_id": 0
+    },
+    "145": {
+      "title": "Loki: Agent of Asgard",
+      "subtitle": "Tom 1 - Trust Me",
+      "image_url": "http://t0.gstatic.com/images?q=tbn:ANd9GcTBWUwHEbcw8UiD46jouDpkzM6xEVTDr763rUrI43w0O1BN6_kd",
+      "date": "2014-06-04T10:52:20.000Z",
+      "serie_id": 52,
+      "order": 144,
+      "global_order": 67,
+      "notebooks_ids": [821,822,823,824,825],
+      "event_id": 0
+    },
+    "146": {
+      "title": "Loki: Agent of Asgard",
+      "subtitle": "Tom 2 - Axis",
+      "image_url": "http://t1.gstatic.com/images?q=tbn:ANd9GcR7Uxtc3msNUXmchflOhMpkfQ2RvxASr8eIZYlrosEmaa8gb4pl",
+      "date": "2015-02-18T11:54:00.000Z",
+      "serie_id": 52,
+      "order": 145,
+      "global_order": 110,
+      "notebooks_ids": [826,827,828,829,830,831],
+      "event_id": 113
+    },
+    "147": {
+      "title": "Loki: Agent of Asgard",
+      "subtitle": "Tom 3 - Dni Ostatnie",
+      "image_url": "http://t0.gstatic.com/images?q=tbn:ANd9GcR5r7UZBBvkPqRMhZjy5g-smQFrbWVbw65B4mxjdVYnywf4c5Tq",
+      "date": "2015-08-19T10:55:05.000Z",
+      "serie_id": 52,
+      "order": 146,
+      "global_order": 136,
+      "notebooks_ids": [832,833,834,835,836,837],
+      "event_id": 115
+    },
+    "148": {
+      "title": "Magneto",
+      "subtitle": "Tom 1 - Infamous",
+      "image_url": "https://d2svrcwl6l7hz1.cloudfront.net/content/B00MWCCXK4/resources/0?mime=image/*",
+      "date": "2014-07-02T10:05:17.000Z",
+      "serie_id": 16,
+      "order": 147,
+      "global_order": 85,
+      "notebooks_ids": [395,396,397,398,399,400],
+      "event_id": 0
+    },
+    "149": {
+      "title": "Magneto",
+      "subtitle": "Tom 2 - Reversals",
+      "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486036534l/22798025._SY475_.jpg",
+      "date": "2014-11-19T11:08:11.000Z",
+      "serie_id": 16,
+      "order": 148,
+      "global_order": 104,
+      "notebooks_ids": [401,402,403,404,405,406],
+      "event_id": 113
+    },
+    "150": {
+      "title": "Magneto",
+      "subtitle": "Tom 3 - Shadow Game",
+      "image_url": "https://d2svrcwl6l7hz1.cloudfront.net/content/B00XZD7FA2/resources/0?mime=image/*",
+      "date": "2015-04-15T10:11:16.000Z",
+      "serie_id": 16,
+      "order": 149,
+      "global_order": 128,
+      "notebooks_ids": [407,408,409,410,411],
+      "event_id": 0
+    },
+    "151": {
+      "title": "Magneto",
+      "subtitle": "Tom 4 - Dni Ostatnie",
+      "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486036546l/25066792._SY475_.jpg",
+      "date": "2015-08-26T10:12:23.000Z",
+      "serie_id": 16,
+      "order": 150,
+      "global_order": 138,
+      "notebooks_ids": [412,413,414,415],
+      "event_id": 115
     }
   },
   "meta": {
-    "nextIndex": 141
+    "nextIndex": 152
   }
 }

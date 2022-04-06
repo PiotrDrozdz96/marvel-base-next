@@ -7989,9 +7989,389 @@
       "date": "2015-05-27T10:00:00.000Z",
       "serie_id": 50,
       "order": 798
+    },
+    "800": {
+      "title": "Avengers World",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Avengers World\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2d/Avengers_World_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20131011215337",
+      "date": "2014-01-08T11:00:00.000Z",
+      "serie_id": 51,
+      "order": 799
+    },
+    "801": {
+      "title": "Avengers World",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f9/Avengers_World_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20140126221857",
+      "date": "2014-01-22T11:00:00.000Z",
+      "serie_id": 51,
+      "order": 800
+    },
+    "802": {
+      "title": "Avengers World",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1e/Avengers_World_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20140215185611",
+      "date": "2014-02-19T11:00:00.000Z",
+      "serie_id": 51,
+      "order": 801
+    },
+    "803": {
+      "title": "Avengers World",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/00/Avengers_World_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20140317223950",
+      "date": "2014-03-19T11:00:00.000Z",
+      "serie_id": 51,
+      "order": 802
+    },
+    "804": {
+      "title": "Avengers World",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b3/Avengers_World_Vol_1_5.jpg/revision/latest/scale-to-width-down/132?cb=20140501052710",
+      "date": "2014-04-30T10:00:00.000Z",
+      "serie_id": 51,
+      "order": 803
+    },
+    "805": {
+      "title": "Avengers World",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3a/Avengers_World_Vol_1_6.jpg/revision/latest/scale-to-width-down/132?cb=20140516060241",
+      "date": "2014-05-21T10:00:00.000Z",
+      "serie_id": 51,
+      "order": 804
+    },
+    "806": {
+      "title": "Avengers World",
+      "vol": 1,
+      "no": 7,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/27/Avengers_World_Vol_1_7.jpg/revision/latest/scale-to-width-down/132?cb=20140530152640",
+      "date": "2014-06-04T10:00:00.000Z",
+      "serie_id": 51,
+      "order": 805
+    },
+    "807": {
+      "title": "Avengers World",
+      "vol": 1,
+      "no": 8,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e3/Avengers_World_Vol_1_8.jpg/revision/latest/scale-to-width-down/132?cb=20140613005204",
+      "date": "2014-06-18T10:00:00.000Z",
+      "serie_id": 51,
+      "order": 806
+    },
+    "808": {
+      "title": "Avengers World",
+      "vol": 1,
+      "no": 9,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/46/Avengers_World_Vol_1_9.jpg/revision/latest/scale-to-width-down/132?cb=20140712004630",
+      "date": "2014-07-16T10:00:00.000Z",
+      "serie_id": 51,
+      "order": 807
+    },
+    "809": {
+      "title": "Avengers World",
+      "vol": 1,
+      "no": 10,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4c/Avengers_World_Vol_1_10.jpg/revision/latest/scale-to-width-down/132?cb=20140725223402",
+      "date": "2014-07-30T10:00:00.000Z",
+      "serie_id": 51,
+      "order": 808
+    },
+    "810": {
+      "title": "Avengers World",
+      "vol": 1,
+      "no": 11,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/51/Avengers_World_Vol_1_11.jpg/revision/latest/scale-to-width-down/132?cb=20140809023647",
+      "date": "2014-08-13T10:00:00.000Z",
+      "serie_id": 51,
+      "order": 809
+    },
+    "811": {
+      "title": "Avengers World",
+      "vol": 1,
+      "no": 12,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a4/Avengers_World_Vol_1_12.jpg/revision/latest/scale-to-width-down/132?cb=20140830063115",
+      "date": "2014-09-03T10:00:00.000Z",
+      "serie_id": 51,
+      "order": 810
+    },
+    "812": {
+      "title": "Avengers World",
+      "vol": 1,
+      "no": 13,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/95/Avengers_World_Vol_1_13.jpg/revision/latest/scale-to-width-down/132?cb=20140917223458",
+      "date": "2014-09-17T10:00:00.000Z",
+      "serie_id": 51,
+      "order": 811
+    },
+    "813": {
+      "title": "Avengers World",
+      "vol": 1,
+      "no": 14,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/65/Avengers_World_Vol_1_14.jpg/revision/latest/scale-to-width-down/132?cb=20141015203610",
+      "date": "2014-10-15T10:00:00.000Z",
+      "serie_id": 51,
+      "order": 812
+    },
+    "814": {
+      "title": "Avengers World",
+      "vol": 1,
+      "no": 15,
+      "subtitle": "\"The Availables: Part 1\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9d/Avengers_World_Vol_1_15.jpg/revision/latest/scale-to-width-down/132?cb=20141114192241",
+      "date": "2014-11-19T11:00:00.000Z",
+      "serie_id": 51,
+      "order": 813
+    },
+    "815": {
+      "title": "Avengers World",
+      "vol": 1,
+      "no": 16,
+      "subtitle": "\"The Availables: Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cd/Avengers_World_Vol_1_16.jpg/revision/latest/scale-to-width-down/132?cb=20141205224216",
+      "date": "2014-12-10T11:00:00.000Z",
+      "serie_id": 51,
+      "order": 814
+    },
+    "816": {
+      "title": "Avengers World",
+      "vol": 1,
+      "no": 17,
+      "subtitle": "\"Before Time Runs Out: Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f5/Avengers_World_Vol_1_17.jpg/revision/latest/scale-to-width-down/132?cb=20150216224404",
+      "date": "2015-02-18T11:00:00.000Z",
+      "serie_id": 51,
+      "order": 815
+    },
+    "817": {
+      "title": "Avengers World",
+      "vol": 1,
+      "no": 18,
+      "subtitle": "\"Before Time Runs Out: Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c3/Avengers_World_Vol_1_18.jpg/revision/latest/scale-to-width-down/132?cb=20150227005937",
+      "date": "2015-03-04T11:00:00.000Z",
+      "serie_id": 51,
+      "order": 816
+    },
+    "818": {
+      "title": "Avengers World",
+      "vol": 1,
+      "no": 19,
+      "subtitle": "\"Before Time Runs Out: Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7a/Avengers_World_Vol_1_19.jpg/revision/latest/scale-to-width-down/132?cb=20150402203306",
+      "date": "2015-04-08T10:00:00.000Z",
+      "serie_id": 51,
+      "order": 817
+    },
+    "819": {
+      "title": "Avengers World",
+      "vol": 1,
+      "no": 20,
+      "subtitle": "\"Before Time Runs Out: Part Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/05/Avengers_World_Vol_1_20.jpg/revision/latest/scale-to-width-down/132?cb=20150417195856",
+      "date": "2015-04-22T10:00:00.000Z",
+      "serie_id": 51,
+      "order": 818
+    },
+    "820": {
+      "title": "Avengers World",
+      "vol": 1,
+      "no": 21,
+      "subtitle": "\"Before Time Runs Out: Part Five\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cf/Avengers_World_Vol_1_21.jpg/revision/latest/scale-to-width-down/132?cb=20150517072632",
+      "date": "2015-05-20T10:00:00.000Z",
+      "serie_id": 51,
+      "order": 819
+    },
+    "821": {
+      "title": "Loki: Agent of Asgard",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Trust Me\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7f/Loki_Agent_of_Asgard_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20200209081400",
+      "date": "2014-02-05T11:00:00.000Z",
+      "serie_id": 52,
+      "order": 820
+    },
+    "822": {
+      "title": "Loki: Agent of Asgard",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Loki and Lorelei, Sitting in a Tree...\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/27/Loki_Agent_of_Asgard_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20140228054108",
+      "date": "2014-03-05T11:00:00.000Z",
+      "serie_id": 52,
+      "order": 821
+    },
+    "823": {
+      "title": "Loki: Agent of Asgard",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Your Life Is A Story I've Already Written\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d8/Loki_Agent_of_Asgard_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20140402160652",
+      "date": "2014-04-02T10:00:00.000Z",
+      "serie_id": 52,
+      "order": 822
+    },
+    "824": {
+      "title": "Loki: Agent of Asgard",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Let's You & Him Fight!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7a/Loki_Agent_of_Asgard_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20140516231821",
+      "date": "2014-05-07T10:00:00.000Z",
+      "serie_id": 52,
+      "order": 823
+    },
+    "825": {
+      "title": "Loki: Agent of Asgard",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"This Mission Will Self-Destruct In Five Seconds\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e8/Loki_Agent_of_Asgard_Vol_1_5.jpg/revision/latest/scale-to-width-down/132?cb=20140530165907",
+      "date": "2014-06-04T10:00:00.000Z",
+      "serie_id": 52,
+      "order": 824
+    },
+    "826": {
+      "title": "Loki: Agent of Asgard",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "\"Degree Absolute\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d6/Loki_Agent_of_Asgard_Vol_1_6.jpg/revision/latest/scale-to-width-down/132?cb=20140919203142",
+      "date": "2014-09-24T10:00:00.000Z",
+      "serie_id": 52,
+      "order": 825
+    },
+    "827": {
+      "title": "Loki: Agent of Asgard",
+      "vol": 1,
+      "no": 7,
+      "subtitle": "\"Fall Out\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/83/Loki_Agent_of_Asgard_Vol_1_7.jpg/revision/latest/scale-to-width-down/132?cb=20141016010256",
+      "date": "2014-10-15T10:00:00.000Z",
+      "serie_id": 52,
+      "order": 826
+    },
+    "828": {
+      "title": "Loki: Agent of Asgard",
+      "vol": 1,
+      "no": 8,
+      "subtitle": "\"I Cannot Tell A Lie!\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8d/Loki_Agent_of_Asgard_Vol_1_8.jpg/revision/latest/scale-to-width-down/132?cb=20141114195101",
+      "date": "2014-11-19T11:00:00.000Z",
+      "serie_id": 52,
+      "order": 827
+    },
+    "829": {
+      "title": "Loki: Agent of Asgard",
+      "vol": 1,
+      "no": 9,
+      "subtitle": "\"Good Sons Like You...\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ac/Loki_Agent_of_Asgard_Vol_1_9.jpg/revision/latest/scale-to-width-down/132?cb=20141220005904",
+      "date": "2014-12-24T11:00:00.000Z",
+      "serie_id": 52,
+      "order": 828
+    },
+    "830": {
+      "title": "Loki: Agent of Asgard",
+      "vol": 1,
+      "no": 10,
+      "subtitle": "\"Not Forgiven\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8c/Loki_Agent_of_Asgard_Vol_1_10.jpg/revision/latest/scale-to-width-down/131?cb=20150119190743",
+      "date": "2015-01-21T11:00:00.000Z",
+      "serie_id": 52,
+      "order": 829
+    },
+    "831": {
+      "title": "Loki: Agent of Asgard",
+      "vol": 1,
+      "no": 11,
+      "subtitle": "\"Turn Away And Slam The Door\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fb/Loki_Agent_of_Asgard_Vol_1_11.jpg/revision/latest/scale-to-width-down/132?cb=20150212190729",
+      "date": "2015-02-18T11:00:00.000Z",
+      "serie_id": 52,
+      "order": 830
+    },
+    "832": {
+      "title": "Loki: Agent of Asgard",
+      "vol": 1,
+      "no": 12,
+      "subtitle": "\"Time Alone Shall Murder All The Flowers\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a9/Loki_Agent_of_Asgard_Vol_1_12.jpg/revision/latest/scale-to-width-down/132?cb=20150316004454",
+      "date": "2015-03-18T11:00:00.000Z",
+      "serie_id": 52,
+      "order": 831
+    },
+    "833": {
+      "title": "Loki: Agent of Asgard",
+      "vol": 1,
+      "no": 13,
+      "subtitle": "\"The Magic Theater\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6b/Loki_Agent_of_Asgard_Vol_1_13.jpg/revision/latest/scale-to-width-down/132?cb=20150409221116",
+      "date": "2015-04-15T10:00:00.000Z",
+      "serie_id": 52,
+      "order": 832
+    },
+    "834": {
+      "title": "Loki: Agent of Asgard",
+      "vol": 1,
+      "no": 14,
+      "subtitle": "\"Born One Morning and the Sun Didn't Shine\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0d/Loki_Agent_of_Asgard_Vol_1_14.jpg/revision/latest/scale-to-width-down/132?cb=20150516071108",
+      "date": "2015-05-20T10:00:00.000Z",
+      "serie_id": 52,
+      "order": 833
+    },
+    "835": {
+      "title": "Loki: Agent of Asgard",
+      "vol": 1,
+      "no": 15,
+      "subtitle": "\"The Old Army Game\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/72/Loki_Agent_of_Asgard_Vol_1_15.jpg/revision/latest/scale-to-width-down/132?cb=20150622065012",
+      "date": "2015-06-24T10:00:00.000Z",
+      "serie_id": 52,
+      "order": 834
+    },
+    "836": {
+      "title": "Loki: Agent of Asgard",
+      "vol": 1,
+      "no": 16,
+      "subtitle": "\"Would You Know More?\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c5/Loki_Agent_of_Asgard_Vol_1_16.jpg/revision/latest/scale-to-width-down/132?cb=20150718003701",
+      "date": "2015-07-22T10:00:00.000Z",
+      "serie_id": 52,
+      "order": 835
+    },
+    "837": {
+      "title": "Loki: Agent of Asgard",
+      "vol": 1,
+      "no": 17,
+      "subtitle": "\"Out The Gate You Go And Never Stop\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0a/Loki_Agent_of_Asgard_Vol_1_17.jpg/revision/latest/scale-to-width-down/132?cb=20150814233145",
+      "date": "2015-08-19T10:00:00.000Z",
+      "serie_id": 52,
+      "order": 836
     }
   },
   "meta": {
-    "nextIndex": 800
+    "nextIndex": 838
   }
 }

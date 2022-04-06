@@ -33,7 +33,7 @@ export const loaders: ImageLoader[] = [
     loader: (preset, [, start, , end]) => `${start}${preset === 'full' ? 700 : dimensions[preset]?.width}${end}`,
   },
   {
-    name: 'bokxcessonline',
+    name: 'bookxcess',
     regExp: /^(https:\/\/cdn\.shopify\.com\/s\/file.*_)(\d+)(x.jpg)$/,
     loader: (preset, [, start, , end]) => `${start}${preset === 'full' ? 700 : dimensions[preset]?.width}${end}`,
   },

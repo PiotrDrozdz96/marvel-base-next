@@ -86,7 +86,7 @@
     },
     "15": {
       "name": "Uncanny Avengers",
-      "order": 4,
+      "order": 5,
       "wave_id": 3,
       "is_filter": true
     },
@@ -94,11 +94,11 @@
       "name": "Magneto",
       "order": 8,
       "wave_id": 1,
-      "is_filter": false
+      "is_filter": true
     },
     "17": {
       "name": "Uncanny Avengers Vol 2",
-      "order": 5,
+      "order": 6,
       "wave_id": 3,
       "is_filter": false
     },
@@ -110,7 +110,7 @@
     },
     "19": {
       "name": "Thor Gromowładny",
-      "order": 10,
+      "order": 11,
       "wave_id": 3,
       "is_filter": false
     },
@@ -146,12 +146,12 @@
     },
     "25": {
       "name": "Hawkeye",
-      "order": 6,
+      "order": 7,
       "wave_id": 3,
       "is_filter": true
     },
     "26": {
-      "name": "Grzech pierworodny",
+      "name": "Grzech Pierworodny",
       "order": 3,
       "wave_id": 5,
       "is_filter": true
@@ -200,19 +200,19 @@
     },
     "34": {
       "name": "Thor",
-      "order": 11,
+      "order": 12,
       "wave_id": 3,
       "is_filter": true
     },
     "35": {
       "name": "Ant-Man",
-      "order": 12,
+      "order": 14,
       "wave_id": 3,
       "is_filter": true
     },
     "36": {
       "name": "Hawkeye kontra Deadpool",
-      "order": 7,
+      "order": 8,
       "wave_id": 3,
       "is_filter": false
     },
@@ -260,13 +260,13 @@
     },
     "44": {
       "name": "Iron Man",
-      "order": 8,
+      "order": 9,
       "wave_id": 3,
       "is_filter": true
     },
     "45": {
       "name": "Superior Iron Man",
-      "order": 9,
+      "order": 10,
       "wave_id": 3,
       "is_filter": false
     },
@@ -278,13 +278,13 @@
     },
     "47": {
       "name": "Captain America",
-      "order": 2,
+      "order": 3,
       "wave_id": 3,
       "is_filter": true
     },
     "48": {
       "name": "All-New Captain America",
-      "order": 3,
+      "order": 4,
       "wave_id": 3,
       "is_filter": false
     },
@@ -299,9 +299,21 @@
       "order": 1,
       "wave_id": 2,
       "is_filter": true
+    },
+    "51": {
+      "name": "Avengers World",
+      "order": 2,
+      "wave_id": 3,
+      "is_filter": true
+    },
+    "52": {
+      "name": "Loki: Agent of Asgard",
+      "order": 13,
+      "wave_id": 3,
+      "is_filter": true
     }
   },
   "meta": {
-    "nextIndex": 51
+    "nextIndex": 53
   }
 }
