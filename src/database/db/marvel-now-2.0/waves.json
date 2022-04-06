@@ -1,0 +1,19 @@
+{
+  "waves": {
+    "1": {
+      "name": "X-Men",
+      "order": 2
+    },
+    "2": {
+      "name": "Solo Avengers",
+      "order": 0
+    },
+    "3": {
+      "name": "Spider-Man",
+      "order": 1
+    }
+  },
+  "meta": {
+    "nextIndex": 4
+  }
+}

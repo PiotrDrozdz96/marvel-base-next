@@ -71,9 +71,17 @@
       "url": "/preview/marvel-now/moje",
       "icon": "",
       "parent_id": 7
+    },
+    "10": {
+      "name": "Marvel Now 2.0!",
+      "type": "SUB_MENU",
+      "order": 9,
+      "url": "/preview/marvel-now-2.0",
+      "icon": "",
+      "parent_id": 7
     }
   },
   "meta": {
-    "nextIndex": 10
+    "nextIndex": 11
   }
 }

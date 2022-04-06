@@ -1,0 +1,381 @@
+{
+  "volumes": {
+    "1": {
+      "title": "Staruszek Logan",
+      "subtitle": "Tom 1 - Strefy Wojny",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/staruszek-logan/1/okladka-200.jpg",
+      "date": "2015-10-07T10:31:53.000Z",
+      "serie_id": 1,
+      "order": 0,
+      "global_order": 0,
+      "notebooks_ids": [1,2,3,4,5],
+      "event_id": 0
+    },
+    "2": {
+      "title": "Staruszek Logan",
+      "subtitle": "Tom 2 - Berserk",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/staruszek-logan/2/okladka-200.jpg",
+      "date": "2016-04-06T10:33:32.000Z",
+      "serie_id": 1,
+      "order": 1,
+      "global_order": 5,
+      "notebooks_ids": [6,7,8,9],
+      "event_id": 0
+    },
+    "3": {
+      "title": "Staruszek Logan",
+      "subtitle": "Tom 3 - Na granicy",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/staruszek-logan/3/okladka-200.jpg",
+      "date": "2016-07-13T10:34:22.000Z",
+      "serie_id": 1,
+      "order": 2,
+      "global_order": 10,
+      "notebooks_ids": [10,11,12,13],
+      "event_id": 0
+    },
+    "4": {
+      "title": "Staruszek Logan",
+      "subtitle": "Tom 4 - Ostatni ronin",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/staruszek-logan/4/okladka-200.jpg",
+      "date": "2016-11-16T11:35:07.000Z",
+      "serie_id": 1,
+      "order": 3,
+      "global_order": 14,
+      "notebooks_ids": [14,15,16,17,18],
+      "event_id": 0
+    },
+    "5": {
+      "title": "Staruszek Logan",
+      "subtitle": "Tom 5 - Dawne strachy",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/staruszek-logan/5/okladka-200.jpg",
+      "date": "2017-02-15T11:36:03.000Z",
+      "serie_id": 1,
+      "order": 4,
+      "global_order": 18,
+      "notebooks_ids": [19,20,21,22,23],
+      "event_id": 0
+    },
+    "6": {
+      "title": "Staruszek Logan",
+      "subtitle": "Tom 6 - Życie minione",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/staruszek-logan/6/okladka-200.jpg",
+      "date": "2017-05-31T10:37:10.000Z",
+      "serie_id": 1,
+      "order": 5,
+      "global_order": 23,
+      "notebooks_ids": [24,25,26,27,28,29],
+      "event_id": 0
+    },
+    "7": {
+      "title": "Deadpool",
+      "subtitle": "Tom 1 - Nuworysz z nawijką",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/1-marvel-2-0/okladka-200.jpg",
+      "date": "2016-01-06T11:45:03.000Z",
+      "serie_id": 3,
+      "order": 0,
+      "global_order": 2,
+      "notebooks_ids": [56,57,58,60,61],
+      "event_id": 0
+    },
+    "8": {
+      "title": "Deadpool",
+      "subtitle": "Tom 2 - Koniec błędu",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/2-marvel-2-0/okladka-200.jpg",
+      "date": "2016-02-10T11:46:04.000Z",
+      "serie_id": 3,
+      "order": 1,
+      "global_order": 4,
+      "notebooks_ids": [59,62,63],
+      "event_id": 0
+    },
+    "9": {
+      "title": "Deadpool",
+      "subtitle": "Tom 3 - Deadpool kontra Sabretooth",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/394/206/394206/1553883093/231.jpg",
+      "date": "2016-05-25T10:47:21.000Z",
+      "serie_id": 3,
+      "order": 2,
+      "global_order": 7,
+      "notebooks_ids": [64,65,66,67,68],
+      "event_id": 0
+    },
+    "10": {
+      "title": "Deadpool",
+      "subtitle": "Tom 4 - Śmieciowa opowieść",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/4-marvel-2-0/okladka-200.jpg",
+      "date": "2016-06-01T10:50:15.000Z",
+      "serie_id": 3,
+      "order": 3,
+      "global_order": 8,
+      "notebooks_ids": [69],
+      "event_id": 0
+    },
+    "11": {
+      "title": "Deadpool",
+      "subtitle": "Tom 5 - II Wojna Domowa",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/5-marvel-2-0/okladka-200.jpg",
+      "date": "2016-09-28T10:14:07.000Z",
+      "serie_id": 3,
+      "order": 4,
+      "global_order": 12,
+      "notebooks_ids": [70,71,72,73,74,75],
+      "event_id": 0
+    },
+    "12": {
+      "title": "Deadpool",
+      "subtitle": "Tom 6 - Deadpool w czasach zarazy",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/6-marvel-2-0/okladka-200.jpg",
+      "date": "2017-01-25T11:15:13.000Z",
+      "serie_id": 3,
+      "order": 5,
+      "global_order": 16,
+      "notebooks_ids": [76,77,78,79,80,81],
+      "event_id": 0
+    },
+    "13": {
+      "title": "Deadpool",
+      "subtitle": "Tom 7 - Deadpool leci Szekspirem",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/7-marvel-2-0/okladka-200.jpg",
+      "date": "2017-02-15T11:16:31.000Z",
+      "serie_id": 3,
+      "order": 6,
+      "global_order": 17,
+      "notebooks_ids": [82,83],
+      "event_id": 0
+    },
+    "14": {
+      "title": "Deadpool",
+      "subtitle": "Tom 8 - Póki śmierć nas...",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/8-marvel-2-0/okladka-200.jpg",
+      "date": "2017-04-19T10:17:42.000Z",
+      "serie_id": 3,
+      "order": 7,
+      "global_order": 21,
+      "notebooks_ids": [84,85],
+      "event_id": 0
+    },
+    "15": {
+      "title": "Deadpool",
+      "subtitle": "Tom 9 - Deadpool w kosmosie",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/9-marvel-2-0/okladka-200.jpg",
+      "date": "2017-05-10T10:18:31.000Z",
+      "serie_id": 3,
+      "order": 8,
+      "global_order": 22,
+      "notebooks_ids": [86],
+      "event_id": 0
+    },
+    "16": {
+      "title": "Deadpool",
+      "subtitle": "Tom 10 - Tajne imperium",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/10-marvel-2-0/okladka-200.jpg",
+      "date": "2017-08-30T10:19:13.000Z",
+      "serie_id": 3,
+      "order": 9,
+      "global_order": 25,
+      "notebooks_ids": [87,88,89,90,91],
+      "event_id": 0
+    },
+    "17": {
+      "title": "Deadpool",
+      "subtitle": "Tom 11 - Deadpool zabija Cable'a",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/11-marvel-2-0/okladka-200.jpg",
+      "date": "2017-12-27T11:22:15.000Z",
+      "serie_id": 3,
+      "order": 10,
+      "global_order": 27,
+      "notebooks_ids": [93,94,95,96,97],
+      "event_id": 0
+    },
+    "18": {
+      "title": "Deadpool",
+      "subtitle": "Tom 12 - Sprawy do załatwienia",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/12-marvel-2-0/okladka-200.jpg",
+      "date": "2018-03-14T11:24:28.000Z",
+      "serie_id": 3,
+      "order": 12,
+      "global_order": 31,
+      "notebooks_ids": [98,99,100,101,102],
+      "event_id": 0
+    },
+    "19": {
+      "title": "Deadpool",
+      "subtitle": "Tom 13 - Uniwersum Marvela zabija Deadpoola",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/13-marvel-2-0/okladka-200.jpg",
+      "date": "2018-05-09T10:25:41.000Z",
+      "serie_id": 3,
+      "order": 13,
+      "global_order": 32,
+      "notebooks_ids": [103,104,105,106],
+      "event_id": 0
+    },
+    "20": {
+      "title": "Deadpool kontra Staruszek Logan",
+      "subtitle": "",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/kontra-staruszek-logan/okladka-200.jpg",
+      "date": "2018-02-21T11:27:32.000Z",
+      "serie_id": 3,
+      "order": 11,
+      "global_order": 30,
+      "notebooks_ids": [107,108,109,110,111],
+      "event_id": 0
+    },
+    "21": {
+      "title": "Extraordinary X-Men",
+      "subtitle": "Tom 1 - Przystań X",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/extraordinary-x-men/1/okladka-200.jpg",
+      "date": "2016-01-13T11:30:24.000Z",
+      "serie_id": 5,
+      "order": 20,
+      "global_order": 3,
+      "notebooks_ids": [112,113,114,115,116],
+      "event_id": 0
+    },
+    "22": {
+      "title": "Extraordinary X-Men",
+      "subtitle": "Tom 2 - Wojna Apocalypse'a",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/394/453/394453/1554212547/231.jpg",
+      "date": "2016-07-27T10:31:12.000Z",
+      "serie_id": 5,
+      "order": 21,
+      "global_order": 11,
+      "notebooks_ids": [117,118,119,120,121,122,123],
+      "event_id": 0
+    },
+    "23": {
+      "title": "Extraordinary X-Men",
+      "subtitle": "Tom 3 - Upadek królestw",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/extraordinary-x-men/3/okladka-200.jpg",
+      "date": "2016-11-30T11:32:51.000Z",
+      "serie_id": 5,
+      "order": 22,
+      "global_order": 15,
+      "notebooks_ids": [124,125,126,127],
+      "event_id": 0
+    },
+    "24": {
+      "title": "Extraordinary X-Men",
+      "subtitle": "Tom 4 - Inhumans kontra X-Men",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/extraordinary-x-men/inhumans/okladka-200.jpg",
+      "date": "2017-03-22T11:33:52.000Z",
+      "serie_id": 5,
+      "order": 23,
+      "global_order": 20,
+      "notebooks_ids": [128,129,130,131],
+      "event_id": 0
+    },
+    "25": {
+      "title": "Spider-Man",
+      "subtitle": "Tom 1 - Wrogie przejęcie",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/amazing-spider-man-globalna-siec/1/okladka-200.jpg",
+      "date": "2015-12-23T11:37:36.000Z",
+      "serie_id": 6,
+      "order": 24,
+      "global_order": 1,
+      "notebooks_ids": [132,139,140,141,142],
+      "event_id": 0
+    },
+    "26": {
+      "title": "Spider-Man",
+      "subtitle": "Tom 2 - Mroczne królestwo",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/amazing-spider-man-globalna-siec/2/okladka-200.jpg",
+      "date": "2016-04-27T10:38:44.000Z",
+      "serie_id": 6,
+      "order": 25,
+      "global_order": 6,
+      "notebooks_ids": [143,144,145,146,147,148],
+      "event_id": 0
+    },
+    "27": {
+      "title": "Spider-Man",
+      "subtitle": "Tom 3 - Demonstracja siły",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/amazing-spider-man-globalna-siec/3/okladka-200.jpg",
+      "date": "2016-07-06T10:39:33.000Z",
+      "serie_id": 6,
+      "order": 26,
+      "global_order": 9,
+      "notebooks_ids": [149,150,151,152],
+      "event_id": 0
+    },
+    "28": {
+      "title": "Spider-Man",
+      "subtitle": "Tom 4 - Starzy znajomi",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/amazing-spider-man-globalna-siec/4/okladka-200.jpg",
+      "date": "2016-10-05T10:41:33.000Z",
+      "serie_id": 6,
+      "order": 27,
+      "global_order": 13,
+      "notebooks_ids": [153,154,155,156],
+      "event_id": 0
+    },
+    "29": {
+      "title": "Spider-Man",
+      "subtitle": "Tom 5 - Spisek klonów",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/410/602/410602/1568326090/231.jpg",
+      "date": "2017-03-01T11:49:08.000Z",
+      "serie_id": 6,
+      "order": 28,
+      "global_order": 19,
+      "notebooks_ids": [170,157,171,158,189,172,159,190,173,160,191,195,196,197,198,174,161,192,199,175],
+      "event_id": 0
+    },
+    "30": {
+      "title": "Spider-Man",
+      "subtitle": "Tom 6 - Tożsamość Osbourna",
+      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/amazing-spider-man-globalna-siec/6/okladka-200.jpg",
+      "date": "2017-06-07T10:54:30.000Z",
+      "serie_id": 6,
+      "order": 29,
+      "global_order": 24,
+      "notebooks_ids": [162,163,164,165],
+      "event_id": 0
+    },
+    "31": {
+      "title": "Spider-Man",
+      "subtitle": "Tom 7 - Upadek imperium",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/429/811/429811/1588946016/231.jpg",
+      "date": "2017-09-13T10:55:37.000Z",
+      "serie_id": 6,
+      "order": 30,
+      "global_order": 26,
+      "notebooks_ids": [166,167,168,169],
+      "event_id": 0
+    },
+    "32": {
+      "title": "Spider-Man",
+      "subtitle": "Tom 8 - Venom Inc.",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/441/742/441742/1598007548/231.jpg",
+      "date": "2018-01-17T11:09:29.000Z",
+      "serie_id": 6,
+      "order": 31,
+      "global_order": 28,
+      "notebooks_ids": [216,204,214,205,215,217],
+      "event_id": 0
+    },
+    "33": {
+      "title": "Spider-Man",
+      "subtitle": "Tom 9 - Czerwony alarm",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/446/414/446414/1602237178/231.jpg",
+      "date": "2018-02-21T11:10:45.000Z",
+      "serie_id": 6,
+      "order": 32,
+      "global_order": 29,
+      "notebooks_ids": [206,207,208],
+      "event_id": 0
+    },
+    "34": {
+      "title": "Spider-Man",
+      "subtitle": "Tom 10 - Odejść z hukiem",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/455/310/455310/1616504387/231.jpg",
+      "date": "2018-06-20T10:12:27.000Z",
+      "serie_id": 6,
+      "order": 33,
+      "global_order": 33,
+      "notebooks_ids": [209,210,211,212,213],
+      "event_id": 0
+    }
+  },
+  "meta": {
+    "nextIndex": 35
+  }
+}

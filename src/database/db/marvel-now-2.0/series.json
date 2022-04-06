@@ -1,0 +1,67 @@
+{
+  "series": {
+    "1": {
+      "name": "Staruszek Logan",
+      "order": 1,
+      "wave_id": 1,
+      "is_filter": true
+    },
+    "2": {
+      "name": "Old Man Logan",
+      "order": 0,
+      "wave_id": 1,
+      "is_filter": false
+    },
+    "3": {
+      "name": "Deadpool",
+      "order": 2,
+      "wave_id": 2,
+      "is_filter": true
+    },
+    "4": {
+      "name": "Deadpool kontra Staruszek Logan",
+      "order": 3,
+      "wave_id": 2,
+      "is_filter": false
+    },
+    "5": {
+      "name": "Extraordinary X-Men",
+      "order": 4,
+      "wave_id": 1,
+      "is_filter": true
+    },
+    "6": {
+      "name": "Spider-Man",
+      "order": 5,
+      "wave_id": 3,
+      "is_filter": true
+    },
+    "7": {
+      "name": "The Clone Conspiracy",
+      "order": 6,
+      "wave_id": 3,
+      "is_filter": false
+    },
+    "8": {
+      "name": "Silk",
+      "order": 7,
+      "wave_id": 3,
+      "is_filter": false
+    },
+    "9": {
+      "name": "Prowler",
+      "order": 8,
+      "wave_id": 3,
+      "is_filter": false
+    },
+    "10": {
+      "name": "Venom",
+      "order": 9,
+      "wave_id": 3,
+      "is_filter": false
+    }
+  },
+  "meta": {
+    "nextIndex": 11
+  }
+}
