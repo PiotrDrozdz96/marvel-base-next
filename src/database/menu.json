@@ -76,7 +76,7 @@
       "name": "Marvel Now 2.0!",
       "type": "SUB_MENU",
       "order": 9,
-      "url": "/preview/marvel-now-2.0",
+      "url": "/preview/marvel-now-2.0/moje",
       "icon": "",
       "parent_id": 7
     }
