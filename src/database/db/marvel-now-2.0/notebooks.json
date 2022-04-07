@@ -3169,9 +3169,3439 @@
       "date": "2018-04-25T10:00:00.000Z",
       "serie_id": 13,
       "order": 316
+    },
+    "318": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 1,
+      "subtitle": "\"Super Famous: Part 1 of 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5b/Ms._Marvel_Vol_4_1.jpg/revision/latest/scale-to-width-down/132?cb=20151113031645",
+      "date": "2015-11-18T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 317
+    },
+    "319": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 2,
+      "subtitle": "\"Super Famous: Part 2 of 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b6/Ms._Marvel_Vol_4_2.jpg/revision/latest/scale-to-width-down/132?cb=20151211053744",
+      "date": "2015-12-16T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 318
+    },
+    "320": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 3,
+      "subtitle": "\"Super Famous: Part 3 of 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cc/Ms._Marvel_Vol_4_3.jpg/revision/latest/scale-to-width-down/132?cb=20160115054618",
+      "date": "2016-01-20T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 319
+    },
+    "321": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 4,
+      "subtitle": "\"Army of One: Part 1 of 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a8/Ms._Marvel_Vol_4_4.jpg/revision/latest/scale-to-width-down/132?cb=20160205082911",
+      "date": "2016-02-10T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 320
+    },
+    "322": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 5,
+      "subtitle": "\"Army of One: Part 2 of 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/69/Ms._Marvel_Vol_4_5.jpg/revision/latest/scale-to-width-down/132?cb=20160304081413",
+      "date": "2016-03-09T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 321
+    },
+    "323": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 6,
+      "subtitle": "\"Army of One: Part 3 of 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8c/Ms._Marvel_Vol_4_6.jpg/revision/latest/scale-to-width-down/132?cb=20160422051020",
+      "date": "2016-04-27T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 322
+    },
+    "324": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 7,
+      "subtitle": "\"The Road to War\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cb/Ms._Marvel_Vol_4_7.jpg/revision/latest/scale-to-width-down/132?cb=20160520050915",
+      "date": "2016-05-25T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 323
+    },
+    "325": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 8,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d9/Ms._Marvel_Vol_4_8.jpg/revision/latest/scale-to-width-down/131?cb=20160531193155",
+      "date": "2016-06-22T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 324
+    },
+    "326": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 9,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1a/Ms._Marvel_Vol_4_9.jpg/revision/latest/scale-to-width-down/132?cb=20160722092941",
+      "date": "2016-07-27T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 325
+    },
+    "327": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 10,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/af/Ms._Marvel_Vol_4_10.jpg/revision/latest/scale-to-width-down/132?cb=20160826050434",
+      "date": "2016-08-31T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 326
+    },
+    "328": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 11,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7e/Ms._Marvel_Vol_4_11.jpg/revision/latest/scale-to-width-down/132?cb=20160923112606",
+      "date": "2016-09-28T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 327
+    },
+    "329": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 12,
+      "subtitle": "\"The Road to War\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/02/Ms._Marvel_Vol_4_12.jpg/revision/latest/scale-to-width-down/132?cb=20161021084736",
+      "date": "2016-10-26T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 328
+    },
+    "330": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 13,
+      "subtitle": "\"Election Day\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6e/Ms._Marvel_Vol_4_13.jpg/revision/latest/scale-to-width-down/132?cb=20161125070829",
+      "date": "2016-11-30T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 329
+    },
+    "331": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 14,
+      "subtitle": "\"Damage Per Second: Part 1 of 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/06/Ms._Marvel_Vol_4_14.jpg/revision/latest/scale-to-width-down/132?cb=20170106100811",
+      "date": "2017-01-11T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 330
+    },
+    "332": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 15,
+      "subtitle": "\"Damage Per Second: Part 2 of 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2c/Ms._Marvel_Vol_4_15.jpg/revision/latest/scale-to-width-down/132?cb=20170203090423",
+      "date": "2017-02-08T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 331
+    },
+    "333": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 16,
+      "subtitle": "\"Damage Per Second: Part 3 of 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/08/Ms._Marvel_Vol_4_16.jpg/revision/latest/scale-to-width-down/132?cb=20170310092740",
+      "date": "2017-03-15T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 332
+    },
+    "334": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 17,
+      "subtitle": "\"Damage Per Second: Part 4 of 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/00/Ms._Marvel_Vol_4_17.jpg/revision/latest/scale-to-width-down/132?cb=20170416102837",
+      "date": "2017-04-19T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 333
+    },
+    "335": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 18,
+      "subtitle": "\"Meanwhile in Wakanda\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d5/Ms._Marvel_Vol_4_18.jpg/revision/latest/scale-to-width-down/130?cb=20170509011801",
+      "date": "2017-05-10T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 334
+    },
+    "336": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 19,
+      "subtitle": "\"Mecca: Part 1 of 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3e/Ms._Marvel_Vol_4_19.jpg/revision/latest/scale-to-width-down/132?cb=20170609110344",
+      "date": "2017-06-14T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 335
+    },
+    "337": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 20,
+      "subtitle": "\"Mecca: Part 2 of 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5d/Ms._Marvel_Vol_4_20.jpg/revision/latest/scale-to-width-down/132?cb=20170714122721",
+      "date": "2017-07-19T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 336
+    },
+    "338": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 21,
+      "subtitle": "\"Mecca: Part 3 of 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/96/Ms._Marvel_Vol_4_21.jpg/revision/latest/scale-to-width-down/132?cb=20170804053906",
+      "date": "2017-08-09T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 337
+    },
+    "339": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 22,
+      "subtitle": "\"Mecca: Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/ce/Ms._Marvel_Vol_4_22.jpg/revision/latest/scale-to-width-down/132?cb=20170908121552",
+      "date": "2017-09-13T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 338
+    },
+    "340": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 23,
+      "subtitle": "\"Northeast Corridor: Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/ec/Ms._Marvel_Vol_4_23.jpg/revision/latest/scale-to-width-down/132?cb=20171011213243",
+      "date": "2017-10-11T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 339
+    },
+    "341": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 24,
+      "subtitle": "\"Northeast Corridor: Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a7/Ms._Marvel_Vol_4_24.jpg/revision/latest/scale-to-width-down/130?cb=20171103174840",
+      "date": "2017-11-08T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 340
+    },
+    "342": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 25,
+      "subtitle": "\"Teenage Wasteland: Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b2/Ms._Marvel_Vol_4_25.jpg/revision/latest/scale-to-width-down/132?cb=20171215204845",
+      "date": "2017-12-20T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 341
+    },
+    "343": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 26,
+      "subtitle": "\"Teenage Wasteland: Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e0/Ms._Marvel_Vol_4_26.jpg/revision/latest/scale-to-width-down/132?cb=20180105065555",
+      "date": "2018-01-10T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 342
+    },
+    "344": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 27,
+      "subtitle": "\"Teenage Wasteland: Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/08/Ms._Marvel_Vol_4_27.jpg/revision/latest/scale-to-width-down/130?cb=20180209080044",
+      "date": "2018-02-14T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 343
+    },
+    "345": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 28,
+      "subtitle": "\"Teenage Wasteland: Part Four of Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/62/Ms._Marvel_Vol_4_28.jpg/revision/latest/scale-to-width-down/132?cb=20180316110228",
+      "date": "2018-03-21T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 344
+    },
+    "346": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 29,
+      "subtitle": "\"Something New: Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a7/Ms._Marvel_Vol_4_29.jpg/revision/latest/scale-to-width-down/132?cb=20180412211709",
+      "date": "2018-04-18T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 345
+    },
+    "347": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 30,
+      "subtitle": "\"Something New: Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/73/Ms._Marvel_Vol_4_30.jpg/revision/latest/scale-to-width-down/132?cb=20180525084620",
+      "date": "2018-05-30T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 346
+    },
+    "348": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 31,
+      "subtitle": "\"One Night Only\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/24/Ms._Marvel_Vol_4_31.jpg/revision/latest/scale-to-width-down/130?cb=20180622085528",
+      "date": "2018-06-27T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 347
+    },
+    "349": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 32,
+      "subtitle": "\"The Ratio: Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2a/Ms._Marvel_Vol_4_32.jpg/revision/latest/scale-to-width-down/132?cb=20180706075929",
+      "date": "2018-07-11T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 348
+    },
+    "350": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 33,
+      "subtitle": "\"The Ratio: Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4b/Ms._Marvel_Vol_4_33.jpg/revision/latest/scale-to-width-down/132?cb=20180824085506",
+      "date": "2018-08-29T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 349
+    },
+    "351": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 34,
+      "subtitle": "\"The Ratio: Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/85/Ms._Marvel_Vol_4_34.jpg/revision/latest/scale-to-width-down/132?cb=20180907053107",
+      "date": "2018-09-12T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 350
+    },
+    "352": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 35,
+      "subtitle": "\"The Ratio: Part Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/bb/Ms._Marvel_Vol_4_35.jpg/revision/latest/scale-to-width-down/131?cb=20181004184411",
+      "date": "2018-10-10T10:00:00.000Z",
+      "serie_id": 16,
+      "order": 351
+    },
+    "353": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 36,
+      "subtitle": "\"Silk Road\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e5/Ms._Marvel_Vol_4_36.jpg/revision/latest/scale-to-width-down/132?cb=20181110075149",
+      "date": "2018-11-14T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 352
+    },
+    "354": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 37,
+      "subtitle": "\"After the Flood\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/dd/Ms._Marvel_Vol_4_37.jpg/revision/latest/scale-to-width-down/130?cb=20190115134809",
+      "date": "2019-01-30T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 353
+    },
+    "355": {
+      "title": "Ms. Marvel",
+      "vol": 4,
+      "no": 38,
+      "subtitle": "\"Boss Rush\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1e/Ms._Marvel_Vol_4_38.jpg/revision/latest/scale-to-width-down/130?cb=20190118081839",
+      "date": "2019-02-13T11:00:00.000Z",
+      "serie_id": 16,
+      "order": 354
+    },
+    "356": {
+      "title": "Vision",
+      "vol": 2,
+      "no": 1,
+      "subtitle": "\"Visions of the Future\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c1/Vision_Vol_2_1.jpg/revision/latest/scale-to-width-down/130?cb=20151007052938",
+      "date": "2015-11-04T11:00:00.000Z",
+      "serie_id": 17,
+      "order": 355
+    },
+    "357": {
+      "title": "Vision",
+      "vol": 2,
+      "no": 2,
+      "subtitle": "\"Everything Slips Through Their Fingers\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/98/Vision_Vol_2_2.jpg/revision/latest/scale-to-width-down/132?cb=20151127093428",
+      "date": "2015-12-02T11:00:00.000Z",
+      "serie_id": 17,
+      "order": 356
+    },
+    "358": {
+      "title": "Vision",
+      "vol": 2,
+      "no": 3,
+      "subtitle": "\"In and Out\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/50/Vision_Vol_2_3.jpg/revision/latest/scale-to-width-down/132?cb=20160101081354",
+      "date": "2016-01-06T11:00:00.000Z",
+      "serie_id": 17,
+      "order": 357
+    },
+    "359": {
+      "title": "Vision",
+      "vol": 2,
+      "no": 4,
+      "subtitle": "\"Balls in the Air\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/66/Vision_Vol_2_4.jpg/revision/latest/scale-to-width-down/132?cb=20160128155111",
+      "date": "2016-02-03T11:00:00.000Z",
+      "serie_id": 17,
+      "order": 358
+    },
+    "360": {
+      "title": "Vision",
+      "vol": 2,
+      "no": 5,
+      "subtitle": "\"The Villainy You Teach Me\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/31/Vision_Vol_2_5.jpg/revision/latest/scale-to-width-down/132?cb=20160304071009",
+      "date": "2016-03-09T11:00:00.000Z",
+      "serie_id": 17,
+      "order": 359
+    },
+    "361": {
+      "title": "Vision",
+      "vol": 2,
+      "no": 6,
+      "subtitle": "\"P vs. NP\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/18/Vision_Vol_2_6.jpg/revision/latest/scale-to-width-down/132?cb=20160331154614",
+      "date": "2016-04-06T10:00:00.000Z",
+      "serie_id": 17,
+      "order": 360
+    },
+    "362": {
+      "title": "Vision",
+      "vol": 2,
+      "no": 7,
+      "subtitle": "\"I Too Shall be Saved by Love\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/18/Vision_Vol_2_7.jpg/revision/latest/scale-to-width-down/132?cb=20160505045608",
+      "date": "2016-05-11T10:00:00.000Z",
+      "serie_id": 17,
+      "order": 361
+    },
+    "363": {
+      "title": "Vision",
+      "vol": 2,
+      "no": 8,
+      "subtitle": "\"Victorious\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/29/Vision_Vol_2_8.jpg/revision/latest/scale-to-width-down/132?cb=20160603045337",
+      "date": "2016-06-08T10:00:00.000Z",
+      "serie_id": 17,
+      "order": 362
+    },
+    "364": {
+      "title": "Vision",
+      "vol": 2,
+      "no": 9,
+      "subtitle": "\"They Will Die in the Flames\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ae/Vision_Vol_2_9.jpg/revision/latest/scale-to-width-down/132?cb=20160708062611",
+      "date": "2016-07-13T10:00:00.000Z",
+      "serie_id": 17,
+      "order": 363
+    },
+    "365": {
+      "title": "Vision",
+      "vol": 2,
+      "no": 10,
+      "subtitle": "\"All Will Return to Normal\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6d/Vision_Vol_2_10.jpg/revision/latest/scale-to-width-down/132?cb=20160804164856",
+      "date": "2016-08-10T10:00:00.000Z",
+      "serie_id": 17,
+      "order": 364
+    },
+    "366": {
+      "title": "Vision",
+      "vol": 2,
+      "no": 11,
+      "subtitle": "\"You and I Were Born For Better Things\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/76/Vision_Vol_2_11.jpg/revision/latest/scale-to-width-down/132?cb=20160916115211",
+      "date": "2016-09-21T10:00:00.000Z",
+      "serie_id": 17,
+      "order": 365
+    },
+    "367": {
+      "title": "Vision",
+      "vol": 2,
+      "no": 12,
+      "subtitle": "\"Spring\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b5/Vision_Vol_2_12.jpg/revision/latest/scale-to-width-down/132?cb=20161020160006",
+      "date": "2016-10-26T10:00:00.000Z",
+      "serie_id": 17,
+      "order": 366
+    },
+    "368": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 1,
+      "subtitle": "\"Thunder In Her Veins\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7d/Mighty_Thor_Vol_3_1.jpg/revision/latest/scale-to-width-down/132?cb=20151120082528",
+      "date": "2015-11-18T11:00:00.000Z",
+      "serie_id": 18,
+      "order": 367
+    },
+    "369": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 2,
+      "subtitle": "\"The War of the Elves\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8e/Mighty_Thor_Vol_3_2.jpg/revision/latest/scale-to-width-down/132?cb=20151211060410",
+      "date": "2015-12-16T11:00:00.000Z",
+      "serie_id": 18,
+      "order": 368
+    },
+    "370": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 3,
+      "subtitle": "\"The Saga of Thor and Loki\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7b/Mighty_Thor_Vol_3_3.jpg/revision/latest/scale-to-width-down/132?cb=20160108055421",
+      "date": "2016-01-13T11:00:00.000Z",
+      "serie_id": 18,
+      "order": 369
+    },
+    "371": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 4,
+      "subtitle": "\"The Trial of the All-Mother\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7c/Mighty_Thor_Vol_3_4.jpg/revision/latest/scale-to-width-down/132?cb=20160212051241",
+      "date": "2016-02-17T11:00:00.000Z",
+      "serie_id": 18,
+      "order": 370
+    },
+    "372": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 5,
+      "subtitle": "\"The Civil War of the Gods\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/35/Mighty_Thor_Vol_3_5.jpg/revision/latest/scale-to-width-down/132?cb=20160303145502",
+      "date": "2016-03-09T11:00:00.000Z",
+      "serie_id": 18,
+      "order": 371
+    },
+    "373": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 6,
+      "subtitle": "\"The Strongest Viking There Is: Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/91/Mighty_Thor_Vol_3_6.jpg/revision/latest/scale-to-width-down/132?cb=20160414190216",
+      "date": "2016-04-20T10:00:00.000Z",
+      "serie_id": 18,
+      "order": 372
+    },
+    "374": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 7,
+      "subtitle": "\"The Strongest Viking There Is: Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/15/Mighty_Thor_Vol_3_7.jpg/revision/latest/scale-to-width-down/132?cb=20160519211601",
+      "date": "2016-05-25T10:00:00.000Z",
+      "serie_id": 18,
+      "order": 373
+    },
+    "375": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 8,
+      "subtitle": "\"Lords of Midgard\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4c/Mighty_Thor_Vol_3_8.jpg/revision/latest/scale-to-width-down/131?cb=20160616042623",
+      "date": "2016-06-22T10:00:00.000Z",
+      "serie_id": 18,
+      "order": 374
+    },
+    "376": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 9,
+      "subtitle": "\"The Agger Imperative\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/12/Mighty_Thor_Vol_3_9.jpg/revision/latest/scale-to-width-down/132?cb=20160722052645",
+      "date": "2016-07-27T10:00:00.000Z",
+      "serie_id": 18,
+      "order": 375
+    },
+    "377": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 10,
+      "subtitle": "\"The Battle of Roxxon Island\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e4/Mighty_Thor_Vol_3_10.jpg/revision/latest/scale-to-width-down/132?cb=20160812043008",
+      "date": "2016-08-17T10:00:00.000Z",
+      "serie_id": 18,
+      "order": 376
+    },
+    "378": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 11,
+      "subtitle": "\"Thor's Best Friend\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2b/Mighty_Thor_Vol_3_11.jpg/revision/latest/scale-to-width-down/132?cb=20160915092756",
+      "date": "2016-09-21T10:00:00.000Z",
+      "serie_id": 18,
+      "order": 377
+    },
+    "379": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 12,
+      "subtitle": "\"The Untold Origin of Mjolnir\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e6/Mighty_Thor_Vol_3_12.jpg/revision/latest/scale-to-width-down/131?cb=20161014065438",
+      "date": "2016-10-19T10:00:00.000Z",
+      "serie_id": 18,
+      "order": 378
+    },
+    "380": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 13,
+      "subtitle": "\"The League of Realms Rides Again\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7a/Mighty_Thor_Vol_3_13.jpg/revision/latest/scale-to-width-down/132?cb=20161117095927",
+      "date": "2016-11-23T11:00:00.000Z",
+      "serie_id": 18,
+      "order": 379
+    },
+    "381": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 14,
+      "subtitle": "\"Ljosalfgard's Burning\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/ba/Mighty_Thor_Vol_3_14.jpg/revision/latest/scale-to-width-down/132?cb=20161223053210",
+      "date": "2016-12-28T11:00:00.000Z",
+      "serie_id": 18,
+      "order": 380
+    },
+    "382": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 15,
+      "subtitle": "\"The Asgard/Shi'ar War, Part One: A Day Which Will Live In Immortal Infamy\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/94/Mighty_Thor_Vol_3_15.jpg/revision/latest/scale-to-width-down/132?cb=20170106090834",
+      "date": "2017-01-11T11:00:00.000Z",
+      "serie_id": 18,
+      "order": 381
+    },
+    "383": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 16,
+      "subtitle": "\"The Asgard/Shi'ar War, Part Two: The Challenge of the Gods\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/df/Mighty_Thor_Vol_3_16.jpg/revision/latest/scale-to-width-down/200?cb=20170209235045",
+      "date": "2017-02-15T11:00:00.000Z",
+      "serie_id": 18,
+      "order": 382
+    },
+    "384": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 17,
+      "subtitle": "\"The Asgard/Shi'ar War, Part Three: When The Stars Threw Down Their Spears\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/51/Mighty_Thor_Vol_3_17.jpg/revision/latest/scale-to-width-down/131?cb=20170309222353",
+      "date": "2017-03-15T11:00:00.000Z",
+      "serie_id": 18,
+      "order": 383
+    },
+    "385": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 18,
+      "subtitle": "\"The Asgard/Shi'ar War, Part Four: The Omega Kiss\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/04/Mighty_Thor_Vol_3_18.jpg/revision/latest/scale-to-width-down/132?cb=20170421051703",
+      "date": "2017-04-26T10:00:00.000Z",
+      "serie_id": 18,
+      "order": 384
+    },
+    "386": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 19,
+      "subtitle": "\"The Asgard/Shi'ar War, Part Five: To Face The Phoenix\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cf/Mighty_Thor_Vol_3_19.jpg/revision/latest/scale-to-width-down/132?cb=20170512061407",
+      "date": "2017-05-17T10:00:00.000Z",
+      "serie_id": 18,
+      "order": 385
+    },
+    "387": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 20,
+      "subtitle": "\"Baptism by Fire\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1b/Mighty_Thor_Vol_3_20.jpg/revision/latest/scale-to-width-down/130?cb=20170616231817",
+      "date": "2017-06-21T10:00:00.000Z",
+      "serie_id": 18,
+      "order": 386
+    },
+    "388": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 21,
+      "subtitle": "\"The War Thor\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c1/Mighty_Thor_Vol_3_21.jpg/revision/latest/scale-to-width-down/132?cb=20170714053512",
+      "date": "2017-07-19T10:00:00.000Z",
+      "serie_id": 18,
+      "order": 387
+    },
+    "389": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 22,
+      "subtitle": "\"A Fistful of Brimstone\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/26/Mighty_Thor_Vol_3_22.jpg/revision/latest/scale-to-width-down/132?cb=20170811075650",
+      "date": "2017-08-16T10:00:00.000Z",
+      "serie_id": 18,
+      "order": 388
+    },
+    "390": {
+      "title": "Mighty Thor",
+      "vol": 3,
+      "no": 23,
+      "subtitle": "\"The War of Thors\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f7/Mighty_Thor_Vol_3_23.jpg/revision/latest/scale-to-width-down/131?cb=20170921174033",
+      "date": "2017-09-27T10:00:00.000Z",
+      "serie_id": 18,
+      "order": 389
+    },
+    "391": {
+      "title": "Mighty Thor",
+      "vol": 2,
+      "no": 700,
+      "subtitle": "\"The Blood of the Norns\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/08/Mighty_Thor_Vol_2_700.jpg/revision/latest/scale-to-width-down/130?cb=20171006225142",
+      "date": "2017-10-18T10:00:00.000Z",
+      "serie_id": 18,
+      "order": 390
+    },
+    "392": {
+      "title": "Mighty Thor",
+      "vol": 2,
+      "no": 701,
+      "subtitle": "\"The Wrath of the Mangog\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/89/Mighty_Thor_Vol_2_701.jpg/revision/latest/scale-to-width-down/132?cb=20171110054108",
+      "date": "2017-11-15T11:00:00.000Z",
+      "serie_id": 18,
+      "order": 391
+    },
+    "393": {
+      "title": "Mighty Thor",
+      "vol": 2,
+      "no": 702,
+      "subtitle": "\"The Last Days of the Goddess of Thunder\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6e/Mighty_Thor_Vol_2_702.jpg/revision/latest/scale-to-width-down/132?cb=20171214224312",
+      "date": "2017-12-20T11:00:00.000Z",
+      "serie_id": 18,
+      "order": 392
+    },
+    "394": {
+      "title": "Mighty Thor",
+      "vol": 2,
+      "no": 703,
+      "subtitle": "\"The Fall of Asgard\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/02/Mighty_Thor_Vol_2_703.jpg/revision/latest/scale-to-width-down/130?cb=20180116014927",
+      "date": "2018-01-17T11:00:00.000Z",
+      "serie_id": 18,
+      "order": 393
+    },
+    "395": {
+      "title": "Mighty Thor",
+      "vol": 2,
+      "no": 704,
+      "subtitle": "\"The Gospel According to Jane\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3f/Mighty_Thor_Vol_2_704.jpg/revision/latest/scale-to-width-down/132?cb=20180216060904",
+      "date": "2018-02-21T11:00:00.000Z",
+      "serie_id": 18,
+      "order": 394
+    },
+    "396": {
+      "title": "Mighty Thor",
+      "vol": 2,
+      "no": 705,
+      "subtitle": "\"Sundown\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/23/Mighty_Thor_Vol_2_705.jpg/revision/latest/scale-to-width-down/132?cb=20180316073637",
+      "date": "2018-03-21T11:00:00.000Z",
+      "serie_id": 18,
+      "order": 395
+    },
+    "397": {
+      "title": "Mighty Thor",
+      "vol": 2,
+      "no": 706,
+      "subtitle": "\"At the Gates of Valhalla\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/90/Mighty_Thor_Vol_2_706.jpg/revision/latest/scale-to-width-down/131?cb=20180420002612",
+      "date": "2018-04-25T10:00:00.000Z",
+      "serie_id": 18,
+      "order": 396
+    },
+    "398": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 1,
+      "subtitle": "\"The Way of the Weird\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/76/Doctor_Strange_Vol_4_1.jpg/revision/latest/scale-to-width-down/132?cb=20151002084147",
+      "date": "2015-10-07T10:00:00.000Z",
+      "serie_id": 19,
+      "order": 397
+    },
+    "399": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 1.1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0a/Doctor_Strange_Vol_4_1.MU.jpg/revision/latest/scale-to-width-down/132?cb=20170210075618",
+      "date": "2017-02-15T11:00:00.000Z",
+      "serie_id": 19,
+      "order": 398
+    },
+    "400": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fd/Doctor_Strange_Vol_4_2.jpg/revision/latest/scale-to-width-down/132?cb=20151029222036",
+      "date": "2015-11-04T11:00:00.000Z",
+      "serie_id": 19,
+      "order": 399
+    },
+    "401": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 3,
+      "subtitle": "\"Eaters of Magic\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6d/Doctor_Strange_Vol_4_3.jpg/revision/latest/scale-to-width-down/132?cb=20151127082554",
+      "date": "2015-12-02T11:00:00.000Z",
+      "serie_id": 19,
+      "order": 400
+    },
+    "402": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 4,
+      "subtitle": "\"The Art of Puking Without Puking\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/64/Doctor_Strange_Vol_4_4.jpg/revision/latest/scale-to-width-down/132?cb=20160101071907",
+      "date": "2016-01-06T11:00:00.000Z",
+      "serie_id": 19,
+      "order": 401
+    },
+    "403": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 5,
+      "subtitle": "\"Pound of Flesh\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7b/Doctor_Strange_Vol_4_5.jpg/revision/latest/scale-to-width-down/131?cb=20160128224926",
+      "date": "2016-02-03T11:00:00.000Z",
+      "serie_id": 19,
+      "order": 402
+    },
+    "404": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 6,
+      "subtitle": "\"The Last Days of Magic: Chapter One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e0/Doctor_Strange_Vol_4_6.jpg/revision/latest/scale-to-width-down/132?cb=20160303150355",
+      "date": "2016-03-09T11:00:00.000Z",
+      "serie_id": 19,
+      "order": 403
+    },
+    "405": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 7,
+      "subtitle": "\"The Last Days of Magic: Chapter Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4b/Doctor_Strange_Vol_4_7.jpg/revision/latest/scale-to-width-down/132?cb=20160422051601",
+      "date": "2016-04-27T10:00:00.000Z",
+      "serie_id": 19,
+      "order": 404
+    },
+    "406": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 8,
+      "subtitle": "\"The Last Days of Magic: Chapter Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7a/Doctor_Strange_Vol_4_8.jpg/revision/latest/scale-to-width-down/132?cb=20160520044033",
+      "date": "2016-05-25T10:00:00.000Z",
+      "serie_id": 19,
+      "order": 405
+    },
+    "407": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 9,
+      "subtitle": "\"The Last Days of Magic: Chapter Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4c/Doctor_Strange_Vol_4_9.jpg/revision/latest/scale-to-width-down/132?cb=20160617042753",
+      "date": "2016-06-22T10:00:00.000Z",
+      "serie_id": 19,
+      "order": 406
+    },
+    "408": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 10,
+      "subtitle": "\"Last Days of Magic: Conclusion\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9c/Doctor_Strange_Vol_4_10.jpg/revision/latest/scale-to-width-down/132?cb=20160729041937",
+      "date": "2016-08-03T10:00:00.000Z",
+      "serie_id": 19,
+      "order": 407
+    },
+    "409": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 11,
+      "subtitle": "\"The New Face of Magic\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b2/Doctor_Strange_Vol_4_11.jpg/revision/latest/scale-to-width-down/131?cb=20160902000403",
+      "date": "2016-09-07T10:00:00.000Z",
+      "serie_id": 19,
+      "order": 408
+    },
+    "410": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 12,
+      "subtitle": "\"Blood in the Aether: Chapter One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0b/Doctor_Strange_Vol_4_12.jpg/revision/latest/scale-to-width-down/132?cb=20160930050420",
+      "date": "2016-10-05T10:00:00.000Z",
+      "serie_id": 19,
+      "order": 409
+    },
+    "411": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 13,
+      "subtitle": "\"Blood in the Aether - Chapter Two: Night of Four Billion Nightmares\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/da/Doctor_Strange_Vol_4_13.jpg/revision/latest/scale-to-width-down/131?cb=20161014041500",
+      "date": "2016-10-19T10:00:00.000Z",
+      "serie_id": 19,
+      "order": 410
+    },
+    "412": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 14,
+      "subtitle": "\"Blood in the Aether - Chapter Three: A Gut Full of Hell\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/56/Doctor_Strange_Vol_4_14.jpg/revision/latest/scale-to-width-down/132?cb=20161111081128",
+      "date": "2016-11-16T11:00:00.000Z",
+      "serie_id": 19,
+      "order": 411
+    },
+    "413": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 15,
+      "subtitle": "\"Blood in the Aether - Chapter Four: The Face of Sin\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ae/Doctor_Strange_Vol_4_15.jpg/revision/latest/scale-to-width-down/132?cb=20161216082802",
+      "date": "2016-12-21T11:00:00.000Z",
+      "serie_id": 19,
+      "order": 412
+    },
+    "414": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 16,
+      "subtitle": "\"Blood in the Aether - Chapter Five: The Dread\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/aa/Doctor_Strange_Vol_4_16.jpg/revision/latest/scale-to-width-down/132?cb=20170120054913",
+      "date": "2017-01-25T11:00:00.000Z",
+      "serie_id": 19,
+      "order": 413
+    },
+    "415": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 17,
+      "subtitle": "\"State of Misery\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/dc/Doctor_Strange_Vol_4_17.jpg/revision/latest/scale-to-width-down/132?cb=20170210073947",
+      "date": "2017-02-15T11:00:00.000Z",
+      "serie_id": 19,
+      "order": 414
+    },
+    "416": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 18,
+      "subtitle": "\"The World's Finest Super-Surgeons\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a3/Doctor_Strange_Vol_4_18.jpg/revision/latest/scale-to-width-down/131?cb=20170224052643",
+      "date": "2017-03-01T11:00:00.000Z",
+      "serie_id": 19,
+      "order": 415
+    },
+    "417": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 19,
+      "subtitle": "\"The Power of Strange Compels You\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c7/Doctor_Strange_Vol_4_19.jpg/revision/latest/scale-to-width-down/132?cb=20170416053638",
+      "date": "2017-04-19T10:00:00.000Z",
+      "serie_id": 19,
+      "order": 416
+    },
+    "418": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 20,
+      "subtitle": "\"The Weird, the Weirder, and the Weirdest\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0f/Doctor_Strange_Vol_4_20.jpg/revision/latest/scale-to-width-down/132?cb=20170602084933",
+      "date": "2017-06-07T10:00:00.000Z",
+      "serie_id": 19,
+      "order": 417
+    },
+    "419": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 21,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d7/Doctor_Strange_Vol_4_21.jpg/revision/latest/scale-to-width-down/132?cb=20170526071040",
+      "date": "2017-05-31T10:00:00.000Z",
+      "serie_id": 19,
+      "order": 418
+    },
+    "420": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 22,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/da/Doctor_Strange_Vol_4_22.jpg/revision/latest/scale-to-width-down/130?cb=20170616230937",
+      "date": "2017-06-21T10:00:00.000Z",
+      "serie_id": 19,
+      "order": 419
+    },
+    "421": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 23,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e9/Doctor_Strange_Vol_4_23.jpg/revision/latest/scale-to-width-down/130?cb=20170719211104",
+      "date": "2017-07-19T10:00:00.000Z",
+      "serie_id": 19,
+      "order": 420
+    },
+    "422": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 24,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c3/Doctor_Strange_Vol_4_24.jpg/revision/latest/scale-to-width-down/132?cb=20170818153812",
+      "date": "2017-08-23T10:00:00.000Z",
+      "serie_id": 19,
+      "order": 421
+    },
+    "423": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 25,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/ff/Doctor_Strange_Vol_4_25.jpg/revision/latest/scale-to-width-down/132?cb=20170915060037",
+      "date": "2017-09-20T10:00:00.000Z",
+      "serie_id": 19,
+      "order": 422
+    },
+    "424": {
+      "title": "Doctor Strange",
+      "vol": 4,
+      "no": 26,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3a/Doctor_Strange_Vol_4_26.jpg/revision/latest/scale-to-width-down/132?cb=20171013052342",
+      "date": "2017-10-18T10:00:00.000Z",
+      "serie_id": 19,
+      "order": 423
+    },
+    "425": {
+      "title": "Doctor Strange",
+      "vol": 1,
+      "no": 381,
+      "subtitle": "\"Loki: Sorcerer Supreme - Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/90/Doctor_Strange_Vol_1_381.jpg/revision/latest/scale-to-width-down/132?cb=20171110060147",
+      "date": "2017-11-15T11:00:00.000Z",
+      "serie_id": 19,
+      "order": 424
+    },
+    "426": {
+      "title": "Doctor Strange",
+      "vol": 1,
+      "no": 382,
+      "subtitle": "\"Loki: Sorcerer Supreme - Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8b/Doctor_Strange_Vol_1_382.jpg/revision/latest/scale-to-width-down/132?cb=20171201070326",
+      "date": "2017-12-06T11:00:00.000Z",
+      "serie_id": 19,
+      "order": 425
+    },
+    "427": {
+      "title": "Doctor Strange",
+      "vol": 1,
+      "no": 383,
+      "subtitle": "\"Loki: Sorcerer Supreme - Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/97/Doctor_Strange_Vol_1_383.jpg/revision/latest/scale-to-width-down/132?cb=20171215184417",
+      "date": "2017-12-20T11:00:00.000Z",
+      "serie_id": 19,
+      "order": 426
+    },
+    "428": {
+      "title": "Doctor Strange",
+      "vol": 1,
+      "no": 384,
+      "subtitle": "\"Loki: Sorcerer Supreme - Part Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/67/Doctor_Strange_Vol_1_384.jpg/revision/latest/scale-to-width-down/132?cb=20180112062129",
+      "date": "2018-01-17T11:00:00.000Z",
+      "serie_id": 19,
+      "order": 427
+    },
+    "429": {
+      "title": "Doctor Strange",
+      "vol": 1,
+      "no": 385,
+      "subtitle": "\"Loki: Sorcerer Supreme - Part Five\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f0/Doctor_Strange_Vol_1_385.jpg/revision/latest/scale-to-width-down/130?cb=20180209075422",
+      "date": "2018-02-14T11:00:00.000Z",
+      "serie_id": 19,
+      "order": 428
+    },
+    "430": {
+      "title": "Doctor Strange",
+      "vol": 1,
+      "no": 386,
+      "subtitle": "\"Bleeding Neon: Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f7/Doctor_Strange_Vol_1_386.jpg/revision/latest/scale-to-width-down/132?cb=20180223112421",
+      "date": "2018-02-28T11:00:00.000Z",
+      "serie_id": 19,
+      "order": 429
+    },
+    "431": {
+      "title": "Doctor Strange",
+      "vol": 1,
+      "no": 387,
+      "subtitle": "\"Bleeding Neon: Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/59/Doctor_Strange_Vol_1_387.jpg/revision/latest/scale-to-width-down/132?cb=20180309121505",
+      "date": "2018-03-14T11:00:00.000Z",
+      "serie_id": 19,
+      "order": 430
+    },
+    "432": {
+      "title": "Doctor Strange",
+      "vol": 1,
+      "no": 388,
+      "subtitle": "\"Bleeding Neon: Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4b/Doctor_Strange_Vol_1_388.jpg/revision/latest/scale-to-width-down/132?cb=20180406071625",
+      "date": "2018-04-11T10:00:00.000Z",
+      "serie_id": 19,
+      "order": 431
+    },
+    "433": {
+      "title": "Doctor Strange",
+      "vol": 1,
+      "no": 389,
+      "subtitle": "\"Bleeding Neon: Part Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9a/Doctor_Strange_Vol_1_389.jpg/revision/latest/scale-to-width-down/132?cb=20180420101105",
+      "date": "2018-04-25T10:00:00.000Z",
+      "serie_id": 19,
+      "order": 432
+    },
+    "434": {
+      "title": "Doctor Strange",
+      "vol": 1,
+      "no": 390,
+      "subtitle": "\"Strange Way To Go: Finale\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9b/Doctor_Strange_Vol_1_390.jpg/revision/latest/scale-to-width-down/132?cb=20180518072002",
+      "date": "2018-05-23T10:00:00.000Z",
+      "serie_id": 19,
+      "order": 433
+    },
+    "435": {
+      "title": "Doctor Strange: Damnation",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d8/Doctor_Strange_Damnation_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20180302052243",
+      "date": "2018-02-21T11:00:00.000Z",
+      "serie_id": 20,
+      "order": 434
+    },
+    "436": {
+      "title": "Doctor Strange: Damnation",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/de/Doctor_Strange_Damnation_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20180302094355",
+      "date": "2018-03-07T11:00:00.000Z",
+      "serie_id": 20,
+      "order": 435
+    },
+    "437": {
+      "title": "Doctor Strange: Damnation",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/76/Doctor_Strange_Damnation_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20180316065826",
+      "date": "2018-03-21T11:00:00.000Z",
+      "serie_id": 20,
+      "order": 436
+    },
+    "438": {
+      "title": "Doctor Strange: Damnation",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e0/Doctor_Strange_Damnation_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20180420101634",
+      "date": "2018-04-25T10:00:00.000Z",
+      "serie_id": 20,
+      "order": 437
+    },
+    "439": {
+      "title": "Damnation: Johnny Blaze - Ghost Rider",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/23/Damnation_Johnny_Blaze_-_Ghost_Rider_Vol_1_1.jpg/revision/latest/scale-to-width-down/131?cb=20180323030546",
+      "date": "2018-03-28T10:00:00.000Z",
+      "serie_id": 20,
+      "order": 438
+    },
+    "440": {
+      "title": "Iron Fist",
+      "vol": 1,
+      "no": 78,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f2/Iron_Fist_Vol_1_78.jpg/revision/latest/scale-to-width-down/132?cb=20180316110838",
+      "date": "2018-03-21T11:00:00.000Z",
+      "serie_id": 20,
+      "order": 439
+    },
+    "441": {
+      "title": "Iron Fist",
+      "vol": 1,
+      "no": 79,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/24/Iron_Fist_Vol_1_79.jpg/revision/latest/scale-to-width-down/132?cb=20180330074225",
+      "date": "2018-04-04T10:00:00.000Z",
+      "serie_id": 20,
+      "order": 440
+    },
+    "442": {
+      "title": "Iron Fist",
+      "vol": 1,
+      "no": 80,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/39/Iron_Fist_Vol_1_80.jpg/revision/latest/scale-to-width-down/132?cb=20180413075932",
+      "date": "2018-04-18T10:00:00.000Z",
+      "serie_id": 20,
+      "order": 441
+    },
+    "443": {
+      "title": "Ben Reilly: Scarlet Spider",
+      "vol": 1,
+      "no": 15,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1d/Ben_Reilly_Scarlet_Spider_Vol_1_15.jpg/revision/latest/scale-to-width-down/132?cb=20180309001420",
+      "date": "2018-03-14T11:00:00.000Z",
+      "serie_id": 20,
+      "order": 442
+    },
+    "444": {
+      "title": "Ben Reilly: Scarlet Spider",
+      "vol": 1,
+      "no": 16,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/98/Ben_Reilly_Scarlet_Spider_Vol_1_16.jpg/revision/latest/scale-to-width-down/132?cb=20180323064701",
+      "date": "2018-03-28T10:00:00.000Z",
+      "serie_id": 20,
+      "order": 443
+    },
+    "445": {
+      "title": "Ben Reilly: Scarlet Spider",
+      "vol": 1,
+      "no": 17,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7c/Ben_Reilly_Scarlet_Spider_Vol_1_17.jpg/revision/latest/scale-to-width-down/132?cb=20180406094553",
+      "date": "2018-04-11T10:00:00.000Z",
+      "serie_id": 20,
+      "order": 444
+    },
+    "446": {
+      "title": "All-New Hawkeye",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Wunderkammer: Part One of Five\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f6/All-New_Hawkeye_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20150227004120",
+      "date": "2015-03-04T11:00:00.000Z",
+      "serie_id": 22,
+      "order": 445
+    },
+    "447": {
+      "title": "All-New Hawkeye",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Wunderkammer: Part Two of Five\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/ce/All-New_Hawkeye_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20150403214943",
+      "date": "2015-04-08T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 446
+    },
+    "448": {
+      "title": "All-New Hawkeye",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Wunderkammer: Part Three of Five\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/19/All-New_Hawkeye_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20150524013018",
+      "date": "2015-05-27T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 447
+    },
+    "449": {
+      "title": "All-New Hawkeye",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Wunderkammer: Part Four of Five\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1a/All-New_Hawkeye_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20150718002809",
+      "date": "2015-07-22T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 448
+    },
+    "450": {
+      "title": "All-New Hawkeye",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"Wunderkammer: Part Five of Five\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cd/All-New_Hawkeye_Vol_1_5.jpg/revision/latest/scale-to-width-down/132?cb=20150911085945",
+      "date": "2015-09-16T10:00:00.000Z",
+      "serie_id": 22,
+      "order": 449
+    },
+    "451": {
+      "title": "All-New Hawkeye",
+      "vol": 2,
+      "no": 1,
+      "subtitle": "\"The Bishop's Man: Part One of Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fe/All-New_Hawkeye_Vol_2_1.jpg/revision/latest/scale-to-width-down/132?cb=20151015232019",
+      "date": "2015-11-11T11:00:00.000Z",
+      "serie_id": 23,
+      "order": 450
+    },
+    "452": {
+      "title": "All-New Hawkeye",
+      "vol": 2,
+      "no": 2,
+      "subtitle": "\"The Bishop's Man: Part Two of Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/18/All-New_Hawkeye_Vol_2_2.jpg/revision/latest/scale-to-width-down/131?cb=20151204081952",
+      "date": "2015-12-09T11:00:00.000Z",
+      "serie_id": 23,
+      "order": 451
+    },
+    "453": {
+      "title": "All-New Hawkeye",
+      "vol": 2,
+      "no": 3,
+      "subtitle": "\"The Bishop's Man: Part Three of Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4a/All-New_Hawkeye_Vol_2_3.jpg/revision/latest/scale-to-width-down/132?cb=20160108070318",
+      "date": "2016-01-13T11:00:00.000Z",
+      "serie_id": 23,
+      "order": 452
+    },
+    "454": {
+      "title": "All-New Hawkeye",
+      "vol": 2,
+      "no": 4,
+      "subtitle": "\"Hawkeyes: Part One of Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d5/All-New_Hawkeye_Vol_2_4.jpg/revision/latest/scale-to-width-down/132?cb=20160205085128",
+      "date": "2016-02-10T11:00:00.000Z",
+      "serie_id": 23,
+      "order": 453
+    },
+    "455": {
+      "title": "All-New Hawkeye",
+      "vol": 2,
+      "no": 5,
+      "subtitle": "\"Hawkeyes: Part Two of Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/37/All-New_Hawkeye_Vol_2_5.jpg/revision/latest/scale-to-width-down/132?cb=20160317172749",
+      "date": "2016-03-23T11:00:00.000Z",
+      "serie_id": 23,
+      "order": 454
+    },
+    "456": {
+      "title": "All-New Hawkeye",
+      "vol": 2,
+      "no": 6,
+      "subtitle": "\"Hawkeyes: Part Three of Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/58/All-New_Hawkeye_Vol_2_6.jpg/revision/latest/scale-to-width-down/132?cb=20160415062017",
+      "date": "2016-04-20T10:00:00.000Z",
+      "serie_id": 23,
+      "order": 455
+    },
+    "457": {
+      "title": "Hawkeye",
+      "vol": 5,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/56/Hawkeye_Vol_5_1.jpg/revision/latest/scale-to-width-down/132?cb=20161209074217",
+      "date": "2016-12-14T11:00:00.000Z",
+      "serie_id": 21,
+      "order": 456
+    },
+    "458": {
+      "title": "Hawkeye",
+      "vol": 5,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/34/Hawkeye_Vol_5_2.jpg/revision/latest/scale-to-width-down/132?cb=20161230082859",
+      "date": "2017-01-04T11:00:00.000Z",
+      "serie_id": 21,
+      "order": 457
+    },
+    "459": {
+      "title": "Hawkeye",
+      "vol": 5,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c3/Hawkeye_Vol_5_3.jpg/revision/latest/scale-to-width-down/132?cb=20170127112617",
+      "date": "2017-02-01T11:00:00.000Z",
+      "serie_id": 21,
+      "order": 458
+    },
+    "460": {
+      "title": "Hawkeye",
+      "vol": 5,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4a/Hawkeye_Vol_5_4.jpg/revision/latest/scale-to-width-down/132?cb=20170224092803",
+      "date": "2017-03-01T11:00:00.000Z",
+      "serie_id": 21,
+      "order": 459
+    },
+    "461": {
+      "title": "Hawkeye",
+      "vol": 5,
+      "no": 5,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/24/Hawkeye_Vol_5_5.jpg/revision/latest/scale-to-width-down/132?cb=20170331125151",
+      "date": "2017-04-05T10:00:00.000Z",
+      "serie_id": 21,
+      "order": 460
+    },
+    "462": {
+      "title": "Hawkeye",
+      "vol": 5,
+      "no": 6,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/34/Hawkeye_Vol_5_6.jpg/revision/latest/scale-to-width-down/132?cb=20170428121041",
+      "date": "2017-05-03T10:00:00.000Z",
+      "serie_id": 21,
+      "order": 461
+    },
+    "463": {
+      "title": "Hawkeye",
+      "vol": 5,
+      "no": 7,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/ee/Hawkeye_Vol_5_7.jpg/revision/latest/scale-to-width-down/132?cb=20170602115508",
+      "date": "2017-06-07T10:00:00.000Z",
+      "serie_id": 21,
+      "order": 462
+    },
+    "464": {
+      "title": "Hawkeye",
+      "vol": 5,
+      "no": 8,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ae/Hawkeye_Vol_5_8.jpg/revision/latest/scale-to-width-down/132?cb=20170630114517",
+      "date": "2017-07-05T10:00:00.000Z",
+      "serie_id": 21,
+      "order": 463
+    },
+    "465": {
+      "title": "Hawkeye",
+      "vol": 5,
+      "no": 9,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d4/Hawkeye_Vol_5_9.jpg/revision/latest/scale-to-width-down/132?cb=20170728102431",
+      "date": "2017-08-02T10:00:00.000Z",
+      "serie_id": 21,
+      "order": 464
+    },
+    "466": {
+      "title": "Hawkeye",
+      "vol": 5,
+      "no": 10,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c1/Hawkeye_Vol_5_10.jpg/revision/latest/scale-to-width-down/132?cb=20170901143514",
+      "date": "2017-09-06T10:00:00.000Z",
+      "serie_id": 21,
+      "order": 465
+    },
+    "467": {
+      "title": "Hawkeye",
+      "vol": 5,
+      "no": 11,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/65/Hawkeye_Vol_5_11.jpg/revision/latest/scale-to-width-down/130?cb=20170930111416",
+      "date": "2017-10-04T10:00:00.000Z",
+      "serie_id": 21,
+      "order": 466
+    },
+    "468": {
+      "title": "Hawkeye",
+      "vol": 5,
+      "no": 12,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ad/Hawkeye_Vol_5_12.jpg/revision/latest/scale-to-width-down/130?cb=20171110074744",
+      "date": "2017-11-15T11:00:00.000Z",
+      "serie_id": 21,
+      "order": 467
+    },
+    "469": {
+      "title": "Hawkeye",
+      "vol": 5,
+      "no": 13,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ae/Hawkeye_Vol_5_13.jpg/revision/latest/scale-to-width-down/132?cb=20171201061220",
+      "date": "2017-12-06T11:00:00.000Z",
+      "serie_id": 21,
+      "order": 468
+    },
+    "470": {
+      "title": "Hawkeye",
+      "vol": 5,
+      "no": 14,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cb/Hawkeye_Vol_5_14.jpg/revision/latest/scale-to-width-down/130?cb=20171229170652",
+      "date": "2018-01-03T11:00:00.000Z",
+      "serie_id": 21,
+      "order": 469
+    },
+    "471": {
+      "title": "Hawkeye",
+      "vol": 5,
+      "no": 15,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/71/Hawkeye_Vol_5_15.jpg/revision/latest/scale-to-width-down/132?cb=20180202211940",
+      "date": "2018-02-07T11:00:00.000Z",
+      "serie_id": 21,
+      "order": 470
+    },
+    "472": {
+      "title": "Hawkeye",
+      "vol": 5,
+      "no": 16,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1d/Hawkeye_Vol_5_16.jpg/revision/latest/scale-to-width-down/132?cb=20180301201540",
+      "date": "2018-03-07T11:00:00.000Z",
+      "serie_id": 21,
+      "order": 471
+    },
+    "473": {
+      "title": "Invincible Iron Man",
+      "vol": 3,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/20/Invincible_Iron_Man_Vol_3_1.jpg/revision/latest/scale-to-width-down/132?cb=20151002042548",
+      "date": "2015-10-07T10:00:00.000Z",
+      "serie_id": 24,
+      "order": 472
+    },
+    "474": {
+      "title": "Invincible Iron Man",
+      "vol": 3,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/94/Invincible_Iron_Man_Vol_3_2.jpg/revision/latest/scale-to-width-down/132?cb=20151016040950",
+      "date": "2015-10-21T10:00:00.000Z",
+      "serie_id": 24,
+      "order": 473
+    },
+    "475": {
+      "title": "Invincible Iron Man",
+      "vol": 3,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/72/Invincible_Iron_Man_Vol_3_3.jpg/revision/latest/scale-to-width-down/132?cb=20151030023626",
+      "date": "2015-11-04T11:00:00.000Z",
+      "serie_id": 24,
+      "order": 474
+    },
+    "476": {
+      "title": "Invincible Iron Man",
+      "vol": 3,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/20/Invincible_Iron_Man_Vol_3_4.jpg/revision/latest/scale-to-width-down/131?cb=20151127054545",
+      "date": "2015-12-02T11:00:00.000Z",
+      "serie_id": 24,
+      "order": 475
+    },
+    "477": {
+      "title": "Invincible Iron Man",
+      "vol": 3,
+      "no": 5,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/73/Invincible_Iron_Man_Vol_3_5.jpg/revision/latest/scale-to-width-down/132?cb=20151231080434",
+      "date": "2016-01-06T11:00:00.000Z",
+      "serie_id": 24,
+      "order": 476
+    },
+    "478": {
+      "title": "Invincible Iron Man",
+      "vol": 3,
+      "no": 6,
+      "subtitle": "\"The War Machines\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/22/Invincible_Iron_Man_Vol_3_6.jpg/revision/latest/scale-to-width-down/131?cb=20160129000559",
+      "date": "2016-02-03T11:00:00.000Z",
+      "serie_id": 24,
+      "order": 477
+    },
+    "479": {
+      "title": "Invincible Iron Man",
+      "vol": 3,
+      "no": 7,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5b/Invincible_Iron_Man_Vol_3_7.jpg/revision/latest/scale-to-width-down/131?cb=20160225234126",
+      "date": "2016-03-02T11:00:00.000Z",
+      "serie_id": 24,
+      "order": 478
+    },
+    "480": {
+      "title": "Invincible Iron Man",
+      "vol": 3,
+      "no": 8,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/79/Invincible_Iron_Man_Vol_3_8.jpg/revision/latest/scale-to-width-down/132?cb=20160401063333",
+      "date": "2016-04-06T10:00:00.000Z",
+      "serie_id": 24,
+      "order": 479
+    },
+    "481": {
+      "title": "Invincible Iron Man",
+      "vol": 3,
+      "no": 9,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d7/Invincible_Iron_Man_Vol_3_9.jpg/revision/latest/scale-to-width-down/132?cb=20160408202430",
+      "date": "2016-05-04T10:00:00.000Z",
+      "serie_id": 24,
+      "order": 480
+    },
+    "482": {
+      "title": "Invincible Iron Man",
+      "vol": 3,
+      "no": 10,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c9/Invincible_Iron_Man_Vol_3_10.jpg/revision/latest/scale-to-width-down/132?cb=20160526170754",
+      "date": "2016-06-01T10:00:00.000Z",
+      "serie_id": 24,
+      "order": 481
+    },
+    "483": {
+      "title": "Invincible Iron Man",
+      "vol": 3,
+      "no": 11,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3b/Invincible_Iron_Man_Vol_3_11.jpg/revision/latest/scale-to-width-down/131?cb=20160630210308",
+      "date": "2016-07-06T10:00:00.000Z",
+      "serie_id": 24,
+      "order": 482
+    },
+    "484": {
+      "title": "Invincible Iron Man",
+      "vol": 3,
+      "no": 12,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/06/Invincible_Iron_Man_Vol_3_12.jpg/revision/latest/scale-to-width-down/132?cb=20160728203332",
+      "date": "2016-08-03T10:00:00.000Z",
+      "serie_id": 24,
+      "order": 483
+    },
+    "485": {
+      "title": "Invincible Iron Man",
+      "vol": 3,
+      "no": 13,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4d/Invincible_Iron_Man_Vol_3_13.jpg/revision/latest/scale-to-width-down/132?cb=20160901144151",
+      "date": "2016-09-07T10:00:00.000Z",
+      "serie_id": 24,
+      "order": 484
+    },
+    "486": {
+      "title": "Invincible Iron Man",
+      "vol": 3,
+      "no": 14,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b8/Invincible_Iron_Man_Vol_3_14.jpg/revision/latest/scale-to-width-down/131?cb=20160929205446",
+      "date": "2016-10-05T10:00:00.000Z",
+      "serie_id": 24,
+      "order": 485
+    },
+    "487": {
+      "title": "Civil War II",
+      "vol": 1,
+      "no": 0,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/67/Civil_War_II_Vol_1_0.jpg/revision/latest/scale-to-width-down/132?cb=20160518154200",
+      "date": "2016-05-18T10:00:00.000Z",
+      "serie_id": 25,
+      "order": 486
+    },
+    "488": {
+      "title": "Civil War II",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ad/Civil_War_II_Vol_1_1.jpg/revision/latest/scale-to-width-down/131?cb=20160602083351",
+      "date": "2016-06-01T10:00:00.000Z",
+      "serie_id": 25,
+      "order": 487
+    },
+    "489": {
+      "title": "Civil War II",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/34/Civil_War_II_Vol_1_2.jpg/revision/latest/scale-to-width-down/130?cb=20160615215308",
+      "date": "2016-06-15T10:00:00.000Z",
+      "serie_id": 25,
+      "order": 488
+    },
+    "490": {
+      "title": "Civil War II",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/54/Civil_War_II_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20160713202038",
+      "date": "2016-07-13T10:00:00.000Z",
+      "serie_id": 25,
+      "order": 489
+    },
+    "491": {
+      "title": "Civil War II",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/af/Civil_War_II_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20160722045021",
+      "date": "2016-07-27T10:00:00.000Z",
+      "serie_id": 25,
+      "order": 490
+    },
+    "492": {
+      "title": "Civil War II",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2c/Civil_War_II_Vol_1_5.jpg/revision/latest/scale-to-width-down/132?cb=20160830085458",
+      "date": "2016-09-21T10:00:00.000Z",
+      "serie_id": 25,
+      "order": 491
+    },
+    "493": {
+      "title": "Civil War II",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0d/Civil_War_II_Vol_1_6.jpg/revision/latest/scale-to-width-down/132?cb=20160929070136",
+      "date": "2016-10-26T10:00:00.000Z",
+      "serie_id": 25,
+      "order": 492
+    },
+    "494": {
+      "title": "Civil War II",
+      "vol": 1,
+      "no": 7,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d8/Civil_War_II_Vol_1_7.jpg/revision/latest/scale-to-width-down/132?cb=20161020003742",
+      "date": "2016-11-23T11:00:00.000Z",
+      "serie_id": 25,
+      "order": 493
+    },
+    "495": {
+      "title": "Civil War II",
+      "vol": 1,
+      "no": 8,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4a/Civil_War_II_Vol_1_8.jpg/revision/latest/scale-to-width-down/131?cb=20161202213353",
+      "date": "2016-12-28T11:00:00.000Z",
+      "serie_id": 25,
+      "order": 494
+    },
+    "496": {
+      "title": "Civil War II: Amazing Spider-Man",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/ba/Civil_War_II_Amazing_Spider-Man_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20160603043435",
+      "date": "2016-06-08T10:00:00.000Z",
+      "serie_id": 26,
+      "order": 495
+    },
+    "497": {
+      "title": "Civil War II: Amazing Spider-Man",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d8/Civil_War_II_Amazing_Spider-Man_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20160707213834",
+      "date": "2016-07-13T10:00:00.000Z",
+      "serie_id": 26,
+      "order": 496
+    },
+    "498": {
+      "title": "Civil War II: Amazing Spider-Man",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/75/Civil_War_II_Amazing_Spider-Man_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20160812075907",
+      "date": "2016-08-17T10:00:00.000Z",
+      "serie_id": 26,
+      "order": 497
+    },
+    "499": {
+      "title": "Civil War II: Amazing Spider-Man",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/79/Civil_War_II_Amazing_Spider-Man_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20160909101348",
+      "date": "2016-09-14T10:00:00.000Z",
+      "serie_id": 26,
+      "order": 498
+    },
+    "500": {
+      "title": "Civil War II: X-Men",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7a/Civil_War_II_X-Men_Vol_1_1.jpg/revision/latest/scale-to-width-down/131?cb=20160520213220",
+      "date": "2016-06-15T10:00:00.000Z",
+      "serie_id": 27,
+      "order": 499
+    },
+    "501": {
+      "title": "Civil War II: X-Men",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c7/Civil_War_II_X-Men_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20160812070622",
+      "date": "2016-07-06T10:00:00.000Z",
+      "serie_id": 27,
+      "order": 500
+    },
+    "502": {
+      "title": "Civil War II: X-Men",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2a/Civil_War_II_X-Men_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20160812064807",
+      "date": "2016-08-17T10:00:00.000Z",
+      "serie_id": 27,
+      "order": 501
+    },
+    "503": {
+      "title": "Civil War II: X-Men",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/81/Civil_War_II_X-Men_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20160915174948",
+      "date": "2016-09-21T10:00:00.000Z",
+      "serie_id": 27,
+      "order": 502
+    },
+    "504": {
+      "title": "Mockingbird",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/00/Mockingbird_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20160304085506",
+      "date": "2016-03-09T11:00:00.000Z",
+      "serie_id": 28,
+      "order": 503
+    },
+    "505": {
+      "title": "Mockingbird",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/ed/Mockingbird_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20160408081428",
+      "date": "2016-04-13T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 504
+    },
+    "506": {
+      "title": "Mockingbird",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/38/Mockingbird_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20160520072140",
+      "date": "2016-05-25T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 505
+    },
+    "507": {
+      "title": "Mockingbird",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4b/Mockingbird_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20160624145510",
+      "date": "2016-06-29T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 506
+    },
+    "508": {
+      "title": "Mockingbird",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/24/Mockingbird_Vol_1_5.jpg/revision/latest/scale-to-width-down/132?cb=20160722095729",
+      "date": "2016-07-27T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 507
+    },
+    "509": {
+      "title": "Mockingbird",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/96/Mockingbird_Vol_1_6.jpg/revision/latest/scale-to-width-down/132?cb=20160812082354",
+      "date": "2016-08-17T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 508
+    },
+    "510": {
+      "title": "Mockingbird",
+      "vol": 1,
+      "no": 7,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/dc/Mockingbird_Vol_1_7.jpg/revision/latest/scale-to-width-down/132?cb=20160909082526",
+      "date": "2016-09-14T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 509
+    },
+    "511": {
+      "title": "Mockingbird",
+      "vol": 1,
+      "no": 8,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cb/Mockingbird_Vol_1_8.jpg/revision/latest/scale-to-width-down/132?cb=20161014170133",
+      "date": "2016-10-19T10:00:00.000Z",
+      "serie_id": 28,
+      "order": 510
+    },
+    "512": {
+      "title": "IVX",
+      "vol": 1,
+      "no": 0,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/26/IVX_Vol_1_0.jpg/revision/latest/scale-to-width-down/132?cb=20161124205609",
+      "date": "2016-11-30T11:00:00.000Z",
+      "serie_id": 29,
+      "order": 511
+    },
+    "513": {
+      "title": "IVX",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a8/IVX_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20161209085730",
+      "date": "2016-12-14T11:00:00.000Z",
+      "serie_id": 29,
+      "order": 512
+    },
+    "514": {
+      "title": "IVX",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c4/IVX_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20170105181638",
+      "date": "2017-01-11T11:00:00.000Z",
+      "serie_id": 29,
+      "order": 513
+    },
+    "515": {
+      "title": "IVX",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/bf/IVX_Vol_1_3.jpg/revision/latest/scale-to-width-down/131?cb=20170119204524",
+      "date": "2017-01-25T11:00:00.000Z",
+      "serie_id": 29,
+      "order": 514
+    },
+    "516": {
+      "title": "IVX",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/33/IVX_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20170203102854",
+      "date": "2017-02-08T11:00:00.000Z",
+      "serie_id": 29,
+      "order": 515
+    },
+    "517": {
+      "title": "IVX",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/97/IVX_Vol_1_5.jpg/revision/latest/scale-to-width-down/132?cb=20170217001901",
+      "date": "2017-02-22T11:00:00.000Z",
+      "serie_id": 29,
+      "order": 516
+    },
+    "518": {
+      "title": "IVX",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/ea/IVX_Vol_1_6.jpg/revision/latest/scale-to-width-down/132?cb=20170303004342",
+      "date": "2017-03-08T11:00:00.000Z",
+      "serie_id": 29,
+      "order": 517
+    },
+    "519": {
+      "title": "Death of X",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/dd/Death_of_X_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20160929190704",
+      "date": "2016-10-05T10:00:00.000Z",
+      "serie_id": 30,
+      "order": 518
+    },
+    "520": {
+      "title": "Death of X",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9f/Death_of_X_Vol_1_2.jpg/revision/latest/scale-to-width-down/131?cb=20161014062123",
+      "date": "2016-10-19T10:00:00.000Z",
+      "serie_id": 30,
+      "order": 519
+    },
+    "521": {
+      "title": "Death of X",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/eb/Death_of_X_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20161028135555",
+      "date": "2016-11-02T11:00:00.000Z",
+      "serie_id": 30,
+      "order": 520
+    },
+    "522": {
+      "title": "Death of X",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/00/Death_of_X_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20161118054240",
+      "date": "2016-11-23T11:00:00.000Z",
+      "serie_id": 30,
+      "order": 521
+    },
+    "523": {
+      "title": "Astonishing X-Men",
+      "vol": 4,
+      "no": 1,
+      "subtitle": "\"Act I: Life of X, Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c1/Astonishing_X-Men_Vol_4_1.jpg/revision/latest/scale-to-width-down/132?cb=20170714064030",
+      "date": "2017-07-19T10:00:00.000Z",
+      "serie_id": 31,
+      "order": 522
+    },
+    "524": {
+      "title": "Astonishing X-Men",
+      "vol": 4,
+      "no": 2,
+      "subtitle": "\"Act I: Life of X, Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/39/Astonishing_X-Men_Vol_4_2.jpg/revision/latest/scale-to-width-down/132?cb=20170811081436",
+      "date": "2017-08-16T10:00:00.000Z",
+      "serie_id": 31,
+      "order": 523
+    },
+    "525": {
+      "title": "Astonishing X-Men",
+      "vol": 4,
+      "no": 3,
+      "subtitle": "\"Act I: Life of X, Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ae/Astonishing_X-Men_Vol_4_3.jpg/revision/latest/scale-to-width-down/132?cb=20170831225556",
+      "date": "2017-09-06T10:00:00.000Z",
+      "serie_id": 31,
+      "order": 524
+    },
+    "526": {
+      "title": "Astonishing X-Men",
+      "vol": 4,
+      "no": 4,
+      "subtitle": "\"Act I: Life of X, Part Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6b/Astonishing_X-Men_Vol_4_4.jpg/revision/latest/scale-to-width-down/130?cb=20170930111000",
+      "date": "2017-10-04T10:00:00.000Z",
+      "serie_id": 31,
+      "order": 525
+    },
+    "527": {
+      "title": "Astonishing X-Men",
+      "vol": 4,
+      "no": 5,
+      "subtitle": "\"Act I: Life of X, Part Five\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2c/Astonishing_X-Men_Vol_4_5.jpg/revision/latest/scale-to-width-down/132?cb=20171026124538",
+      "date": "2017-11-01T11:00:00.000Z",
+      "serie_id": 31,
+      "order": 526
+    },
+    "528": {
+      "title": "Astonishing X-Men",
+      "vol": 4,
+      "no": 6,
+      "subtitle": "\"Act I: Life of X, Part Six\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/15/Astonishing_X-Men_Vol_4_6.jpg/revision/latest/scale-to-width-down/130?cb=20171130194315",
+      "date": "2017-12-06T11:00:00.000Z",
+      "serie_id": 31,
+      "order": 527
+    },
+    "529": {
+      "title": "Astonishing X-Men",
+      "vol": 4,
+      "no": 7,
+      "subtitle": "\"Act II: A Man Called X, Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/67/Astonishing_X-Men_Vol_4_7.jpg/revision/latest/scale-to-width-down/130?cb=20171229165205",
+      "date": "2018-01-03T11:00:00.000Z",
+      "serie_id": 31,
+      "order": 528
+    },
+    "530": {
+      "title": "Astonishing X-Men",
+      "vol": 4,
+      "no": 8,
+      "subtitle": "\"Act II: A Man Called X, Part 2\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ad/Astonishing_X-Men_Vol_4_8.jpg/revision/latest/scale-to-width-down/132?cb=20180216055710",
+      "date": "2018-02-21T11:00:00.000Z",
+      "serie_id": 31,
+      "order": 529
+    },
+    "531": {
+      "title": "Astonishing X-Men",
+      "vol": 4,
+      "no": 9,
+      "subtitle": "\"Act II: A Man Called X, Part 3\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cd/Astonishing_X-Men_Vol_4_9.jpg/revision/latest/scale-to-width-down/132?cb=20180309122528",
+      "date": "2018-03-14T11:00:00.000Z",
+      "serie_id": 31,
+      "order": 530
+    },
+    "532": {
+      "title": "Astonishing X-Men",
+      "vol": 4,
+      "no": 10,
+      "subtitle": "\"Act II: A Man Called X, Part Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/52/Astonishing_X-Men_Vol_4_10.jpg/revision/latest/scale-to-width-down/131?cb=20180329223045",
+      "date": "2018-04-04T10:00:00.000Z",
+      "serie_id": 31,
+      "order": 531
+    },
+    "533": {
+      "title": "Astonishing X-Men",
+      "vol": 4,
+      "no": 11,
+      "subtitle": "\"Act II: A Man Called X, Part Five\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f6/Astonishing_X-Men_Vol_4_11.jpg/revision/latest/scale-to-width-down/131?cb=20180427042211",
+      "date": "2018-05-02T10:00:00.000Z",
+      "serie_id": 31,
+      "order": 532
+    },
+    "534": {
+      "title": "Astonishing X-Men",
+      "vol": 4,
+      "no": 12,
+      "subtitle": "\"Act III: Mindkiller\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/34/Astonishing_X-Men_Vol_4_12.jpg/revision/latest/scale-to-width-down/132?cb=20180601005521",
+      "date": "2018-06-06T10:00:00.000Z",
+      "serie_id": 31,
+      "order": 533
+    },
+    "535": {
+      "title": "Astonishing X-Men",
+      "vol": 4,
+      "no": 13,
+      "subtitle": "\"Until Our Hearts Stop: Part One\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4e/Astonishing_X-Men_Vol_4_13.jpg/revision/latest/scale-to-width-down/132?cb=20180629054611",
+      "date": "2018-07-04T10:00:00.000Z",
+      "serie_id": 31,
+      "order": 534
+    },
+    "536": {
+      "title": "Astonishing X-Men",
+      "vol": 4,
+      "no": 14,
+      "subtitle": "\"Until Our Hearts Stop: Part Two\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/53/Astonishing_X-Men_Vol_4_14.jpg/revision/latest/scale-to-width-down/131?cb=20180727003705",
+      "date": "2018-08-01T10:00:00.000Z",
+      "serie_id": 31,
+      "order": 535
+    },
+    "537": {
+      "title": "Astonishing X-Men",
+      "vol": 4,
+      "no": 15,
+      "subtitle": "\"Until Our Hearts Stop: Part Three\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cd/Astonishing_X-Men_Vol_4_15.jpg/revision/latest/scale-to-width-down/132?cb=20180831014311",
+      "date": "2018-09-05T10:00:00.000Z",
+      "serie_id": 31,
+      "order": 536
+    },
+    "538": {
+      "title": "Astonishing X-Men",
+      "vol": 4,
+      "no": 16,
+      "subtitle": "\"Until Our Hearts Stop: Part Four\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/06/Astonishing_X-Men_Vol_4_16.jpg/revision/latest/scale-to-width-down/132?cb=20181012022933",
+      "date": "2018-10-17T10:00:00.000Z",
+      "serie_id": 31,
+      "order": 537
+    },
+    "539": {
+      "title": "Astonishing X-Men",
+      "vol": 4,
+      "no": 17,
+      "subtitle": "\"Until Our Hearts Stop: Part Five\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f3/Astonishing_X-Men_Vol_4_17.jpg/revision/latest/scale-to-width-down/130?cb=20181118030801",
+      "date": "2018-11-21T11:00:00.000Z",
+      "serie_id": 31,
+      "order": 538
+    },
+    "540": {
+      "title": "Captain America: Steve Rogers",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/26/Captain_America_Steve_Rogers_Vol_1_1.jpg/revision/latest/scale-to-width-down/131?cb=20160428214037",
+      "date": "2016-05-25T10:00:00.000Z",
+      "serie_id": 32,
+      "order": 539
+    },
+    "541": {
+      "title": "Captain America: Steve Rogers",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ae/Captain_America_Steve_Rogers_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20160624153511",
+      "date": "2016-06-29T10:00:00.000Z",
+      "serie_id": 32,
+      "order": 540
+    },
+    "542": {
+      "title": "Captain America: Steve Rogers",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b0/Captain_America_Steve_Rogers_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20160722064313",
+      "date": "2016-07-27T10:00:00.000Z",
+      "serie_id": 32,
+      "order": 541
+    },
+    "543": {
+      "title": "Captain America: Steve Rogers",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/dd/Captain_America_Steve_Rogers_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20160818141357",
+      "date": "2016-08-24T10:00:00.000Z",
+      "serie_id": 32,
+      "order": 542
+    },
+    "544": {
+      "title": "Captain America: Steve Rogers",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/78/Captain_America_Steve_Rogers_Vol_1_5.jpg/revision/latest/scale-to-width-down/131?cb=20160922155318",
+      "date": "2016-09-28T10:00:00.000Z",
+      "serie_id": 32,
+      "order": 543
+    },
+    "545": {
+      "title": "Captain America: Steve Rogers",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/22/Captain_America_Steve_Rogers_Vol_1_6.jpg/revision/latest/scale-to-width-down/132?cb=20161021092423",
+      "date": "2016-10-26T10:00:00.000Z",
+      "serie_id": 32,
+      "order": 544
+    },
+    "546": {
+      "title": "Captain America: Steve Rogers",
+      "vol": 1,
+      "no": 7,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/13/Captain_America_Steve_Rogers_Vol_1_7.jpg/revision/latest/scale-to-width-down/132?cb=20161103062502",
+      "date": "2016-11-09T11:00:00.000Z",
+      "serie_id": 32,
+      "order": 545
+    },
+    "547": {
+      "title": "Captain America: Steve Rogers",
+      "vol": 1,
+      "no": 8,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/05/Captain_America_Steve_Rogers_Vol_1_8.jpg/revision/latest/scale-to-width-down/132?cb=20161222231059",
+      "date": "2016-12-28T11:00:00.000Z",
+      "serie_id": 32,
+      "order": 546
+    },
+    "548": {
+      "title": "Captain America: Steve Rogers",
+      "vol": 1,
+      "no": 9,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/52/Captain_America_Steve_Rogers_Vol_1_9.jpg/revision/latest/scale-to-width-down/132?cb=20170106055204",
+      "date": "2017-01-11T11:00:00.000Z",
+      "serie_id": 32,
+      "order": 547
+    },
+    "549": {
+      "title": "Captain America: Steve Rogers",
+      "vol": 1,
+      "no": 10,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/25/Captain_America_Steve_Rogers_Vol_1_10.jpg/revision/latest/scale-to-width-down/132?cb=20170120091357",
+      "date": "2017-01-25T11:00:00.000Z",
+      "serie_id": 32,
+      "order": 548
+    },
+    "550": {
+      "title": "Captain America: Steve Rogers",
+      "vol": 1,
+      "no": 11,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/ff/Captain_America_Steve_Rogers_Vol_1_11.jpg/revision/latest/scale-to-width-down/132?cb=20170210054331",
+      "date": "2017-02-15T11:00:00.000Z",
+      "serie_id": 32,
+      "order": 549
+    },
+    "551": {
+      "title": "Captain America: Steve Rogers",
+      "vol": 1,
+      "no": 12,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2c/Captain_America_Steve_Rogers_Vol_1_12.jpg/revision/latest/scale-to-width-down/132?cb=20170217055259",
+      "date": "2017-02-22T11:00:00.000Z",
+      "serie_id": 32,
+      "order": 550
+    },
+    "552": {
+      "title": "Captain America: Steve Rogers",
+      "vol": 1,
+      "no": 13,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fe/Captain_America_Steve_Rogers_Vol_1_13.jpg/revision/latest/scale-to-width-down/131?cb=20170302233554",
+      "date": "2017-03-08T11:00:00.000Z",
+      "serie_id": 32,
+      "order": 551
+    },
+    "553": {
+      "title": "Captain America: Steve Rogers",
+      "vol": 1,
+      "no": 14,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/06/Captain_America_Steve_Rogers_Vol_1_14.jpg/revision/latest/scale-to-width-down/132?cb=20170316201910",
+      "date": "2017-03-22T11:00:00.000Z",
+      "serie_id": 32,
+      "order": 552
+    },
+    "554": {
+      "title": "Captain America: Steve Rogers",
+      "vol": 1,
+      "no": 15,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e8/Captain_America_Steve_Rogers_Vol_1_15.jpg/revision/latest/scale-to-width-down/131?cb=20170330214226",
+      "date": "2017-04-05T10:00:00.000Z",
+      "serie_id": 32,
+      "order": 553
+    },
+    "555": {
+      "title": "Captain America: Steve Rogers",
+      "vol": 1,
+      "no": 16,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c2/Captain_America_Steve_Rogers_Vol_1_16.jpg/revision/latest/scale-to-width-down/132?cb=20170416043532",
+      "date": "2017-04-19T10:00:00.000Z",
+      "serie_id": 32,
+      "order": 554
+    },
+    "556": {
+      "title": "Captain America: Steve Rogers",
+      "vol": 1,
+      "no": 17,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a3/Captain_America_Steve_Rogers_Vol_1_17.jpg/revision/latest/scale-to-width-down/132?cb=20170518131248",
+      "date": "2017-05-24T10:00:00.000Z",
+      "serie_id": 32,
+      "order": 555
+    },
+    "557": {
+      "title": "Captain America: Steve Rogers",
+      "vol": 1,
+      "no": 18,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d3/Captain_America_Steve_Rogers_Vol_1_18.jpg/revision/latest/scale-to-width-down/132?cb=20170616000713",
+      "date": "2017-06-21T10:00:00.000Z",
+      "serie_id": 32,
+      "order": 556
+    },
+    "558": {
+      "title": "Captain America: Steve Rogers",
+      "vol": 1,
+      "no": 19,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/44/Captain_America_Steve_Rogers_Vol_1_19.jpg/revision/latest/scale-to-width-down/132?cb=20170720133639",
+      "date": "2017-07-26T10:00:00.000Z",
+      "serie_id": 32,
+      "order": 557
+    },
+    "559": {
+      "title": "Captain America: Sam Wilson",
+      "vol": 1,
+      "no": 22,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/aa/Captain_America_Sam_Wilson_Vol_1_22.jpg/revision/latest/scale-to-width-down/132?cb=20170526065902",
+      "date": "2017-05-31T10:00:00.000Z",
+      "serie_id": 15,
+      "order": 558
+    },
+    "560": {
+      "title": "Captain America: Sam Wilson",
+      "vol": 1,
+      "no": 23,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/23/Captain_America_Sam_Wilson_Vol_1_23.jpg/revision/latest/scale-to-width-down/130?cb=20170610235351",
+      "date": "2017-06-14T10:00:00.000Z",
+      "serie_id": 15,
+      "order": 559
+    },
+    "561": {
+      "title": "Captain America: Sam Wilson",
+      "vol": 1,
+      "no": 24,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0b/Captain_America_Sam_Wilson_Vol_1_24.jpg/revision/latest/scale-to-width-down/132?cb=20170721152102",
+      "date": "2017-07-26T10:00:00.000Z",
+      "serie_id": 15,
+      "order": 560
+    },
+    "562": {
+      "title": "Black Widow",
+      "vol": 6,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2d/Black_Widow_Vol_6_1.jpg/revision/latest/scale-to-width-down/132?cb=20160226064019",
+      "date": "2016-03-02T11:00:00.000Z",
+      "serie_id": 33,
+      "order": 561
+    },
+    "563": {
+      "title": "Black Widow",
+      "vol": 6,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9b/Black_Widow_Vol_6_2.jpg/revision/latest/scale-to-width-down/132?cb=20160401070029",
+      "date": "2016-04-06T10:00:00.000Z",
+      "serie_id": 33,
+      "order": 562
+    },
+    "564": {
+      "title": "Black Widow",
+      "vol": 6,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cf/Black_Widow_Vol_6_3.jpg/revision/latest/scale-to-width-down/132?cb=20160428145406",
+      "date": "2016-05-04T10:00:00.000Z",
+      "serie_id": 33,
+      "order": 563
+    },
+    "565": {
+      "title": "Black Widow",
+      "vol": 6,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/df/Black_Widow_Vol_6_4.jpg/revision/latest/scale-to-width-down/132?cb=20160615210844",
+      "date": "2016-06-15T10:00:00.000Z",
+      "serie_id": 33,
+      "order": 564
+    },
+    "566": {
+      "title": "Black Widow",
+      "vol": 6,
+      "no": 5,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/13/Black_Widow_Vol_6_5.jpg/revision/latest/scale-to-width-down/132?cb=20160715004543",
+      "date": "2016-07-20T10:00:00.000Z",
+      "serie_id": 33,
+      "order": 565
+    },
+    "567": {
+      "title": "Black Widow",
+      "vol": 6,
+      "no": 6,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f8/Black_Widow_Vol_6_6.jpg/revision/latest/scale-to-width-down/132?cb=20160812044533",
+      "date": "2016-08-17T10:00:00.000Z",
+      "serie_id": 33,
+      "order": 566
+    },
+    "568": {
+      "title": "Black Widow",
+      "vol": 6,
+      "no": 7,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/77/Black_Widow_Vol_6_7.jpg/revision/latest/scale-to-width-down/131?cb=20161014043626",
+      "date": "2016-10-19T10:00:00.000Z",
+      "serie_id": 33,
+      "order": 567
+    },
+    "569": {
+      "title": "Black Widow",
+      "vol": 6,
+      "no": 8,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/74/Black_Widow_Vol_6_8.jpg/revision/latest/scale-to-width-down/132?cb=20161125055328",
+      "date": "2016-11-30T11:00:00.000Z",
+      "serie_id": 33,
+      "order": 568
+    },
+    "570": {
+      "title": "Black Widow",
+      "vol": 6,
+      "no": 9,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d3/Black_Widow_Vol_6_9.jpg/revision/latest/scale-to-width-down/132?cb=20161223085350",
+      "date": "2016-12-28T11:00:00.000Z",
+      "serie_id": 33,
+      "order": 569
+    },
+    "571": {
+      "title": "Black Widow",
+      "vol": 6,
+      "no": 10,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/40/Black_Widow_Vol_6_10.jpg/revision/latest/scale-to-width-down/132?cb=20170113112407",
+      "date": "2017-01-18T11:00:00.000Z",
+      "serie_id": 33,
+      "order": 570
+    },
+    "572": {
+      "title": "Black Widow",
+      "vol": 6,
+      "no": 11,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9d/Black_Widow_Vol_6_11.jpg/revision/latest/scale-to-width-down/132?cb=20170203073037",
+      "date": "2017-02-08T11:00:00.000Z",
+      "serie_id": 33,
+      "order": 571
+    },
+    "573": {
+      "title": "Black Widow",
+      "vol": 6,
+      "no": 12,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/1c/Black_Widow_Vol_6_12.jpg/revision/latest/scale-to-width-down/132?cb=20170324062100",
+      "date": "2017-03-29T10:00:00.000Z",
+      "serie_id": 33,
+      "order": 572
+    },
+    "574": {
+      "title": "Unworthy Thor",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"The Hammer from Heaven\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2b/Unworthy_Thor_Vol_1_1.jpg/revision/latest/scale-to-width-down/131?cb=20161027234838",
+      "date": "2016-11-02T11:00:00.000Z",
+      "serie_id": 34,
+      "order": 573
+    },
+    "575": {
+      "title": "Unworthy Thor",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"The Thief of Asgard\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9e/Unworthy_Thor_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20161202062527",
+      "date": "2016-12-07T11:00:00.000Z",
+      "serie_id": 34,
+      "order": 574
+    },
+    "576": {
+      "title": "Unworthy Thor",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"The Sin Unpardonable\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5b/Unworthy_Thor_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20161230061257",
+      "date": "2017-01-04T11:00:00.000Z",
+      "serie_id": 34,
+      "order": 575
+    },
+    "577": {
+      "title": "Unworthy Thor",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"War of the Unworthy\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/31/Unworthy_Thor_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20170203065443",
+      "date": "2017-02-08T11:00:00.000Z",
+      "serie_id": 34,
+      "order": 576
+    },
+    "578": {
+      "title": "Unworthy Thor",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"The Whisper\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/02/Unworthy_Thor_Vol_1_5.jpg/revision/latest/scale-to-width-down/132?cb=20170317073904",
+      "date": "2017-03-22T11:00:00.000Z",
+      "serie_id": 34,
+      "order": 577
+    },
+    "579": {
+      "title": "Moon Knight",
+      "vol": 8,
+      "no": 1,
+      "subtitle": "\"Welcome to New Egypt: Part 1 of 5\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/96/Moon_Knight_Vol_8_1.jpg/revision/latest/scale-to-width-down/132?cb=20160407174108",
+      "date": "2016-04-13T10:00:00.000Z",
+      "serie_id": 35,
+      "order": 578
+    },
+    "580": {
+      "title": "Moon Knight",
+      "vol": 8,
+      "no": 2,
+      "subtitle": "\"Welcome to New Egypt: Part 2 of 5\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/aa/Moon_Knight_Vol_8_2.jpg/revision/latest/scale-to-width-down/132?cb=20160428070913",
+      "date": "2016-05-04T10:00:00.000Z",
+      "serie_id": 35,
+      "order": 579
+    },
+    "581": {
+      "title": "Moon Knight",
+      "vol": 8,
+      "no": 3,
+      "subtitle": "\"Welcome to New Egypt: Part 3 of 5\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/87/Moon_Knight_Vol_8_3.jpg/revision/latest/scale-to-width-down/132?cb=20160526075153",
+      "date": "2016-06-01T10:00:00.000Z",
+      "serie_id": 35,
+      "order": 580
+    },
+    "582": {
+      "title": "Moon Knight",
+      "vol": 8,
+      "no": 4,
+      "subtitle": "\"Welcome to New Egypt: Part 4 of 5\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/14/Moon_Knight_Vol_8_4.jpg/revision/latest/scale-to-width-down/131?cb=20160630062633",
+      "date": "2016-07-06T10:00:00.000Z",
+      "serie_id": 35,
+      "order": 581
+    },
+    "583": {
+      "title": "Moon Knight",
+      "vol": 8,
+      "no": 5,
+      "subtitle": "\"Welcome to New Egypt: Part 5 of 5\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0f/Moon_Knight_Vol_8_5.jpg/revision/latest/scale-to-width-down/132?cb=20160728101752",
+      "date": "2016-08-03T10:00:00.000Z",
+      "serie_id": 35,
+      "order": 582
+    },
+    "584": {
+      "title": "Moon Knight",
+      "vol": 8,
+      "no": 6,
+      "subtitle": "\"Incarnations: Part 1 of 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6b/Moon_Knight_Vol_8_6.jpg/revision/latest/scale-to-width-down/132?cb=20160901095205",
+      "date": "2016-09-07T10:00:00.000Z",
+      "serie_id": 35,
+      "order": 583
+    },
+    "585": {
+      "title": "Moon Knight",
+      "vol": 8,
+      "no": 7,
+      "subtitle": "\"Incarnations: Part 2 of 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b8/Moon_Knight_Vol_8_7.jpg/revision/latest/scale-to-width-down/132?cb=20161007155319",
+      "date": "2016-10-12T10:00:00.000Z",
+      "serie_id": 35,
+      "order": 584
+    },
+    "586": {
+      "title": "Moon Knight",
+      "vol": 8,
+      "no": 8,
+      "subtitle": "\"Incarnations: Part 3 of 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/61/Moon_Knight_Vol_8_8.jpg/revision/latest/scale-to-width-down/131?cb=20161028050525",
+      "date": "2016-11-02T11:00:00.000Z",
+      "serie_id": 35,
+      "order": 585
+    },
+    "587": {
+      "title": "Moon Knight",
+      "vol": 8,
+      "no": 9,
+      "subtitle": "\"Incarnations: Part 4 of 4\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/19/Moon_Knight_Vol_8_9.jpg/revision/latest/scale-to-width-down/132?cb=20161202082944",
+      "date": "2016-12-07T11:00:00.000Z",
+      "serie_id": 35,
+      "order": 586
+    },
+    "588": {
+      "title": "Moon Knight",
+      "vol": 8,
+      "no": 10,
+      "subtitle": "\"Death and Birth: Part 1 of 5\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7f/Moon_Knight_Vol_8_10.jpg/revision/latest/scale-to-width-down/132?cb=20161229225942",
+      "date": "2017-01-04T11:00:00.000Z",
+      "serie_id": 35,
+      "order": 587
+    },
+    "589": {
+      "title": "Moon Knight",
+      "vol": 8,
+      "no": 11,
+      "subtitle": "\"Death and Birth: Part 2 of 5\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/07/Moon_Knight_Vol_8_11.jpg/revision/latest/scale-to-width-down/132?cb=20170126224046",
+      "date": "2017-02-01T11:00:00.000Z",
+      "serie_id": 35,
+      "order": 588
+    },
+    "590": {
+      "title": "Moon Knight",
+      "vol": 8,
+      "no": 12,
+      "subtitle": "\"Death and Birth: Part 3 of 5\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f1/Moon_Knight_Vol_8_12.jpg/revision/latest/scale-to-width-down/132?cb=20170224082717",
+      "date": "2017-03-01T11:00:00.000Z",
+      "serie_id": 35,
+      "order": 589
+    },
+    "591": {
+      "title": "Moon Knight",
+      "vol": 8,
+      "no": 13,
+      "subtitle": "\"Death and Birth: Part 4 of 5\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/07/Moon_Knight_Vol_8_13.jpg/revision/latest/scale-to-width-down/132?cb=20170416093125",
+      "date": "2017-04-19T10:00:00.000Z",
+      "serie_id": 35,
+      "order": 590
+    },
+    "592": {
+      "title": "Moon Knight",
+      "vol": 8,
+      "no": 14,
+      "subtitle": "\"Death and Birth: Part 5 of 5\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3e/Moon_Knight_Vol_8_14.jpg/revision/latest/scale-to-width-down/131?cb=20170525184141",
+      "date": "2017-05-31T10:00:00.000Z",
+      "serie_id": 35,
+      "order": 591
+    },
+    "593": {
+      "title": "Captain America",
+      "vol": 8,
+      "no": 25,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a1/Captain_America_Vol_8_25.jpg/revision/latest/scale-to-width-down/132?cb=20170803225213",
+      "date": "2017-08-09T10:00:00.000Z",
+      "serie_id": 15,
+      "order": 592
+    },
+    "594": {
+      "title": "Secret Empire",
+      "vol": 1,
+      "no": 0,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2d/Secret_Empire_Vol_1_0.jpg/revision/latest/scale-to-width-down/132?cb=20170416075453",
+      "date": "2017-04-19T10:00:00.000Z",
+      "serie_id": 36,
+      "order": 593
+    },
+    "595": {
+      "title": "Secret Empire",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a9/Secret_Empire_Vol_1_1.jpg/revision/latest/scale-to-width-down/131?cb=20170323230414",
+      "date": "2017-05-03T10:00:00.000Z",
+      "serie_id": 36,
+      "order": 594
+    },
+    "596": {
+      "title": "Secret Empire",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/12/Secret_Empire_Vol_1_2.jpg/revision/latest/scale-to-width-down/132?cb=20170511142630",
+      "date": "2017-05-17T10:00:00.000Z",
+      "serie_id": 36,
+      "order": 595
+    },
+    "597": {
+      "title": "Secret Empire",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8e/Secret_Empire_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20170526044500",
+      "date": "2017-05-31T10:00:00.000Z",
+      "serie_id": 36,
+      "order": 596
+    },
+    "598": {
+      "title": "Secret Empire",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d4/Secret_Empire_Vol_1_4.jpg/revision/latest/scale-to-width-down/131?cb=20170609034117",
+      "date": "2017-06-14T10:00:00.000Z",
+      "serie_id": 36,
+      "order": 597
+    },
+    "599": {
+      "title": "Secret Empire",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/42/Secret_Empire_Vol_1_5.jpg/revision/latest/scale-to-width-down/130?cb=20170617001117",
+      "date": "2017-06-28T10:00:00.000Z",
+      "serie_id": 36,
+      "order": 598
+    },
+    "600": {
+      "title": "Secret Empire",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0b/Secret_Empire_Vol_1_6.jpg/revision/latest/scale-to-width-down/131?cb=20170714025033",
+      "date": "2017-07-19T10:00:00.000Z",
+      "serie_id": 36,
+      "order": 599
+    },
+    "601": {
+      "title": "Secret Empire",
+      "vol": 1,
+      "no": 7,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f2/Secret_Empire_Vol_1_7.jpg/revision/latest/scale-to-width-down/130?cb=20170722192501",
+      "date": "2017-07-26T10:00:00.000Z",
+      "serie_id": 36,
+      "order": 600
+    },
+    "602": {
+      "title": "Secret Empire",
+      "vol": 1,
+      "no": 8,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/02/Secret_Empire_Vol_1_8.jpg/revision/latest/scale-to-width-down/132?cb=20170803164058",
+      "date": "2017-08-09T10:00:00.000Z",
+      "serie_id": 36,
+      "order": 601
+    },
+    "603": {
+      "title": "Secret Empire",
+      "vol": 1,
+      "no": 9,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d8/Secret_Empire_Vol_1_9.jpg/revision/latest/scale-to-width-down/132?cb=20170817220512",
+      "date": "2017-08-23T10:00:00.000Z",
+      "serie_id": 36,
+      "order": 602
+    },
+    "604": {
+      "title": "Secret Empire",
+      "vol": 1,
+      "no": 10,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0e/Secret_Empire_Vol_1_10.jpg/revision/latest/scale-to-width-down/132?cb=20170825054531",
+      "date": "2017-08-30T10:00:00.000Z",
+      "serie_id": 36,
+      "order": 603
+    },
+    "605": {
+      "title": "Secret Empire Omega",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/51/Secret_Empire_Omega_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20170907223033",
+      "date": "2017-09-13T10:00:00.000Z",
+      "serie_id": 36,
+      "order": 604
+    },
+    "606": {
+      "title": "All-New Guardians of the Galaxy",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Smash & Grab\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/12/All-New_Guardians_of_the_Galaxy_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20170406231606",
+      "date": "2017-05-03T10:00:00.000Z",
+      "serie_id": 37,
+      "order": 605
+    },
+    "607": {
+      "title": "All-New Guardians of the Galaxy",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Been Caught Stealing\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/46/All-New_Guardians_of_the_Galaxy_Vol_1_2.jpg/revision/latest/scale-to-width-down/131?cb=20170518175614",
+      "date": "2017-05-24T10:00:00.000Z",
+      "serie_id": 37,
+      "order": 606
+    },
+    "608": {
+      "title": "All-New Guardians of the Galaxy",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Includere\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/78/All-New_Guardians_of_the_Galaxy_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20170602073618",
+      "date": "2017-06-07T10:00:00.000Z",
+      "serie_id": 37,
+      "order": 607
+    },
+    "609": {
+      "title": "All-New Guardians of the Galaxy",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"The Trees\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c4/All-New_Guardians_of_the_Galaxy_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20170616055605",
+      "date": "2017-06-21T10:00:00.000Z",
+      "serie_id": 37,
+      "order": 608
+    },
+    "610": {
+      "title": "All-New Guardians of the Galaxy",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"Across the Universe\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c3/All-New_Guardians_of_the_Galaxy_Vol_1_5.jpg/revision/latest/scale-to-width-down/131?cb=20170630215017",
+      "date": "2017-07-05T10:00:00.000Z",
+      "serie_id": 37,
+      "order": 609
+    },
+    "611": {
+      "title": "All-New Guardians of the Galaxy",
+      "vol": 1,
+      "no": 6,
+      "subtitle": "\"Beyond Electric Dreams\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/ce/All-New_Guardians_of_the_Galaxy_Vol_1_6.jpg/revision/latest/scale-to-width-down/132?cb=20170714052745",
+      "date": "2017-07-19T10:00:00.000Z",
+      "serie_id": 37,
+      "order": 610
+    },
+    "612": {
+      "title": "All-New Guardians of the Galaxy",
+      "vol": 1,
+      "no": 7,
+      "subtitle": "\"The Horns of Doom\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/be/All-New_Guardians_of_the_Galaxy_Vol_1_7.jpg/revision/latest/scale-to-width-down/132?cb=20170728083126",
+      "date": "2017-08-02T10:00:00.000Z",
+      "serie_id": 37,
+      "order": 611
+    },
+    "613": {
+      "title": "All-New Guardians of the Galaxy",
+      "vol": 1,
+      "no": 8,
+      "subtitle": "\"Robbin' & Stealin'\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2e/All-New_Guardians_of_the_Galaxy_Vol_1_8.jpg/revision/latest/scale-to-width-down/132?cb=20170811062711",
+      "date": "2017-08-16T10:00:00.000Z",
+      "serie_id": 37,
+      "order": 612
+    },
+    "614": {
+      "title": "All-New Guardians of the Galaxy",
+      "vol": 1,
+      "no": 9,
+      "subtitle": "\"Shattered\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/29/All-New_Guardians_of_the_Galaxy_Vol_1_9.jpg/revision/latest/scale-to-width-down/132?cb=20170901072252",
+      "date": "2017-09-06T10:00:00.000Z",
+      "serie_id": 37,
+      "order": 613
+    },
+    "615": {
+      "title": "All-New Guardians of the Galaxy",
+      "vol": 1,
+      "no": 10,
+      "subtitle": "\"The Lamb Lies Down on Broadway\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0e/All-New_Guardians_of_the_Galaxy_Vol_1_10.jpg/revision/latest/scale-to-width-down/132?cb=20170914162047",
+      "date": "2017-09-20T10:00:00.000Z",
+      "serie_id": 37,
+      "order": 614
+    },
+    "616": {
+      "title": "All-New Guardians of the Galaxy",
+      "vol": 1,
+      "no": 11,
+      "subtitle": "\"Highway Patrolman\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c3/All-New_Guardians_of_the_Galaxy_Vol_1_11.jpg/revision/latest/scale-to-width-down/131?cb=20170928230812",
+      "date": "2017-10-04T10:00:00.000Z",
+      "serie_id": 37,
+      "order": 615
+    },
+    "617": {
+      "title": "All-New Guardians of the Galaxy",
+      "vol": 1,
+      "no": 12,
+      "subtitle": "\"We Said Hello, Goodbye\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/95/All-New_Guardians_of_the_Galaxy_Vol_1_12.jpg/revision/latest/scale-to-width-down/132?cb=20171013044553",
+      "date": "2017-10-18T10:00:00.000Z",
+      "serie_id": 37,
+      "order": 616
+    },
+    "618": {
+      "title": "Guardians of the Galaxy",
+      "vol": 1,
+      "no": 146,
+      "subtitle": "\"The Evil Has Landed\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2f/Guardians_of_the_Galaxy_Vol_1_146.jpg/revision/latest/scale-to-width-down/132?cb=20171026161528",
+      "date": "2017-11-01T11:00:00.000Z",
+      "serie_id": 37,
+      "order": 617
+    },
+    "619": {
+      "title": "Guardians of the Galaxy",
+      "vol": 1,
+      "no": 147,
+      "subtitle": "\"Fortress\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9c/Guardians_of_the_Galaxy_Vol_1_147.jpg/revision/latest/scale-to-width-down/132?cb=20171110055530",
+      "date": "2017-11-15T11:00:00.000Z",
+      "serie_id": 37,
+      "order": 618
+    },
+    "620": {
+      "title": "Guardians of the Galaxy",
+      "vol": 1,
+      "no": 148,
+      "subtitle": "\"Jungleland\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/13/Guardians_of_the_Galaxy_Vol_1_148.jpg/revision/latest/scale-to-width-down/132?cb=20171201061014",
+      "date": "2017-12-06T11:00:00.000Z",
+      "serie_id": 37,
+      "order": 619
+    },
+    "621": {
+      "title": "Guardians of the Galaxy",
+      "vol": 1,
+      "no": 149,
+      "subtitle": "\"Folsom Prison Blues\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f9/Guardians_of_the_Galaxy_Vol_1_149.jpg/revision/latest/scale-to-width-down/132?cb=20171215190719",
+      "date": "2017-12-20T11:00:00.000Z",
+      "serie_id": 37,
+      "order": 620
+    },
+    "622": {
+      "title": "Guardians of the Galaxy",
+      "vol": 1,
+      "no": 150,
+      "subtitle": "\"Don't Fear the Reaper\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/4/4c/Guardians_of_the_Galaxy_Vol_1_150.jpg/revision/latest/scale-to-width-down/130?cb=20171229052511",
+      "date": "2018-01-03T11:00:00.000Z",
+      "serie_id": 37,
+      "order": 621
+    },
+    "623": {
+      "title": "Generations: Banner Hulk & The Totally Awesome Hulk",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/53/Generations_Banner_Hulk_%26_The_Totally_Awesome_Hulk_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20170727191051",
+      "date": "2017-08-02T10:00:00.000Z",
+      "serie_id": 38,
+      "order": 0
+    },
+    "624": {
+      "title": "Generations: Captain Marvel & Captain Mar-Vell",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/08/Generations_Captain_Marvel_%26_Captain_Mar-Vell_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20170908085505",
+      "date": "2017-09-13T10:00:00.000Z",
+      "serie_id": 38,
+      "order": 5
+    },
+    "625": {
+      "title": "Generations: Ms. Marvel & Ms. Marvel",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b5/Generations_Ms._Marvel_%26_Ms._Marvel_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20170915101349",
+      "date": "2017-09-20T10:00:00.000Z",
+      "serie_id": 38,
+      "order": 6
+    },
+    "626": {
+      "title": "Generations: Hawkeye & Hawkeye",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/56/Generations_Hawkeye_%26_Hawkeye_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20170825100603",
+      "date": "2017-08-30T10:00:00.000Z",
+      "serie_id": 38,
+      "order": 4
+    },
+    "627": {
+      "title": "Generations: Iron Man & Ironheart",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5a/Generations_Iron_Man_%26_Ironheart_Vol_1_1.jpg/revision/latest/scale-to-width-down/131?cb=20170901051047",
+      "date": "2017-09-06T10:00:00.000Z",
+      "serie_id": 38,
+      "order": 7
+    },
+    "628": {
+      "title": "Generations: Miles Morales Spider-Man & Peter Parker Spider-Man",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c3/Generations_Miles_Morales_Spider-Man_%26_Peter_Parker_Spider-Man_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20170927172422",
+      "date": "2017-09-27T10:00:00.000Z",
+      "serie_id": 38,
+      "order": 8
+    },
+    "629": {
+      "title": "Generations: Phoenix & Jean Grey",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/fe/Generations_Phoenix_%26_Jean_Grey_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20170804043942",
+      "date": "2017-08-09T10:00:00.000Z",
+      "serie_id": 38,
+      "order": 1
+    },
+    "630": {
+      "title": "Generations: Sam Wilson Captain America & Steve Rogers Captain America",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/56/Generations_Sam_Wilson_Captain_America_%26_Steve_Rogers_Captain_America_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20170520001129",
+      "date": "2017-09-27T10:00:00.000Z",
+      "serie_id": 38,
+      "order": 9
+    },
+    "631": {
+      "title": "Generations: The Unworthy Thor & The Mighty Thor",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0a/Generations_The_Unworthy_Thor_%26_The_Mighty_Thor_Vol_1_1.jpg/revision/latest/scale-to-width-down/131?cb=20170818032952",
+      "date": "2017-08-23T10:00:00.000Z",
+      "serie_id": 38,
+      "order": 3
+    },
+    "632": {
+      "title": "Generations: Wolverine & All-New Wolverine",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/a1/Generations_Wolverine_%26_All-New_Wolverine_Vol_1_1.jpg/revision/latest/scale-to-width-down/131?cb=20170810200921",
+      "date": "2017-08-16T10:00:00.000Z",
+      "serie_id": 38,
+      "order": 2
+    },
+    "633": {
+      "title": "Thanos",
+      "vol": 2,
+      "no": 1,
+      "subtitle": "\"Thanos Returns\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/a/ad/Thanos_Vol_2_1.jpg/revision/latest/scale-to-width-down/132?cb=20161117213244",
+      "date": "2016-11-16T11:00:00.000Z",
+      "serie_id": 39,
+      "order": 632
+    },
+    "634": {
+      "title": "Thanos",
+      "vol": 2,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/90/Thanos_Vol_2_2.jpg/revision/latest/scale-to-width-down/131?cb=20161215220322",
+      "date": "2016-12-21T11:00:00.000Z",
+      "serie_id": 39,
+      "order": 633
+    },
+    "635": {
+      "title": "Thanos",
+      "vol": 2,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f3/Thanos_Vol_2_3.jpg/revision/latest/scale-to-width-down/132?cb=20170120073211",
+      "date": "2017-01-25T11:00:00.000Z",
+      "serie_id": 39,
+      "order": 634
+    },
+    "636": {
+      "title": "Thanos",
+      "vol": 2,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/11/Thanos_Vol_2_4.jpg/revision/latest/scale-to-width-down/132?cb=20170217090649",
+      "date": "2017-02-22T11:00:00.000Z",
+      "serie_id": 39,
+      "order": 635
+    },
+    "637": {
+      "title": "Thanos",
+      "vol": 2,
+      "no": 5,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/36/Thanos_Vol_2_5.jpg/revision/latest/scale-to-width-down/132?cb=20170324055823",
+      "date": "2017-03-29T10:00:00.000Z",
+      "serie_id": 39,
+      "order": 636
+    },
+    "638": {
+      "title": "Thanos",
+      "vol": 2,
+      "no": 6,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/92/Thanos_Vol_2_6.jpg/revision/latest/scale-to-width-down/132?cb=20170421053517",
+      "date": "2017-04-26T10:00:00.000Z",
+      "serie_id": 39,
+      "order": 637
+    },
+    "639": {
+      "title": "Thanos",
+      "vol": 2,
+      "no": 7,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d2/Thanos_Vol_2_7.jpg/revision/latest/scale-to-width-down/132?cb=20170526052550",
+      "date": "2017-05-31T10:00:00.000Z",
+      "serie_id": 39,
+      "order": 638
+    },
+    "640": {
+      "title": "Thanos",
+      "vol": 2,
+      "no": 8,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6f/Thanos_Vol_2_8.jpg/revision/latest/scale-to-width-down/130?cb=20170611000922",
+      "date": "2017-06-14T10:00:00.000Z",
+      "serie_id": 39,
+      "order": 639
+    },
+    "641": {
+      "title": "Thanos",
+      "vol": 2,
+      "no": 9,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/18/Thanos_Vol_2_9.jpg/revision/latest/scale-to-width-down/132?cb=20170721143521",
+      "date": "2017-07-26T10:00:00.000Z",
+      "serie_id": 39,
+      "order": 640
+    },
+    "642": {
+      "title": "Thanos",
+      "vol": 2,
+      "no": 10,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/ec/Thanos_Vol_2_10.jpg/revision/latest/scale-to-width-down/132?cb=20170825055201",
+      "date": "2017-08-30T10:00:00.000Z",
+      "serie_id": 39,
+      "order": 641
+    },
+    "643": {
+      "title": "Thanos",
+      "vol": 2,
+      "no": 11,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/0c/Thanos_Vol_2_11.jpg/revision/latest/scale-to-width-down/132?cb=20170922093849",
+      "date": "2017-09-27T10:00:00.000Z",
+      "serie_id": 39,
+      "order": 642
+    },
+    "644": {
+      "title": "Thanos",
+      "vol": 2,
+      "no": 12,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/8d/Thanos_Vol_2_12.jpg/revision/latest/scale-to-width-down/132?cb=20171020071630",
+      "date": "2017-10-25T10:00:00.000Z",
+      "serie_id": 39,
+      "order": 643
+    },
+    "645": {
+      "title": "Thanos",
+      "vol": 2,
+      "no": 13,
+      "subtitle": "\"Thanos Wins\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/5e/Thanos_Vol_2_13.jpg/revision/latest/scale-to-width-down/132?cb=20171116185513",
+      "date": "2017-11-22T11:00:00.000Z",
+      "serie_id": 39,
+      "order": 644
+    },
+    "646": {
+      "title": "Thanos",
+      "vol": 2,
+      "no": 14,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f9/Thanos_Vol_2_14.jpg/revision/latest/scale-to-width-down/131?cb=20171221192459",
+      "date": "2017-12-27T11:00:00.000Z",
+      "serie_id": 39,
+      "order": 645
+    },
+    "647": {
+      "title": "Thanos",
+      "vol": 2,
+      "no": 15,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7b/Thanos_Vol_2_15.jpg/revision/latest/scale-to-width-down/131?cb=20180118181803",
+      "date": "2018-01-24T11:00:00.000Z",
+      "serie_id": 39,
+      "order": 646
+    },
+    "648": {
+      "title": "Thanos",
+      "vol": 2,
+      "no": 16,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d5/Thanos_Vol_2_16.jpg/revision/latest/scale-to-width-down/132?cb=20180223104207",
+      "date": "2018-02-28T11:00:00.000Z",
+      "serie_id": 39,
+      "order": 647
+    },
+    "649": {
+      "title": "Thanos",
+      "vol": 2,
+      "no": 17,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/56/Thanos_Vol_2_17.jpg/revision/latest/scale-to-width-down/132?cb=20180316043952",
+      "date": "2018-03-21T11:00:00.000Z",
+      "serie_id": 39,
+      "order": 648
+    },
+    "650": {
+      "title": "Thanos",
+      "vol": 2,
+      "no": 18,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/72/Thanos_Vol_2_18.jpg/revision/latest/scale-to-width-down/132?cb=20180411045128",
+      "date": "2018-04-11T10:00:00.000Z",
+      "serie_id": 39,
+      "order": 649
+    },
+    "651": {
+      "title": "Cosmic Ghost Rider",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/93/Cosmic_Ghost_Rider_Vol_1_1.jpg/revision/latest/scale-to-width-down/132?cb=20180629054431",
+      "date": "2018-07-04T10:00:00.000Z",
+      "serie_id": 40,
+      "order": 650
+    },
+    "652": {
+      "title": "Cosmic Ghost Rider",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/26/Cosmic_Ghost_Rider_Vol_1_2.jpg/revision/latest/scale-to-width-down/131?cb=20180727002128",
+      "date": "2018-08-01T10:00:00.000Z",
+      "serie_id": 40,
+      "order": 651
+    },
+    "653": {
+      "title": "Cosmic Ghost Rider",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/21/Cosmic_Ghost_Rider_Vol_1_3.jpg/revision/latest/scale-to-width-down/132?cb=20180831052336",
+      "date": "2018-09-05T10:00:00.000Z",
+      "serie_id": 40,
+      "order": 652
+    },
+    "654": {
+      "title": "Cosmic Ghost Rider",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f7/Cosmic_Ghost_Rider_Vol_1_4.jpg/revision/latest/scale-to-width-down/131?cb=20180927224245",
+      "date": "2018-10-03T10:00:00.000Z",
+      "serie_id": 40,
+      "order": 653
+    },
+    "655": {
+      "title": "Cosmic Ghost Rider",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/5/51/Cosmic_Ghost_Rider_Vol_1_5.jpg/revision/latest/scale-to-width-down/132?cb=20181110075902",
+      "date": "2018-11-14T11:00:00.000Z",
+      "serie_id": 40,
+      "order": 654
+    },
+    "656": {
+      "title": "Phoenix Resurrection: The Return of Jean Grey",
+      "vol": 1,
+      "no": 1,
+      "subtitle": "\"Chapter One: Frustrate the Sun\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/39/Phoenix_Resurrection_The_Return_of_Jean_Grey_Vol_1_1.jpg/revision/latest/scale-to-width-down/130?cb=20171208180914",
+      "date": "2017-12-27T11:00:00.000Z",
+      "serie_id": 41,
+      "order": 655
+    },
+    "657": {
+      "title": "Phoenix Resurrection: The Return of Jean Grey",
+      "vol": 1,
+      "no": 2,
+      "subtitle": "\"Chapter Two: All Lesser Birds\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/81/Phoenix_Resurrection_The_Return_of_Jean_Grey_Vol_1_2.jpg/revision/latest/scale-to-width-down/130?cb=20171011111606",
+      "date": "2018-01-03T11:00:00.000Z",
+      "serie_id": 41,
+      "order": 656
+    },
+    "658": {
+      "title": "Phoenix Resurrection: The Return of Jean Grey",
+      "vol": 1,
+      "no": 3,
+      "subtitle": "\"Chapter Three: A Constellation of Them All\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/12/Phoenix_Resurrection_The_Return_of_Jean_Grey_Vol_1_3.jpg/revision/latest/scale-to-width-down/130?cb=20180104163243",
+      "date": "2018-01-10T11:00:00.000Z",
+      "serie_id": 41,
+      "order": 657
+    },
+    "659": {
+      "title": "Phoenix Resurrection: The Return of Jean Grey",
+      "vol": 1,
+      "no": 4,
+      "subtitle": "\"Chapter Four: That A Great Princess Falls, But Doth Not Die.\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/18/Phoenix_Resurrection_The_Return_of_Jean_Grey_Vol_1_4.jpg/revision/latest/scale-to-width-down/132?cb=20180120184605",
+      "date": "2018-01-24T11:00:00.000Z",
+      "serie_id": 41,
+      "order": 658
+    },
+    "660": {
+      "title": "Phoenix Resurrection: The Return of Jean Grey",
+      "vol": 1,
+      "no": 5,
+      "subtitle": "\"Chapter Five: Be Thou Those Ends\"",
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c7/Phoenix_Resurrection_The_Return_of_Jean_Grey_Vol_1_5.jpg/revision/latest/scale-to-width-down/130?cb=20180119000442",
+      "date": "2018-01-31T11:00:00.000Z",
+      "serie_id": 41,
+      "order": 659
     }
   },
   "meta": {
-    "nextIndex": 318
+    "nextIndex": 661
   }
 }
