@@ -75,14 +75,60 @@
     "9": {
       "title": "Hawkeye",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/39/75/833975/7983368.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/39/75/833975/8008629.6.jpg",
       "date": "2021-12-22T11:22:45.000Z",
       "serie_id": 2,
       "order": 8,
-      "global_order": 8
+      "global_order": 9,
+      "event_id": null,
+      "notebooks_ids": []
+    },
+    "10": {
+      "title": "Moon Knight",
+      "subtitle": "",
+      "image_url": "https://fwcdn.pl/fpo/35/38/843538/8000749.6.jpg",
+      "date": "2022-05-04T10:53:40.000Z",
+      "serie_id": 2,
+      "order": 9,
+      "global_order": 10,
+      "notebooks_ids": [],
+      "event_id": 0
+    },
+    "11": {
+      "image_url": "https://fwcdn.pl/fpo/64/40/836440/8008985.6.jpg",
+      "date": "2022-05-06T10:38:04.000Z",
+      "serie_id": 1,
+      "order": 10,
+      "global_order": 8,
+      "notebooks_ids": [],
+      "title": "Doktor Strange",
+      "subtitle": "w Multiwersum Obłędu",
+      "event_id": 0
+    },
+    "12": {
+      "title": "Ms. Marvel",
+      "subtitle": "",
+      "image_url": "https://fwcdn.pl/fpo/35/39/843539/8017560.6.jpg",
+      "date": "2022-07-13T10:30:05.000Z",
+      "serie_id": 2,
+      "order": 11,
+      "global_order": 11,
+      "notebooks_ids": [],
+      "event_id": 0
+    },
+    "13": {
+      "title": "Thor",
+      "subtitle": "Miłość i Grom",
+      "image_url": "https://fwcdn.pl/fpo/64/41/836441/8021424.6.jpg",
+      "date": "2022-07-08T10:31:54.000Z",
+      "serie_id": 1,
+      "order": 12,
+      "global_order": 12,
+      "notebooks_ids": [],
+      "event_id": 0
     }
   },
   "meta": {
-    "nextIndex": 10
+    "nextIndex": 14
   }
 }

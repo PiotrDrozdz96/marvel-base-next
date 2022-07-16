@@ -150,7 +150,7 @@
       "date": "2017-10-10T10:09:39.000Z",
       "serie_id": 1,
       "order": 16,
-      "global_order": 51
+      "global_order": 50
     },
     "18": {
       "title": "Czarna Pantera",
@@ -168,7 +168,7 @@
       "date": "2018-04-23T10:11:17.000Z",
       "serie_id": 1,
       "order": 18,
-      "global_order": 53
+      "global_order": 52
     },
     "20": {
       "title": "Ant-Man",
@@ -177,7 +177,7 @@
       "date": "2018-06-25T10:12:07.000Z",
       "serie_id": 1,
       "order": 19,
-      "global_order": 52
+      "global_order": 51
     },
     "21": {
       "title": "Kapitan Marvel",
@@ -303,7 +303,7 @@
       "date": "2019-08-02T10:09:39.000Z",
       "serie_id": 2,
       "order": 34,
-      "global_order": 54
+      "global_order": 53
     },
     "36": {
       "title": "Agenci T.A.R.C.Z.Y.",
@@ -312,7 +312,7 @@
       "date": "2020-08-12T10:11:27.000Z",
       "serie_id": 2,
       "order": 35,
-      "global_order": 55
+      "global_order": 54
     },
     "37": {
       "title": "Agentka Carter",
@@ -501,7 +501,7 @@
       "date": "2019-12-13T11:38:42.000Z",
       "serie_id": 6,
       "order": 56,
-      "global_order": 50
+      "global_order": 55
     },
     "58": {
       "subtitle": "",

@@ -3,7 +3,7 @@
     "1": {
       "title": "Staruszek Logan",
       "subtitle": "Tom 1 - Strefy Wojny",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/staruszek-logan/1/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/377/700/377700/1539262388/231.jpg",
       "date": "2015-10-07T10:31:53.000Z",
       "serie_id": 1,
       "order": 0,
@@ -14,7 +14,7 @@
     "2": {
       "title": "Staruszek Logan",
       "subtitle": "Tom 2 - Berserk",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/staruszek-logan/2/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/388/333/388333/1549023918/235.jpg",
       "date": "2016-04-06T10:33:32.000Z",
       "serie_id": 1,
       "order": 1,
@@ -25,29 +25,29 @@
     "3": {
       "title": "Staruszek Logan",
       "subtitle": "Tom 3 - Na granicy",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/staruszek-logan/3/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/395/272/395272/1555070069/235.jpg",
       "date": "2016-07-13T10:34:22.000Z",
       "serie_id": 1,
       "order": 2,
-      "global_order": 20,
+      "global_order": 19,
       "notebooks_ids": [10,11,12,13],
       "event_id": 0
     },
     "4": {
       "title": "Staruszek Logan",
       "subtitle": "Tom 4 - Ostatni ronin",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/staruszek-logan/4/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/407/064/407064/1566563633/235.jpg",
       "date": "2016-11-16T11:35:07.000Z",
       "serie_id": 1,
       "order": 3,
-      "global_order": 26,
+      "global_order": 25,
       "notebooks_ids": [14,15,16,17,18],
       "event_id": 0
     },
     "5": {
       "title": "Staruszek Logan",
       "subtitle": "Tom 5 - Dawne strachy",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/staruszek-logan/5/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/420/488/420488/1578352923/235.jpg",
       "date": "2017-02-15T11:36:03.000Z",
       "serie_id": 1,
       "order": 4,
@@ -58,7 +58,7 @@
     "6": {
       "title": "Staruszek Logan",
       "subtitle": "Tom 6 - Życie minione",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/staruszek-logan/6/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/438/832/438832/1594852971/235.jpg",
       "date": "2017-05-31T10:37:10.000Z",
       "serie_id": 1,
       "order": 5,
@@ -69,7 +69,7 @@
     "7": {
       "title": "Deadpool",
       "subtitle": "Tom 1 - Nuworysz z nawijką",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/1-marvel-2-0/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/383/271/383271/1543345896/300.jpg",
       "date": "2016-01-06T11:45:03.000Z",
       "serie_id": 3,
       "order": 0,
@@ -80,7 +80,7 @@
     "8": {
       "title": "Deadpool",
       "subtitle": "Tom 2 - Koniec błędu",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/2-marvel-2-0/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/388/332/388332/1549023719/300.jpg",
       "date": "2016-02-10T11:46:04.000Z",
       "serie_id": 3,
       "order": 1,
@@ -102,18 +102,18 @@
     "10": {
       "title": "Deadpool",
       "subtitle": "Tom 4 - Śmieciowa opowieść",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/4-marvel-2-0/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/395/281/395281/1555073851/300.jpg",
       "date": "2016-06-01T10:50:15.000Z",
       "serie_id": 3,
       "order": 3,
-      "global_order": 25,
+      "global_order": 24,
       "notebooks_ids": [69],
       "event_id": 0
     },
     "11": {
       "title": "Deadpool",
       "subtitle": "Tom 5 - II Wojna Domowa",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/5-marvel-2-0/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/401/230/401230/1560524233/300.jpg",
       "date": "2016-09-28T10:14:07.000Z",
       "serie_id": 3,
       "order": 4,
@@ -124,7 +124,7 @@
     "12": {
       "title": "Deadpool",
       "subtitle": "Tom 6 - Deadpool w czasach zarazy",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/6-marvel-2-0/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/407/063/407063/1566563419/300.jpg",
       "date": "2017-01-25T11:15:13.000Z",
       "serie_id": 3,
       "order": 5,
@@ -135,7 +135,7 @@
     "13": {
       "title": "Deadpool",
       "subtitle": "Tom 7 - Deadpool leci Szekspirem",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/7-marvel-2-0/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/417/901/417901/1574956171/300.jpg",
       "date": "2017-02-15T11:16:31.000Z",
       "serie_id": 3,
       "order": 6,
@@ -146,7 +146,7 @@
     "14": {
       "title": "Deadpool",
       "subtitle": "Tom 8 - Póki śmierć nas...",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/8-marvel-2-0/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/421/480/421480/1579300754/300.jpg",
       "date": "2017-04-19T10:17:42.000Z",
       "serie_id": 3,
       "order": 7,
@@ -157,7 +157,7 @@
     "15": {
       "title": "Deadpool",
       "subtitle": "Tom 9 - Deadpool w kosmosie",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/9-marvel-2-0/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/428/652/428652/1587303847/300.jpg",
       "date": "2017-05-10T10:18:31.000Z",
       "serie_id": 3,
       "order": 8,
@@ -168,7 +168,7 @@
     "16": {
       "title": "Deadpool",
       "subtitle": "Tom 10 - Tajne imperium",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/10-marvel-2-0/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/435/190/435190/1591368356/300.jpg",
       "date": "2017-08-30T10:19:13.000Z",
       "serie_id": 3,
       "order": 9,
@@ -179,7 +179,7 @@
     "17": {
       "title": "Deadpool",
       "subtitle": "Tom 11 - Deadpool zabija Cable'a",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/11-marvel-2-0/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/443/855/443855/1600294750/300.jpg",
       "date": "2017-12-27T11:22:15.000Z",
       "serie_id": 3,
       "order": 10,
@@ -190,7 +190,7 @@
     "18": {
       "title": "Deadpool",
       "subtitle": "Tom 12 - Sprawy do załatwienia",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/12-marvel-2-0/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/453/132/453132/1609893897/300.jpg",
       "date": "2018-03-14T11:24:28.000Z",
       "serie_id": 3,
       "order": 12,
@@ -201,7 +201,7 @@
     "19": {
       "title": "Deadpool",
       "subtitle": "Tom 13 - Uniwersum Marvela zabija Deadpoola",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/13-marvel-2-0/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/456/285/456285/1613088093/300.jpg",
       "date": "2018-05-09T10:25:41.000Z",
       "serie_id": 3,
       "order": 13,
@@ -212,7 +212,7 @@
     "20": {
       "title": "Deadpool kontra Staruszek Logan",
       "subtitle": "",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/deadpool/kontra-staruszek-logan/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/453/064/453064/1609860403/300.jpg",
       "date": "2018-02-21T11:27:32.000Z",
       "serie_id": 3,
       "order": 11,
@@ -223,7 +223,7 @@
     "21": {
       "title": "Extraordinary X-Men",
       "subtitle": "Tom 1 - Przystań X",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/extraordinary-x-men/1/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/383/270/383270/1543345896/300.jpg",
       "date": "2016-01-13T11:30:24.000Z",
       "serie_id": 5,
       "order": 0,
@@ -245,18 +245,18 @@
     "23": {
       "title": "Extraordinary X-Men",
       "subtitle": "Tom 3 - Upadek królestw",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/extraordinary-x-men/3/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/403/695/403695/1562944526/300.jpg",
       "date": "2016-11-30T11:32:51.000Z",
       "serie_id": 5,
       "order": 3,
-      "global_order": 27,
+      "global_order": 26,
       "notebooks_ids": [124,125,126,127],
       "event_id": 0
     },
     "24": {
       "title": "Extraordinary X-Men",
       "subtitle": "Tom 4 - Inhumans kontra X-Men",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/extraordinary-x-men/inhumans/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/413/686/413686/1570784406/300.jpg",
       "date": "2017-03-22T11:33:52.000Z",
       "serie_id": 5,
       "order": 6,
@@ -267,7 +267,7 @@
     "25": {
       "title": "Spider-Man",
       "subtitle": "Tom 1 - Wrogie przejęcie",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/amazing-spider-man-globalna-siec/1/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/383/272/383272/1543345897/300.jpg",
       "date": "2015-12-23T11:37:36.000Z",
       "serie_id": 6,
       "order": 0,
@@ -278,7 +278,7 @@
     "26": {
       "title": "Spider-Man",
       "subtitle": "Tom 2 - Mroczne królestwo",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/amazing-spider-man-globalna-siec/2/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/390/037/390037/1550756413/300.jpg",
       "date": "2016-04-27T10:38:44.000Z",
       "serie_id": 6,
       "order": 1,
@@ -289,18 +289,18 @@
     "27": {
       "title": "Spider-Man",
       "subtitle": "Tom 3 - Demonstracja siły",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/amazing-spider-man-globalna-siec/3/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/395/284/395284/1555076427/300.jpg",
       "date": "2016-07-06T10:39:33.000Z",
       "serie_id": 6,
       "order": 2,
-      "global_order": 28,
+      "global_order": 27,
       "notebooks_ids": [149,150,151,152],
       "event_id": 0
     },
     "28": {
       "title": "Spider-Man",
       "subtitle": "Tom 4 - Starzy znajomi",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/amazing-spider-man-globalna-siec/4/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/403/696/403696/1562944704/300.jpg",
       "date": "2016-10-05T10:41:33.000Z",
       "serie_id": 6,
       "order": 4,
@@ -322,7 +322,7 @@
     "30": {
       "title": "Spider-Man",
       "subtitle": "Tom 6 - Tożsamość Osbourna",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/amazing-spider-man-globalna-siec/6/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/420/480/420480/1578352919/300.jpg",
       "date": "2017-06-07T10:54:30.000Z",
       "serie_id": 6,
       "order": 6,
@@ -377,7 +377,7 @@
     "35": {
       "title": "All-New Wolverine",
       "subtitle": "Tom 1 - Cztery siostry",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/all-new-wolverine/1/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/385/890/385890/1546210261/300.jpg",
       "date": "2016-03-09T11:30:27.000Z",
       "serie_id": 11,
       "order": 34,
@@ -388,18 +388,18 @@
     "36": {
       "title": "All-New Wolverine",
       "subtitle": "Tom 2 - II Wojna Domowa",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/all-new-wolverine/2/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/398/957/398957/1558798786/300.jpg",
       "date": "2016-09-21T10:31:13.000Z",
       "serie_id": 11,
       "order": 35,
-      "global_order": 19,
+      "global_order": 29,
       "notebooks_ids": [224,225,226,227,228,229],
       "event_id": 91
     },
     "37": {
       "title": "All-New Wolverine",
       "subtitle": "Tom 3 - Wróg publiczny II",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/all-new-wolverine/3/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/410/601/410601/1568325795/300.jpg",
       "date": "2017-03-08T11:32:06.000Z",
       "serie_id": 11,
       "order": 36,
@@ -410,7 +410,7 @@
     "38": {
       "title": "All-New Wolverine",
       "subtitle": "Tom 4 - Odporna",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/all-new-wolverine/4/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/423/508/423508/1581461564/300.jpg",
       "date": "2017-09-13T10:32:54.000Z",
       "serie_id": 11,
       "order": 37,
@@ -421,7 +421,7 @@
     "39": {
       "title": "All-New Wolverine",
       "subtitle": "Tom 5 - Sieroty X",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/all-new-wolverine/5/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/448/864/448864/1604585394/300.jpg",
       "date": "2018-01-31T11:33:41.000Z",
       "serie_id": 11,
       "order": 38,
@@ -432,7 +432,7 @@
     "40": {
       "title": "All-New Wolverine",
       "subtitle": "Tom 6 - Staruszka Laura",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/all-new-wolverine/6/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/456/283/456283/1613088092/300.jpg",
       "date": "2018-05-16T10:34:48.000Z",
       "serie_id": 11,
       "order": 39,
@@ -443,7 +443,7 @@
     "41": {
       "title": "Avengers",
       "subtitle": "Tom 1 - Siedmiu wspaniałych",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/all-new-1-/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/386/301/386301/1547054663/300.jpg",
       "date": "2016-02-24T11:38:43.000Z",
       "serie_id": 13,
       "order": 0,
@@ -454,18 +454,18 @@
     "42": {
       "title": "Avengers",
       "subtitle": "Tom 2 - Rodzinny interes",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/all-new-2/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/390/038/390038/1550756677/300.jpg",
       "date": "2016-07-27T10:39:48.000Z",
       "serie_id": 13,
       "order": 2,
-      "global_order": 23,
+      "global_order": 22,
       "notebooks_ids": [261,262,263,264],
       "event_id": 0
     },
     "43": {
       "title": "Avengers",
       "subtitle": "Tom 3 - II Wojna domowa",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/all-new-3/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/401/227/401227/1560523423/300.jpg",
       "date": "2016-10-26T10:40:56.000Z",
       "serie_id": 13,
       "order": 3,
@@ -476,7 +476,7 @@
     "44": {
       "title": "Avengers",
       "subtitle": "Impas. Atak na Pleasant Hill",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/impas-1/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/388/334/388334/1549024157/300.jpg",
       "date": "2016-04-27T10:51:01.000Z",
       "serie_id": 13,
       "order": 1,
@@ -487,10 +487,10 @@
     "45": {
       "title": "Avengers",
       "subtitle": "Tom 4 - I Wojna Kanga",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/all-new-4/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/419/899/419899/1576663589/300.jpg",
       "date": "2017-04-05T10:58:44.000Z",
       "serie_id": 13,
-      "order": 44,
+      "order": 4,
       "global_order": 37,
       "notebooks_ids": [282,285,287,289,291,293],
       "event_id": 0
@@ -498,10 +498,10 @@
     "46": {
       "title": "Avengers",
       "subtitle": "Tom 5 - Tajne imperium",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/all-new-5/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/435/194/435194/1591368357/300.jpg",
       "date": "2017-09-20T10:59:45.000Z",
       "serie_id": 13,
-      "order": 45,
+      "order": 5,
       "global_order": 64,
       "notebooks_ids": [294,295,296,297,298],
       "event_id": 93
@@ -509,10 +509,10 @@
     "47": {
       "title": "Avengers",
       "subtitle": "Tom 6 - Zderzenie światów",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/all-new-6/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/443/857/443857/1600294751/300.jpg",
       "date": "2017-12-06T11:02:05.000Z",
       "serie_id": 13,
-      "order": 46,
+      "order": 6,
       "global_order": 69,
       "notebooks_ids": [299,300,301],
       "event_id": 0
@@ -520,17 +520,17 @@
     "48": {
       "title": "Avengers",
       "subtitle": "Nie poddamy się",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/avengers/nie-poddamy-sie/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/453/127/453127/1609893896/300.jpg",
       "date": "2018-04-25T10:03:26.000Z",
       "serie_id": 13,
-      "order": 47,
+      "order": 7,
       "global_order": 80,
       "notebooks_ids": [302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317],
       "event_id": 0
     },
     "49": {
       "title": "Ms. Marvel",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/ms-marvel/5/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/386/300/386300/1547054644/300.jpg",
       "date": "2016-04-27T10:27:51.000Z",
       "serie_id": 16,
       "order": 48,
@@ -542,7 +542,7 @@
     "50": {
       "title": "Ms. Marvel",
       "subtitle": "Tom 6 - II Wojna Domowa",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/ms-marvel/6/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/401/264/401264/1560524768/300.jpg",
       "date": "2016-10-26T10:29:02.000Z",
       "serie_id": 16,
       "order": 49,
@@ -553,7 +553,7 @@
     "51": {
       "title": "Ms. Marvel",
       "subtitle": "Tom 7 - Obrażenia na sekundę",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/ms-marvel/7/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/420/485/420485/1578352922/300.jpg",
       "date": "2017-05-10T10:30:30.000Z",
       "serie_id": 16,
       "order": 50,
@@ -564,7 +564,7 @@
     "52": {
       "title": "Ms. Marvel",
       "subtitle": "Tom 8 - Mekka",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/ms-marvel/8/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/449/314/449314/1604706135/300.jpg",
       "date": "2017-11-08T11:31:24.000Z",
       "serie_id": 16,
       "order": 51,
@@ -575,7 +575,7 @@
     "53": {
       "title": "Ms. Marvel",
       "subtitle": "Tom 9 - Teenage Wasteland",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/ms-marvel/9/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/455/326/455326/1612311128/300.jpg",
       "date": "2018-05-30T10:32:48.000Z",
       "serie_id": 16,
       "order": 52,
@@ -586,7 +586,7 @@
     "54": {
       "title": "Ms. Marvel",
       "subtitle": "Tom 10 - Raz za razem",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/ms-marvel/10/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/468/199/468199/1623883687/300.jpg",
       "date": "2019-02-13T11:34:16.000Z",
       "serie_id": 16,
       "order": 53,
@@ -597,7 +597,7 @@
     "55": {
       "title": "Vision",
       "subtitle": "",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/vision/1/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/384/615/384615/1544485234/300.jpg",
       "date": "2016-10-26T10:37:05.000Z",
       "serie_id": 17,
       "order": 54,
@@ -608,7 +608,7 @@
     "56": {
       "title": "Thor",
       "subtitle": "Tom 1 - Grzmiąca Krew",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/potezna-thor/1/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/390/049/390049/1550765162/300.jpg",
       "date": "2016-03-09T11:40:10.000Z",
       "serie_id": 18,
       "order": 0,
@@ -619,18 +619,18 @@
     "57": {
       "title": "Thor",
       "subtitle": "Tom 2 - Władcy Midgardu",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/potezna-thor/2/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/407/062/407062/1566563172/235.jpg",
       "date": "2016-09-21T10:40:49.000Z",
       "serie_id": 18,
       "order": 1,
-      "global_order": 24,
+      "global_order": 23,
       "notebooks_ids": [373,374,375,376,377,378],
       "event_id": 0
     },
     "58": {
       "title": "Thor",
       "subtitle": "Tom 3 - Wojna Asgardu z Shi’ar",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/potezna-thor/3/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/428/645/428645/1587303845/235.jpg",
       "date": "2017-05-17T10:41:46.000Z",
       "serie_id": 18,
       "order": 3,
@@ -641,7 +641,7 @@
     "59": {
       "title": "Thor",
       "subtitle": "Tom 4 - Thor Wojny",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/potezna-thor/4/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/443/960/443960/1600380301/235.jpg",
       "date": "2017-09-27T10:42:48.000Z",
       "serie_id": 18,
       "order": 4,
@@ -652,7 +652,7 @@
     "60": {
       "title": "Thor",
       "subtitle": "Tom 5 - Śmierć Potężnej Thor",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/potezna-thor/5/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/459/242/459242/1615481057/235.jpg",
       "date": "2018-04-25T10:45:06.000Z",
       "serie_id": 18,
       "order": 5,
@@ -663,7 +663,7 @@
     "61": {
       "title": "Doktor Strange",
       "subtitle": "Tom 1",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/doktor-strange/1-marvel-now/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/393/122/393122/1553172094/300.jpg",
       "date": "2016-08-03T10:50:42.000Z",
       "serie_id": 19,
       "order": 60,
@@ -685,7 +685,7 @@
     "63": {
       "title": "Doktor Strange",
       "subtitle": "Tom 3",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/doktor-strange/3/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/438/840/438840/1594852974/300.jpg",
       "date": "2018-02-14T11:49:59.000Z",
       "serie_id": 19,
       "order": 62,
@@ -696,7 +696,7 @@
     "64": {
       "title": "Doktor Strange",
       "subtitle": "Tom 4",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/doktor-strange/4/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/455/324/455324/1612311128/300.jpg",
       "date": "2018-05-23T10:50:52.000Z",
       "serie_id": 19,
       "order": 63,
@@ -718,7 +718,7 @@
     "66": {
       "title": "Hawkeye",
       "subtitle": "Tom 2 - Troje",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/hawkeye/2-marvel-2-0/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/410/605/410605/1568326932/300.jpg",
       "date": "2016-04-20T10:04:56.000Z",
       "serie_id": 21,
       "order": 65,
@@ -740,7 +740,7 @@
     "68": {
       "title": "Iron Man",
       "subtitle": "",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/niezwyciezony-iron-man/1/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/395/276/395276/1555072091/300.jpg",
       "date": "2016-10-05T10:09:49.000Z",
       "serie_id": 24,
       "order": 67,
@@ -751,18 +751,18 @@
     "69": {
       "title": "II Wojna Domowa",
       "subtitle": "",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/ii-wojna-domowa/1/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/398/955/398955/1558796362/300.jpg",
       "date": "2016-12-28T11:13:43.000Z",
       "serie_id": 25,
       "order": 68,
-      "global_order": 29,
+      "global_order": 28,
       "notebooks_ids": [487,488,489,490,491,492,493,494,495],
       "event_id": 91
     },
     "70": {
       "title": "II Wojna Domowa",
       "subtitle": "Amazing Spider-Man",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/ii-wojna-domowa/amazing-spider-man/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/398/958/398958/1558800020/300.jpg",
       "date": "2016-09-14T10:15:22.000Z",
       "serie_id": 6,
       "order": 3,
@@ -773,7 +773,7 @@
     "71": {
       "title": "II Wojna Domowa",
       "subtitle": "X-Men",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/ii-wojna-domowa/x-men/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/398/956/398956/1558796914/300.jpg",
       "date": "2016-09-21T10:18:06.000Z",
       "serie_id": 5,
       "order": 2,
@@ -784,18 +784,18 @@
     "72": {
       "title": "Mockingbird",
       "subtitle": "",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/mockingbird/1/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/403/697/403697/1562944840/300.jpg",
       "date": "2016-10-19T10:20:38.000Z",
       "serie_id": 28,
       "order": 71,
-      "global_order": 21,
+      "global_order": 20,
       "notebooks_ids": [504,505,506,507,508,509,510,511],
       "event_id": 91
     },
     "73": {
       "title": "Inhumans kontra X-Men",
       "subtitle": "",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/inhumans-kontra-x-men/1/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/413/688/413688/1570785097/300.jpg",
       "date": "2017-03-08T11:23:06.000Z",
       "serie_id": 5,
       "order": 5,
@@ -806,7 +806,7 @@
     "74": {
       "title": "Śmierć X",
       "subtitle": "",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/smierc-x/1/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/413/687/413687/1570784801/300.jpg",
       "date": "2016-11-23T11:25:55.000Z",
       "serie_id": 5,
       "order": 4,
@@ -817,7 +817,7 @@
     "75": {
       "title": "Astonishing X-Men",
       "subtitle": "Tom 1 - Życie X",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/astonishing-x-men/tom-1/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/421/481/421481/1579300755/300.jpg",
       "date": "2017-12-06T11:29:01.000Z",
       "serie_id": 31,
       "order": 74,
@@ -828,7 +828,7 @@
     "76": {
       "title": "Astonishing X-Men",
       "subtitle": "Tom 2 - Człowiek zwany X",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/astonishing-x-men/tom-2/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/435/195/435195/1591368358/300.jpg",
       "date": "2018-05-02T10:29:42.000Z",
       "serie_id": 31,
       "order": 75,
@@ -839,7 +839,7 @@
     "77": {
       "title": "Astonishing X-Men",
       "subtitle": "Tom 3 - Dopóki starczy tchu",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/astonishing-x-men/tom-3/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/453/061/453061/1609860403/300.jpg",
       "date": "2018-11-21T11:31:21.000Z",
       "serie_id": 31,
       "order": 76,
@@ -850,11 +850,11 @@
     "78": {
       "title": "Kapitan Ameryka",
       "subtitle": "Tom 1",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/kapitan-ameryka/tom-1/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/421/476/421476/1579300752/300.jpg",
       "date": "2017-02-15T11:34:44.000Z",
       "serie_id": 32,
       "order": 77,
-      "global_order": 22,
+      "global_order": 21,
       "notebooks_ids": [540,541,542,543,544,545,546,547,548,549,550],
       "event_id": 91
     },
@@ -872,7 +872,7 @@
     "80": {
       "title": "Czarna Wdowa",
       "subtitle": "",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/black_widow/marvel-now/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/423/370/423370/1581373787/300.jpg",
       "date": "2017-03-29T10:39:39.000Z",
       "serie_id": 33,
       "order": 79,
@@ -883,7 +883,7 @@
     "81": {
       "title": "Niegodny Thor",
       "subtitle": "",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/niegodny-thor/1/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/423/502/423502/1581461561/300.jpg",
       "date": "2017-03-22T11:41:57.000Z",
       "serie_id": 18,
       "order": 2,
@@ -894,7 +894,7 @@
     "82": {
       "title": "Moon Knight",
       "subtitle": "",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/moon-knight/1-marvel-now-2-0/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/428/647/428647/1587303846/300.jpg",
       "date": "2017-05-31T10:44:37.000Z",
       "serie_id": 35,
       "order": 81,
@@ -938,7 +938,7 @@
     "86": {
       "title": "Strażnicy Galaktyki",
       "subtitle": "Tom 3 - Poszukiwacze nieskończoności",
-      "image_url": "https://emp-scs.img-osdw.pl/img-p/1/egmont/c477cb96/std/10e-19a/49981466o.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/462/476/462476/1618586501/231.jpg",
       "date": "2018-01-03T11:02:34.000Z",
       "serie_id": 37,
       "order": 85,
@@ -960,7 +960,7 @@
     "88": {
       "title": "Thanos",
       "subtitle": "Tom 1",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/thanos/tom-1/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/443/850/443850/1600294748/300.jpg",
       "date": "2017-10-25T10:15:36.000Z",
       "serie_id": 39,
       "order": 87,
@@ -971,7 +971,7 @@
     "89": {
       "title": "Thanos",
       "subtitle": "Tom 2",
-      "image_url": "https://images.gildia.pl/_n_/komiks/komiksy/thanos/tom-2/okladka-200.jpg",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/455/524/455524/1612483623/300.jpg",
       "date": "2018-11-14T11:17:44.000Z",
       "serie_id": 39,
       "order": 88,
