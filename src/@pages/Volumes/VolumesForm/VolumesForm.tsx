@@ -88,12 +88,7 @@ const VolumesForm = ({
         )}
       </FormContainer>
       <Spacing />
-      <NotebooksGrabList
-        variant="source"
-        databaseName={databaseName}
-        wavesOptions={wavesOptions}
-        serieId={initialValues.serie_id}
-      />
+      <NotebooksGrabList variant="source" databaseName={databaseName} serieId={initialValues.serie_id} />
     </>
   );
 };

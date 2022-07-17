@@ -1,9 +1,7 @@
-import deleteNotebooks from '@api/delete/deleteNotebooks';
 import deleteSeries from '@api/delete/deleteSeries';
 import deleteVolumes from '@api/delete/deleteVolumes';
 import deleteWaves from '@api/delete/deleteWaves';
 import deleteAlias from '@api/delete/deleteAlias';
-import postNotebooks from '@api/post/postNotebooks';
 import postSeries from '@api/post/postSeries';
 import postVolumes from '@api/post/postVolumes';
 import postWaves from '@api/post/postWaves';
@@ -11,15 +9,14 @@ import ApiHandler from 'types/ApiHandler';
 import apiBuilder from 'utils/apiBuilder';
 import notFound from 'utils/notFoundApiHandler';
 
-type RecordName = 'waves' | 'series' | 'volumes' | 'notebooks' | 'aliases';
+type RecordName = 'waves' | 'series' | 'volumes' | 'aliases';
 
-const recordsName = ['waves', 'series', 'volumes', 'notebooks', 'aliases'];
+const recordsName = ['waves', 'series', 'volumes', 'aliases'];
 
 const handlersMap: Record<RecordName, [ApiHandler, ApiHandler]> = {
   waves: [postWaves, deleteWaves],
   series: [postSeries, deleteSeries],
   volumes: [postVolumes, deleteVolumes],
-  notebooks: [postNotebooks, deleteNotebooks],
   aliases: [notFound, deleteAlias],
 };
 

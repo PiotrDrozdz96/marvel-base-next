@@ -14,5 +14,7 @@ export default {
   serie_id: 'Seria',
   wave_id: 'Nurt',
   order: 'Kolejność',
-  no_from: 'Od numeru',
+  url: 'Url',
+  from: 'Od numeru',
+  to: 'Do numeru',
 };

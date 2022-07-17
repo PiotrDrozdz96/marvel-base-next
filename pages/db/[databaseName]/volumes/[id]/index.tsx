@@ -23,7 +23,6 @@ type Props = {
   series: Serie[];
   waves: Wave[];
   waveId: string;
-  notebooks: Notebook[];
   volumeNotebooks: Notebook[];
 };
 
@@ -45,13 +44,11 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
   const finalSerieId = isCreate ? serieId : `${volumes[id].serie_id}`;
 
   let waveId = '';
-  let notebooks: Notebook[] = [];
   let volumeNotebooks: Notebook[] = [];
 
   if (finalSerieId) {
     waveId = `${series[Number(finalSerieId)].wave_id}`;
     const { notebooks: allNotebooks } = await get(databaseName, 'notebooks');
-    notebooks = mapApiToFront(allNotebooks).filter((notebook) => notebook.serie_id === Number(finalSerieId));
 
     if (!isCreate && volumes[id].notebooks_ids?.length) {
       volumeNotebooks = volumes[id].notebooks_ids.map((notebookId) => ({
@@ -71,7 +68,6 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
       series: mapApiToFront(series).filter((serie) => serie.wave_id === Number(waveId)),
       events: mapApiToFront(volumes).filter((volume) => volume.is_event),
       waves: mapApiToFront(waves),
-      notebooks,
       volumeNotebooks,
       waveId,
       initialValues: !isCreate
@@ -97,7 +93,6 @@ const NotebooksFormPage = ({
   events,
   waves,
   waveId,
-  notebooks,
   volumeNotebooks,
 }: InferGetServerSidePropsType<typeof getServerSideProps>) => (
   <VolumesForm
@@ -107,7 +102,6 @@ const NotebooksFormPage = ({
     initialValues={initialValues}
     series={series}
     events={events}
-    notebooks={notebooks}
     waves={waves}
     waveId={waveId}
     volumeNotebooks={volumeNotebooks}

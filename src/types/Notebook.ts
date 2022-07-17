@@ -5,16 +5,10 @@ type ApiNotebook = {
   subtitle: string;
   image_url: string;
   date: string;
-  serie_id: number;
-  order: number;
 };
 
 type Notebook = ApiNotebook & {
   id: number;
 };
 
-type FrontNotebook = Notebook & {
-  serieName: string;
-};
-
-export type { ApiNotebook, Notebook, FrontNotebook };
+export type { ApiNotebook, Notebook };
