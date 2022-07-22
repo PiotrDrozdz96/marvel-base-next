@@ -13,7 +13,7 @@ fs.readFile(`./src/database/db/${databasename}/volumes.json`, 'utf8', (_, volume
       const { notebooks_ids: notebooksIds, ...volume } = volumes[key];
       const notebooksUrls = notebooksIds.map((id) => {
         const notebook = notebooks[id];
-        return `${notebook.title} ${notebook.vol} ${notebook.no}`.replaceAll(' ', '_');
+        return `${notebook.title} Vol ${notebook.vol} ${notebook.no}`.replaceAll(' ', '_');
       });
       result[key] = { ...volume, notebooks: notebooksUrls };
     });

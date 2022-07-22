@@ -9,6 +9,7 @@ import { Wave } from 'types/Wave';
 import { Notebook } from 'types/Notebook';
 import get from '@api/get';
 import getMenu from '@api/get/front/getMenu';
+import getNotebooks from '@api/get/front/getNotebooks';
 import VolumesForm from '@pages/Volumes/VolumesForm';
 import { defaultValues, numberFields } from '@pages/Volumes/VolumeForm.consts';
 import mapApiToFront from 'utils/mapApiToFront';
@@ -48,13 +49,9 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
 
   if (finalSerieId) {
     waveId = `${series[Number(finalSerieId)].wave_id}`;
-    const { notebooks: allNotebooks } = await get(databaseName, 'notebooks');
 
-    if (!isCreate && volumes[id].notebooks_ids?.length) {
-      volumeNotebooks = volumes[id].notebooks_ids.map((notebookId) => ({
-        ...allNotebooks[notebookId],
-        id: notebookId,
-      }));
+    if (!isCreate && volumes[id].notebooks?.length) {
+      volumeNotebooks = await getNotebooks(volumes[id].notebooks);
     }
   }
 
