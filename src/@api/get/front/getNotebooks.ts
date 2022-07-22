@@ -1,6 +1,6 @@
 import { MarvelFandomPageInfo, MarvelFandomImageInfo } from 'types/MarvelFandom';
 import { Notebook } from 'types/Notebook';
-import { apiUrl, nameRegExp } from 'consts/import';
+import { apiUrl, nameRegExp } from 'consts/connect';
 import getFetch from 'utils/getFetch';
 import mapObjectToArray from 'utils/mapObjectToArray';
 
@@ -10,16 +10,18 @@ const getParamFromContent = (content: string, key: string): string => {
   return value?.trim() || '';
 };
 
+const getTwoDigitNumber = (number: string): string => `0${number}`.substring(number.length - 1);
+
 const getDateFromContent = (content: string): string => {
   const releaseDate = getParamFromContent(content, 'ReleaseDate');
   if (releaseDate) {
     const [month, day, year] = releaseDate.split('-');
-    return `${[year, `0${month}`.substring(month.length - 1), day].join('-')}T11:00:00.000Z`;
+    return `${[year, getTwoDigitNumber(month), getTwoDigitNumber(day)].join('-')}T11:00:00.000Z`;
   }
 
   const [month, year] = [getParamFromContent(content, 'Month'), getParamFromContent(content, 'Year')];
   if (month && year) {
-    return `${[year, `0${month}`.substring(month.length - 1), 1].join('-')}T11:00:00.000Z}`;
+    return `${[year, getTwoDigitNumber(month), '01'].join('-')}T11:00:00.000Z`;
   }
 
   return '';

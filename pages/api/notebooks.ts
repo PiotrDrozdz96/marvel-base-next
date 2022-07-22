@@ -6,7 +6,7 @@ import { isValid } from 'date-fns';
 import ApiHandler from 'types/ApiHandler';
 import FormPartial from 'types/FormPartial';
 import { ApiNotebook } from 'types/Notebook';
-import { nameRegExp } from 'consts/import';
+import { nameRegExp } from 'consts/connect';
 import messages from 'utils/apiValidators/apiValidators.messages';
 import { interpolate } from 'utils/interpolate';
 import parseDate from 'utils/parseDate';
