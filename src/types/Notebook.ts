@@ -1,5 +1,6 @@
 type ApiNotebook = {
   title: string;
+  title_long: string;
   vol: number;
   no: number;
   subtitle: string;

@@ -2,29 +2,29 @@ import { ReactNode, useState, useMemo } from 'react';
 import { DragDropContext, DropResult } from 'react-beautiful-dnd';
 import { arrayMoveImmutable } from 'array-move';
 
-import { Notebook } from 'types/Notebook';
+import { ApiNotebook } from 'types/Notebook';
 
 import { NotebooksContext } from './NotebooksProvider.context';
 
 type Props = {
-  initialVolumeNotebooks: Notebook[];
+  initialVolumeNotebooks: ApiNotebook[];
   children: ReactNode;
 };
 
 const NotebooksProvider = ({ initialVolumeNotebooks, children }: Props): JSX.Element => {
-  const [notebooks, setNotebooks] = useState<Notebook[]>([]);
+  const [notebooks, setNotebooks] = useState<ApiNotebook[]>([]);
   const [volumeNotebooks, setVolumeNotebooks] = useState(initialVolumeNotebooks);
 
-  const notebooksIds = useMemo(() => volumeNotebooks.map((notebook) => Number(notebook.id)), [volumeNotebooks]);
+  const notebooksTitles = useMemo(() => volumeNotebooks.map((notebook) => notebook.title_long), [volumeNotebooks]);
   const filteredNotebooks = useMemo(
-    () => notebooks.filter((notebook) => !notebooksIds.includes(notebook.id)),
-    [notebooks, notebooksIds]
+    () => notebooks.filter((notebook) => !notebooksTitles.includes(notebook.title_long)),
+    [notebooks, notebooksTitles]
   );
 
   const onDragEnd = ({ source, destination }: DropResult): void => {
     if (source.droppableId === 'source' && destination?.droppableId === 'target') {
       const newNotebook = filteredNotebooks[source.index];
-      if (!volumeNotebooks.map(({ id }) => id).includes(newNotebook.id)) {
+      if (!volumeNotebooks.map(({ title_long: titleLong }) => titleLong).includes(newNotebook.title_long)) {
         const newVolumeNotebooks = [...volumeNotebooks];
         newVolumeNotebooks.splice(destination.index, 0, newNotebook);
         setVolumeNotebooks(newVolumeNotebooks);
@@ -52,7 +52,7 @@ const NotebooksProvider = ({ initialVolumeNotebooks, children }: Props): JSX.Ele
       value={{
         notebooks: filteredNotebooks,
         volumeNotebooks,
-        notebooksIds,
+        notebooksTitles,
         setNotebooks,
       }}
     >

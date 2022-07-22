@@ -50,6 +50,7 @@ export const handler: ApiHandler = async (req, res) =>
 
         notebooks.push({
           title: title || '',
+          title_long: `${title}_Vol_${vol}_${no}`,
           vol: vol || '',
           no: no || '',
           subtitle: subtitle || alternativeSubtitle,

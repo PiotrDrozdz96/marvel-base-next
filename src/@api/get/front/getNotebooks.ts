@@ -41,6 +41,7 @@ const mapNotebooks = (notebooksTitles: string[], pagesInfo?: Partial<MarvelFando
 
       return {
         id: currentPage.id,
+        title_long: notebookTitle,
         title,
         vol,
         no,

@@ -18,7 +18,7 @@ const volumesField: (keyof ApiVolume)[] = [
   'serie_id',
   'order',
   'global_order',
-  'notebooks_ids',
+  'notebooks',
   'is_event',
   'event_id',
 ];

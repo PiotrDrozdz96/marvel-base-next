@@ -84,7 +84,7 @@ const NotebooksGrabList = ({ variant, databaseName, serieId }: Props): JSX.Eleme
         }
       >
         {(variant === 'source' ? notebooks : volumeNotebooks).map((notebook, index) => (
-          <ListRow key={notebook.id} draggableId={`${variant}-${notebook.id}`} index={index}>
+          <ListRow key={notebook.title_long} draggableId={`${variant}-${notebook.title_long}`} index={index}>
             <td style={width(100)}>
               <Image src={notebook.image_url} alt={notebook.title} preset="mini" withLink />
             </td>
