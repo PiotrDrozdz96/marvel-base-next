@@ -83,8 +83,8 @@ const postVolumes: ApiHandler = async (req, res) => {
             ...volumes,
             [id]: {
               ...body,
-              order: body.order || meta.nextIndex - 1,
-              global_order: body.global_order || meta.nextIndex - 1,
+              order: typeof body.order === 'number' ? body.order : meta.nextIndex - 1,
+              global_order: typeof body.global_order === 'number' ? body.global_order : meta.nextIndex - 1,
             },
           },
           meta: reqId ? meta : { nextIndex: meta.nextIndex + 1 },
