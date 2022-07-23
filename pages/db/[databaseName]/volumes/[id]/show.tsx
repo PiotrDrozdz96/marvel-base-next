@@ -6,7 +6,7 @@ import { Notebook } from 'types/Notebook';
 import VolumesShow from '@pages/Volumes/VolumesShow';
 import getMenu from '@api/get/front/getMenu';
 import getVolume from '@api/get/front/getVolume';
-import get from '@api/get';
+import getNotebooks from '@api/get/front/getNotebooks';
 
 type Props = {
   item: FrontVolume;
@@ -23,22 +23,18 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params }) 
     return { notFound: true };
   }
 
-  if (item.is_event) {
-    return {
-      redirect: {
-        destination: `/preview/${databaseName}/${id}`,
-      },
-    } as unknown as { props: InferGetServerSidePropsType<typeof getServerSideProps> };
-  }
+  // if (item.is_event) {
+  //   return {
+  //     redirect: {
+  //       destination: `/preview/${databaseName}/${id}`,
+  //     },
+  //   } as unknown as { props: InferGetServerSidePropsType<typeof getServerSideProps> };
+  // }
 
   let volumeNotebooks: Notebook[] = [];
 
-  if (item.notebooks_ids?.length) {
-    const { notebooks } = await get(databaseName, 'notebooks');
-    volumeNotebooks = item.notebooks_ids.map((notebookId) => ({
-      ...notebooks[notebookId],
-      id: notebookId,
-    }));
+  if (item.notebooks?.length) {
+    volumeNotebooks = await getNotebooks(item.notebooks);
   }
 
   const menu = await getMenu();

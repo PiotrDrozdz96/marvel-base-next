@@ -1,4 +1,5 @@
 import routes from 'config/routes';
+import { wikiUrl } from 'consts/connect';
 import { FrontVolume } from 'types/Volume';
 import { Notebook } from 'types/Notebook';
 import ShowWithImage from '@components/ShowWithImage';
@@ -34,7 +35,7 @@ const VolumesShow = ({ item, databaseName, notebooks, isPreview }: Props): JSX.E
       <TextField
         label={volumesMessages.event_id}
         value={item.eventName}
-        href={{ pathname: routes.preview.event.href, query: { databaseName, eventId: item.event_id } }}
+        href={{ pathname: routes.volumes.id.show.href, query: { databaseName, id: item.event_id } }}
       />
       <TextField
         label={volumesMessages.notebooks}
@@ -45,7 +46,8 @@ const VolumesShow = ({ item, databaseName, notebooks, isPreview }: Props): JSX.E
                 <Link
                   key={notebook.id}
                   className={classes.previewElement}
-                  href={{ pathname: routes.notebooks.id.show.href, query: { databaseName, id: notebook.id } }}
+                  href={`${wikiUrl}/${notebook.title_long}`}
+                  openInNewTab
                 >
                   <Book {...notebook} />
                 </Link>

@@ -6,7 +6,7 @@ type ApiVolume = {
   serie_id: number;
   order: number;
   global_order: number;
-  notebooks_ids: number[];
+  notebooks: string[];
   is_event?: true;
   event_id?: number;
 };

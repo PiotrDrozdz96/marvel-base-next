@@ -8,8 +8,8 @@
       "serie_id": 1,
       "order": 0,
       "global_order": 17,
-      "notebooks_ids": [1,2,3,4,5],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["All-New_X-Men_Vol_1_1","All-New_X-Men_Vol_1_2","All-New_X-Men_Vol_1_3","All-New_X-Men_Vol_1_4","All-New_X-Men_Vol_1_5"]
     },
     "2": {
       "title": "All-New X-Men",
@@ -19,8 +19,8 @@
       "serie_id": 1,
       "order": 1,
       "global_order": 18,
-      "notebooks_ids": [6,7,8,9,10],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["All-New_X-Men_Vol_1_6","All-New_X-Men_Vol_1_7","All-New_X-Men_Vol_1_8","All-New_X-Men_Vol_1_9","All-New_X-Men_Vol_1_10"]
     },
     "3": {
       "title": "All-New X-Men",
@@ -30,8 +30,8 @@
       "serie_id": 1,
       "order": 2,
       "global_order": 26,
-      "notebooks_ids": [11,12,13,14,15],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["All-New_X-Men_Vol_1_11","All-New_X-Men_Vol_1_12","All-New_X-Men_Vol_1_13","All-New_X-Men_Vol_1_14","All-New_X-Men_Vol_1_15"]
     },
     "4": {
       "title": "All-New X-Men",
@@ -41,8 +41,8 @@
       "serie_id": 1,
       "order": 3,
       "global_order": 54,
-      "notebooks_ids": [18,19,20,21],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["All-New_X-Men_Vol_1_18","All-New_X-Men_Vol_1_19","All-New_X-Men_Vol_1_20","All-New_X-Men_Vol_1_21"]
     },
     "5": {
       "title": "All-New X-Men",
@@ -52,8 +52,8 @@
       "serie_id": 1,
       "order": 4,
       "global_order": 99,
-      "notebooks_ids": [24,25,26,27,28,29],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["All-New_X-Men_Vol_1_25","All-New_X-Men_Vol_1_26","All-New_X-Men_Vol_1_27","All-New_X-Men_Vol_1_28","All-New_X-Men_Vol_1_29","All-New_X-Men_Vol_1_30"]
     },
     "6": {
       "title": "All-New X-Men",
@@ -63,8 +63,8 @@
       "serie_id": 1,
       "order": 5,
       "global_order": 100,
-      "notebooks_ids": [30,31,32,33,34,35],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["All-New_X-Men_Vol_1_31","All-New_X-Men_Vol_1_32","All-New_X-Men_Vol_1_33","All-New_X-Men_Vol_1_34","All-New_X-Men_Vol_1_35","All-New_X-Men_Vol_1_36"]
     },
     "7": {
       "title": "All-New X-Men",
@@ -74,8 +74,8 @@
       "serie_id": 1,
       "order": 6,
       "global_order": 121,
-      "notebooks_ids": [36,37,38,39,40],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["All-New_X-Men_Vol_1_37","All-New_X-Men_Vol_1_38","All-New_X-Men_Vol_1_39","All-New_X-Men_Vol_1_40","All-New_X-Men_Vol_1_41"]
     },
     "8": {
       "title": "Strażnicy Galaktyki",
@@ -85,8 +85,8 @@
       "serie_id": 2,
       "order": 7,
       "global_order": 19,
-      "notebooks_ids": [41,42,43,44],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Guardians_of_the_Galaxy_Vol_3_0.1","Guardians_of_the_Galaxy_Vol_3_1","Guardians_of_the_Galaxy_Vol_3_2","Guardians_of_the_Galaxy_Vol_3_3"]
     },
     "9": {
       "title": "Strażnicy Galaktyki",
@@ -96,8 +96,8 @@
       "serie_id": 2,
       "order": 8,
       "global_order": 43,
-      "notebooks_ids": [45,46,47,48],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Guardians_of_the_Galaxy_Vol_3_4","Guardians_of_the_Galaxy_Vol_3_5","Guardians_of_the_Galaxy_Vol_3_6","Guardians_of_the_Galaxy_Vol_3_7"]
     },
     "10": {
       "title": "Strażnicy Galaktyki",
@@ -107,8 +107,8 @@
       "serie_id": 2,
       "order": 9,
       "global_order": 52,
-      "notebooks_ids": [49,50,51],
-      "event_id": 111
+      "event_id": 111,
+      "notebooks": ["Guardians_of_the_Galaxy_Vol_3_8","Guardians_of_the_Galaxy_Vol_3_9","Guardians_of_the_Galaxy_Vol_3_10"]
     },
     "11": {
       "title": "Strażnicy Galaktyki/All-New X-Men",
@@ -118,8 +118,8 @@
       "serie_id": 2,
       "order": 10,
       "global_order": 79,
-      "notebooks_ids": [69,52,22,53,23,54],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["All-New_X-Men_Vol_1_22","Guardians_of_the_Galaxy_Vol_3_11","All-New_X-Men_Vol_1_23","Guardians_of_the_Galaxy_Vol_3_12","All-New_X-Men_Vol_1_24","Guardians_of_the_Galaxy_Vol_3_13"]
     },
     "12": {
       "title": "Strażnicy Galaktyki",
@@ -129,8 +129,8 @@
       "serie_id": 2,
       "order": 11,
       "global_order": 80,
-      "notebooks_ids": [55,56,57,58],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Guardians_of_the_Galaxy_Vol_3_14","Guardians_of_the_Galaxy_Vol_3_15","Guardians_of_the_Galaxy_Vol_3_16","Guardians_of_the_Galaxy_Vol_3_17"]
     },
     "13": {
       "title": "Strażnicy Galaktyki",
@@ -140,8 +140,8 @@
       "serie_id": 2,
       "order": 12,
       "global_order": 93,
-      "notebooks_ids": [59,60,61,62,63,64],
-      "event_id": 112
+      "event_id": 112,
+      "notebooks": ["Guardians_of_the_Galaxy_Vol_3_18","Guardians_of_the_Galaxy_Vol_3_19","Guardians_of_the_Galaxy_Vol_3_20","Guardians_of_the_Galaxy_Vol_3_21","Guardians_of_the_Galaxy_Vol_3_22","Guardians_of_the_Galaxy_Vol_3_23"]
     },
     "14": {
       "title": "Strażnicy Galaktyki",
@@ -151,8 +151,8 @@
       "serie_id": 2,
       "order": 13,
       "global_order": 120,
-      "notebooks_ids": [65,66,67,68],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Guardians_of_the_Galaxy_Vol_3_24","Guardians_of_the_Galaxy_Vol_3_25","Guardians_of_the_Galaxy_Vol_3_26","Guardians_of_the_Galaxy_Vol_3_27"]
     },
     "15": {
       "title": "Avengers",
@@ -162,8 +162,8 @@
       "serie_id": 3,
       "order": 14,
       "global_order": 14,
-      "notebooks_ids": [70,71,72,73,74,75],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Avengers_Vol_5_1","Avengers_Vol_5_2","Avengers_Vol_5_3","Avengers_Vol_5_4","Avengers_Vol_5_5","Avengers_Vol_5_6"]
     },
     "16": {
       "title": "Avengers",
@@ -173,8 +173,8 @@
       "serie_id": 3,
       "order": 15,
       "global_order": 15,
-      "notebooks_ids": [76,77,78,79,80],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Avengers_Vol_5_7","Avengers_Vol_5_8","Avengers_Vol_5_9","Avengers_Vol_5_10","Avengers_Vol_5_11"]
     },
     "17": {
       "title": "Avengers",
@@ -184,8 +184,8 @@
       "serie_id": 3,
       "order": 16,
       "global_order": 45,
-      "notebooks_ids": [81,82,83,84,85,86],
-      "event_id": 111
+      "event_id": 111,
+      "notebooks": ["Avengers_Vol_5_12","Avengers_Vol_5_13","Avengers_Vol_5_14","Avengers_Vol_5_15","Avengers_Vol_5_16","Avengers_Vol_5_17"]
     },
     "18": {
       "title": "Avengers",
@@ -195,8 +195,8 @@
       "serie_id": 3,
       "order": 17,
       "global_order": 47,
-      "notebooks_ids": [87,88,89,90,91,92],
-      "event_id": 111
+      "event_id": 111,
+      "notebooks": ["Avengers_Vol_5_18","Avengers_Vol_5_19","Avengers_Vol_5_20","Avengers_Vol_5_21","Avengers_Vol_5_22","Avengers_Vol_5_23"]
     },
     "19": {
       "title": "Avengers",
@@ -206,8 +206,8 @@
       "serie_id": 3,
       "order": 18,
       "global_order": 65,
-      "notebooks_ids": [93,94,95,96,97],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Avengers_Vol_5_24","Avengers_Vol_5_25","Avengers_Vol_5_26","Avengers_Vol_5_27","Avengers_Vol_5_28"]
     },
     "20": {
       "title": "Avengers",
@@ -217,8 +217,8 @@
       "serie_id": 3,
       "order": 19,
       "global_order": 92,
-      "notebooks_ids": [98,99,100,101,102,103],
-      "event_id": 112
+      "event_id": 112,
+      "notebooks": ["Avengers_Vol_5_29","Avengers_Vol_5_30","Avengers_Vol_5_31","Avengers_Vol_5_32","Avengers_Vol_5_33","Avengers_Vol_5_34"]
     },
     "21": {
       "title": "Avengers",
@@ -228,8 +228,8 @@
       "serie_id": 3,
       "order": 20,
       "global_order": 132,
-      "notebooks_ids": [106,139,107,140,108],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Avengers_Vol_5_35","New_Avengers_Vol_3_24","Avengers_Vol_5_36","New_Avengers_Vol_3_25","Avengers_Vol_5_37"]
     },
     "22": {
       "title": "Avengers",
@@ -239,8 +239,8 @@
       "serie_id": 3,
       "order": 21,
       "global_order": 133,
-      "notebooks_ids": [141,109,142,110,143],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["New_Avengers_Vol_3_26","Avengers_Vol_5_38","New_Avengers_Vol_3_27","Avengers_Vol_5_39","New_Avengers_Vol_3_28"]
     },
     "23": {
       "title": "Avengers",
@@ -250,8 +250,8 @@
       "serie_id": 3,
       "order": 22,
       "global_order": 134,
-      "notebooks_ids": [111,144,112,145,113],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Avengers_Vol_5_40","New_Avengers_Vol_3_29","Avengers_Vol_5_41","New_Avengers_Vol_3_30","Avengers_Vol_5_42"]
     },
     "24": {
       "title": "Avengers",
@@ -261,8 +261,8 @@
       "serie_id": 3,
       "order": 23,
       "global_order": 135,
-      "notebooks_ids": [146,147,114,148,115],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["New_Avengers_Vol_3_31","New_Avengers_Vol_3_32","Avengers_Vol_5_43","New_Avengers_Vol_3_33","Avengers_Vol_5_44"]
     },
     "25": {
       "title": "New Avengers",
@@ -272,8 +272,8 @@
       "serie_id": 4,
       "order": 24,
       "global_order": 13,
-      "notebooks_ids": [116,117,118,119,120,121],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["New_Avengers_Vol_3_1","New_Avengers_Vol_3_2","New_Avengers_Vol_3_3","New_Avengers_Vol_3_4","New_Avengers_Vol_3_5","New_Avengers_Vol_3_6"]
     },
     "26": {
       "title": "New Avengers",
@@ -283,8 +283,8 @@
       "serie_id": 4,
       "order": 25,
       "global_order": 48,
-      "notebooks_ids": [122,123,124,125,126,127],
-      "event_id": 111
+      "event_id": 111,
+      "notebooks": ["New_Avengers_Vol_3_7","New_Avengers_Vol_3_8","New_Avengers_Vol_3_9","New_Avengers_Vol_3_10","New_Avengers_Vol_3_11","New_Avengers_Vol_3_12"]
     },
     "27": {
       "title": "New Avengers",
@@ -294,8 +294,8 @@
       "serie_id": 4,
       "order": 26,
       "global_order": 64,
-      "notebooks_ids": [128,129,130,131,132],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["New_Avengers_Vol_3_13","New_Avengers_Vol_3_14","New_Avengers_Vol_3_15","New_Avengers_Vol_3_16","New_Avengers_Vol_3_17"]
     },
     "28": {
       "title": "New Avengers",
@@ -305,8 +305,8 @@
       "serie_id": 4,
       "order": 27,
       "global_order": 66,
-      "notebooks_ids": [133,134,135,136,137,138],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["New_Avengers_Vol_3_18","New_Avengers_Vol_3_19","New_Avengers_Vol_3_20","New_Avengers_Vol_3_21","New_Avengers_Vol_3_22","New_Avengers_Vol_3_23"]
     },
     "29": {
       "title": "Superior Spider-Man",
@@ -316,8 +316,8 @@
       "serie_id": 5,
       "order": 28,
       "global_order": 11,
-      "notebooks_ids": [149,150,151],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Amazing_Spider-Man_Vol_1_698","Amazing_Spider-Man_Vol_1_699","Amazing_Spider-Man_Vol_1_700"]
     },
     "30": {
       "title": "Superior Spider-Man",
@@ -327,8 +327,8 @@
       "serie_id": 5,
       "order": 29,
       "global_order": 12,
-      "notebooks_ids": [152,153,154,155,156],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Superior_Spider-Man_Vol_1_1","Superior_Spider-Man_Vol_1_2","Superior_Spider-Man_Vol_1_3","Superior_Spider-Man_Vol_1_4","Superior_Spider-Man_Vol_1_5"]
     },
     "31": {
       "title": "Superior Spider-Man",
@@ -338,8 +338,8 @@
       "serie_id": 5,
       "order": 30,
       "global_order": 35,
-      "notebooks_ids": [157,159,160,161,162],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Superior_Spider-Man_Vol_1_6","Superior_Spider-Man_Vol_1_7","Superior_Spider-Man_Vol_1_8","Superior_Spider-Man_Vol_1_9","Superior_Spider-Man_Vol_1_10"]
     },
     "32": {
       "title": "Superior Spider-Man",
@@ -349,8 +349,8 @@
       "serie_id": 5,
       "order": 31,
       "global_order": 36,
-      "notebooks_ids": [163,164,165,166,167,168],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Superior_Spider-Man_Vol_1_11","Superior_Spider-Man_Vol_1_12","Superior_Spider-Man_Vol_1_13","Superior_Spider-Man_Vol_1_14","Superior_Spider-Man_Vol_1_15","Superior_Spider-Man_Vol_1_16"]
     },
     "33": {
       "title": "Superior Spider-Man",
@@ -360,8 +360,8 @@
       "serie_id": 5,
       "order": 32,
       "global_order": 37,
-      "notebooks_ids": [169,170,171,172,173],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Superior_Spider-Man_Vol_1_17","Superior_Spider-Man_Vol_1_18","Superior_Spider-Man_Vol_1_19","Superior_Spider-Man_Vol_1_20","Superior_Spider-Man_Vol_1_21"]
     },
     "34": {
       "title": "Superior Spider-Man",
@@ -371,8 +371,8 @@
       "serie_id": 5,
       "order": 33,
       "global_order": 58,
-      "notebooks_ids": [174,175,176,177,178],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Superior_Spider-Man_Vol_1_22","Superior_Spider-Man_Vol_1_23","Superior_Spider-Man_Vol_1_24","Superior_Spider-Man_Vol_1_25","Superior_Spider-Man_Vol_1_26"]
     },
     "35": {
       "title": "Superior Spider-Man",
@@ -382,8 +382,8 @@
       "serie_id": 5,
       "order": 34,
       "global_order": 81,
-      "notebooks_ids": [179,180,181,182,183],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Superior_Spider-Man_Vol_1_27","Superior_Spider-Man_Vol_1_28","Superior_Spider-Man_Vol_1_29","Superior_Spider-Man_Vol_1_30","Superior_Spider-Man_Vol_1_31"]
     },
     "36": {
       "title": "Spider-Man 2099",
@@ -393,8 +393,8 @@
       "serie_id": 6,
       "order": 35,
       "global_order": 116,
-      "notebooks_ids": [186,187,188,189,190],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Spider-Man_2099_Vol_2_1","Spider-Man_2099_Vol_2_2","Spider-Man_2099_Vol_2_3","Spider-Man_2099_Vol_2_4","Spider-Man_2099_Vol_2_5"]
     },
     "37": {
       "title": "Spider-Man 2099",
@@ -404,8 +404,8 @@
       "serie_id": 6,
       "order": 36,
       "global_order": 119,
-      "notebooks_ids": [191,192,193,194,195,196,197],
-      "event_id": 114
+      "event_id": 114,
+      "notebooks": ["Spider-Man_2099_Vol_2_6","Spider-Man_2099_Vol_2_7","Spider-Man_2099_Vol_2_8","Spider-Man_2099_Vol_2_9","Spider-Man_2099_Vol_2_10","Spider-Man_2099_Vol_2_11","Spider-Man_2099_Vol_2_12"]
     },
     "38": {
       "title": "Amazing Spider-Man",
@@ -415,8 +415,8 @@
       "serie_id": 7,
       "order": 37,
       "global_order": 82,
-      "notebooks_ids": [198,204,205,206,207,208],
-      "event_id": 112
+      "event_id": 112,
+      "notebooks": ["Amazing_Spider-Man_Vol_3_1","Amazing_Spider-Man_Vol_3_2","Amazing_Spider-Man_Vol_3_3","Amazing_Spider-Man_Vol_3_4","Amazing_Spider-Man_Vol_3_5","Amazing_Spider-Man_Vol_3_6"]
     },
     "39": {
       "title": "Amazing Spider-Man",
@@ -426,8 +426,8 @@
       "serie_id": 7,
       "order": 38,
       "global_order": 117,
-      "notebooks_ids": [209,210,184,185],
-      "event_id": 114
+      "event_id": 114,
+      "notebooks": ["Amazing_Spider-Man_Vol_3_7","Amazing_Spider-Man_Vol_3_8","Superior_Spider-Man_Vol_1_32","Superior_Spider-Man_Vol_1_33"]
     },
     "40": {
       "title": "Amazing Spider-Man",
@@ -437,8 +437,8 @@
       "serie_id": 7,
       "order": 39,
       "global_order": 118,
-      "notebooks_ids": [211,212,213,214,215,216,217],
-      "event_id": 114
+      "event_id": 114,
+      "notebooks": ["Amazing_Spider-Man_Vol_3_9","Amazing_Spider-Man_Vol_3_10","Amazing_Spider-Man_Vol_3_11","Amazing_Spider-Man_Vol_3_12","Amazing_Spider-Man_Vol_3_13","Amazing_Spider-Man_Vol_3_14","Amazing_Spider-Man_Vol_3_15"]
     },
     "41": {
       "title": "Amazing Spider-Man",
@@ -448,8 +448,8 @@
       "serie_id": 7,
       "order": 40,
       "global_order": 124,
-      "notebooks_ids": [218,220,222],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Amazing_Spider-Man_Vol_3_16","Amazing_Spider-Man_Vol_3_17","Amazing_Spider-Man_Vol_3_18"]
     },
     "42": {
       "title": "Wolverine i X-Men",
@@ -459,8 +459,8 @@
       "serie_id": 8,
       "order": 41,
       "global_order": 6,
-      "notebooks_ids": [244,245,246,247,248,249],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Wolverine_and_the_X-Men_Vol_1_19","Wolverine_and_the_X-Men_Vol_1_20","Wolverine_and_the_X-Men_Vol_1_21","Wolverine_and_the_X-Men_Vol_1_22","Wolverine_and_the_X-Men_Vol_1_23","Wolverine_and_the_X-Men_Vol_1_24"]
     },
     "43": {
       "title": "Wolverine i X-Men",
@@ -470,8 +470,8 @@
       "serie_id": 8,
       "order": 42,
       "global_order": 29,
-      "notebooks_ids": [250,251,252,254,255],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Wolverine_and_the_X-Men_Vol_1_25","Wolverine_and_the_X-Men_Vol_1_26","Wolverine_and_the_X-Men_Vol_1_27","Wolverine_and_the_X-Men_Vol_1_28","Wolverine_and_the_X-Men_Vol_1_29"]
     },
     "44": {
       "title": "Wolverine i X-Men",
@@ -481,8 +481,8 @@
       "serie_id": 8,
       "order": 43,
       "global_order": 38,
-      "notebooks_ids": [256,257,258,259,260,261],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Wolverine_and_the_X-Men_Vol_1_30","Wolverine_and_the_X-Men_Vol_1_31","Wolverine_and_the_X-Men_Vol_1_32","Wolverine_and_the_X-Men_Vol_1_33","Wolverine_and_the_X-Men_Vol_1_34","Wolverine_and_the_X-Men_Vol_1_35"]
     },
     "45": {
       "title": "Wolverine i X-Men",
@@ -492,8 +492,8 @@
       "serie_id": 8,
       "order": 44,
       "global_order": 55,
-      "notebooks_ids": [264,265,266,267,268],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Wolverine_and_the_X-Men_Vol_1_38","Wolverine_and_the_X-Men_Vol_1_39","Wolverine_and_the_X-Men_Vol_1_40","Wolverine_and_the_X-Men_Vol_1_41","Wolverine_and_the_X-Men_Vol_1_42"]
     },
     "46": {
       "title": "Era Ultrona",
@@ -503,8 +503,8 @@
       "serie_id": 9,
       "order": 45,
       "global_order": 31,
-      "notebooks_ids": [269,270,271,272,273,274,275,276,277,278,279],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Age_of_Ultron_Vol_1_1","Age_of_Ultron_Vol_1_2","Age_of_Ultron_Vol_1_3","Age_of_Ultron_Vol_1_4","Age_of_Ultron_Vol_1_5","Age_of_Ultron_Vol_1_6","Age_of_Ultron_Vol_1_7","Age_of_Ultron_Vol_1_8","Age_of_Ultron_Vol_1_9","Age_of_Ultron_Vol_1_10","Age_of_Ultron_Vol_1_10.1"]
     },
     "47": {
       "title": "Deadpool",
@@ -514,8 +514,8 @@
       "serie_id": 10,
       "order": 46,
       "global_order": 5,
-      "notebooks_ids": [280,281,282,283,284,285],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Deadpool_Vol_5_1","Deadpool_Vol_5_2","Deadpool_Vol_5_3","Deadpool_Vol_5_4","Deadpool_Vol_5_5","Deadpool_Vol_5_6"]
     },
     "48": {
       "title": "Deadpool",
@@ -525,8 +525,8 @@
       "serie_id": 10,
       "order": 47,
       "global_order": 28,
-      "notebooks_ids": [286,287,288,289,290,291],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Deadpool_Vol_5_7","Deadpool_Vol_5_8","Deadpool_Vol_5_9","Deadpool_Vol_5_10","Deadpool_Vol_5_11","Deadpool_Vol_5_12"]
     },
     "49": {
       "title": "Deadpool",
@@ -536,8 +536,8 @@
       "serie_id": 10,
       "order": 48,
       "global_order": 39,
-      "notebooks_ids": [292,293,294,295,296,297,298],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Deadpool_Vol_5_13","Deadpool_Vol_5_14","Deadpool_Vol_5_15","Deadpool_Vol_5_16","Deadpool_Vol_5_17","Deadpool_Vol_5_18","Deadpool_Vol_5_19"]
     },
     "50": {
       "title": "Deadpool",
@@ -547,8 +547,8 @@
       "serie_id": 10,
       "order": 49,
       "global_order": 56,
-      "notebooks_ids": [299,300,301,302,303,304],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Deadpool_Vol_5_20","Deadpool_Vol_5_21","Deadpool_Vol_5_22","Deadpool_Vol_5_23","Deadpool_Vol_5_24","Deadpool_Vol_5_25"]
     },
     "51": {
       "title": "Deadpool",
@@ -558,8 +558,8 @@
       "serie_id": 10,
       "order": 50,
       "global_order": 83,
-      "notebooks_ids": [325,326,327,328,329,330,331],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Deadpool:_Dracula's_Gauntlet_Vol_1_1","Deadpool:_Dracula's_Gauntlet_Vol_1_2","Deadpool:_Dracula's_Gauntlet_Vol_1_3","Deadpool:_Dracula's_Gauntlet_Vol_1_4","Deadpool:_Dracula's_Gauntlet_Vol_1_5","Deadpool:_Dracula's_Gauntlet_Vol_1_6","Deadpool:_Dracula's_Gauntlet_Vol_1_7"]
     },
     "52": {
       "title": "Deadpool",
@@ -569,8 +569,8 @@
       "serie_id": 10,
       "order": 51,
       "global_order": 84,
-      "notebooks_ids": [305,306,307],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Deadpool_Vol_5_26","Deadpool_Vol_5_27","Deadpool_Vol_5_28"]
     },
     "53": {
       "title": "Deadpool",
@@ -580,8 +580,8 @@
       "serie_id": 10,
       "order": 52,
       "global_order": 91,
-      "notebooks_ids": [308,309,310,311,312,313],
-      "event_id": 112
+      "event_id": 112,
+      "notebooks": ["Deadpool_Vol_5_29","Deadpool_Vol_5_30","Deadpool_Vol_5_31","Deadpool_Vol_5_32","Deadpool_Vol_5_33","Deadpool_Vol_5_34"]
     },
     "54": {
       "title": "Deadpool",
@@ -591,8 +591,8 @@
       "serie_id": 10,
       "order": 53,
       "global_order": 109,
-      "notebooks_ids": [314,315,316,317,318,319],
-      "event_id": 113
+      "event_id": 113,
+      "notebooks": ["Deadpool_Vol_5_35","Deadpool_Vol_5_36","Deadpool_Vol_5_37","Deadpool_Vol_5_38","Deadpool_Vol_5_39","Deadpool_Vol_5_40"]
     },
     "55": {
       "title": "Deadpool",
@@ -602,8 +602,8 @@
       "serie_id": 10,
       "order": 54,
       "global_order": 126,
-      "notebooks_ids": [320,321,322,323,324],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Deadpool_Vol_5_41","Deadpool_Vol_5_42","Deadpool_Vol_5_43","Deadpool_Vol_5_44","Deadpool_Vol_5_45"]
     },
     "56": {
       "title": "Deadpool",
@@ -613,637 +613,637 @@
       "serie_id": 10,
       "order": 55,
       "global_order": 127,
-      "notebooks_ids": [332,333,334,335,336],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Death_of_Wolverine:_Deadpool_&_Captain_America_Vol_1_1","Deadpool_vs._Thanos_Vol_1_1","Deadpool_vs._Thanos_Vol_1_2","Deadpool_vs._Thanos_Vol_1_3","Deadpool_vs._Thanos_Vol_1_4"]
     },
     "57": {
       "title": "Thunderbolts",
       "subtitle": "Tom 1 - Bez pardonu",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/293/771/293771/1483181509/300.jpg",
       "date": "2013-03-13T11:32:10.000Z",
-      "serie_id": 14,
+      "serie_id": 11,
       "order": 56,
       "global_order": 21,
-      "notebooks_ids": [337,338,339,340,341,342],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Thunderbolts_Vol_2_1","Thunderbolts_Vol_2_2","Thunderbolts_Vol_2_3","Thunderbolts_Vol_2_4","Thunderbolts_Vol_2_5","Thunderbolts_Vol_2_6"]
     },
     "58": {
       "title": "Thunderbolts",
       "subtitle": "Tom 2 - Czerwony Postrach",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/306/155/306155/1483185417/300.jpg",
       "date": "2013-07-03T10:32:56.000Z",
-      "serie_id": 14,
+      "serie_id": 11,
       "order": 57,
       "global_order": 22,
-      "notebooks_ids": [343,344,345,346,347,348],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Thunderbolts_Vol_2_7","Thunderbolts_Vol_2_8","Thunderbolts_Vol_2_9","Thunderbolts_Vol_2_10","Thunderbolts_Vol_2_11","Thunderbolts_Vol_2_12"]
     },
     "59": {
       "title": "Thunderbolts",
       "subtitle": "Tom 3 - Nieskończoność",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/313/642/313642/1483187797/300.jpg",
       "date": "2013-12-11T11:33:45.000Z",
-      "serie_id": 14,
+      "serie_id": 11,
       "order": 58,
       "global_order": 51,
-      "notebooks_ids": [349,350,351,352,353,354,355],
-      "event_id": 111
+      "event_id": 111,
+      "notebooks": ["Thunderbolts_Vol_2_13","Thunderbolts_Vol_2_14","Thunderbolts_Vol_2_15","Thunderbolts_Vol_2_16","Thunderbolts_Vol_2_17","Thunderbolts_Vol_2_18","Thunderbolts_Vol_2_19"]
     },
     "60": {
       "title": "Thunderbolts",
       "subtitle": "Tom 4 - Bez litości",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/321/837/321837/1484084529/300.jpg",
       "date": "2014-05-28T10:34:41.000Z",
-      "serie_id": 14,
+      "serie_id": 11,
       "order": 59,
       "global_order": 74,
-      "notebooks_ids": [356,357,358,359,360,361,362],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Thunderbolts_Vol_2_20","Thunderbolts_Vol_2_21","Thunderbolts_Vol_2_22","Thunderbolts_Vol_2_23","Thunderbolts_Vol_2_24","Thunderbolts_Vol_2_25","Thunderbolts_Vol_2_26"]
     },
     "61": {
       "title": "Thunderbolts",
       "subtitle": "Tom 5 - Punisher kontra Thunderbolts",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/338/008/338008/1496262411/300.jpg",
       "date": "2014-10-29T11:36:24.000Z",
-      "serie_id": 14,
+      "serie_id": 11,
       "order": 60,
       "global_order": 75,
-      "notebooks_ids": [363,364,365,366,367,368],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Thunderbolts_Vol_2_27","Thunderbolts_Vol_2_28","Thunderbolts_Vol_2_29","Thunderbolts_Vol_2_30","Thunderbolts_Vol_2_31","Thunderbolts_Vol_2_32"]
     },
     "62": {
       "title": "Uncanny Avengers",
       "subtitle": "Tom 1 - Czerwony cień",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/296/513/296513/1483182364/300.jpg",
       "date": "2013-03-27T11:39:28.000Z",
-      "serie_id": 15,
+      "serie_id": 12,
       "order": 61,
       "global_order": 7,
-      "notebooks_ids": [369,370,371,372,373],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Uncanny_Avengers_Vol_1_1","Uncanny_Avengers_Vol_1_2","Uncanny_Avengers_Vol_1_3","Uncanny_Avengers_Vol_1_4","Uncanny_Avengers_Vol_1_5"]
     },
     "63": {
       "title": "Uncanny Avengers",
       "subtitle": "Tom 2 - Bliźnięta Apokalipsy",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/308/156/308156/1483186053/300.jpg",
       "date": "2013-08-28T10:40:05.000Z",
-      "serie_id": 15,
+      "serie_id": 12,
       "order": 62,
       "global_order": 32,
-      "notebooks_ids": [374,375,376,377,378,379,380],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Uncanny_Avengers_Vol_1_6","Uncanny_Avengers_Vol_1_7","Uncanny_Avengers_Vol_1_8","Uncanny_Avengers_Vol_1_8.1","Uncanny_Avengers_Vol_1_9","Uncanny_Avengers_Vol_1_10","Uncanny_Avengers_Vol_1_11"]
     },
     "64": {
       "title": "Uncanny Avengers",
       "subtitle": "Tom 3 - Czas na Ragnarok",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/319/848/319848/1483189734/300.jpg",
       "date": "2014-02-26T11:41:05.000Z",
-      "serie_id": 15,
+      "serie_id": 12,
       "order": 63,
       "global_order": 33,
-      "notebooks_ids": [381,382,383,384,385,386],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Uncanny_Avengers_Vol_1_12","Uncanny_Avengers_Vol_1_13","Uncanny_Avengers_Vol_1_14","Uncanny_Avengers_Vol_1_15","Uncanny_Avengers_Vol_1_16","Uncanny_Avengers_Vol_1_17"]
     },
     "65": {
       "title": "Uncanny Avengers",
       "subtitle": "Tom 4 - Pomścić Ziemię",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/333/111/333111/1490866452/300.jpg",
       "date": "2014-07-30T10:43:21.000Z",
-      "serie_id": 15,
+      "serie_id": 12,
       "order": 64,
       "global_order": 34,
-      "notebooks_ids": [387,388,389,390,391],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Uncanny_Avengers_Vol_1_18","Uncanny_Avengers_Vol_1_19","Uncanny_Avengers_Vol_1_20","Uncanny_Avengers_Vol_1_21","Uncanny_Avengers_Vol_1_22"]
     },
     "66": {
       "title": "Uncanny Avengers",
       "subtitle": "Tom 5 - Preludium do Axis",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/352/992/352992/1512566089/300.jpg",
       "date": "2014-10-01T10:45:30.000Z",
-      "serie_id": 15,
+      "serie_id": 12,
       "order": 65,
       "global_order": 105,
-      "notebooks_ids": [392,393,394,403,404],
-      "event_id": 113
+      "event_id": 113,
+      "notebooks": ["Uncanny_Avengers_Vol_1_23","Uncanny_Avengers_Vol_1_24","Uncanny_Avengers_Vol_1_25","Magneto_Vol_3_9","Magneto_Vol_3_10"]
     },
     "67": {
       "title": "Uncanny Avengers",
       "subtitle": "Tom 6 - Kontrewolucjoniści",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/362/292/362292/1523478052/300.jpg",
       "date": "2015-06-24T10:52:42.000Z",
-      "serie_id": 15,
+      "serie_id": 12,
       "order": 66,
       "global_order": 123,
-      "notebooks_ids": [416,417,418,419,420],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Uncanny_Avengers_Vol_2_1","Uncanny_Avengers_Vol_2_2","Uncanny_Avengers_Vol_2_3","Uncanny_Avengers_Vol_2_4","Uncanny_Avengers_Vol_2_5"]
     },
     "68": {
       "title": "Uncanny X-Men",
       "subtitle": "Tom 1 - Rewolucja",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/296/517/296517/1483182366/300.jpg",
       "date": "2013-04-24T10:00:40.000Z",
-      "serie_id": 18,
+      "serie_id": 14,
       "order": 67,
       "global_order": 25,
-      "notebooks_ids": [421,422,423,424,425],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Uncanny_X-Men_Vol_3_1","Uncanny_X-Men_Vol_3_2","Uncanny_X-Men_Vol_3_3","Uncanny_X-Men_Vol_3_4","Uncanny_X-Men_Vol_3_5"]
     },
     "69": {
       "title": "Uncanny X-Men",
       "subtitle": "Tom 2 - Złamani",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/313/643/313643/1483187797/300.jpg",
       "date": "2013-08-28T10:01:41.000Z",
-      "serie_id": 18,
+      "serie_id": 14,
       "order": 68,
       "global_order": 27,
-      "notebooks_ids": [426,427,428,429,430,431],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Uncanny_X-Men_Vol_3_6","Uncanny_X-Men_Vol_3_7","Uncanny_X-Men_Vol_3_8","Uncanny_X-Men_Vol_3_9","Uncanny_X-Men_Vol_3_10","Uncanny_X-Men_Vol_3_11"]
     },
     "70": {
       "title": "Uncanny X-Men",
       "subtitle": "Tom 3 - Dobry, zły, Inhuman",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/325/249/325249/1487278840/300.jpg",
       "date": "2014-03-05T11:02:29.000Z",
-      "serie_id": 18,
+      "serie_id": 14,
       "order": 69,
       "global_order": 53,
-      "notebooks_ids": [434,435,436,437,438],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Uncanny_X-Men_Vol_3_14","Uncanny_X-Men_Vol_3_15","Uncanny_X-Men_Vol_3_16","Uncanny_X-Men_Vol_3_17","Uncanny_X-Men_Vol_3_18"]
     },
     "71": {
       "title": "Uncanny X-Men",
       "subtitle": "Tom 4 - Kontra SHIELD",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/343/631/343631/1502915253/300.jpg",
       "date": "2014-09-03T10:03:52.000Z",
-      "serie_id": 18,
+      "serie_id": 14,
       "order": 70,
       "global_order": 86,
-      "notebooks_ids": [439,440,441,442,443,444,445],
-      "event_id": 112
+      "event_id": 112,
+      "notebooks": ["Uncanny_X-Men_Vol_3_19","Uncanny_X-Men_Vol_3_20","Uncanny_X-Men_Vol_3_21","Uncanny_X-Men_Vol_3_22","Uncanny_X-Men_Vol_3_23","Uncanny_X-Men_Vol_3_24","Uncanny_X-Men_Vol_3_25"]
     },
     "72": {
       "title": "Uncanny X-Men",
       "subtitle": "Tom 5 - Mutant Omega",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/358/400/358400/1519306985/300.jpg",
       "date": "2015-02-18T11:05:09.000Z",
-      "serie_id": 18,
+      "serie_id": 14,
       "order": 71,
       "global_order": 101,
-      "notebooks_ids": [446,447,448,449,450,451],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Uncanny_X-Men_Vol_3_26","Uncanny_X-Men_Vol_3_27","Uncanny_X-Men_Vol_3_28","Uncanny_X-Men_Vol_3_29","Uncanny_X-Men_Vol_3_30","Uncanny_X-Men_Vol_3_31"]
     },
     "73": {
       "title": "Uncanny X-Men",
       "subtitle": "Tom 6 - Historie małe",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/370/553/370553/1532376501/300.jpg",
       "date": "2015-11-04T11:06:15.000Z",
-      "serie_id": 18,
+      "serie_id": 14,
       "order": 72,
       "global_order": 129,
-      "notebooks_ids": [452,453,454,455,456],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Uncanny_X-Men_Vol_3_32","Uncanny_X-Men_Vol_3_33","Uncanny_X-Men_Vol_3_34","Uncanny_X-Men_Vol_3_35","Uncanny_X-Men_Vol_1_600"]
     },
     "74": {
       "title": "Thor Gromowładny",
       "subtitle": "Tom 1 - Bogobójca",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/302/755/302755/1483184334/300.jpg",
       "date": "2013-02-20T11:09:43.000Z",
-      "serie_id": 19,
+      "serie_id": 15,
       "order": 73,
       "global_order": 23,
-      "notebooks_ids": [457,458,459,460,461],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Thor:_God_of_Thunder_Vol_1_1","Thor:_God_of_Thunder_Vol_1_2","Thor:_God_of_Thunder_Vol_1_3","Thor:_God_of_Thunder_Vol_1_4","Thor:_God_of_Thunder_Vol_1_5"]
     },
     "75": {
       "title": "Thor Gromowładny",
       "subtitle": "Tom 2 - Boża Bomba",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/315/069/315069/1483188253/300.jpg",
       "date": "2013-08-14T10:10:29.000Z",
-      "serie_id": 19,
+      "serie_id": 15,
       "order": 74,
       "global_order": 24,
-      "notebooks_ids": [462,463,464,465,466,467],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Thor:_God_of_Thunder_Vol_1_6","Thor:_God_of_Thunder_Vol_1_7","Thor:_God_of_Thunder_Vol_1_8","Thor:_God_of_Thunder_Vol_1_9","Thor:_God_of_Thunder_Vol_1_10","Thor:_God_of_Thunder_Vol_1_11"]
     },
     "76": {
       "title": "Thor Gromowładny",
       "subtitle": "Tom 3 - Przeklęty",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/335/496/335496/1493300291/300.jpg",
       "date": "2014-01-29T11:11:19.000Z",
-      "serie_id": 19,
+      "serie_id": 15,
       "order": 75,
       "global_order": 42,
-      "notebooks_ids": [468,469,470,471,472,473,474],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Thor:_God_of_Thunder_Vol_1_12","Thor:_God_of_Thunder_Vol_1_13","Thor:_God_of_Thunder_Vol_1_14","Thor:_God_of_Thunder_Vol_1_15","Thor:_God_of_Thunder_Vol_1_16","Thor:_God_of_Thunder_Vol_1_17","Thor:_God_of_Thunder_Vol_1_18"]
     },
     "77": {
       "title": "Thor Gromowładny",
       "subtitle": "Tom 4 - Ostatnie dni Midgardu",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/339/426/339426/1498133947/300.jpg",
       "date": "2014-09-17T10:12:13.000Z",
-      "serie_id": 19,
+      "serie_id": 15,
       "order": 76,
       "global_order": 68,
-      "notebooks_ids": [475,476,477,478,479,480,481],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Thor:_God_of_Thunder_Vol_1_19","Thor:_God_of_Thunder_Vol_1_20","Thor:_God_of_Thunder_Vol_1_21","Thor:_God_of_Thunder_Vol_1_22","Thor:_God_of_Thunder_Vol_1_23","Thor:_God_of_Thunder_Vol_1_24","Thor:_God_of_Thunder_Vol_1_25"]
     },
     "78": {
       "title": "Thanos powstaje",
       "subtitle": "",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/305/919/305919/1483185345/300.jpg",
       "date": "2013-08-28T10:14:54.000Z",
-      "serie_id": 20,
+      "serie_id": 16,
       "order": 77,
       "global_order": 46,
-      "notebooks_ids": [482,483,484,485,486],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Thanos_Rising_Vol_1_1","Thanos_Rising_Vol_1_2","Thanos_Rising_Vol_1_3","Thanos_Rising_Vol_1_4","Thanos_Rising_Vol_1_5"]
     },
     "79": {
       "title": "Nieskończoność",
       "subtitle": "",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/309/580/309580/1483186507/300.jpg",
       "date": "2013-11-27T11:16:16.000Z",
-      "serie_id": 21,
+      "serie_id": 17,
       "order": 78,
       "global_order": 49,
-      "notebooks_ids": [487,488,489,490,491,492],
-      "event_id": 111
+      "event_id": 111,
+      "notebooks": ["Infinity_Vol_1_1","Infinity_Vol_1_2","Infinity_Vol_1_3","Infinity_Vol_1_4","Infinity_Vol_1_5","Infinity_Vol_1_6"]
     },
     "80": {
       "title": "X-Men: Bitwa Atomu",
       "subtitle": "",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/315/392/315392/1483188350/300.jpg",
       "date": "2013-10-30T11:18:44.000Z",
-      "serie_id": 22,
+      "serie_id": 18,
       "order": 79,
       "global_order": 41,
-      "notebooks_ids": [493,16,495,432,262,17,496,433,263,494],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["X-Men:_Battle_of_the_Atom_Vol_1_1","All-New_X-Men_Vol_1_16","X-Men_Vol_4_5","Uncanny_X-Men_Vol_3_12","Wolverine_and_the_X-Men_Vol_1_36","All-New_X-Men_Vol_1_17","X-Men_Vol_4_6","Uncanny_X-Men_Vol_3_13","Wolverine_and_the_X-Men_Vol_1_37","X-Men:_Battle_of_the_Atom_Vol_1_2"]
     },
     "81": {
       "title": "Ms. Marvel",
       "subtitle": "Tom 1 - Niezwykła",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/316/257/316257/1483188624/300.jpg",
       "date": "2014-06-25T10:25:53.000Z",
-      "serie_id": 24,
+      "serie_id": 19,
       "order": 80,
       "global_order": 71,
-      "notebooks_ids": [497,498,499,500,501],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Ms._Marvel_Vol_3_1","Ms._Marvel_Vol_3_2","Ms._Marvel_Vol_3_3","Ms._Marvel_Vol_3_4","Ms._Marvel_Vol_3_5"]
     },
     "82": {
       "title": "Ms. Marvel",
       "subtitle": "Tom 2 - Pokolenie Czemu",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/335/495/335495/1493300258/300.jpg",
       "date": "2015-02-04T11:26:36.000Z",
-      "serie_id": 24,
+      "serie_id": 19,
       "order": 81,
       "global_order": 72,
-      "notebooks_ids": [502,503,504,505,506,507],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Ms._Marvel_Vol_3_6","Ms._Marvel_Vol_3_7","Ms._Marvel_Vol_3_8","Ms._Marvel_Vol_3_9","Ms._Marvel_Vol_3_10","Ms._Marvel_Vol_3_11"]
     },
     "83": {
       "title": "Ms. Marvel",
       "subtitle": "Tom 3 - Zdruzgotana",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/349/211/349211/1508444822/300.jpg",
       "date": "2015-05-13T10:27:38.000Z",
-      "serie_id": 24,
+      "serie_id": 19,
       "order": 82,
       "global_order": 73,
-      "notebooks_ids": [508,509,510,511],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Ms._Marvel_Vol_3_12","Ms._Marvel_Vol_3_13","Ms._Marvel_Vol_3_14","Ms._Marvel_Vol_3_15"]
     },
     "84": {
       "title": "Ms. Marvel",
       "subtitle": "Tom 4 - Dni Ostatnie",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/370/551/370551/1532376501/300.jpg",
       "date": "2015-10-14T10:28:40.000Z",
-      "serie_id": 24,
+      "serie_id": 19,
       "order": 83,
       "global_order": 137,
-      "notebooks_ids": [512,513,514,515],
-      "event_id": 115
+      "event_id": 115,
+      "notebooks": ["Ms._Marvel_Vol_3_16","Ms._Marvel_Vol_3_17","Ms._Marvel_Vol_3_18","Ms._Marvel_Vol_3_19"]
     },
     "85": {
       "title": "Hawkeye",
       "subtitle": "Tom 1 - Moje życie to walka",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/321/833/321833/1484084526/300.jpg",
       "date": "2012-12-05T11:32:04.000Z",
-      "serie_id": 25,
+      "serie_id": 20,
       "order": 84,
       "global_order": 4,
-      "notebooks_ids": [516,517,518,519,520],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Hawkeye_Vol_4_1","Hawkeye_Vol_4_2","Hawkeye_Vol_4_3","Hawkeye_Vol_4_4","Hawkeye_Vol_4_5"]
     },
     "86": {
       "title": "Hawkeye",
       "subtitle": "Tom 2 - Lekkie trafienia",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/343/634/343634/1502915254/300.jpg",
       "date": "2013-06-26T10:33:16.000Z",
-      "serie_id": 25,
+      "serie_id": 20,
       "order": 85,
       "global_order": 95,
-      "notebooks_ids": [521,522,523,524,525,526],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Hawkeye_Vol_4_6","Hawkeye_Vol_4_7","Hawkeye_Vol_4_8","Hawkeye_Vol_4_9","Hawkeye_Vol_4_10","Hawkeye_Vol_4_11"]
     },
     "87": {
       "title": "Hawkeye",
       "subtitle": "Tom 3 - L.A. Woman",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/358/401/358401/1519306986/300.jpg",
       "date": "2014-09-10T10:34:26.000Z",
-      "serie_id": 25,
+      "serie_id": 20,
       "order": 86,
       "global_order": 96,
-      "notebooks_ids": [529,531,533,535],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Hawkeye_Vol_4_14","Hawkeye_Vol_4_16","Hawkeye_Vol_4_18","Hawkeye_Vol_4_20"]
     },
     "88": {
       "title": "Hawkeye",
       "subtitle": "Tom 4 - Rio Bravo",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/367/939/367939/1529409983/300.jpg",
       "date": "2015-07-15T10:35:15.000Z",
-      "serie_id": 25,
+      "serie_id": 20,
       "order": 87,
       "global_order": 97,
-      "notebooks_ids": [527,528,530,532,534,536,537],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Hawkeye_Vol_4_12","Hawkeye_Vol_4_13","Hawkeye_Vol_4_15","Hawkeye_Vol_4_17","Hawkeye_Vol_4_19","Hawkeye_Vol_4_21","Hawkeye_Vol_4_22"]
     },
     "89": {
       "title": "Grzech Pierworodny",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/339/424/339424/1498133947/300.jpg",
       "date": "2014-09-03T10:38:08.000Z",
-      "serie_id": 26,
+      "serie_id": 21,
       "order": 88,
       "global_order": 88,
-      "notebooks_ids": [538,539,540,541,546,547,553,554,555],
-      "event_id": 112
+      "event_id": 112,
+      "notebooks": ["Original_Sin_Vol_1_0","Original_Sin_Vol_1_1","Original_Sin_Vol_1_2","Original_Sin_Vol_1_3","Original_Sin_Vol_1_4","Original_Sin_Vol_1_5","Original_Sin_Vol_1_6","Original_Sin_Vol_1_7","Original_Sin_Vol_1_8"]
     },
     "90": {
       "title": "Grzech Pierworodny",
       "subtitle": "Hulk kontra Iron Man",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/347/664/347664/1507033709/300.jpg",
       "date": "2014-08-06T10:39:24.000Z",
-      "serie_id": 26,
+      "serie_id": 21,
       "order": 89,
       "global_order": 89,
-      "notebooks_ids": [542,543,544,545],
-      "event_id": 112
+      "event_id": 112,
+      "notebooks": ["Original_Sin_Vol_1_3.1","Original_Sin_Vol_1_3.2","Original_Sin_Vol_1_3.3","Original_Sin_Vol_1_3.4"]
     },
     "91": {
       "title": "Grzech Pierworodny",
       "subtitle": "Thor i Loki - Dziesiąty świat",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/343/647/343647/1502972630/300.jpg",
       "date": "2014-09-17T10:40:07.000Z",
-      "serie_id": 26,
+      "serie_id": 21,
       "order": 90,
       "global_order": 90,
-      "notebooks_ids": [548,549,550,551,552],
-      "event_id": 112
+      "event_id": 112,
+      "notebooks": ["Original_Sin_Vol_1_5.1","Original_Sin_Vol_1_5.2","Original_Sin_Vol_1_5.3","Original_Sin_Vol_1_5.4","Original_Sin_Vol_1_5.5"]
     },
     "92": {
       "title": "Wolverine",
       "subtitle": "Trzy miesiące do śmierci - Tom 1",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/341/156/341156/1500033184/300.jpg",
       "date": "2014-05-28T10:26:22.000Z",
-      "serie_id": 27,
+      "serie_id": 22,
       "order": 2,
       "global_order": 60,
-      "notebooks_ids": [556,557,558,559,560,561,562],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Wolverine_Vol_6_1","Wolverine_Vol_6_2","Wolverine_Vol_6_3","Wolverine_Vol_6_4","Wolverine_Vol_6_5","Wolverine_Vol_6_6","Wolverine_Vol_6_7"]
     },
     "93": {
       "title": "Wolverine",
       "subtitle": "Trzy miesiące do śmierci - Tom 2",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/347/666/347666/1507033709/300.jpg",
       "date": "2014-08-27T10:27:19.000Z",
-      "serie_id": 27,
+      "serie_id": 22,
       "order": 3,
       "global_order": 87,
-      "notebooks_ids": [563,564,565,566,567],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Wolverine_Vol_6_8","Wolverine_Vol_6_9","Wolverine_Vol_6_10","Wolverine_Vol_6_11","Wolverine_Vol_6_12"]
     },
     "94": {
       "title": "Śmierć Wolverine'a",
       "subtitle": "",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/349/229/349229/1508502195/300.jpg",
       "date": "2014-10-15T10:28:32.000Z",
-      "serie_id": 27,
+      "serie_id": 22,
       "order": 4,
       "global_order": 106,
-      "notebooks_ids": [568,569,570,571],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Death_of_Wolverine_Vol_1_1","Death_of_Wolverine_Vol_1_2","Death_of_Wolverine_Vol_1_3","Death_of_Wolverine_Vol_1_4"]
     },
     "95": {
       "title": "Moon Knight",
       "subtitle": "Tom 1 - Z martwych",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/352/990/352990/1512566088/300.jpg",
       "date": "2014-08-06T10:31:30.000Z",
-      "serie_id": 30,
+      "serie_id": 23,
       "order": 94,
       "global_order": 76,
-      "notebooks_ids": [572,573,574,575,576,577],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Moon_Knight_Vol_7_1","Moon_Knight_Vol_7_2","Moon_Knight_Vol_7_3","Moon_Knight_Vol_7_4","Moon_Knight_Vol_7_5","Moon_Knight_Vol_7_6"]
     },
     "96": {
       "title": "Moon Knight",
       "subtitle": "Tom 2 - Martwych powstaną",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/362/294/362294/1523478053/300.jpg",
       "date": "2015-02-18T11:33:04.000Z",
-      "serie_id": 30,
+      "serie_id": 23,
       "order": 95,
       "global_order": 77,
-      "notebooks_ids": [578,579,580,581,582,583],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Moon_Knight_Vol_7_7","Moon_Knight_Vol_7_8","Moon_Knight_Vol_7_9","Moon_Knight_Vol_7_10","Moon_Knight_Vol_7_11","Moon_Knight_Vol_7_12"]
     },
     "97": {
       "title": "Moon Knight",
       "subtitle": "Tom 3 - W noc",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/374/782/374782/1536839882/300.jpg",
       "date": "2015-07-15T10:34:06.000Z",
-      "serie_id": 30,
+      "serie_id": 23,
       "order": 96,
       "global_order": 78,
-      "notebooks_ids": [584,585,586,587,588],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Moon_Knight_Vol_7_13","Moon_Knight_Vol_7_14","Moon_Knight_Vol_7_15","Moon_Knight_Vol_7_16","Moon_Knight_Vol_7_17"]
     },
     "98": {
       "title": "Axis",
       "subtitle": "Avengers i X-Men",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/354/990/354990/1515705560/300.jpg",
       "date": "2014-12-24T11:44:55.000Z",
-      "serie_id": 31,
+      "serie_id": 24,
       "order": 97,
       "global_order": 107,
-      "notebooks_ids": [589,590,591,592,593,594,595,596,597],
-      "event_id": 113
+      "event_id": 113,
+      "notebooks": ["Avengers_&_X-Men:_AXIS_Vol_1_1","Avengers_&_X-Men:_AXIS_Vol_1_2","Avengers_&_X-Men:_AXIS_Vol_1_3","Avengers_&_X-Men:_AXIS_Vol_1_4","Avengers_&_X-Men:_AXIS_Vol_1_5","Avengers_&_X-Men:_AXIS_Vol_1_6","Avengers_&_X-Men:_AXIS_Vol_1_7","Avengers_&_X-Men:_AXIS_Vol_1_8","Avengers_&_X-Men:_AXIS_Vol_1_9"]
     },
     "99": {
       "title": "Axis",
       "subtitle": "Carnage & Hobgoblin",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/354/999/354999/1515705562/300.jpg",
       "date": "2014-12-17T11:45:57.000Z",
-      "serie_id": 31,
+      "serie_id": 24,
       "order": 98,
       "global_order": 108,
-      "notebooks_ids": [598,599,600,601,602,603],
-      "event_id": 113
+      "event_id": 113,
+      "notebooks": ["AXIS:_Carnage_Vol_1_1","AXIS:_Carnage_Vol_1_2","AXIS:_Carnage_Vol_1_3","AXIS:_Hobgoblin_Vol_1_1","AXIS:_Hobgoblin_Vol_1_2","AXIS:_Hobgoblin_Vol_1_3"]
     },
     "100": {
       "title": "Thor",
       "subtitle": "Tom 1 - Gromowładna",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/358/127/358127/1519075566/300.jpg",
       "date": "2015-02-11T11:50:29.000Z",
-      "serie_id": 34,
+      "serie_id": 25,
       "order": 99,
       "global_order": 114,
-      "notebooks_ids": [604,605,606,607,608],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Thor_Vol_4_1","Thor_Vol_4_2","Thor_Vol_4_3","Thor_Vol_4_4","Thor_Vol_4_5"]
     },
     "101": {
       "title": "Thor",
       "subtitle": "Tom 2 - Kto dzierży młot?",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/367/938/367938/1529409982/300.jpg",
       "date": "2015-05-13T10:51:05.000Z",
-      "serie_id": 34,
+      "serie_id": 25,
       "order": 100,
       "global_order": 115,
-      "notebooks_ids": [609,610,611],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Thor_Vol_4_6","Thor_Vol_4_7","Thor_Vol_4_8"]
     },
     "102": {
       "title": "Ant-Man",
       "subtitle": "Druga szansa",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/366/486/366486/1527596016/300.jpg",
       "date": "2015-05-06T10:53:01.000Z",
-      "serie_id": 35,
+      "serie_id": 26,
       "order": 101,
       "global_order": 130,
-      "notebooks_ids": [612,613,614,615,616],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Ant-Man_Vol_1_1","Ant-Man_Vol_1_2","Ant-Man_Vol_1_3","Ant-Man_Vol_1_4","Ant-Man_Vol_1_5"]
     },
     "103": {
       "title": "Hawkeye kontra Deadpool",
       "subtitle": "",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/375/340/375340/1537301315/300.jpg",
       "date": "2015-01-07T11:55:55.000Z",
-      "serie_id": 25,
+      "serie_id": 20,
       "order": 102,
       "global_order": 98,
-      "notebooks_ids": [617,618,619,620,621],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Hawkeye_vs._Deadpool_Vol_1_0","Hawkeye_vs._Deadpool_Vol_1_1","Hawkeye_vs._Deadpool_Vol_1_2","Hawkeye_vs._Deadpool_Vol_1_3","Hawkeye_vs._Deadpool_Vol_1_4"]
     },
     "104": {
       "title": "Tajne Wojny",
       "subtitle": "",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/376/847/376847/1538671582/300.jpg",
       "date": "2016-01-13T11:01:25.000Z",
-      "serie_id": 37,
+      "serie_id": 27,
       "order": 103,
       "global_order": 140,
-      "notebooks_ids": [622,623,624,625,626,627,628,629,630],
-      "event_id": 115
+      "event_id": 115,
+      "notebooks": ["Secret_Wars_Vol_1_1","Secret_Wars_Vol_1_2","Secret_Wars_Vol_1_3","Secret_Wars_Vol_1_4","Secret_Wars_Vol_1_5","Secret_Wars_Vol_1_6","Secret_Wars_Vol_1_7","Secret_Wars_Vol_1_8","Secret_Wars_Vol_1_9"]
     },
     "105": {
       "title": "Tajne tajne wojny Deadpoola",
       "subtitle": "",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/376/844/376844/1538671581/300.jpg",
       "date": "2015-08-26T10:03:44.000Z",
-      "serie_id": 38,
+      "serie_id": 28,
       "order": 104,
       "global_order": 139,
-      "notebooks_ids": [631,632,633,634],
-      "event_id": 115
+      "event_id": 115,
+      "notebooks": ["Deadpool's_Secret_Secret_Wars_Vol_1_1","Deadpool's_Secret_Secret_Wars_Vol_1_2","Deadpool's_Secret_Secret_Wars_Vol_1_3","Deadpool's_Secret_Secret_Wars_Vol_1_4"]
     },
     "106": {
       "title": "Amazing Spider-Man",
       "subtitle": "Odnowić śluby",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/376/846/376846/1538671582/300.jpg",
       "date": "2015-09-09T10:06:38.000Z",
-      "serie_id": 39,
+      "serie_id": 29,
       "order": 105,
       "global_order": 141,
-      "notebooks_ids": [635,636,637,638,639],
-      "event_id": 115
+      "event_id": 115,
+      "notebooks": ["Amazing_Spider-Man:_Renew_Your_Vows_Vol_1_1","Amazing_Spider-Man:_Renew_Your_Vows_Vol_1_2","Amazing_Spider-Man:_Renew_Your_Vows_Vol_1_3","Amazing_Spider-Man:_Renew_Your_Vows_Vol_1_4","Amazing_Spider-Man:_Renew_Your_Vows_Vol_1_5"]
     },
     "107": {
       "title": "Thorowie",
       "subtitle": "",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/376/845/376845/1538671581/300.jpg",
       "date": "2015-11-11T11:08:01.000Z",
-      "serie_id": 40,
+      "serie_id": 30,
       "order": 106,
       "global_order": 142,
-      "notebooks_ids": [640,641,642,643],
-      "event_id": 115
+      "event_id": 115,
+      "notebooks": ["Thors_Vol_1_1","Thors_Vol_1_2","Thors_Vol_1_3","Thors_Vol_1_4"]
     },
     "108": {
       "title": "Wojna domowa",
       "subtitle": "",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/377/702/377702/1539263090/300.jpg",
       "date": "2015-10-14T10:09:49.000Z",
-      "serie_id": 41,
+      "serie_id": 31,
       "order": 107,
       "global_order": 143,
-      "notebooks_ids": [644,645,646,647,648],
-      "event_id": 115
+      "event_id": 115,
+      "notebooks": ["Civil_War_Vol_2_1","Civil_War_Vol_2_2","Civil_War_Vol_2_3","Civil_War_Vol_2_4","Civil_War_Vol_2_5"]
     },
     "109": {
       "title": "Oblężenie",
       "subtitle": "",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/377/701/377701/1539262652/300.jpg",
       "date": "2015-10-07T10:11:15.000Z",
-      "serie_id": 42,
+      "serie_id": 32,
       "order": 108,
       "global_order": 145,
-      "notebooks_ids": [649,650,651,652],
-      "event_id": 115
+      "event_id": 115,
+      "notebooks": ["Siege_Vol_2_1","Siege_Vol_2_2","Siege_Vol_2_3","Siege_Vol_2_4"]
     },
     "110": {
       "title": "Lepsi wrogowie Spider-Mana",
       "subtitle": "",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/489/619/489619/1642787102/300.jpg",
       "date": "2014-11-26T11:16:31.000Z",
-      "serie_id": 43,
+      "serie_id": 33,
       "order": 109,
       "global_order": 57,
-      "notebooks_ids": [653,654,655,656,657,658,659,660,661,662,663,664,665,666,667,668,669],
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Superior_Foes_of_Spider-Man_Vol_1_1","Superior_Foes_of_Spider-Man_Vol_1_2","Superior_Foes_of_Spider-Man_Vol_1_3","Superior_Foes_of_Spider-Man_Vol_1_4","Superior_Foes_of_Spider-Man_Vol_1_5","Superior_Foes_of_Spider-Man_Vol_1_6","Superior_Foes_of_Spider-Man_Vol_1_7","Superior_Foes_of_Spider-Man_Vol_1_8","Superior_Foes_of_Spider-Man_Vol_1_9","Superior_Foes_of_Spider-Man_Vol_1_10","Superior_Foes_of_Spider-Man_Vol_1_11","Superior_Foes_of_Spider-Man_Vol_1_12","Superior_Foes_of_Spider-Man_Vol_1_13","Superior_Foes_of_Spider-Man_Vol_1_14","Superior_Foes_of_Spider-Man_Vol_1_15","Superior_Foes_of_Spider-Man_Vol_1_16","Superior_Foes_of_Spider-Man_Vol_1_17"]
     },
     "111": {
       "title": "Nieskończoność",
       "subtitle": "",
       "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f7/Infinity_%28Event%29_003.jpg/revision/latest/scale-to-width-down/329?cb=20130429204345",
       "date": "2013-11-27T11:41:48.000Z",
-      "serie_id": 21,
+      "serie_id": 17,
       "order": 110,
       "global_order": 110,
-      "notebooks_ids": [83,84,85,86,487,123,776,777,87,350,351,124,488,125,352,88,489,353,354,89,490,90,126,491,91,92,49,50,492,127],
       "is_event": true,
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Avengers_Vol_5_14","Avengers_Vol_5_15","Avengers_Vol_5_16","Avengers_Vol_5_17","Infinity_Vol_1_1","New_Avengers_Vol_3_8","Nova_Vol_5_8","Nova_Vol_5_9","Avengers_Vol_5_18","Thunderbolts_Vol_2_14","Thunderbolts_Vol_2_15","New_Avengers_Vol_3_9","Infinity_Vol_1_2","New_Avengers_Vol_3_10","Thunderbolts_Vol_2_16","Avengers_Vol_5_19","Infinity_Vol_1_3","Thunderbolts_Vol_2_17","Thunderbolts_Vol_2_18","Avengers_Vol_5_20","Infinity_Vol_1_4","Avengers_Vol_5_21","New_Avengers_Vol_3_11","Infinity_Vol_1_5","Avengers_Vol_5_22","Avengers_Vol_5_23","Guardians_of_the_Galaxy_Vol_3_8","Guardians_of_the_Galaxy_Vol_3_9","Infinity_Vol_1_6","New_Avengers_Vol_3_12"]
     },
     "112": {
       "title": "Grzech pierworodny",
       "subtitle": "",
       "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6f/Original_Sin_poster_015.jpg/revision/latest/scale-to-width-down/317?cb=20140402010226",
       "date": "2014-10-29T11:04:54.000Z",
-      "serie_id": 26,
+      "serie_id": 21,
       "order": 111,
       "global_order": 111,
-      "notebooks_ids": [538,539,540,786,542,543,544,545,548,549,550,551,552,206,207,308,98,99,100,101,102,309,310,311,312,541,787,788,546,547,103,553,554,555,59,60,61,443,444,445],
       "is_event": true,
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Original_Sin_Vol_1_0","Original_Sin_Vol_1_1","Original_Sin_Vol_1_2","Nova_Vol_5_18","Original_Sin_Vol_1_3.1","Original_Sin_Vol_1_3.2","Original_Sin_Vol_1_3.3","Original_Sin_Vol_1_3.4","Original_Sin_Vol_1_5.1","Original_Sin_Vol_1_5.2","Original_Sin_Vol_1_5.3","Original_Sin_Vol_1_5.4","Original_Sin_Vol_1_5.5","Amazing_Spider-Man_Vol_3_4","Amazing_Spider-Man_Vol_3_5","Deadpool_Vol_5_29","Avengers_Vol_5_29","Avengers_Vol_5_30","Avengers_Vol_5_31","Avengers_Vol_5_32","Avengers_Vol_5_33","Deadpool_Vol_5_30","Deadpool_Vol_5_31","Deadpool_Vol_5_32","Deadpool_Vol_5_33","Original_Sin_Vol_1_3","Nova_Vol_5_19","Nova_Vol_5_20","Original_Sin_Vol_1_4","Original_Sin_Vol_1_5","Avengers_Vol_5_34","Original_Sin_Vol_1_6","Original_Sin_Vol_1_7","Original_Sin_Vol_1_8","Guardians_of_the_Galaxy_Vol_3_18","Guardians_of_the_Galaxy_Vol_3_19","Guardians_of_the_Galaxy_Vol_3_20","Uncanny_X-Men_Vol_3_23","Uncanny_X-Men_Vol_3_24","Uncanny_X-Men_Vol_3_25"]
     },
     "113": {
       "title": "Axis",
       "subtitle": "",
       "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b5/Avengers_%26_X-Men_AXIS_Vol_1_1.jpg/revision/latest/scale-to-width-down/900?cb=20141003021259",
       "date": "2014-12-24T11:20:02.000Z",
-      "serie_id": 31,
+      "serie_id": 24,
       "order": 112,
       "global_order": 112,
-      "notebooks_ids": [403,393,404,742,743,744,826,394,745,589,590,827,405,591,406,315,592,601,602,603,598,599,600,316,593,791,792,814,815,828,594,317,595,596,597,318,829,793],
       "is_event": true,
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Magneto_Vol_3_9","Uncanny_Avengers_Vol_1_24","Magneto_Vol_3_10","Captain_America_Vol_7_22","Captain_America_Vol_7_23","Captain_America_Vol_7_24","Loki:_Agent_of_Asgard_Vol_1_6","Uncanny_Avengers_Vol_1_25","Captain_America_Vol_7_25","Avengers_&_X-Men:_AXIS_Vol_1_1","Avengers_&_X-Men:_AXIS_Vol_1_2","Loki:_Agent_of_Asgard_Vol_1_7","Magneto_Vol_3_11","Avengers_&_X-Men:_AXIS_Vol_1_3","Magneto_Vol_3_12","Deadpool_Vol_5_36","Avengers_&_X-Men:_AXIS_Vol_1_4","AXIS:_Hobgoblin_Vol_1_1","AXIS:_Hobgoblin_Vol_1_2","AXIS:_Hobgoblin_Vol_1_3","AXIS:_Carnage_Vol_1_1","AXIS:_Carnage_Vol_1_2","AXIS:_Carnage_Vol_1_3","Deadpool_Vol_5_37","Avengers_&_X-Men:_AXIS_Vol_1_5","Nova_Vol_5_23","Nova_Vol_5_24","Avengers_World_Vol_1_15","Avengers_World_Vol_1_16","Loki:_Agent_of_Asgard_Vol_1_8","Avengers_&_X-Men:_AXIS_Vol_1_6","Deadpool_Vol_5_38","Avengers_&_X-Men:_AXIS_Vol_1_7","Avengers_&_X-Men:_AXIS_Vol_1_8","Avengers_&_X-Men:_AXIS_Vol_1_9","Deadpool_Vol_5_39","Loki:_Agent_of_Asgard_Vol_1_9","Nova_Vol_5_25"]
     },
     "114": {
       "title": "Spider-Verse",
@@ -1253,416 +1253,416 @@
       "serie_id": 7,
       "order": 113,
       "global_order": 113,
-      "notebooks_ids": [184,185,209,190,210,211,212,191,213,214,192,215,193,216,217],
-      "is_event": true
+      "is_event": true,
+      "notebooks": ["Superior_Spider-Man_Vol_1_32","Superior_Spider-Man_Vol_1_33","Amazing_Spider-Man_Vol_3_7","Spider-Man_2099_Vol_2_5","Amazing_Spider-Man_Vol_3_8","Amazing_Spider-Man_Vol_3_9","Amazing_Spider-Man_Vol_3_10","Spider-Man_2099_Vol_2_6","Amazing_Spider-Man_Vol_3_11","Amazing_Spider-Man_Vol_3_12","Spider-Man_2099_Vol_2_7","Amazing_Spider-Man_Vol_3_13","Spider-Man_2099_Vol_2_8","Amazing_Spider-Man_Vol_3_14","Amazing_Spider-Man_Vol_3_15"]
     },
     "115": {
       "title": "Tajne Wojny",
       "subtitle": "",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/376/847/376847/1538671582/300.jpg",
       "date": "2016-01-13T11:49:12.000Z",
-      "serie_id": 37,
+      "serie_id": 27,
       "order": 114,
       "global_order": 114,
-      "notebooks_ids": [631,632,633,634,622,834,835,512,513,514,515,412,413,414,415,836,837,623,624,635,636,637,638,639,625,640,641,642,644,645,646,647,648,752,753,754,755,626,649,650,651,627,652,643,628,629,630],
       "is_event": true,
-      "event_id": null
+      "event_id": null,
+      "notebooks": ["Deadpool's_Secret_Secret_Wars_Vol_1_1","Deadpool's_Secret_Secret_Wars_Vol_1_2","Deadpool's_Secret_Secret_Wars_Vol_1_3","Deadpool's_Secret_Secret_Wars_Vol_1_4","Secret_Wars_Vol_1_1","Loki:_Agent_of_Asgard_Vol_1_14","Loki:_Agent_of_Asgard_Vol_1_15","Ms._Marvel_Vol_3_16","Ms._Marvel_Vol_3_17","Ms._Marvel_Vol_3_18","Ms._Marvel_Vol_3_19","Magneto_Vol_3_18","Magneto_Vol_3_19","Magneto_Vol_3_20","Magneto_Vol_3_21","Loki:_Agent_of_Asgard_Vol_1_16","Loki:_Agent_of_Asgard_Vol_1_17","Secret_Wars_Vol_1_2","Secret_Wars_Vol_1_3","Amazing_Spider-Man:_Renew_Your_Vows_Vol_1_1","Amazing_Spider-Man:_Renew_Your_Vows_Vol_1_2","Amazing_Spider-Man:_Renew_Your_Vows_Vol_1_3","Amazing_Spider-Man:_Renew_Your_Vows_Vol_1_4","Amazing_Spider-Man:_Renew_Your_Vows_Vol_1_5","Secret_Wars_Vol_1_4","Thors_Vol_1_1","Thors_Vol_1_2","Thors_Vol_1_3","Civil_War_Vol_2_1","Civil_War_Vol_2_2","Civil_War_Vol_2_3","Civil_War_Vol_2_4","Civil_War_Vol_2_5","Hail_Hydra_Vol_1_1","Hail_Hydra_Vol_1_2","Hail_Hydra_Vol_1_3","Hail_Hydra_Vol_1_4","Secret_Wars_Vol_1_5","Siege_Vol_2_1","Siege_Vol_2_2","Siege_Vol_2_3","Secret_Wars_Vol_1_6","Siege_Vol_2_4","Thors_Vol_1_4","Secret_Wars_Vol_1_7","Secret_Wars_Vol_1_8","Secret_Wars_Vol_1_9"]
     },
     "116": {
       "title": "Iron Man",
       "subtitle": "Tom 1 - Belive",
       "image_url": "https://kbimages1-a.akamaihd.net/e47b4492-e372-493c-882a-510f4514793f/353/569/90/False/iron-man-vol-1-believe.jpg",
       "date": "2013-01-02T11:46:47.000Z",
-      "serie_id": 44,
+      "serie_id": 34,
       "order": 115,
       "global_order": 16,
-      "notebooks_ids": [670,671,672,673,674],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Iron_Man_Vol_5_1","Iron_Man_Vol_5_2","Iron_Man_Vol_5_3","Iron_Man_Vol_5_4","Iron_Man_Vol_5_5"]
     },
     "117": {
       "title": "Iron Man",
       "subtitle": "Tom 2 - The Secret Origin of Tony Stark",
       "image_url": "https://kbimages1-a.akamaihd.net/27feb372-348f-4536-a7b1-4cfff466b44f/353/569/90/False/iron-man-vol-2-the-secret-origin-of-tony-stark-book-1.jpg",
       "date": "2013-06-05T10:53:07.000Z",
-      "serie_id": 44,
+      "serie_id": 34,
       "order": 116,
       "global_order": 20,
-      "notebooks_ids": [675,676,677,678,679,680],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Iron_Man_Vol_5_6","Iron_Man_Vol_5_7","Iron_Man_Vol_5_8","Iron_Man_Vol_5_9","Iron_Man_Vol_5_10","Iron_Man_Vol_5_11"]
     },
     "118": {
       "title": "Iron Man",
       "subtitle": "Tom 3 - The Secret Origin of Tony Stark",
       "image_url": "https://kbimages1-a.akamaihd.net/c5d99bfa-694b-4a18-89be-d88409af04c9/353/569/90/False/iron-man-vol-3-the-secret-origin-of-tony-stark-book-2.jpg",
       "date": "2013-10-23T10:54:54.000Z",
-      "serie_id": 44,
+      "serie_id": 34,
       "order": 117,
       "global_order": 44,
-      "notebooks_ids": [681,682,683,684,685,686],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Iron_Man_Vol_5_12","Iron_Man_Vol_5_13","Iron_Man_Vol_5_14","Iron_Man_Vol_5_15","Iron_Man_Vol_5_16","Iron_Man_Vol_5_17"]
     },
     "119": {
       "title": "Iron Man",
       "subtitle": "Tom 4 - Iron Metropolitan",
       "image_url": "https://kbimages1-a.akamaihd.net/477ab292-fa3f-4464-98d2-74ea8b123664/353/569/90/False/iron-man-2013-4.jpg",
       "date": "2014-03-05T11:10:04.000Z",
-      "serie_id": 44,
+      "serie_id": 34,
       "order": 118,
       "global_order": 59,
-      "notebooks_ids": [687,688,689,690,691,692],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Iron_Man_Vol_5_18","Iron_Man_Vol_5_19","Iron_Man_Vol_5_20","Iron_Man_Vol_5_20.1","Iron_Man_Vol_5_21","Iron_Man_Vol_5_22"]
     },
     "120": {
       "title": "Iron Man",
       "subtitle": "Tom 5 - Rings of the Mandarin",
       "image_url": "https://cdn.shopify.com/s/files/1/0023/9278/4940/products/9780785154822_1_2000x.jpg",
       "date": "2014-06-18T10:12:21.000Z",
-      "serie_id": 44,
+      "serie_id": 34,
       "order": 119,
       "global_order": 69,
-      "notebooks_ids": [693,694,695,696,697,698],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Iron_Man_Vol_5_23","Iron_Man_Vol_5_24","Iron_Man_Vol_5_25","Iron_Man_Vol_5_26","Iron_Man_Vol_5_27","Iron_Man_Vol_5_28"]
     },
     "121": {
       "title": "Superior Iron Man",
       "subtitle": "Tom 1 - Infamous",
       "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/0/08/Superior_Iron_Man_TPB_Vol_1_1_Infamous.jpg/revision/latest/scale-to-width-down/324",
       "date": "2015-02-25T11:19:45.000Z",
-      "serie_id": 44,
+      "serie_id": 34,
       "order": 120,
       "global_order": 112,
-      "notebooks_ids": [699,700,701,702,703],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Superior_Iron_Man_Vol_1_1","Superior_Iron_Man_Vol_1_2","Superior_Iron_Man_Vol_1_3","Superior_Iron_Man_Vol_1_4","Superior_Iron_Man_Vol_1_5"]
     },
     "122": {
       "title": "Superior Iron Man",
       "subtitle": "Tom 2 - Stark Contrast",
       "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/8/83/Superior_Iron_Man_TPB_Vol_1_2_Stark_Contrast.jpg/revision/latest/scale-to-width-down/321",
       "date": "2015-06-03T10:21:55.000Z",
-      "serie_id": 44,
+      "serie_id": 34,
       "order": 121,
       "global_order": 113,
-      "notebooks_ids": [704,705,706,707],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Superior_Iron_Man_Vol_1_6","Superior_Iron_Man_Vol_1_7","Superior_Iron_Man_Vol_1_8","Superior_Iron_Man_Vol_1_9"]
     },
     "123": {
       "title": "Avengers vs. X-Men",
       "subtitle": "Część 1",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/316/605/316605/1483188731/231.jpg",
       "date": "2012-05-16T10:47:08.000Z",
-      "serie_id": 46,
+      "serie_id": 35,
       "order": 122,
       "global_order": 1,
-      "notebooks_ids": [708,709,710,711,712],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Avengers_vs._X-Men_Vol_1_0","Avengers_vs._X-Men_Vol_1_1","Avengers_vs._X-Men_Vol_1_2","Avengers_vs._X-Men_Vol_1_3","Avengers_vs._X-Men_Vol_1_4"]
     },
     "124": {
       "title": "Avengers vs. X-Men",
       "subtitle": "Część 2",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/323/103/323103/1485386053/231.jpg",
       "date": "2012-07-18T10:47:50.000Z",
-      "serie_id": 46,
+      "serie_id": 35,
       "order": 123,
       "global_order": 2,
-      "notebooks_ids": [713,714,715,716],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Avengers_vs._X-Men_Vol_1_5","Avengers_vs._X-Men_Vol_1_6","Avengers_vs._X-Men_Vol_1_7","Avengers_vs._X-Men_Vol_1_8"]
     },
     "125": {
       "title": "Avengers vs. X-Men",
       "subtitle": "Część 3",
       "image_url": "https://assets.gildia.pl/system/thumbs/000/338/922/338922/1497362303/800.jpg",
       "date": "2012-10-03T10:49:16.000Z",
-      "serie_id": 46,
+      "serie_id": 35,
       "order": 124,
       "global_order": 3,
-      "notebooks_ids": [717,718,719,720],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Avengers_vs._X-Men_Vol_1_9","Avengers_vs._X-Men_Vol_1_10","Avengers_vs._X-Men_Vol_1_11","Avengers_vs._X-Men_Vol_1_12"]
     },
     "126": {
       "title": "Captain America",
       "subtitle": "Tom 1 - Castaway In Dimension Z",
       "image_url": "https://kbimages1-a.akamaihd.net/055c1ea1-79ee-4a0e-9685-e141e05b0cbd/353/569/90/False/captain-america-vol-1-castaway-in-dimension-z-book-1.jpg",
       "date": "2013-03-20T11:53:34.000Z",
-      "serie_id": 47,
+      "serie_id": 36,
       "order": 125,
       "global_order": 8,
-      "notebooks_ids": [721,722,723,724,725],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Captain_America_Vol_7_1","Captain_America_Vol_7_2","Captain_America_Vol_7_3","Captain_America_Vol_7_4","Captain_America_Vol_7_5"]
     },
     "127": {
       "title": "Captain America",
       "subtitle": "Tom 2 - Castaway In Dimension Z",
       "image_url": "https://kbimages1-a.akamaihd.net/1d9ed88a-95ae-462d-9cd0-c0a248063733/353/569/90/False/captain-america-vol-2-castaway-in-dimension-z-book-2.jpg",
       "date": "2013-08-28T10:54:38.000Z",
-      "serie_id": 47,
+      "serie_id": 36,
       "order": 126,
       "global_order": 9,
-      "notebooks_ids": [726,727,728,729,730],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Captain_America_Vol_7_6","Captain_America_Vol_7_7","Captain_America_Vol_7_8","Captain_America_Vol_7_9","Captain_America_Vol_7_10"]
     },
     "128": {
       "title": "Captain America",
       "subtitle": "Tom 3 - Loose Nuke",
       "image_url": "https://cdn.shopify.com/s/files/1/0023/9278/4940/products/9780785189510_1_2000x.jpg",
       "date": "2014-01-22T11:55:46.000Z",
-      "serie_id": 47,
+      "serie_id": 36,
       "order": 127,
       "global_order": 10,
-      "notebooks_ids": [731,732,733,734,735],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Captain_America_Vol_7_11","Captain_America_Vol_7_12","Captain_America_Vol_7_13","Captain_America_Vol_7_14","Captain_America_Vol_7_15"]
     },
     "129": {
       "title": "Captain America",
       "subtitle": "Tom 4 - The Iron Nail",
       "image_url": "https://cdn.shopify.com/s/files/1/0023/9278/4940/products/9780785189541_1_2000x.jpg",
       "date": "2014-06-04T10:59:39.000Z",
-      "serie_id": 47,
+      "serie_id": 36,
       "order": 128,
       "global_order": 102,
-      "notebooks_ids": [736,737,738,739,740,741],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Captain_America_Vol_7_16","Captain_America_Vol_7_17","Captain_America_Vol_7_18","Captain_America_Vol_7_19","Captain_America_Vol_7_20","Captain_America_Vol_7_21"]
     },
     "130": {
       "title": "Captain America",
       "subtitle": "Tom 5 - The Tomorrow Soldier",
       "image_url": "https://cdn.shopify.com/s/files/1/0023/9278/4940/products/9780785189558_1_2000x.jpg",
       "date": "2014-10-01T10:02:23.000Z",
-      "serie_id": 47,
+      "serie_id": 36,
       "order": 129,
       "global_order": 103,
-      "notebooks_ids": [742,743,744,745],
-      "event_id": 113
+      "event_id": 113,
+      "notebooks": ["Captain_America_Vol_7_22","Captain_America_Vol_7_23","Captain_America_Vol_7_24","Captain_America_Vol_7_25"]
     },
     "131": {
       "title": "All-New Captain America",
       "subtitle": "Tom 1 - Hydra Ascendant",
       "image_url": "https://kbimages1-a.akamaihd.net/f465b773-56c3-499c-a72b-751129b39e45/353/569/90/False/all-new-captain-america-2015-t01.jpg",
       "date": "2015-04-25T10:13:52.000Z",
-      "serie_id": 47,
+      "serie_id": 36,
       "order": 130,
       "global_order": 125,
-      "notebooks_ids": [746,747,748,749,750,751],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["All-New_Captain_America_Vol_1_1","All-New_Captain_America_Vol_1_2","All-New_Captain_America_Vol_1_3","All-New_Captain_America_Vol_1_4","All-New_Captain_America_Vol_1_5","All-New_Captain_America_Vol_1_6"]
     },
     "132": {
       "title": "Hail Hydra",
       "subtitle": "",
       "image_url": "https://cdn.shopify.com/s/files/1/0023/9278/4940/products/9780785198710_1_2000x.jpg",
       "date": "2015-11-25T11:20:49.000Z",
-      "serie_id": 49,
+      "serie_id": 37,
       "order": 131,
       "global_order": 144,
-      "notebooks_ids": [752,753,754,755],
-      "event_id": 115
+      "event_id": 115,
+      "notebooks": ["Hail_Hydra_Vol_1_1","Hail_Hydra_Vol_1_2","Hail_Hydra_Vol_1_3","Hail_Hydra_Vol_1_4"]
     },
     "133": {
       "title": "Wolverine",
       "subtitle": "Tom 1 - Hunting Season",
       "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/9/9b/Wolverine_Vol_5_1.jpg/revision/latest/scale-to-width-down/329",
       "date": "2013-07-10T10:27:56.000Z",
-      "serie_id": 27,
+      "serie_id": 22,
       "order": 0,
       "global_order": 30,
-      "notebooks_ids": [756,757,758,759,760,761],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Wolverine_Vol_5_1","Wolverine_Vol_5_2","Wolverine_Vol_5_3","Wolverine_Vol_5_4","Wolverine_Vol_5_5","Wolverine_Vol_5_6"]
     },
     "134": {
       "title": "Wolverine",
       "subtitle": "Tom 2 - Killable",
       "image_url": "https://cdn.shopify.com/s/files/1/0023/9278/4940/products/9780785183976_1_1b3e12b2-a5ce-4519-8800-4c7d552658f8_2000x.jpg",
       "date": "2014-01-08T11:31:41.000Z",
-      "serie_id": 27,
+      "serie_id": 22,
       "order": 1,
       "global_order": 40,
-      "notebooks_ids": [762,763,764,765,766,767,768],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Wolverine_Vol_5_7","Wolverine_Vol_5_8","Wolverine_Vol_5_9","Wolverine_Vol_5_10","Wolverine_Vol_5_11","Wolverine_Vol_5_12","Wolverine_Vol_5_13"]
     },
     "135": {
       "title": "Nova",
       "subtitle": "Tom 1 - Origin",
       "image_url": "https://cdn.shopify.com/s/files/1/0023/9278/4940/products/nova-volume-1-origin-marvel-now-9780785166054-28512365904050_2000x.jpg",
       "date": "2013-06-26T10:56:11.000Z",
-      "serie_id": 50,
+      "serie_id": 38,
       "order": 134,
       "global_order": 0,
-      "notebooks_ids": [769,770,771,772,773],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Nova_Vol_5_1","Nova_Vol_5_2","Nova_Vol_5_3","Nova_Vol_5_4","Nova_Vol_5_5"]
     },
     "136": {
       "title": "Nova",
       "subtitle": "Tom 2 - Rookie Season",
       "image_url": "https://i0.wp.com/www.comicbookwire.com/wp-content/uploads/2018/08/Nova-v2.jpg?resize=194%2C300",
       "date": "2013-11-27T11:57:16.000Z",
-      "serie_id": 50,
+      "serie_id": 38,
       "order": 135,
       "global_order": 50,
-      "notebooks_ids": [774,775,776,777,778],
-      "event_id": 111
+      "event_id": 111,
+      "notebooks": ["Nova_Vol_5_6","Nova_Vol_5_7","Nova_Vol_5_8","Nova_Vol_5_9","Nova_Vol_5_10"]
     },
     "137": {
       "title": "Nova",
       "subtitle": "Tom 3 - Nova Corpse",
       "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409503143l/18948772.jpg",
       "date": "2014-04-16T10:14:35.000Z",
-      "serie_id": 50,
+      "serie_id": 38,
       "order": 136,
       "global_order": 70,
-      "notebooks_ids": [779,780,781,782,783,784],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Nova_Vol_5_11","Nova_Vol_5_12","Nova_Vol_5_13","Nova_Vol_5_14","Nova_Vol_5_15","Nova_Vol_5_16"]
     },
     "138": {
       "title": "Nova",
       "subtitle": "Tom 4 - Grzech Pierworodny",
       "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420627992l/22798019.jpg",
       "date": "2014-10-29T11:20:00.000Z",
-      "serie_id": 50,
+      "serie_id": 38,
       "order": 137,
       "global_order": 94,
-      "notebooks_ids": [785,786,787,788,789,790],
-      "event_id": 112
+      "event_id": 112,
+      "notebooks": ["Nova_Vol_5_17","Nova_Vol_5_18","Nova_Vol_5_19","Nova_Vol_5_20","Nova_Vol_5_21","Nova_Vol_5_22"]
     },
     "139": {
       "title": "Nova",
       "subtitle": "Tom 5 - Axis",
       "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507919746l/23017974._SY475_.jpg",
       "date": "2015-02-18T11:22:13.000Z",
-      "serie_id": 50,
+      "serie_id": 38,
       "order": 138,
       "global_order": 111,
-      "notebooks_ids": [791,792,793,794,795],
-      "event_id": 113
+      "event_id": 113,
+      "notebooks": ["Nova_Vol_5_23","Nova_Vol_5_24","Nova_Vol_5_25","Nova_Vol_5_26","Nova_Vol_5_27"]
     },
     "140": {
       "title": "Nova",
       "subtitle": "Tom 6 - Homecoming",
       "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507919705l/25066768._SY475_.jpg",
       "date": "2015-05-27T10:23:44.000Z",
-      "serie_id": 50,
+      "serie_id": 38,
       "order": 139,
       "global_order": 122,
-      "notebooks_ids": [796,797,798,799],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Nova_Vol_5_28","Nova_Vol_5_29","Nova_Vol_5_30","Nova_Vol_5_31"]
     },
     "141": {
       "title": "Avengers World",
       "subtitle": "Tom 1 - A.I.M.PIRE",
       "image_url": "https://cdn.shopify.com/s/files/1/0023/9278/4940/products/9780785189817_1_1ed78acc-698c-4871-bd6b-7aff8afbc9ac_2000x.jpg",
       "date": "2014-04-30T10:32:16.000Z",
-      "serie_id": 51,
+      "serie_id": 39,
       "order": 140,
       "global_order": 61,
-      "notebooks_ids": [800,801,802,803,804],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Avengers_World_Vol_1_1","Avengers_World_Vol_1_2","Avengers_World_Vol_1_3","Avengers_World_Vol_1_4","Avengers_World_Vol_1_5"]
     },
     "142": {
       "title": "Avengers World",
       "subtitle": "Tom 2 - Ascension",
       "image_url": "https://d2svrcwl6l7hz1.cloudfront.net/content/B00O5FZ4IY/resources/0",
       "date": "2014-07-16T10:33:43.000Z",
-      "serie_id": 51,
+      "serie_id": 39,
       "order": 141,
       "global_order": 62,
-      "notebooks_ids": [805,806,807,808],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Avengers_World_Vol_1_6","Avengers_World_Vol_1_7","Avengers_World_Vol_1_8","Avengers_World_Vol_1_9"]
     },
     "143": {
       "title": "Avengers World",
       "subtitle": "Tom 3 - Next World",
       "image_url": "https://cdn.shopify.com/s/files/1/0023/9278/4940/products/9780785192510_1_2000x.jpg",
       "date": "2014-12-10T11:37:19.000Z",
-      "serie_id": 51,
+      "serie_id": 39,
       "order": 142,
       "global_order": 63,
-      "notebooks_ids": [809,810,811,812,813,814,815],
-      "event_id": 113
+      "event_id": 113,
+      "notebooks": ["Avengers_World_Vol_1_10","Avengers_World_Vol_1_11","Avengers_World_Vol_1_12","Avengers_World_Vol_1_13","Avengers_World_Vol_1_14","Avengers_World_Vol_1_15","Avengers_World_Vol_1_16"]
     },
     "144": {
       "title": "Avengers World",
       "subtitle": "Tom 4 - Czas się kończy",
       "image_url": "https://d2svrcwl6l7hz1.cloudfront.net/content/B013H37TNC/resources/0",
       "date": "2015-05-20T10:40:49.000Z",
-      "serie_id": 51,
+      "serie_id": 39,
       "order": 143,
       "global_order": 131,
-      "notebooks_ids": [816,817,818,819,820],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Avengers_World_Vol_1_17","Avengers_World_Vol_1_18","Avengers_World_Vol_1_19","Avengers_World_Vol_1_20","Avengers_World_Vol_1_21"]
     },
     "145": {
       "title": "Loki: Agent of Asgard",
       "subtitle": "Tom 1 - Trust Me",
       "image_url": "http://t0.gstatic.com/images?q=tbn:ANd9GcTBWUwHEbcw8UiD46jouDpkzM6xEVTDr763rUrI43w0O1BN6_kd",
       "date": "2014-06-04T10:52:20.000Z",
-      "serie_id": 52,
+      "serie_id": 40,
       "order": 144,
       "global_order": 67,
-      "notebooks_ids": [821,822,823,824,825],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Loki:_Agent_of_Asgard_Vol_1_1","Loki:_Agent_of_Asgard_Vol_1_2","Loki:_Agent_of_Asgard_Vol_1_3","Loki:_Agent_of_Asgard_Vol_1_4","Loki:_Agent_of_Asgard_Vol_1_5"]
     },
     "146": {
       "title": "Loki: Agent of Asgard",
       "subtitle": "Tom 2 - Axis",
       "image_url": "http://t1.gstatic.com/images?q=tbn:ANd9GcR7Uxtc3msNUXmchflOhMpkfQ2RvxASr8eIZYlrosEmaa8gb4pl",
       "date": "2015-02-18T11:54:00.000Z",
-      "serie_id": 52,
+      "serie_id": 40,
       "order": 145,
       "global_order": 110,
-      "notebooks_ids": [826,827,828,829,830,831],
-      "event_id": 113
+      "event_id": 113,
+      "notebooks": ["Loki:_Agent_of_Asgard_Vol_1_6","Loki:_Agent_of_Asgard_Vol_1_7","Loki:_Agent_of_Asgard_Vol_1_8","Loki:_Agent_of_Asgard_Vol_1_9","Loki:_Agent_of_Asgard_Vol_1_10","Loki:_Agent_of_Asgard_Vol_1_11"]
     },
     "147": {
       "title": "Loki: Agent of Asgard",
       "subtitle": "Tom 3 - Dni Ostatnie",
       "image_url": "http://t0.gstatic.com/images?q=tbn:ANd9GcR5r7UZBBvkPqRMhZjy5g-smQFrbWVbw65B4mxjdVYnywf4c5Tq",
       "date": "2015-08-19T10:55:05.000Z",
-      "serie_id": 52,
+      "serie_id": 40,
       "order": 146,
       "global_order": 136,
-      "notebooks_ids": [832,833,834,835,836,837],
-      "event_id": 115
+      "event_id": 115,
+      "notebooks": ["Loki:_Agent_of_Asgard_Vol_1_12","Loki:_Agent_of_Asgard_Vol_1_13","Loki:_Agent_of_Asgard_Vol_1_14","Loki:_Agent_of_Asgard_Vol_1_15","Loki:_Agent_of_Asgard_Vol_1_16","Loki:_Agent_of_Asgard_Vol_1_17"]
     },
     "148": {
       "title": "Magneto",
       "subtitle": "Tom 1 - Infamous",
       "image_url": "https://d2svrcwl6l7hz1.cloudfront.net/content/B00MWCCXK4/resources/0?mime=image/*",
       "date": "2014-07-02T10:05:17.000Z",
-      "serie_id": 16,
+      "serie_id": 13,
       "order": 147,
       "global_order": 85,
-      "notebooks_ids": [395,396,397,398,399,400],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Magneto_Vol_3_1","Magneto_Vol_3_2","Magneto_Vol_3_3","Magneto_Vol_3_4","Magneto_Vol_3_5","Magneto_Vol_3_6"]
     },
     "149": {
       "title": "Magneto",
       "subtitle": "Tom 2 - Reversals",
       "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486036534l/22798025._SY475_.jpg",
       "date": "2014-11-19T11:08:11.000Z",
-      "serie_id": 16,
+      "serie_id": 13,
       "order": 148,
       "global_order": 104,
-      "notebooks_ids": [401,402,403,404,405,406],
-      "event_id": 113
+      "event_id": 113,
+      "notebooks": ["Magneto_Vol_3_7","Magneto_Vol_3_8","Magneto_Vol_3_9","Magneto_Vol_3_10","Magneto_Vol_3_11","Magneto_Vol_3_12"]
     },
     "150": {
       "title": "Magneto",
       "subtitle": "Tom 3 - Shadow Game",
       "image_url": "https://d2svrcwl6l7hz1.cloudfront.net/content/B00XZD7FA2/resources/0?mime=image/*",
       "date": "2015-04-15T10:11:16.000Z",
-      "serie_id": 16,
+      "serie_id": 13,
       "order": 149,
       "global_order": 128,
-      "notebooks_ids": [407,408,409,410,411],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": ["Magneto_Vol_3_13","Magneto_Vol_3_14","Magneto_Vol_3_15","Magneto_Vol_3_16","Magneto_Vol_3_17"]
     },
     "151": {
       "title": "Magneto",
       "subtitle": "Tom 4 - Dni Ostatnie",
       "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486036546l/25066792._SY475_.jpg",
       "date": "2015-08-26T10:12:23.000Z",
-      "serie_id": 16,
+      "serie_id": 13,
       "order": 150,
       "global_order": 138,
-      "notebooks_ids": [412,413,414,415],
-      "event_id": 115
+      "event_id": 115,
+      "notebooks": ["Magneto_Vol_3_18","Magneto_Vol_3_19","Magneto_Vol_3_20","Magneto_Vol_3_21"]
     }
   },
   "meta": {

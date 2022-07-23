@@ -42,7 +42,7 @@ const VolumesForm = ({
   id,
   setWaveId,
 }: Props): JSX.Element => {
-  const { notebooksIds } = useContext(NotebooksContext);
+  const { notebooksTitles } = useContext(NotebooksContext);
 
   return (
     <>
@@ -56,7 +56,7 @@ const VolumesForm = ({
         id={id}
         showPathname={routes.volumes.id.show.href}
         query={{ databaseName, id }}
-        additionalValues={{ notebooks_ids: notebooksIds }}
+        additionalValues={{ notebooks: notebooksTitles }}
       >
         {({ handleSubmit }) => (
           <form onSubmit={handleSubmit}>
@@ -88,12 +88,7 @@ const VolumesForm = ({
         )}
       </FormContainer>
       <Spacing />
-      <NotebooksGrabList
-        variant="source"
-        databaseName={databaseName}
-        wavesOptions={wavesOptions}
-        serieId={initialValues.serie_id}
-      />
+      <NotebooksGrabList variant="source" databaseName={databaseName} serieId={initialValues.serie_id} />
     </>
   );
 };

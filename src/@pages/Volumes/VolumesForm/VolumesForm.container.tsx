@@ -17,7 +17,6 @@ type Props = {
   waves: Wave[];
   series: Serie[];
   events: Volume[];
-  notebooks: Notebook[];
   volumeNotebooks: Notebook[];
   variant: FormVariant;
   databaseName: string;
@@ -34,7 +33,6 @@ const VolumesFormContainer = ({
   series: initialSeries,
   waves,
   waveId: initialWaveId,
-  notebooks: initialNotebooks,
   volumeNotebooks: initialVolumeNotebooks,
 }: Props): JSX.Element => {
   const wavesOptions: SelectOption[] = waves.map(({ id: wavesId, name }) => ({ value: `${wavesId}`, label: name }));
@@ -64,13 +62,7 @@ const VolumesFormContainer = ({
   }, [waveId]); // eslint-disable-line react-hooks/exhaustive-deps
 
   return (
-    <NotebooksProvider
-      databaseName={databaseName}
-      initialWaveId={initialWaveId}
-      initialSeries={initialSeries}
-      initialNotebooks={initialNotebooks}
-      initialVolumeNotebooks={initialVolumeNotebooks}
-    >
+    <NotebooksProvider initialVolumeNotebooks={initialVolumeNotebooks}>
       <VolumesForm
         initialValues={initialValues}
         seriesOptions={seriesOptions}

@@ -7,240 +7,132 @@
       "is_filter": true
     },
     "2": {
-      "name": "Old Man Logan",
-      "order": 0,
-      "wave_id": 1,
-      "is_filter": false
-    },
-    "3": {
       "name": "Deadpool",
       "order": 1,
       "wave_id": 2,
       "is_filter": true
     },
-    "4": {
-      "name": "Deadpool kontra Staruszek Logan",
-      "order": 2,
-      "wave_id": 2,
-      "is_filter": false
-    },
-    "5": {
+    "3": {
       "name": "Extraordinary X-Men",
       "order": 3,
       "wave_id": 1,
       "is_filter": true
     },
-    "6": {
+    "4": {
       "name": "Spider-Man",
       "order": 5,
       "wave_id": 3,
       "is_filter": true
     },
-    "7": {
-      "name": "The Clone Conspiracy",
-      "order": 6,
-      "wave_id": 3,
-      "is_filter": false
-    },
-    "8": {
-      "name": "Silk",
-      "order": 7,
-      "wave_id": 3,
-      "is_filter": false
-    },
-    "9": {
-      "name": "Prowler",
-      "order": 8,
-      "wave_id": 3,
-      "is_filter": false
-    },
-    "10": {
-      "name": "Venom",
-      "order": 9,
-      "wave_id": 3,
-      "is_filter": false
-    },
-    "11": {
+    "5": {
       "name": "All-New Wolverine",
       "order": 2,
       "wave_id": 1,
       "is_filter": true
     },
-    "12": {
-      "name": "All-New, All-Different Avengers",
-      "order": 1,
-      "wave_id": 4,
-      "is_filter": false
-    },
-    "13": {
+    "6": {
       "name": "Avengers",
       "order": 0,
       "wave_id": 4,
       "is_filter": true
     },
-    "14": {
-      "name": "Avengers: Impas Atak na Pleasant Hill",
-      "order": 13,
-      "wave_id": 4,
-      "is_filter": false
-    },
-    "15": {
-      "name": "Captain America: Sam Wilson",
-      "order": 6,
-      "wave_id": 2,
-      "is_filter": false
-    },
-    "16": {
+    "7": {
       "name": "Ms. Marvel",
       "order": 13,
       "wave_id": 2,
       "is_filter": true
     },
-    "17": {
+    "8": {
       "name": "Vision",
       "order": 16,
       "wave_id": 2,
       "is_filter": true
     },
-    "18": {
+    "9": {
       "name": "Thor",
       "order": 14,
       "wave_id": 2,
       "is_filter": true
     },
-    "19": {
+    "10": {
       "name": "Doktor Strange",
       "order": 3,
       "wave_id": 2,
       "is_filter": true
     },
-    "20": {
-      "name": "Doctor Strange: Damnation",
-      "order": 4,
-      "wave_id": 2,
-      "is_filter": false
-    },
-    "21": {
+    "11": {
       "name": "Hawkeye",
       "order": 9,
       "wave_id": 2,
       "is_filter": true
     },
-    "22": {
-      "name": "All-New Hawkeye Vol 1",
-      "order": 7,
-      "wave_id": 2,
-      "is_filter": false
-    },
-    "23": {
-      "name": "All-New Hawkeye Vol 2",
-      "order": 8,
-      "wave_id": 2,
-      "is_filter": false
-    },
-    "24": {
+    "12": {
       "name": "Iron Man",
       "order": 10,
       "wave_id": 2,
       "is_filter": true
     },
-    "25": {
+    "13": {
       "name": "II Wojna Domowa",
       "order": 24,
       "wave_id": 5,
       "is_filter": true
     },
-    "26": {
-      "name": "II Wojna Domowa: Spider-Man",
-      "order": 25,
-      "wave_id": 3,
-      "is_filter": false
-    },
-    "27": {
-      "name": "II Wojna Domowa: X-Men",
-      "order": 4,
-      "wave_id": 1,
-      "is_filter": false
-    },
-    "28": {
+    "14": {
       "name": "Mockingbird",
       "order": 11,
       "wave_id": 2,
       "is_filter": true
     },
-    "29": {
-      "name": "Inhumans kontra X-Men",
-      "order": 5,
-      "wave_id": 1,
-      "is_filter": false
-    },
-    "30": {
-      "name": "Śmierć X",
-      "order": 29,
-      "wave_id": 1,
-      "is_filter": false
-    },
-    "31": {
+    "15": {
       "name": "Astonishing X-Men",
       "order": 30,
       "wave_id": 1,
       "is_filter": true
     },
-    "32": {
+    "16": {
       "name": "Kapitan Ameryka",
       "order": 5,
       "wave_id": 2,
       "is_filter": true
     },
-    "33": {
+    "17": {
       "name": "Czarna Wdowa",
       "order": 0,
       "wave_id": 2,
       "is_filter": true
     },
-    "34": {
-      "name": "Niegodny Thor",
-      "order": 15,
-      "wave_id": 2,
-      "is_filter": false
-    },
-    "35": {
+    "18": {
       "name": "Moon Knight",
       "order": 12,
       "wave_id": 2,
       "is_filter": true
     },
-    "36": {
+    "19": {
       "name": "Tajne Imperium",
       "order": 35,
       "wave_id": 5,
       "is_filter": true
     },
-    "37": {
+    "20": {
       "name": "Strażnicy Galaktyki",
       "order": 36,
       "wave_id": 6,
       "is_filter": true
     },
-    "38": {
+    "21": {
       "name": "Pokolenia",
       "order": 37,
       "wave_id": 5,
       "is_filter": true
     },
-    "39": {
+    "22": {
       "name": "Thanos",
       "order": 38,
       "wave_id": 6,
       "is_filter": true
     },
-    "40": {
-      "name": "Cosmic Ghost Rider",
-      "order": 39,
-      "wave_id": 6,
-      "is_filter": false
-    },
-    "41": {
+    "23": {
       "name": "Phoenix Zmartwychwstanie",
       "order": 40,
       "wave_id": 1,
@@ -248,6 +140,6 @@
     }
   },
   "meta": {
-    "nextIndex": 42
+    "nextIndex": 24
   }
 }

@@ -6,11 +6,11 @@ type SeriesFilter = (volume: Serie) => boolean;
 
 const defaultFilter = () => true;
 
-const getNotebooks = async (databaseName: string, filter: SeriesFilter = defaultFilter): Promise<Serie[]> => {
+const getSeries = async (databaseName: string, filter: SeriesFilter = defaultFilter): Promise<Serie[]> => {
   const { series } = await get(databaseName, 'series');
-  const notebooksArray = mapApiToFront(series);
+  const seriesArray = mapApiToFront(series);
 
-  return notebooksArray.filter(filter);
+  return seriesArray.filter(filter);
 };
 
-export default getNotebooks;
+export default getSeries;
