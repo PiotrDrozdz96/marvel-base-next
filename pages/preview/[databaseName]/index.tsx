@@ -6,7 +6,6 @@ import { Notebook } from 'types/Notebook';
 import { Filters } from 'types/Filter';
 import getMenu from '@api/get/front/getMenu';
 import Preview from '@pages/Preview';
-import getVolume from '@api/get/front/getVolume';
 import getVolumes from '@api/get/front/getVolumes';
 import getFilters from '@api/get/front/getFilters';
 import get from '@api/get';
@@ -58,19 +57,10 @@ export const getServerSideProps: AppServerSideProps<Props> = async ({ params, qu
   const seriesIds = finalSeriesIdsString ? JSON.parse(finalSeriesIdsString).map(String) || [] : [];
 
   let volume: FrontVolume | undefined;
-  let items: (Volume | Notebook)[] = [];
 
-  if (!isEvent) {
-    items = await getVolumes(id, (item) => !item.is_event, 'global_order');
-  } else {
-    volume = await getVolume(id, volumeId);
-    const { notebooks } = await get(id, 'notebooks');
-    items = volume?.notebooks_ids.map((notebookId) => ({ ...notebooks[notebookId], id: notebookId })) || [];
-  }
+  const items = await getVolumes(id, (item) => !item.is_event, 'global_order');
 
-  const keepSeriesIds = isEvent ? [...new Set(items.map((item) => item.serie_id))] : [];
-
-  const { filters, checkedSeries } = await getFilters({ databaseName: id, wavesIds, seriesIds, keepSeriesIds });
+  const { filters, checkedSeries } = await getFilters({ databaseName: id, wavesIds, seriesIds });
 
   if (!items) {
     return { notFound: true };

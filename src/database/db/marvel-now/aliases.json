@@ -1,19 +1,4 @@
 {
-  "111": {
-    "params": "wavesIds=[3,2,5]"
-  },
-  "112": {
-    "params": "wavesIds=[5,4,3]&seriesIds=[50]"
-  },
-  "113": {
-    "params": "wavesIds=[3,5,1,2]"
-  },
-  "114": {
-    "params": "seriesIds=[5,7]"
-  },
-  "115": {
-    "params": "wavesIds=[1,3]&seriesIds=[37,39,40,41,42,49]"
-  },
   "moje": {
     "params": "wavesIds=[7]&seriesIds=[3,4,15,19,34,20,5,7,27,47,44,46,21,26,31,50,51,52,16]"
   }

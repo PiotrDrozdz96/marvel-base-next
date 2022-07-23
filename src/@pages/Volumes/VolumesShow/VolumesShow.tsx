@@ -35,7 +35,7 @@ const VolumesShow = ({ item, databaseName, notebooks, isPreview }: Props): JSX.E
       <TextField
         label={volumesMessages.event_id}
         value={item.eventName}
-        href={{ pathname: routes.preview.event.href, query: { databaseName, eventId: item.event_id } }}
+        href={{ pathname: routes.volumes.id.show.href, query: { databaseName, id: item.event_id } }}
       />
       <TextField
         label={volumesMessages.notebooks}
