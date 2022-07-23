@@ -36,12 +36,6 @@
       "wave_id": 4,
       "is_filter": true
     },
-    "7": {
-      "name": "X-Men: Mordercza Geneza",
-      "order": 26,
-      "wave_id": 5,
-      "is_filter": false
-    },
     "8": {
       "name": "MAX",
       "order": 2,
@@ -84,18 +78,6 @@
       "wave_id": 9,
       "is_filter": true
     },
-    "15": {
-      "name": "Rękawica Nieskończoności",
-      "order": 49,
-      "wave_id": 12,
-      "is_filter": false
-    },
-    "16": {
-      "name": "Wojna nieskończoności",
-      "order": 50,
-      "wave_id": 12,
-      "is_filter": false
-    },
     "17": {
       "name": "Spider-Man",
       "order": 6,
@@ -106,7 +88,7 @@
       "name": "Uncanny X-Men",
       "order": 54,
       "wave_id": 5,
-      "is_filter": false
+      "is_filter": true
     },
     "19": {
       "name": "Kapitan Ameryka",
@@ -120,15 +102,9 @@
       "wave_id": 11,
       "is_filter": true
     },
-    "21": {
-      "name": "Krucjata nieskończoności",
-      "order": 58,
-      "wave_id": 12,
-      "is_filter": false
-    },
     "22": {
       "name": "Wojna Królów",
-      "order": 62,
+      "order": 1,
       "wave_id": 13,
       "is_filter": true
     },
@@ -150,12 +126,6 @@
       "wave_id": 14,
       "is_filter": true
     },
-    "26": {
-      "name": "Domena królów",
-      "order": 2,
-      "wave_id": 2,
-      "is_filter": true
-    },
     "27": {
       "name": "Deadpool i Cable",
       "order": 74,
@@ -175,19 +145,31 @@
       "is_filter": true
     },
     "30": {
-      "name": "X-Men: Punkty zwrotne – Wojna o mesjasza",
+      "name": "X-Men: Punkty zwrotne",
       "order": 79,
       "wave_id": 5,
-      "is_filter": false
+      "is_filter": true
     },
     "31": {
       "name": "Thor",
       "order": 8,
       "wave_id": 2,
       "is_filter": true
+    },
+    "32": {
+      "name": "Saga nieskończoności",
+      "order": 31,
+      "wave_id": 12,
+      "is_filter": false
+    },
+    "33": {
+      "name": "X-Men",
+      "order": 0,
+      "wave_id": 13,
+      "is_filter": true
     }
   },
   "meta": {
-    "nextIndex": 32
+    "nextIndex": 34
   }
 }

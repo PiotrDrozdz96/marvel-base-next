@@ -8,7 +8,7 @@
     },
     "2": {
       "name": "Strażnicy Galaktyki",
-      "order": 0,
+      "order": 1,
       "wave_id": 2,
       "is_filter": true
     },
@@ -56,13 +56,13 @@
     },
     "10": {
       "name": "Deadpool",
-      "order": 0,
+      "order": 1,
       "wave_id": 6,
       "is_filter": true
     },
     "11": {
       "name": "Thunderbolts",
-      "order": 6,
+      "order": 4,
       "wave_id": 6,
       "is_filter": true
     },
@@ -92,7 +92,7 @@
     },
     "16": {
       "name": "Thanos powstaje",
-      "order": 2,
+      "order": 3,
       "wave_id": 2,
       "is_filter": true
     },
@@ -110,7 +110,7 @@
     },
     "19": {
       "name": "Ms. Marvel",
-      "order": 5,
+      "order": 3,
       "wave_id": 6,
       "is_filter": true
     },
@@ -134,7 +134,7 @@
     },
     "23": {
       "name": "Moon Knight",
-      "order": 4,
+      "order": 2,
       "wave_id": 6,
       "is_filter": true
     },
@@ -224,7 +224,7 @@
     },
     "38": {
       "name": "Nova",
-      "order": 1,
+      "order": 2,
       "wave_id": 2,
       "is_filter": true
     },
@@ -239,9 +239,21 @@
       "order": 13,
       "wave_id": 3,
       "is_filter": true
+    },
+    "41": {
+      "name": "Silver Surfer",
+      "order": 0,
+      "wave_id": 2,
+      "is_filter": true
+    },
+    "42": {
+      "name": "Daredevil",
+      "order": 0,
+      "wave_id": 6,
+      "is_filter": true
     }
   },
   "meta": {
-    "nextIndex": 41
+    "nextIndex": 43
   }
 }
