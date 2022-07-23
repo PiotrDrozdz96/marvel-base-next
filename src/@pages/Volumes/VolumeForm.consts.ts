@@ -1,7 +1,7 @@
 import FormPartial from 'types/FormPartial';
 import { ApiVolume } from 'types/Volume';
 
-export const defaultValues: FormPartial<ApiVolume, 'notebooks_ids' | 'is_event'> = {
+export const defaultValues: FormPartial<ApiVolume, 'notebooks' | 'is_event'> = {
   title: '',
   subtitle: '',
   image_url: '',
@@ -9,7 +9,7 @@ export const defaultValues: FormPartial<ApiVolume, 'notebooks_ids' | 'is_event'>
   serie_id: '',
   order: '',
   global_order: '',
-  notebooks_ids: [],
+  notebooks: [],
   event_id: '',
 };
 
