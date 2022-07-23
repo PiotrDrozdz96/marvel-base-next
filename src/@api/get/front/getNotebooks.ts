@@ -4,6 +4,21 @@ import { apiUrl, nameRegExp } from 'consts/connect';
 import getFetch from 'utils/getFetch';
 import mapObjectToArray from 'utils/mapObjectToArray';
 
+const months = [
+  'January',
+  'February',
+  'March',
+  'April',
+  'May',
+  'June',
+  'July',
+  'August',
+  'September',
+  'October',
+  'November',
+  'December',
+];
+
 const getParamFromContent = (content: string, key: string): string => {
   const [, value] = content.match(new RegExp(`${key}\\s*=([^\\n]*)\\n`)) || [];
 
@@ -21,7 +36,9 @@ const getDateFromContent = (content: string): string => {
 
   const [month, year] = [getParamFromContent(content, 'Month'), getParamFromContent(content, 'Year')];
   if (month && year) {
-    return `${[year, getTwoDigitNumber(month), '01'].join('-')}T11:00:00.000Z`;
+    const mappedMonth = `${months.findIndex((currentMonth) => month.includes(currentMonth)) + 1}` || month;
+
+    return `${[year, getTwoDigitNumber(mappedMonth), '01'].join('-')}T11:00:00.000Z`;
   }
 
   return '';
