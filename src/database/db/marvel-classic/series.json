@@ -7,492 +7,180 @@
       "is_filter": true
     },
     "2": {
-      "name": "Daredevil: The Man Without Fear",
-      "order": 2,
-      "wave_id": 1,
-      "is_filter": false
-    },
-    "3": {
       "name": "Daredevil: Nieustraszony",
       "order": 2,
       "wave_id": 1,
       "is_filter": true
     },
-    "4": {
-      "name": "Shadowland",
-      "order": 3,
-      "wave_id": 1,
-      "is_filter": false
-    },
-    "5": {
-      "name": "Daredevil: Reborn",
-      "order": 4,
-      "wave_id": 1,
-      "is_filter": false
-    },
-    "6": {
+    "3": {
       "name": "Elektra - Assassin",
       "order": 3,
       "wave_id": 2,
       "is_filter": true
     },
-    "7": {
+    "4": {
       "order": 9,
       "wave_id": 2,
       "is_filter": true,
       "name": "Wojna Domowa"
     },
-    "8": {
-      "name": "Drax the Destroyer",
-      "order": 1,
-      "wave_id": 3,
-      "is_filter": false
-    },
-    "9": {
+    "5": {
       "name": "Anihilacja",
       "order": 0,
       "wave_id": 3,
       "is_filter": true
     },
-    "10": {
-      "name": "Anihilation: Nova",
-      "order": 2,
-      "wave_id": 3,
-      "is_filter": false
-    },
-    "11": {
-      "name": "Annihilation: Ronan",
-      "order": 3,
-      "wave_id": 3,
-      "is_filter": false
-    },
-    "12": {
-      "name": "Annihilation: Super-Skrull",
-      "order": 4,
-      "wave_id": 3,
-      "is_filter": false
-    },
-    "13": {
-      "name": "Annihilation: Silver Surfer",
-      "order": 5,
-      "wave_id": 3,
-      "is_filter": false
-    },
-    "14": {
-      "name": "Annihilation: Heralds of Galactus",
-      "order": 6,
-      "wave_id": 3,
-      "is_filter": false
-    },
-    "15": {
-      "name": "Annihilation: The Nova Corps Files",
-      "order": 7,
-      "wave_id": 3,
-      "is_filter": false
-    },
-    "16": {
-      "name": "Annihilation: Conquest",
-      "order": 15,
-      "wave_id": 3,
-      "is_filter": false
-    },
-    "17": {
-      "name": "Annihilation: Conquest - Quasar",
-      "order": 16,
-      "wave_id": 3,
-      "is_filter": false
-    },
-    "18": {
-      "name": "Annihilation: Conquest – Starlord",
-      "order": 17,
-      "wave_id": 3,
-      "is_filter": false
-    },
-    "19": {
-      "name": "Annihilation: Saga",
-      "order": 18,
-      "wave_id": 3,
-      "is_filter": false
-    },
-    "20": {
-      "name": "Annihilation: Conquest - Wraith",
-      "order": 19,
-      "wave_id": 3,
-      "is_filter": false
-    },
-    "21": {
-      "name": "Nova",
-      "order": 20,
-      "wave_id": 3,
-      "is_filter": false
-    },
-    "22": {
+    "6": {
       "name": "Deadpool",
       "order": 21,
       "wave_id": 4,
       "is_filter": true
     },
-    "23": {
-      "name": "New Mutants",
-      "order": 22,
-      "wave_id": 4,
-      "is_filter": false
-    },
-    "24": {
-      "name": "Deadpool Vol 1",
-      "order": 23,
-      "wave_id": 4,
-      "is_filter": false
-    },
-    "25": {
-      "name": "Deadpool Vol 2",
-      "order": 24,
-      "wave_id": 4,
-      "is_filter": false
-    },
-    "26": {
-      "name": "Agent X",
-      "order": 25,
-      "wave_id": 4,
-      "is_filter": false
-    },
-    "27": {
+    "7": {
       "name": "X-Men: Mordercza Geneza",
       "order": 26,
       "wave_id": 5,
       "is_filter": false
     },
-    "28": {
+    "8": {
       "name": "MAX",
       "order": 2,
       "wave_id": 6,
       "is_filter": true
     },
-    "29": {
-      "name": "Punisher pojedyncze historie",
-      "order": 3,
-      "wave_id": 6,
-      "is_filter": false
-    },
-    "30": {
-      "name": "Punisher MAX: The Platoon",
-      "order": 4,
-      "wave_id": 6,
-      "is_filter": false
-    },
-    "31": {
-      "name": "Born",
-      "order": 5,
-      "wave_id": 6,
-      "is_filter": false
-    },
-    "32": {
-      "name": "Punisher Presents Barracuda MAX",
-      "order": 6,
-      "wave_id": 6,
-      "is_filter": false
-    },
-    "33": {
-      "name": "Punishermax",
-      "order": 7,
-      "wave_id": 6,
-      "is_filter": false
-    },
-    "34": {
-      "name": "Untold Tales of Punisher MAX",
-      "order": 8,
-      "wave_id": 6,
-      "is_filter": false
-    },
-    "35": {
+    "9": {
       "name": "Czarna Wdowa",
       "order": 0,
       "wave_id": 2,
       "is_filter": true
     },
-    "36": {
-      "name": "Black Widow 2",
-      "order": 1,
-      "wave_id": 2,
-      "is_filter": false
-    },
-    "37": {
+    "10": {
       "name": "Hulk",
       "order": 4,
       "wave_id": 2,
       "is_filter": true
     },
-    "38": {
-      "name": "Wolverine Vol 3",
-      "order": 37,
-      "wave_id": 7,
-      "is_filter": false
-    },
-    "39": {
-      "name": "Wolverine Weapon X",
-      "order": 38,
-      "wave_id": 7,
-      "is_filter": false
-    },
-    "40": {
-      "name": "Wolverine: Manifest Destiny",
-      "order": 39,
-      "wave_id": 7,
-      "is_filter": false
-    },
-    "41": {
-      "name": "Wolverine pojedyncze historie",
-      "order": 40,
-      "wave_id": 7,
-      "is_filter": false
-    },
-    "42": {
-      "name": "Astonishing Spider-Man & Wolverine",
-      "order": 41,
-      "wave_id": 7,
-      "is_filter": false
-    },
-    "43": {
+    "11": {
       "name": "Wolverine: Jason Aaron",
       "order": 42,
       "wave_id": 7,
       "is_filter": true
     },
-    "44": {
+    "12": {
       "name": "Spider-Man i Czarna Kotka",
       "order": 5,
       "wave_id": 2,
       "is_filter": true
     },
-    "45": {
+    "13": {
       "name": "Ultimate Spider-Man",
       "order": 44,
       "wave_id": 8,
       "is_filter": true
     },
-    "46": {
-      "name": "Ultimate Six",
-      "order": 45,
-      "wave_id": 8,
-      "is_filter": false
-    },
-    "47": {
+    "14": {
       "name": "Runaways",
       "order": 46,
       "wave_id": 9,
       "is_filter": true
     },
-    "48": {
-      "name": "Runaways Vol 2",
-      "order": 47,
-      "wave_id": 9,
-      "is_filter": false
-    },
-    "49": {
-      "name": "Thanos Quest",
-      "order": 48,
-      "wave_id": 12,
-      "is_filter": false
-    },
-    "50": {
+    "15": {
       "name": "Rękawica Nieskończoności",
       "order": 49,
       "wave_id": 12,
       "is_filter": false
     },
-    "51": {
+    "16": {
       "name": "Wojna nieskończoności",
       "order": 50,
       "wave_id": 12,
       "is_filter": false
     },
-    "52": {
-      "name": "Warlock and the Infinity Watch",
-      "order": 51,
-      "wave_id": 12,
-      "is_filter": false
-    },
-    "53": {
-      "name": "Marvel Comics Presents",
-      "order": 52,
-      "wave_id": 12,
-      "is_filter": false
-    },
-    "54": {
+    "17": {
       "name": "Spider-Man",
       "order": 6,
       "wave_id": 2,
       "is_filter": true
     },
-    "55": {
+    "18": {
       "name": "Uncanny X-Men",
       "order": 54,
       "wave_id": 5,
       "is_filter": false
     },
-    "56": {
+    "19": {
       "name": "Kapitan Ameryka",
       "order": 55,
       "wave_id": 10,
       "is_filter": true
     },
-    "57": {
-      "name": "Captain America Reborn",
-      "order": 56,
-      "wave_id": 10,
-      "is_filter": false
-    },
-    "58": {
+    "20": {
       "name": "Strażnicy Galaktyki",
       "order": 57,
       "wave_id": 11,
       "is_filter": true
     },
-    "59": {
+    "21": {
       "name": "Krucjata nieskończoności",
       "order": 58,
       "wave_id": 12,
       "is_filter": false
     },
-    "60": {
-      "name": "Warlock Chronicles",
-      "order": 59,
-      "wave_id": 12,
-      "is_filter": false
-    },
-    "61": {
-      "name": "X-Men: Emperor Volcan",
-      "order": 60,
-      "wave_id": 13,
-      "is_filter": false
-    },
-    "62": {
-      "name": "Pojedyncze albumy",
-      "order": 61,
-      "wave_id": 13,
-      "is_filter": false
-    },
-    "63": {
+    "22": {
       "name": "Wojna Królów",
       "order": 62,
       "wave_id": 13,
       "is_filter": true
     },
-    "64": {
-      "name": "X-Men: Kingbreaker",
-      "order": 63,
-      "wave_id": 13,
-      "is_filter": false
-    },
-    "65": {
-      "name": "War of Kings: Darkhawk",
-      "order": 64,
-      "wave_id": 13,
-      "is_filter": false
-    },
-    "66": {
-      "name": "War of Kings: Ascension",
-      "order": 65,
-      "wave_id": 13,
-      "is_filter": false
-    },
-    "67": {
-      "name": "War of Kings: Warriors",
-      "order": 66,
-      "wave_id": 13,
-      "is_filter": false
-    },
-    "68": {
+    "23": {
       "order": 7,
       "wave_id": 2,
       "is_filter": true,
       "name": "Silver Surfer"
     },
-    "69": {
+    "24": {
       "name": "Ultimate X-Men",
       "order": 68,
       "wave_id": 8,
       "is_filter": true
     },
-    "70": {
-      "name": "Ultimate War",
-      "order": 69,
-      "wave_id": 8,
-      "is_filter": false
-    },
-    "71": {
+    "25": {
       "name": "Amazing Spider-Man",
       "order": 70,
       "wave_id": 14,
       "is_filter": true
     },
-    "72": {
-      "name": "The Spectacular Spider-Man",
-      "order": 71,
-      "wave_id": 14,
-      "is_filter": false
-    },
-    "73": {
-      "name": "Web of Spider-Man",
-      "order": 72,
-      "wave_id": 14,
-      "is_filter": false
-    },
-    "74": {
+    "26": {
       "name": "Domena królów",
       "order": 2,
       "wave_id": 2,
       "is_filter": true
     },
-    "75": {
+    "27": {
       "name": "Deadpool i Cable",
       "order": 74,
       "wave_id": 4,
       "is_filter": true
     },
-    "76": {
+    "28": {
       "name": "Marvel Knights",
       "order": 1,
       "wave_id": 6,
       "is_filter": true
     },
-    "77": {
-      "name": "Punisher Vol 5",
-      "order": 0,
-      "wave_id": 6,
-      "is_filter": false
-    },
-    "78": {
+    "29": {
       "name": "Fantastyczna Czwórka",
       "order": 77,
       "wave_id": 15,
       "is_filter": true
     },
-    "79": {
-      "name": "Dark Reign: Fantastic Four",
-      "order": 78,
-      "wave_id": 15,
-      "is_filter": false
-    },
-    "80": {
+    "30": {
       "name": "X-Men: Punkty zwrotne – Wojna o mesjasza",
       "order": 79,
       "wave_id": 5,
       "is_filter": false
     },
-    "81": {
-      "name": "Cable",
-      "order": 80,
-      "wave_id": 5,
-      "is_filter": false
-    },
-    "82": {
-      "name": "X-Force",
-      "order": 81,
-      "wave_id": 5,
-      "is_filter": false
-    },
-    "83": {
+    "31": {
       "name": "Thor",
       "order": 8,
       "wave_id": 2,
@@ -500,6 +188,6 @@
     }
   },
   "meta": {
-    "nextIndex": 84
+    "nextIndex": 32
   }
 }
