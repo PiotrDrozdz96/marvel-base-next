@@ -41,10 +41,10 @@
       "parent_id": 2
     },
     "6": {
-      "name": "MCU",
+      "name": "Multiverse Saga",
       "type": "SUB_MENU",
       "order": 5,
-      "url": "/preview/disney/mcu",
+      "url": "/preview/multiverse-saga/filmy",
       "icon": "",
       "parent_id": 2
     },

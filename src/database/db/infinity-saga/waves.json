@@ -15,9 +15,13 @@
     "4": {
       "name": "Hulu",
       "order": 3
+    },
+    "5": {
+      "name": "Disney+",
+      "order": 4
     }
   },
   "meta": {
-    "nextIndex": 5
+    "nextIndex": 6
   }
 }

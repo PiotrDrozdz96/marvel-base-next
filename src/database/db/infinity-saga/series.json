@@ -35,9 +35,15 @@
       "order": 5,
       "wave_id": 4,
       "is_filter": true
+    },
+    "7": {
+      "name": "Disney+",
+      "order": 6,
+      "wave_id": 5,
+      "is_filter": true
     }
   },
   "meta": {
-    "nextIndex": 7
+    "nextIndex": 8
   }
 }
