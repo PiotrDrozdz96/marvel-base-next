@@ -1,7 +1,7 @@
 import { MarvelFandomPageInfo, MarvelFandomImageInfo } from 'types/MarvelFandom';
 import { Notebook } from 'types/Notebook';
-import { apiUrl, nameRegExp } from 'consts/connect';
-import getFetch from 'utils/getFetch';
+import { nameRegExp } from 'consts/connect';
+import getMarvelFetch from 'utils/getMarvelFetch';
 import mapObjectToArray from 'utils/mapObjectToArray';
 
 const months = [
@@ -84,9 +84,8 @@ const mapNotebooksImages = (notebooks: Notebook[], pagesImages?: Partial<MarvelF
 };
 
 const getNotebooks = async (notebooksTitles: string[]): Promise<Notebook[]> => {
-  const pagesInfo = await getFetch<MarvelFandomPageInfo>(apiUrl, {
+  const pagesInfo = await getMarvelFetch<MarvelFandomPageInfo>(notebooksTitles, {
     action: 'query',
-    titles: notebooksTitles.join('|'),
     prop: 'revisions',
     rvprop: 'content',
     rvslots: 'main',
@@ -95,13 +94,15 @@ const getNotebooks = async (notebooksTitles: string[]): Promise<Notebook[]> => {
 
   const notebooks = mapNotebooks(notebooksTitles, pagesInfo);
 
-  const imagesInfo = await getFetch<MarvelFandomImageInfo>(apiUrl, {
-    action: 'query',
-    titles: notebooks.map((notebook) => `File:${notebook.image_url}`).join('|'),
-    prop: 'imageinfo',
-    iiprop: 'url',
-    format: 'json',
-  });
+  const imagesInfo = await getMarvelFetch<MarvelFandomImageInfo>(
+    notebooks.map((notebook) => `File:${notebook.image_url}`),
+    {
+      action: 'query',
+      prop: 'imageinfo',
+      iiprop: 'url',
+      format: 'json',
+    }
+  );
 
   return mapNotebooksImages(notebooks, imagesInfo);
 };

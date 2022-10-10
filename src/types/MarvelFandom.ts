@@ -14,7 +14,7 @@ type Revision = {
   };
 };
 
-type MarvelFandom<T> = {
+export type MarvelFandom<T> = {
   query: {
     pages: Record<string, PageInfo & T>;
   };
