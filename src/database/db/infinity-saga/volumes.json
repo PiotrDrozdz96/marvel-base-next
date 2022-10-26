@@ -171,13 +171,14 @@
       "global_order": 53
     },
     "20": {
-      "title": "Ant-Man",
-      "subtitle": "i Osa",
+      "title": "Ant-Man i Osa",
       "image_url": "https://fwcdn.pl/fpo/56/20/755620/7849292.6.jpg",
       "date": "2018-06-25T10:12:07.000Z",
       "serie_id": 1,
       "order": 19,
-      "global_order": 52
+      "global_order": 52,
+      "event_id": null,
+      "notebooks": []
     },
     "21": {
       "title": "Kapitan Marvel",
