@@ -19,8 +19,7 @@ const fetchImage = async (url: string) => {
 
     return {
       status: fetchReq.status,
-      // @ts-expect-error buffer exist in Response
-      buffer: await fetchReq.buffer(),
+      buffer: Buffer.from(await fetchReq.arrayBuffer()),
       format,
     };
   } catch (e) {

@@ -11,12 +11,10 @@ export type Props = Omit<LinkProps, 'href'> & {
   onClick?: () => void;
 };
 
-const Link = ({ className, href, children, openInNewTab, onClick, ...props }: Props): JSX.Element =>
+const Link = ({ className, href, children, openInNewTab, ...props }: Props): JSX.Element =>
   href ? (
-    <NextLink href={href} {...props}>
-      <a className={className} target={openInNewTab ? '_blank' : undefined} onClick={onClick}>
-        {children}
-      </a>
+    <NextLink href={href} {...props} className={className} target={openInNewTab ? '_blank' : undefined}>
+      {children}
     </NextLink>
   ) : (
     <span className={className}>{children}</span>
