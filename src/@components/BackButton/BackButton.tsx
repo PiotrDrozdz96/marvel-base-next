@@ -1,4 +1,6 @@
-import { useRouter } from 'next/router';
+'use client';
+
+import { useRouter } from 'next/navigation';
 import { IoArrowBack } from 'react-icons/io5';
 
 import Button, { ButtonProps } from '@components/Button';

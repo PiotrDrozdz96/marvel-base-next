@@ -2,6 +2,7 @@
 import { ReactNode } from 'react';
 
 import NextLink, { LinkProps } from 'next/link';
+import stringifyHref from 'utils/stringifyHref';
 
 export type Props = Omit<LinkProps, 'href'> & {
   children: ReactNode;
@@ -13,7 +14,12 @@ export type Props = Omit<LinkProps, 'href'> & {
 
 const Link = ({ className, href, children, openInNewTab, ...props }: Props): JSX.Element =>
   href ? (
-    <NextLink href={href} {...props} className={className} target={openInNewTab ? '_blank' : undefined}>
+    <NextLink
+      href={typeof href === 'string' ? href : stringifyHref(href)}
+      {...props}
+      className={className}
+      target={openInNewTab ? '_blank' : undefined}
+    >
       {children}
     </NextLink>
   ) : (

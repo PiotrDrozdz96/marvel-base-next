@@ -51,7 +51,7 @@
     "7": {
       "name": "Komiksy",
       "type": "MAIN_MENU",
-      "order": 6,
+      "order": 2,
       "url": "",
       "icon": "reader",
       "parent_id": 0

@@ -1,3 +1,5 @@
+'use client';
+
 import { useMemo, useState, useEffect } from 'react';
 import { useInView } from 'react-intersection-observer';
 import classNames from 'classnames';

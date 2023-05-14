@@ -1,3 +1,5 @@
+'use client';
+
 import { ReactNode, useState } from 'react';
 import { IoAdd, IoPencil, IoTrash, IoEye, IoCalendar, IoAlertCircleOutline, IoCheckmarkCircle } from 'react-icons/io5';
 
