@@ -1,3 +1,5 @@
+'use client';
+
 import { useState, useMemo, useEffect } from 'react';
 
 import NotebooksProvider from '@pages/Notebooks/NotebooksProvider';
