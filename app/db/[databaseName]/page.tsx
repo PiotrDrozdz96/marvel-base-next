@@ -6,7 +6,7 @@ import DatabaseForm from '@pages/Database/DatabaseForm';
 import getMetadata from 'utils/getMetadata';
 
 export const generateMetadata: GenerateMetaData = async ({ params }) => {
-  const id = params?.id as string | 'create';
+  const id = params?.databaseName as string | 'create';
   const isCreate = id === 'create';
 
   return getMetadata(`- Menu - ${isCreate ? 'Create' : `#${id}`}`);

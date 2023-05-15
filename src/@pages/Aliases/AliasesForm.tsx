@@ -1,3 +1,5 @@
+'use client';
+
 import routes from 'config/routes';
 
 import { Alias } from 'types/Alias';
