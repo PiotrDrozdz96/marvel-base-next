@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
 import { ReactNode } from 'react';
 
 import NextLink, { LinkProps } from 'next/link';

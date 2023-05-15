@@ -1,3 +1,5 @@
+'use client';
+
 import routes from 'config/routes';
 
 import { ApiWave } from 'types/Wave';
@@ -26,6 +28,7 @@ const WavesForm = ({ variant, initialValues, databaseName, id }: Props): JSX.Ele
     numberFields={['order']}
     id={id}
     showPathname={routes.waves.id.show.href}
+    query={{ databaseName, id }}
   >
     {({ handleSubmit }) => (
       <form onSubmit={handleSubmit}>

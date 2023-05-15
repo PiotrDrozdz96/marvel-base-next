@@ -1,3 +1,5 @@
+'use client';
+
 import routes from 'config/routes';
 import { Serie } from 'types/Serie';
 import List from '@components/List';
