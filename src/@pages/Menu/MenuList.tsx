@@ -1,3 +1,5 @@
+'use client';
+
 import routes from 'config/routes';
 import { MenuItem } from 'types/Menu';
 import List from '@components/List';

@@ -1,8 +1,11 @@
+'use client';
+
 import { ReactNode, useState, useMemo } from 'react';
-import { DragDropContext, DropResult } from 'react-beautiful-dnd';
+import { DropResult } from 'react-beautiful-dnd';
 import { arrayMoveImmutable } from 'array-move';
 
 import { ApiNotebook } from 'types/Notebook';
+import { DragDropContext } from '@lib/react-beautiful-dnd';
 
 import { NotebooksContext } from './NotebooksProvider.context';
 

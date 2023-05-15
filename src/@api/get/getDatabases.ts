@@ -20,6 +20,7 @@ const getDatabases = async (): Promise<Database[]> =>
       for (let i = 0; i <= files.length - 1; i += 1) {
         fastFolderSize(`src/database/db/${files[i]}`, (sizeErr, bytes) => {
           if (sizeErr) {
+            // todo bin//du.exe
             result[i].size = NaN;
           } else {
             result[i].size = bytes;

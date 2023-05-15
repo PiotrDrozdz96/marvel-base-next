@@ -1,3 +1,5 @@
+'use client';
+
 import Database from 'types/Database';
 import routes from 'config/routes';
 import List from '@components/List';
