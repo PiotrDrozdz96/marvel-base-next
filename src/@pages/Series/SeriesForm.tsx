@@ -1,3 +1,5 @@
+'use client';
+
 import routes from 'config/routes';
 
 import SelectOption from 'types/SelectOption';

@@ -1,3 +1,5 @@
+'use client';
+
 import routes from 'config/routes';
 import { Volume } from 'types/Volume';
 import List from '@components/List';

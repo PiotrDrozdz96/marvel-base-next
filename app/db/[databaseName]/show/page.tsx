@@ -8,7 +8,7 @@ import mapApiToFront from 'utils/mapApiToFront';
 import getVolumes from '@api/get/front/getVolumes';
 import getMetadata from 'utils/getMetadata';
 
-export const generateMetadata: GenerateMetaData = async ({ params }) => getMetadata(`- Baza - #${params.id}`);
+export const generateMetadata: GenerateMetaData = async ({ params }) => getMetadata(`- Baza - #${params.databaseName}`);
 
 const DatabasePage: NextPage = async ({ params }) => {
   const id = params?.databaseName as string;
