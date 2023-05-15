@@ -1,3 +1,5 @@
+'use client';
+
 import routes from 'config/routes';
 import FormPartial from 'types/FormPartial';
 import FormVariant from 'types/FormVariant';

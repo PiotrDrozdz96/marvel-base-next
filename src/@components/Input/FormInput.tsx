@@ -1,5 +1,4 @@
-import { Field } from 'react-final-form';
-
+import { Field } from '@lib/react-final-form';
 import { required as requiredValidation } from 'utils/validators';
 
 import Input from './Input';

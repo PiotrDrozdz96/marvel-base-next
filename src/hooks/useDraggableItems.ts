@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
-import { DropResult } from 'react-beautiful-dnd';
 import { arrayMoveImmutable } from 'array-move';
+
+import { DropResult } from '@lib/react-beautiful-dnd';
 
 const useDraggableItems = <T extends { id: number }>(
   initialItems: T[],

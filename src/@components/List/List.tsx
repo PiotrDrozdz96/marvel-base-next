@@ -1,9 +1,8 @@
 'use client';
 
 import { ReactNode, Fragment } from 'react';
-import { DropResult, ResponderProvided } from 'react-beautiful-dnd';
 
-import { DragDropContext, Droppable } from '@lib/react-beautiful-dnd';
+import { DragDropContext, Droppable, DropResult, ResponderProvided } from '@lib/react-beautiful-dnd';
 import Container from '@components/Container';
 import Toolbar from '@components/Toolbar';
 import ActionButton, { ActionButtonProps } from '@components/ActionButton';

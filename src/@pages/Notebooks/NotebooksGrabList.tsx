@@ -1,10 +1,10 @@
 /* eslint-disable jsx-a11y/control-has-associated-label */
 import { useContext } from 'react';
-import { Form } from 'react-final-form';
 
 import routes from 'config/routes';
 import classes from 'styles/filters.module.scss';
 import { Notebook } from 'types/Notebook';
+import { Form } from '@lib/react-final-form';
 import List from '@components/List';
 import Image from '@components/Image';
 import FormActions from '@components/FormActions';

@@ -1,6 +1,6 @@
 'use client';
 
-import { useRouter } from 'next/router';
+import { useRouter } from 'next/navigation';
 import { UrlObject } from 'url';
 
 import ActionButton from '@components/ActionButton';
@@ -33,7 +33,7 @@ const ActionsButtons = ({ routeItem, id, databaseName, query, withoutShow, witho
     await fetch(`/api/${databaseName}/${id}`, {
       method: 'DELETE',
     });
-    router.replace(router.asPath);
+    router.refresh();
   };
 
   const actionsLength = 1 + Number(!withoutShow) + Number(!withoutEdit);
