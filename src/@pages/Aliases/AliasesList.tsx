@@ -1,3 +1,5 @@
+'use client';
+
 import { Alias } from 'types/Alias';
 import routes from 'config/routes';
 import List from '@components/List';

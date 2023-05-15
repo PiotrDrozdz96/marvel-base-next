@@ -1,3 +1,5 @@
+'use client';
+
 import routes from 'config/routes';
 import { Wave } from 'types/Wave';
 import List from '@components/List';

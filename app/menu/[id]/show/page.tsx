@@ -20,7 +20,6 @@ const MenuPage: NextPage = async ({ params }) => {
 
   if (!item) {
     notFound();
-    return null;
   }
 
   return <MenuShow menu={menu} item={item} />;

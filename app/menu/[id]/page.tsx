@@ -13,6 +13,7 @@ import convertValuesTo from 'utils/convertValuesTo';
 export const generateMetadata: GenerateMetaData = async ({ params }) => {
   const id = params?.id as number | 'create';
   const isCreate = id === 'create';
+
   return getMetadata(`- Menu - ${isCreate ? 'Create' : `#${id}`}`);
 };
 
@@ -26,7 +27,6 @@ const MenuPage: NextPage = async ({ params, searchParams }) => {
 
   if (!isCreate && !rawMenu[id]) {
     notFound();
-    return null;
   }
 
   const initialValues = !isCreate

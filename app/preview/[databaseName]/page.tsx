@@ -16,7 +16,6 @@ const PreviewPage: NextPage = async ({ params, searchParams }) => {
 
   if (!id) {
     notFound();
-    return null;
   }
 
   const { wavesIds: wavesIdsString, seriesIds: seriesIdsString, alias } = searchParams;
@@ -53,7 +52,6 @@ const PreviewPage: NextPage = async ({ params, searchParams }) => {
 
   if (!items) {
     notFound();
-    return null;
   }
 
   return (
