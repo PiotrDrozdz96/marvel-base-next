@@ -7,7 +7,7 @@ import { Form } from '@lib/react-final-form';
 import Modal from '@components/Modal';
 import Button from '@components/Button';
 import Input from '@components/Input';
-import classes from '@components/ActionButton/ActionButton.module.scss';
+import classes from '@components/DeleteButton/DeleteButton.module.scss';
 import stringifyHref from 'utils/stringifyHref';
 
 import messages from './ImportButton.messages';
