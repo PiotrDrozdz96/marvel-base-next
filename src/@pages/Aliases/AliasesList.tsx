@@ -1,8 +1,6 @@
-'use client';
-
 import { Alias } from 'types/Alias';
 import routes from 'config/routes';
-import List from '@components/List';
+import { StaticList } from '@components/List';
 import ActionsButtons from '@components/ActionsButtons';
 
 import databaseMessages from './Aliases.messages';
@@ -13,11 +11,10 @@ type Props = {
 };
 
 const AliasesList = ({ aliases, databaseName }: Props): JSX.Element => (
-  <List
+  <StaticList
     name={databaseMessages.listName}
     addHref={{ pathname: routes.aliases.create.href, query: { databaseName } }}
     labels={[databaseMessages.name, databaseMessages.params, '']}
-    onDragEnd={() => {}}
   >
     {aliases.map((item) => (
       <tr key={item.name}>
@@ -33,7 +30,7 @@ const AliasesList = ({ aliases, databaseName }: Props): JSX.Element => (
         />
       </tr>
     ))}
-  </List>
+  </StaticList>
 );
 
 export default AliasesList;
