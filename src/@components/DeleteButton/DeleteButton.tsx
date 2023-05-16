@@ -7,15 +7,16 @@ import Button from '@components/Button';
 import Modal from '@components/Modal';
 import { interpolate } from 'utils/interpolate';
 
+import { onDelete } from './DeleteButton.actions';
 import messages from './DeleteButton.messages';
 import classes from './DeleteButton.module.scss';
 
 type Props = {
-  itemName: string;
-  onDelete: () => void;
+  id: string | number;
+  databaseName: string;
 };
 
-const DeleteButton = ({ itemName, onDelete }: Props): JSX.Element => {
+const DeleteButton = ({ id, databaseName }: Props): JSX.Element => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
@@ -25,7 +26,7 @@ const DeleteButton = ({ itemName, onDelete }: Props): JSX.Element => {
       </Button>
 
       <Modal isOpen={isOpen} onClose={() => setIsOpen(false)}>
-        <div className={classes.modalHeader}>{interpolate(messages.deleteHeader, { itemName })}</div>
+        <div className={classes.modalHeader}>{interpolate(messages.deleteHeader, { itemName: `#${id}` })}</div>
         <div className={classes.modalContent}>{messages.deleteModalContent}</div>
         <div className={classes.modalActions}>
           <Button
@@ -41,8 +42,7 @@ const DeleteButton = ({ itemName, onDelete }: Props): JSX.Element => {
             type="button"
             icon={<IoCheckmarkCircle />}
             onClick={() => {
-              onDelete();
-              setIsOpen(false);
+              onDelete(id, databaseName);
             }}
           >
             {messages.confirm}

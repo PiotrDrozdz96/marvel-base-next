@@ -15,6 +15,7 @@ const Link = ({ className, href, children, openInNewTab, ...props }: Props): JSX
   href ? (
     <NextLink
       href={typeof href === 'string' ? href : stringifyHref(href)}
+      prefetch={false}
       {...props}
       className={className}
       target={openInNewTab ? '_blank' : undefined}

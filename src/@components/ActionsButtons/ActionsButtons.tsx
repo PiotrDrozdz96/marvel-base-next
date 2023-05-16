@@ -1,6 +1,3 @@
-'use client';
-
-import { useRouter } from 'next/navigation';
 import { UrlObject } from 'url';
 
 import ActionButton from '@components/ActionButton';
@@ -28,15 +25,6 @@ type Props = {
 };
 
 const ActionsButtons = ({ routeItem, id, databaseName, query, withoutShow, withoutEdit }: Props): JSX.Element => {
-  const router = useRouter();
-
-  const onDelete = async () => {
-    await fetch(`/api/${databaseName}/${id}`, {
-      method: 'DELETE',
-    });
-    router.refresh();
-  };
-
   const actionsLength = 1 + Number(!withoutShow) + Number(!withoutEdit);
 
   return (
@@ -46,7 +34,7 @@ const ActionsButtons = ({ routeItem, id, databaseName, query, withoutShow, witho
           <ActionButton variant="show" href={{ pathname: routeItem.id.show.href, query: query || { id } }} />
         )}
         {!withoutEdit && <ActionButton variant="edit" href={{ pathname: routeItem.id.href, query: query || { id } }} />}
-        <DeleteButton itemName={`#${id}`} onDelete={onDelete} />
+        <DeleteButton id={id} databaseName={databaseName} />
       </div>
     </td>
   );
