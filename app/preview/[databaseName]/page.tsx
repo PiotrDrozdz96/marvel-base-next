@@ -1,7 +1,6 @@
 import { notFound } from 'next/navigation';
 
 import NextPage, { GenerateMetaData } from 'types/NextPage';
-import { FrontVolume } from 'types/Volume';
 import Preview from '@pages/Preview';
 import getVolumes from '@api/get/front/getVolumes';
 import getFilters from '@api/get/front/getFilters';
@@ -19,8 +18,6 @@ const PreviewPage: NextPage = async ({ params, searchParams }) => {
   }
 
   const { wavesIds: wavesIdsString, seriesIds: seriesIdsString, alias } = searchParams;
-  const volumeId = Number(alias);
-  const isEvent = !!volumeId;
 
   let finalWavesIdsString = '';
   let finalSeriesIdsString = '';
@@ -29,9 +26,7 @@ const PreviewPage: NextPage = async ({ params, searchParams }) => {
     const aliases = await get(id, 'aliases');
     const finalSearchParams = aliases[alias]?.params;
 
-    if (isEvent && (wavesIdsString || seriesIdsString)) {
-      [finalWavesIdsString, finalSeriesIdsString] = [wavesIdsString, seriesIdsString];
-    } else if (finalSearchParams) {
+    if (finalSearchParams) {
       const { wavesIds: aliasWavesIds, seriesIds: aliasSeriesIds } = getSearchParams(finalSearchParams);
       [finalWavesIdsString, finalSeriesIdsString] = [aliasWavesIds, aliasSeriesIds];
     } else {
@@ -43,8 +38,6 @@ const PreviewPage: NextPage = async ({ params, searchParams }) => {
 
   const wavesIds = finalWavesIdsString ? JSON.parse(finalWavesIdsString).map(String) || [] : [];
   const seriesIds = finalSeriesIdsString ? JSON.parse(finalSeriesIdsString).map(String) || [] : [];
-
-  let volume: FrontVolume | undefined;
 
   const items = await getVolumes(id, (item) => !item.is_event, 'global_order');
 
@@ -61,8 +54,6 @@ const PreviewPage: NextPage = async ({ params, searchParams }) => {
       filters={filters}
       wavesIds={wavesIds}
       seriesIds={seriesIds}
-      isEvent={isEvent}
-      volume={volume}
     />
   );
 };

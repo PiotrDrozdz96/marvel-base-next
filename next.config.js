@@ -1,5 +1,6 @@
 module.exports = {
   reactStrictMode: false,
+  productionBrowserSourceMaps: true,
   experimental: {
     serverActions: true,
   },
