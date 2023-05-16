@@ -58,7 +58,8 @@ const VolumesGlobalList = ({ volumes, databaseName }: Props): JSX.Element => {
           <ActionsButtons
             routeItem={routes.volumes}
             id={volume.id}
-            databaseName={`db/${databaseName}/volumes`}
+            resource="volumes"
+            databaseName={databaseName}
             query={{ databaseName, id: volume.id }}
           />
         </ListRow>

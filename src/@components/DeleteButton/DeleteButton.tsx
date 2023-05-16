@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import { IoTrash, IoAlertCircleOutline, IoCheckmarkCircle } from 'react-icons/io5';
 
+import Resource from 'types/Resource';
 import Button from '@components/Button';
 import Modal from '@components/Modal';
 import { interpolate } from 'utils/interpolate';
@@ -12,11 +13,12 @@ import messages from './DeleteButton.messages';
 import classes from './DeleteButton.module.scss';
 
 type Props = {
-  id: string | number;
-  databaseName: string;
+  resource: Resource;
+  databaseName?: string;
+  id?: string | number;
 };
 
-const DeleteButton = ({ id, databaseName }: Props): JSX.Element => {
+const DeleteButton = ({ resource, databaseName, id }: Props): JSX.Element => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
@@ -42,7 +44,7 @@ const DeleteButton = ({ id, databaseName }: Props): JSX.Element => {
             type="button"
             icon={<IoCheckmarkCircle />}
             onClick={() => {
-              onDelete(id, databaseName);
+              onDelete(resource, databaseName, id);
             }}
           >
             {messages.confirm}

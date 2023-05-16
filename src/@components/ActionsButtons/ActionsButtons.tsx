@@ -1,5 +1,6 @@
 import { UrlObject } from 'url';
 
+import Resource from 'types/Resource';
 import ActionButton from '@components/ActionButton';
 import DeleteButton from '@components/DeleteButton';
 import width from 'utils/width';
@@ -18,13 +19,22 @@ type RouteItem = {
 type Props = {
   routeItem: RouteItem;
   id: number | string;
-  databaseName: string;
+  resource: Resource;
+  databaseName?: string;
   query?: UrlObject['query'];
   withoutShow?: boolean;
   withoutEdit?: boolean;
 };
 
-const ActionsButtons = ({ routeItem, id, databaseName, query, withoutShow, withoutEdit }: Props): JSX.Element => {
+const ActionsButtons = ({
+  routeItem,
+  id,
+  resource,
+  databaseName,
+  query,
+  withoutShow,
+  withoutEdit,
+}: Props): JSX.Element => {
   const actionsLength = 1 + Number(!withoutShow) + Number(!withoutEdit);
 
   return (
@@ -34,7 +44,7 @@ const ActionsButtons = ({ routeItem, id, databaseName, query, withoutShow, witho
           <ActionButton variant="show" href={{ pathname: routeItem.id.show.href, query: query || { id } }} />
         )}
         {!withoutEdit && <ActionButton variant="edit" href={{ pathname: routeItem.id.href, query: query || { id } }} />}
-        <DeleteButton id={id} databaseName={databaseName} />
+        <DeleteButton resource={resource} id={id} databaseName={databaseName} />
       </div>
     </td>
   );

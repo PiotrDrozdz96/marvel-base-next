@@ -1,27 +1,23 @@
 import fs from 'fs';
 
-import ApiHandler from 'types/ApiHandler';
+import Identifier from 'types/Identifier';
 import JsonData from 'types/JsonData';
 import { ApiMenuItem } from 'types/Menu';
 import messages from 'utils/apiValidators/apiValidators.messages';
 import { interpolate } from 'utils/interpolate';
 import keysOf from 'utils/keysOf';
 
-const deleteMenu: ApiHandler = async (req, res) =>
+const deleteMenu = (_: string, id: Identifier) =>
   new Promise((resolve) => {
-    const id = Number(req.query.id);
-
     fs.readFile('src/database/menu.json', 'utf8', (err, data) => {
       if (err) {
-        resolve(res.status(404).json(err));
-        return;
+        throw err;
       }
 
       const { menu: database, meta } = JSON.parse(data) as JsonData<'menu', ApiMenuItem>;
-      const result = database[id];
+      const result = database[Number(id)];
       if (!result) {
-        resolve(res.status(404).json({ message: interpolate(messages.notFound, { id, baseName: 'menu' }) }));
-        return;
+        throw new Error(interpolate(messages.notFound, { id, baseName: 'menu' }));
       }
 
       [id, ...keysOf(database).filter((key) => database[key].parent_id === id)].forEach((key) => {
@@ -34,11 +30,10 @@ const deleteMenu: ApiHandler = async (req, res) =>
       };
 
       fs.writeFile('src/database/menu.json', JSON.stringify(newDatabase, null, 2), (writeErr) => {
-        if (err) {
-          resolve(res.status(500).send(writeErr));
-          return;
+        if (writeErr) {
+          throw writeErr;
         }
-        resolve(res.status(200).json({ ...result, id }));
+        resolve({ ...result, id });
       });
     });
   });

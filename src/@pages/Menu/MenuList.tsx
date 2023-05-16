@@ -32,7 +32,7 @@ const MenuList = ({ menu, query }: Props): JSX.Element => {
           <td style={width(100)}>{menuItem.id}</td>
           <td style={width('50%')}>{menuItem.name}</td>
           <td style={width('50%')}>{menuItem.url}</td>
-          <ActionsButtons routeItem={routes.menu} id={menuItem.id} databaseName="menu" />
+          <ActionsButtons resource="menu" routeItem={routes.menu} id={menuItem.id} />
         </ListRow>
       ))}
     </List>

@@ -23,7 +23,8 @@ const AliasesList = ({ aliases, databaseName }: Props): JSX.Element => (
         <ActionsButtons
           routeItem={routes.db}
           id={item.name}
-          databaseName={`db/${databaseName}/aliases`}
+          resource="aliases"
+          databaseName={databaseName}
           query={{ databaseName, id: item.name }}
           withoutShow
           withoutEdit

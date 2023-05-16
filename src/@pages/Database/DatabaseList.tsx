@@ -20,7 +20,13 @@ const DatabaseList = ({ databases }: Props): JSX.Element => (
       <tr key={item.name}>
         <td>{item.name}</td>
         <td>{formattedFileSize(item.size)}</td>
-        <ActionsButtons routeItem={routes.db} id={item.name} databaseName="db" query={{ databaseName: item.name }} />
+        <ActionsButtons
+          resource="db"
+          routeItem={routes.db}
+          databaseName={item.name}
+          id={item.name}
+          query={{ databaseName: item.name }}
+        />
       </tr>
     ))}
   </StaticList>

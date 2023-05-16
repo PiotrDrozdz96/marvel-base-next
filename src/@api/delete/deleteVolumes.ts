@@ -1,31 +1,25 @@
 import fs from 'fs';
 
-import ApiHandler from 'types/ApiHandler';
+import Identifier from 'types/Identifier';
 import JsonData from 'types/JsonData';
 import { ApiVolume } from 'types/Volume';
 import messages from 'utils/apiValidators/apiValidators.messages';
 import { interpolate } from 'utils/interpolate';
 
-const deleteVolumes: ApiHandler = async (req, res) =>
+const deleteVolumes = (databaseName: string, id: Identifier) =>
   new Promise((resolve) => {
-    const id = Number(req.query.id);
-
-    const { databaseName } = req.query as Record<string, string>;
-
     fs.readFile(`src/database/db/${databaseName}/volumes.json`, 'utf8', (err, data) => {
       if (err) {
-        resolve(res.status(404).json(err));
-        return;
+        throw err;
       }
 
       const { volumes: database, meta } = JSON.parse(data) as JsonData<'volumes', ApiVolume>;
-      const result = database[id];
+      const result = database[Number(id)];
       if (!result) {
-        resolve(res.status(404).json({ message: interpolate(messages.notFound, { id, baseName: 'volumes' }) }));
-        return;
+        throw new Error(interpolate(messages.notFound, { id, baseName: 'volumes' }));
       }
 
-      delete database[id];
+      delete database[Number(id)];
 
       const newDatabase = {
         volumes: database,
@@ -33,11 +27,10 @@ const deleteVolumes: ApiHandler = async (req, res) =>
       };
 
       fs.writeFile(`src/database/db/${databaseName}/volumes.json`, JSON.stringify(newDatabase, null, 2), (writeErr) => {
-        if (err) {
-          resolve(res.status(500).send(writeErr));
-          return;
+        if (writeErr) {
+          throw writeErr;
         }
-        resolve(res.status(200).json({ ...result, id }));
+        resolve({ ...result, id });
       });
     });
   });

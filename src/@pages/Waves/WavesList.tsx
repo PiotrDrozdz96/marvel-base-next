@@ -34,7 +34,8 @@ const WavesList = ({ waves, databaseName }: Props): JSX.Element => {
           <ActionsButtons
             routeItem={routes.waves}
             id={wave.id}
-            databaseName={`db/${databaseName}/waves`}
+            resource="waves"
+            databaseName={databaseName}
             query={{ databaseName, id: wave.id }}
           />
         </ListRow>
