@@ -4,6 +4,7 @@ import { useRouter } from 'next/navigation';
 import { UrlObject } from 'url';
 
 import ActionButton from '@components/ActionButton';
+import DeleteButton from '@components/DeleteButton';
 import width from 'utils/width';
 
 import classes from './ActionsButtons.module.scss';
@@ -45,7 +46,7 @@ const ActionsButtons = ({ routeItem, id, databaseName, query, withoutShow, witho
           <ActionButton variant="show" href={{ pathname: routeItem.id.show.href, query: query || { id } }} />
         )}
         {!withoutEdit && <ActionButton variant="edit" href={{ pathname: routeItem.id.href, query: query || { id } }} />}
-        <ActionButton variant="delete" itemName={`#${id}`} onDelete={onDelete} />
+        <DeleteButton itemName={`#${id}`} onDelete={onDelete} />
       </div>
     </td>
   );
