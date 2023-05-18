@@ -3,18 +3,18 @@
 import { ReactNode, useState, useMemo } from 'react';
 import { arrayMoveImmutable } from 'array-move';
 
-import { ApiNotebook } from 'types/Notebook';
+import { Notebook } from 'types/Notebook';
 import { DropResult, DragDropContext } from '@lib/react-beautiful-dnd';
 
 import { NotebooksContext } from './NotebooksProvider.context';
 
 type Props = {
-  initialVolumeNotebooks: ApiNotebook[];
+  initialVolumeNotebooks: Notebook[];
   children: ReactNode;
 };
 
 const NotebooksProvider = ({ initialVolumeNotebooks, children }: Props): JSX.Element => {
-  const [notebooks, setNotebooks] = useState<ApiNotebook[]>([]);
+  const [notebooks, setNotebooks] = useState<Notebook[]>([]);
   const [volumeNotebooks, setVolumeNotebooks] = useState(initialVolumeNotebooks);
 
   const notebooksTitles = useMemo(() => volumeNotebooks.map((notebook) => notebook.title_long), [volumeNotebooks]);

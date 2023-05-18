@@ -1,15 +1,9 @@
-type ApiNotebook = {
+export type Notebook = {
   title: string;
   title_long: string;
-  vol: number;
-  no: number;
+  vol: string;
+  no: string;
   subtitle: string;
   image_url: string;
   date: string;
 };
-
-type Notebook = ApiNotebook & {
-  id: number;
-};
-
-export type { ApiNotebook, Notebook };

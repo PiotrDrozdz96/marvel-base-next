@@ -3,7 +3,6 @@ import { useContext } from 'react';
 
 import routes from 'config/routes';
 import classes from 'styles/filters.module.scss';
-import { Notebook } from 'types/Notebook';
 import { Form } from '@lib/react-final-form';
 import List from '@components/List';
 import Image from '@components/Image';
@@ -11,9 +10,10 @@ import FormActions from '@components/FormActions';
 import Input from '@components/Input';
 import ListRow from '@components/ListRow';
 import dateFormat from 'utils/dateFormat';
-import getFetch from 'utils/getFetch';
 import width from 'utils/width';
 
+import { FormValues } from './Notebooks.types';
+import { getNotebooks } from './Notebooks.actions';
 import { NotebooksContext } from './NotebooksProvider';
 import notebooksMessages from './Notebooks.messages';
 
@@ -29,12 +29,6 @@ type Props =
       databaseName?: never;
     };
 
-type FormValues = {
-  url: string;
-  from: string;
-  to: string;
-};
-
 const labels: string[] = [
   notebooksMessages.image_url,
   notebooksMessages.title,
@@ -48,7 +42,7 @@ const NotebooksGrabList = ({ variant, databaseName, serieId }: Props): JSX.Eleme
   const { notebooks, volumeNotebooks, setNotebooks } = useContext(NotebooksContext);
 
   const onSubmit = async (values: FormValues) => {
-    const { notebooks: newNotebooks } = await getFetch<{ notebooks: Notebook[] }>(`/api/notebooks`, values);
+    const newNotebooks = await getNotebooks(values);
 
     setNotebooks(newNotebooks || []);
   };
