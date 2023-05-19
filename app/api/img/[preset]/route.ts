@@ -1,6 +1,7 @@
+import { NextRequest } from 'next/server';
 import sharp from 'sharp';
 
-import ApiHandler from 'types/ApiHandler';
+import ApiProps from 'types/ApiProps';
 import { Preset } from 'types/Image';
 import { dimensions } from 'consts/presets';
 import messages from 'utils/apiValidators/apiValidators.messages';
@@ -27,33 +28,35 @@ const fetchImage = async (url: string) => {
   }
 };
 
-export const handler: ApiHandler = async (req, res) =>
-  new Promise((resolve) => {
-    const { preset, url } = req.query as Record<string, string>;
+type Props = ApiProps<{ preset: Preset }>;
 
-    if (req.method !== 'GET') {
-      resolve(res.status(400).send(messages.get));
-      return;
-    }
+export const GET = async (request: NextRequest, { params }: Props) =>
+  new Promise((resolve) => {
+    const url = new URL(request.url).searchParams.get('url');
+    const { preset } = params;
 
     if (!url) {
-      resolve(res.status(400).send(interpolate(messages.required, { field: 'url' })));
+      resolve(new Response(interpolate(messages.required, { field: 'url' }), { status: 400 }));
       return;
     }
 
     if (!preset) {
-      resolve(res.status(400).send(interpolate(messages.required, { field: 'preset' })));
+      resolve(new Response(interpolate(messages.required, { field: 'preset' }), { status: 400 }));
       return;
     }
 
     if (!availablePresets.includes(preset as Preset)) {
-      resolve(res.status(400).send(interpolate(messages.includes, { field: 'preset', options: availablePresets })));
+      resolve(
+        new Response(interpolate(messages.includes, { field: 'preset', options: availablePresets }), {
+          status: 400,
+        })
+      );
       return;
     }
 
     fetchImage(url).then((image) => {
       if (image.status !== 200) {
-        resolve(res.status(400).send(interpolate(messages.genericNotFound, { name: 'Image' })));
+        resolve(new Response(interpolate(messages.genericNotFound, { name: 'Image' }), { status: 400 }));
         return;
       }
 
@@ -62,10 +65,15 @@ export const handler: ApiHandler = async (req, res) =>
 
       pipeline.resize(width, height, { fit: 'outside' });
 
-      res.setHeader('Cache-Control', 'public, max-age=31536000');
-      res.setHeader('Content-Type', `image/${image.format}`);
-      pipeline.toBuffer((_, buffer) => resolve(res.end(buffer, 'binary')));
+      pipeline.toBuffer((_, buffer) =>
+        resolve(
+          new Response(buffer, {
+            headers: {
+              'Cache-Control': 'public, max-age=31536000',
+              'Content-Type': `image/${image.format}`,
+            },
+          })
+        )
+      );
     });
   });
-
-export default handler;
