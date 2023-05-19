@@ -4,7 +4,7 @@ import { useContext } from 'react';
 import routes from 'config/routes';
 import classes from 'styles/filters.module.scss';
 import { Form } from '@lib/react-final-form';
-import List from '@components/List';
+import { ListWrapper, DroppableList } from '@components/List';
 import Image from '@components/Image';
 import FormActions from '@components/FormActions';
 import Input from '@components/Input';
@@ -48,35 +48,33 @@ const NotebooksGrabList = ({ variant, databaseName, serieId }: Props): JSX.Eleme
   };
 
   return (
-    <>
-      <List
-        name={variant === 'target' ? notebooksMessages.listNameInVolume : notebooksMessages.listName}
-        labels={labels}
-        droppableId={variant}
-        filters={
-          variant === 'source' && (
-            <Form<FormValues> initialValues={{ url: '', from: '', to: '' }} onSubmit={(values) => onSubmit(values)}>
-              {({ handleSubmit }) => (
-                <form onSubmit={handleSubmit} className={classes.filters}>
-                  <Input name="url" placeholder={notebooksMessages.url} onBlur={handleSubmit} />
-                  <Input name="from" placeholder={notebooksMessages.from} onBlur={handleSubmit} />
-                  <Input name="to" placeholder={notebooksMessages.to} onBlur={handleSubmit} />
-                  <button type="submit" style={{ display: 'none' }} />
-                </form>
-              )}
-            </Form>
-          )
-        }
-        bottomActions={
-          variant === 'source' && (
-            <FormActions
-              backHref={{ pathname: routes.series.id.show.href, query: { databaseName, id: serieId } }}
-              withoutMovement
-              withoutSave
-            />
-          )
-        }
-      >
+    <ListWrapper
+      name={variant === 'target' ? notebooksMessages.listNameInVolume : notebooksMessages.listName}
+      filters={
+        variant === 'source' && (
+          <Form<FormValues> initialValues={{ url: '', from: '', to: '' }} onSubmit={(values) => onSubmit(values)}>
+            {({ handleSubmit }) => (
+              <form onSubmit={handleSubmit} className={classes.filters}>
+                <Input name="url" placeholder={notebooksMessages.url} onBlur={handleSubmit} />
+                <Input name="from" placeholder={notebooksMessages.from} onBlur={handleSubmit} />
+                <Input name="to" placeholder={notebooksMessages.to} onBlur={handleSubmit} />
+                <button type="submit" style={{ display: 'none' }} />
+              </form>
+            )}
+          </Form>
+        )
+      }
+      bottomActions={
+        variant === 'source' && (
+          <FormActions
+            backHref={{ pathname: routes.series.id.show.href, query: { databaseName, id: serieId } }}
+            withoutMovement
+            withoutSave
+          />
+        )
+      }
+    >
+      <DroppableList labels={labels} droppableId={variant}>
         {(variant === 'source' ? notebooks : volumeNotebooks).map((notebook, index) => (
           <ListRow key={notebook.title_long} draggableId={`${variant}-${notebook.title_long}`} index={index}>
             <td style={width(100)}>
@@ -89,8 +87,8 @@ const NotebooksGrabList = ({ variant, databaseName, serieId }: Props): JSX.Eleme
             <td style={width(200)}>{dateFormat(notebook.date)}</td>
           </ListRow>
         ))}
-      </List>
-    </>
+      </DroppableList>
+    </ListWrapper>
   );
 };
 

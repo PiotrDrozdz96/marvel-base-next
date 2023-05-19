@@ -2,7 +2,7 @@
 
 import routes from 'config/routes';
 import { Volume } from 'types/Volume';
-import List from '@components/List';
+import { ListWrapper, DroppableList } from '@components/List';
 import ListRow from '@components/ListRow';
 import Image from '@components/Image';
 import ActionsButtons from '@components/ActionsButtons';
@@ -35,36 +35,36 @@ const VolumesGlobalList = ({ volumes, databaseName }: Props): JSX.Element => {
   );
 
   return (
-    <List
+    <ListWrapper
       name={volumesMessages.listName}
-      labels={labels}
       actions={
         <ActionButton
           variant="sortByDate"
           onClick={() => reorder(items.sort((a, b) => Number(new Date(a.date)) - Number(new Date(b.date))))}
         />
       }
-      onDragEnd={onDragEnd}
     >
-      {items.map((volume, index) => (
-        <ListRow key={volume.id} {...getRowProps(volume, index)}>
-          <td style={width(100)}>{volume.id}</td>
-          <td style={width(100)}>
-            <Image src={volume.image_url} alt={volume.title} preset="mini" withLink />
-          </td>
-          <td style={width('33%')}>{volume.title}</td>
-          <td style={width('66%')}>{volume.subtitle}</td>
-          <td style={width(200)}>{dateFormat(volume.date)}</td>
-          <ActionsButtons
-            routeItem={routes.volumes}
-            id={volume.id}
-            resource="volumes"
-            databaseName={databaseName}
-            query={{ databaseName, id: volume.id }}
-          />
-        </ListRow>
-      ))}
-    </List>
+      <DroppableList labels={labels} onDragEnd={onDragEnd}>
+        {items.map((volume, index) => (
+          <ListRow key={volume.id} {...getRowProps(volume, index)}>
+            <td style={width(100)}>{volume.id}</td>
+            <td style={width(100)}>
+              <Image src={volume.image_url} alt={volume.title} preset="mini" withLink />
+            </td>
+            <td style={width('33%')}>{volume.title}</td>
+            <td style={width('66%')}>{volume.subtitle}</td>
+            <td style={width(200)}>{dateFormat(volume.date)}</td>
+            <ActionsButtons
+              routeItem={routes.volumes}
+              id={volume.id}
+              resource="volumes"
+              databaseName={databaseName}
+              query={{ databaseName, id: volume.id }}
+            />
+          </ListRow>
+        ))}
+      </DroppableList>
+    </ListWrapper>
   );
 };
 
