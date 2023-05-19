@@ -1,4 +1,4 @@
-import { MouseEventHandler, ReactNode, useEffect, useRef } from 'react';
+import { MouseEventHandler, ReactNode, useRef } from 'react';
 import { createPortal } from 'react-dom';
 
 import classes from './Modal.module.scss';
@@ -11,20 +11,6 @@ type Props = {
 
 const Modal = ({ isOpen, children, onClose }: Props): JSX.Element => {
   const wrapperRef = useRef<HTMLDivElement>(null);
-
-  useEffect(() => {
-    let blockBodyScroll = false;
-    if (isOpen && document.body.style.overflow !== 'hidden') {
-      document.body.style.overflow = 'hidden';
-      blockBodyScroll = true;
-    }
-
-    return () => {
-      if (blockBodyScroll) {
-        document.body.style.overflow = 'visible';
-      }
-    };
-  }, [isOpen]);
 
   const handleOutsideClick: MouseEventHandler<HTMLDivElement> = (e) => {
     if (e.target !== wrapperRef.current) {
