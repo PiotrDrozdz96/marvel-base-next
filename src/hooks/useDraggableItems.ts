@@ -2,11 +2,12 @@ import { useState, useEffect } from 'react';
 import { arrayMoveImmutable } from 'array-move';
 
 import { DropResult } from '@lib/react-beautiful-dnd';
+import OrderField from 'types/OrderField';
 
 const useDraggableItems = <T extends { id: number }>(
   initialItems: T[],
   databaseName: string,
-  field: 'order' | 'global_order' = 'order'
+  field: OrderField = 'order'
 ) => {
   const [items, setItems] = useState(initialItems);
 

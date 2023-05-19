@@ -4,6 +4,7 @@ import { ReactNode } from 'react';
 
 import { DragDropContext } from '@lib/react-beautiful-dnd';
 
+import OrderField from 'types/OrderField';
 import ListRow from '@components/ListRow';
 import useDraggableItems from 'hooks/useDraggableItems';
 
@@ -14,7 +15,7 @@ type Props = {
   databaseName: string;
   labels: string[];
   rows: Record<number, ReactNode>;
-  field?: 'order' | 'global_order';
+  field?: OrderField;
 };
 
 const DroppableList = ({ databaseName, initialItems, field = 'order', labels, rows }: Props): JSX.Element => {

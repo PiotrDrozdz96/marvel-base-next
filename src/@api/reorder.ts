@@ -1,6 +1,7 @@
 import fs from 'fs';
 
 import ApiHandler from 'types/ApiHandler';
+import OrderField from 'types/OrderField';
 import JsonData from 'types/JsonData';
 import messages from 'utils/apiValidators/apiValidators.messages';
 import { interpolate } from 'utils/interpolate';
@@ -8,7 +9,7 @@ import stringifyDataBase from 'utils/stringifyDatabase';
 
 type Props = {
   ids: number[];
-  field: 'order' | 'global_order';
+  field: OrderField;
 };
 
 const reorderApi =

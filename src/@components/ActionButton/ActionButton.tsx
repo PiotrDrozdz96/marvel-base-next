@@ -1,32 +1,25 @@
 import { ReactNode } from 'react';
-import { IoAdd, IoPencil, IoEye, IoCalendar } from 'react-icons/io5';
+import { IoAdd, IoPencil, IoEye } from 'react-icons/io5';
 
 import Button, { ButtonProps } from '@components/Button';
 
 import messages from './ActionButton.messages';
 
-type Variant = 'add' | 'edit' | 'show' | 'sortByDate';
+type Variant = 'add' | 'edit' | 'show';
 
 export type Props = {
   variant: Variant;
   href?: ButtonProps['href'];
-  onClick?: () => void;
 };
 
 const iconMap: Record<Variant, ReactNode> = {
   add: <IoAdd />,
   edit: <IoPencil />,
   show: <IoEye />,
-  sortByDate: <IoCalendar />,
 };
 
-const ActionButton = ({ variant, href, onClick }: Props): JSX.Element => (
-  <Button
-    type={['delete', 'sortByDate'].includes(variant) ? 'button' : 'link'}
-    href={href}
-    icon={iconMap[variant]}
-    onClick={onClick}
-  >
+const ActionButton = ({ variant, href }: Props): JSX.Element => (
+  <Button type="link" href={href} icon={iconMap[variant]}>
     {messages[variant]}
   </Button>
 );

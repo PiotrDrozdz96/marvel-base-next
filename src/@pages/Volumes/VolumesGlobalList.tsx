@@ -1,5 +1,6 @@
 import { Volume } from 'types/Volume';
 import { ListWrapper, DroppableList } from '@components/List';
+import SortByDateButton from '@components/SortByDateButton';
 
 import volumesMessages from './Volumes.messages';
 import { getRows } from './VolumesList.utils';
@@ -19,16 +20,7 @@ const labels: string[] = [
 ];
 
 const VolumesGlobalList = ({ volumes, databaseName }: Props): JSX.Element => (
-  <ListWrapper
-    name={volumesMessages.listName}
-    // todo
-    // actions={
-    //   <ActionButton
-    //     variant="sortByDate"
-    //     onClick={() => reorder(items.sort((a, b) => Number(new Date(a.date)) - Number(new Date(b.date))))}
-    //   />
-    // }
-  >
+  <ListWrapper name={volumesMessages.listName} actions={<SortByDateButton />}>
     <DroppableList
       initialItems={volumes}
       databaseName={`db/${databaseName}/volumes`}

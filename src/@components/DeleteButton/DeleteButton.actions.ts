@@ -19,6 +19,5 @@ export async function onDelete(resource: Resource, databaseName?: string, id?: s
   const deleteFunction = functionMap[resource];
 
   await deleteFunction(databaseName as string, id as Identifier);
-
   revalidatePath('');
 }
