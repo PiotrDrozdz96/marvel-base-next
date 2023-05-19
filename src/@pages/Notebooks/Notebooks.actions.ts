@@ -5,19 +5,19 @@ import got from 'got';
 import * as $ from 'cheerio';
 import { isValid } from 'date-fns';
 
-import { Notebook } from 'types/Notebook';
+import { ApiNotebook } from 'types/Notebook';
 import { nameRegExp } from 'consts/connect';
 import parseDate from 'utils/parseDate';
 
 import { FormValues } from './Notebooks.types';
 
-export const getNotebooks = async ({ url, from, to }: FormValues): Promise<Notebook[]> =>
+export const getNotebooks = async ({ url, from, to }: FormValues): Promise<ApiNotebook[]> =>
   new Promise((resolve) => {
     try {
       got.get(url).then((response) => {
         const $body = $.load(response.body);
 
-        let notebooks: Notebook[] = [];
+        let notebooks: ApiNotebook[] = [];
         // eslint-disable-next-line func-names
         $body('.wikia-gallery-item').each(function (_, el) {
           const $item = $.load(el);

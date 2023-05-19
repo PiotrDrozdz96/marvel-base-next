@@ -1,12 +1,12 @@
 import { createContext } from 'react';
-import { Notebook } from 'types/Notebook';
+import { ApiNotebook } from 'types/Notebook';
 import SetState from 'types/SetState';
 
 export type NotebooksContextType = {
-  notebooks: Notebook[];
-  volumeNotebooks: Notebook[];
+  notebooks: ApiNotebook[];
+  volumeNotebooks: ApiNotebook[];
   notebooksTitles: string[];
-  setNotebooks: SetState<Notebook[]>;
+  setNotebooks: SetState<ApiNotebook[]>;
 };
 
 export const NotebooksContext = createContext<NotebooksContextType>({

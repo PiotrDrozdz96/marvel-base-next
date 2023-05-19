@@ -6,8 +6,8 @@ import classes from './Book.module.scss';
 type Props = {
   title: string;
   subtitle?: string;
-  vol?: number;
-  no?: number;
+  vol?: string;
+  no?: string;
   image_url: string;
   date: string;
 };
