@@ -1,33 +1,35 @@
 'use client';
 
-import { ReactNode, Fragment } from 'react';
+import { ReactNode } from 'react';
 
-import { DragDropContext, Droppable, DropResult, ResponderProvided } from '@lib/react-beautiful-dnd';
+import { DragDropContext } from '@lib/react-beautiful-dnd';
 
-import ListTable from './ListTable';
+import ListRow from '@components/ListRow';
+import useDraggableItems from 'hooks/useDraggableItems';
+
+import BaseDroppableList from './BaseDroppableList';
 
 type Props = {
-  droppableId?: string;
+  initialItems: { id: number }[];
+  databaseName: string;
   labels: string[];
-  children: ReactNode;
-  onDragEnd?: (result: DropResult, provided: ResponderProvided) => void;
+  rows: Record<number, ReactNode>;
+  field?: 'order' | 'global_order';
 };
 
-const DroppableList = ({ droppableId = 'droppable', labels, children, onDragEnd }: Props) => {
-  const ContextComponent = onDragEnd ? DragDropContext : Fragment;
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  const contextProps = (onDragEnd ? { onDragEnd } : {}) as any;
+const DroppableList = ({ databaseName, initialItems, field = 'order', labels, rows }: Props): JSX.Element => {
+  const { items, onDragEnd, getRowProps } = useDraggableItems(initialItems, databaseName, field);
 
   return (
-    <ContextComponent {...contextProps}>
-      <Droppable droppableId={droppableId}>
-        {(provided) => (
-          <ListTable {...provided} labels={labels}>
-            {children}
-          </ListTable>
-        )}
-      </Droppable>
-    </ContextComponent>
+    <DragDropContext onDragEnd={onDragEnd}>
+      <BaseDroppableList labels={labels}>
+        {items.map((menuItem, index) => (
+          <ListRow key={menuItem.id} {...getRowProps(menuItem, index)}>
+            {rows[menuItem.id]}
+          </ListRow>
+        ))}
+      </BaseDroppableList>
+    </DragDropContext>
   );
 };
 

@@ -4,7 +4,7 @@ import { useContext } from 'react';
 import routes from 'config/routes';
 import classes from 'styles/filters.module.scss';
 import { Form } from '@lib/react-final-form';
-import { ListWrapper, DroppableList } from '@components/List';
+import { ListWrapper, BaseDroppableList } from '@components/List';
 import Image from '@components/Image';
 import FormActions from '@components/FormActions';
 import Input from '@components/Input';
@@ -74,7 +74,7 @@ const NotebooksGrabList = ({ variant, databaseName, serieId }: Props): JSX.Eleme
         )
       }
     >
-      <DroppableList labels={labels} droppableId={variant}>
+      <BaseDroppableList labels={labels} droppableId={variant}>
         {(variant === 'source' ? notebooks : volumeNotebooks).map((notebook, index) => (
           <ListRow key={notebook.title_long} draggableId={`${variant}-${notebook.title_long}`} index={index}>
             <td style={width(100)}>
@@ -87,7 +87,7 @@ const NotebooksGrabList = ({ variant, databaseName, serieId }: Props): JSX.Eleme
             <td style={width(200)}>{dateFormat(notebook.date)}</td>
           </ListRow>
         ))}
-      </DroppableList>
+      </BaseDroppableList>
     </ListWrapper>
   );
 };
