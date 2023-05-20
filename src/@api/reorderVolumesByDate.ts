@@ -1,13 +1,21 @@
+'use server';
+
+import { headers as getHeaders } from 'next/headers';
+import { revalidatePath } from 'next/cache';
 import fs from 'fs';
 
-import OrderField from 'types/OrderField';
 import JsonData from 'types/JsonData';
 import { ApiVolume } from 'types/Volume';
 import mapObjectToArray from 'utils/mapObjectToArray';
 import stringifyDataBase from 'utils/stringifyDatabase';
 
-const reorderVolumesByDate = (databaseName: string, field: OrderField) =>
-  new Promise((resolve) => {
+const reorderVolumesByDate = async () => {
+  const headers = getHeaders();
+  const url = headers.get('Next-Url');
+  const parts = url?.split('/') || [];
+  const databaseName = parts[2];
+
+  const success = await new Promise((resolve) => {
     fs.readFile(`src/database/db/${databaseName}/volumes.json`, 'utf8', (err, data) => {
       if (err) {
         throw err;
@@ -22,7 +30,7 @@ const reorderVolumesByDate = (databaseName: string, field: OrderField) =>
 
       ids.forEach((id, index) => {
         if (items[id]) {
-          items[id][field] = index;
+          items[id].global_order = index;
         }
       });
 
@@ -35,14 +43,14 @@ const reorderVolumesByDate = (databaseName: string, field: OrderField) =>
         if (writeErr) {
           throw writeErr;
         }
-        resolve(
-          ids.map((id) => ({
-            ...items[id],
-            id,
-          }))
-        );
+        resolve(true);
       });
     });
   });
+
+  if (success) {
+    revalidatePath('');
+  }
+};
 
 export default reorderVolumesByDate;

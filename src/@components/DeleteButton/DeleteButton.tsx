@@ -6,9 +6,9 @@ import { IoTrash, IoAlertCircleOutline, IoCheckmarkCircle } from 'react-icons/io
 import Resource from 'types/Resource';
 import Button from '@components/Button';
 import Modal from '@components/Modal';
+import onDelete from '@api/delete';
 import { interpolate } from 'utils/interpolate';
 
-import { onDelete } from './DeleteButton.actions';
 import messages from './DeleteButton.messages';
 import classes from './DeleteButton.module.scss';
 

@@ -32,12 +32,7 @@ const reorderApi = (databaseName: string, itemsName: string, ids: number[], fiel
         if (writeErr) {
           throw writeErr;
         }
-        resolve(
-          ids.map((id) => ({
-            ...items[id],
-            id,
-          }))
-        );
+        resolve({ success: true });
       });
     });
   });
