@@ -45,6 +45,7 @@ const WavesList = ({ waves, databaseName }: Props): JSX.Element => (
     <DroppableList
       initialItems={waves}
       databaseName={`db/${databaseName}/waves`}
+      itemsName="waves"
       labels={labels}
       rows={getRows(waves, databaseName)}
     />

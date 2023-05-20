@@ -3,18 +3,13 @@ import fs from 'fs';
 import ApiHandler from 'types/ApiHandler';
 import JsonData from 'types/JsonData';
 import { ApiMenuItem } from 'types/Menu';
-import reorderApi from '@api/reorder';
 import menuValidation from 'utils/apiValidators/menu';
 import messages from 'utils/apiValidators/apiValidators.messages';
 import { interpolate } from 'utils/interpolate';
 
-const postMenu: ApiHandler = async (req, res) => {
-  const { id: reqId } = req.query as Record<string, string>;
-  if (reqId === 'reorder') {
-    return reorderApi('menu', 'menu')(req, res);
-  }
-
-  return new Promise((resolve) => {
+const postMenu: ApiHandler = async (req, res) =>
+  new Promise((resolve) => {
+    const { id: reqId } = req.query as Record<string, string>;
     const body: Partial<ApiMenuItem> = JSON.parse(req.body);
     const values = menuValidation(res, body);
 
@@ -64,6 +59,5 @@ const postMenu: ApiHandler = async (req, res) => {
       }
     });
   });
-};
 
 export default postMenu;

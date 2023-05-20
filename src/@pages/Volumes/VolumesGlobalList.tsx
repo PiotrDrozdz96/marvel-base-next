@@ -24,6 +24,7 @@ const VolumesGlobalList = ({ volumes, databaseName }: Props): JSX.Element => (
     <DroppableList
       initialItems={volumes}
       databaseName={`db/${databaseName}/volumes`}
+      itemsName="volumes"
       field="global_order"
       labels={labels}
       rows={getRows(volumes, databaseName)}

@@ -37,7 +37,7 @@ const MenuListWrapper = ({ query, menu }: Props) => (
     name={menuMessages.listName}
     addHref={{ pathname: routes.menu.id.href, query: { id: 'create', ...query } }}
   >
-    <DroppableList initialItems={menu} databaseName="menu" labels={labels} rows={getRows(menu)} />
+    <DroppableList initialItems={menu} databaseName="menu" itemsName="menu" labels={labels} rows={getRows(menu)} />
   </ListWrapper>
 );
 

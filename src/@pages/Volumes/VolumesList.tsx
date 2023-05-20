@@ -28,6 +28,7 @@ const VolumesList = ({ volumes, databaseName, serieId }: Props): JSX.Element => 
     <DroppableList
       initialItems={volumes}
       databaseName={`db/${databaseName}/volumes`}
+      itemsName="volumes"
       labels={labels}
       rows={getRows(volumes, databaseName)}
     />

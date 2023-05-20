@@ -50,6 +50,7 @@ const SeriesList = ({ series, databaseName, waveId }: Props): JSX.Element => (
     <DroppableList
       initialItems={series}
       databaseName={`db/${databaseName}/series`}
+      itemsName="series"
       labels={labels}
       rows={getRows(series, databaseName)}
     />

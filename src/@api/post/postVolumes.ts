@@ -8,7 +8,6 @@ import messages from 'utils/apiValidators/apiValidators.messages';
 import { interpolate } from 'utils/interpolate';
 import pick from 'utils/pick';
 import stringifyDataBase from 'utils/stringifyDatabase';
-import reorderApi from '@api/reorder';
 
 const volumesField: (keyof ApiVolume)[] = [
   'title',
@@ -24,14 +23,9 @@ const volumesField: (keyof ApiVolume)[] = [
 ];
 const requiredVolumesField: (keyof ApiVolume)[] = ['title', 'image_url', 'date', 'serie_id'];
 
-const postVolumes: ApiHandler = async (req, res) => {
-  const { id: reqId, databaseName } = req.query as Record<string, string>;
-
-  if (reqId === 'reorder') {
-    return reorderApi(`db/${databaseName}/volumes`, 'volumes')(req, res);
-  }
-
-  return new Promise((resolve) => {
+const postVolumes: ApiHandler = async (req, res) =>
+  new Promise((resolve) => {
+    const { id: reqId, databaseName } = req.query as Record<string, string>;
     const body: Partial<ApiVolume> = pick(JSON.parse(req.body), volumesField);
     const emptyField = requiredVolumesField.find((key) => !body[key] && body[key] !== 0);
 
@@ -100,6 +94,5 @@ const postVolumes: ApiHandler = async (req, res) => {
       });
     });
   });
-};
 
 export default postVolumes;

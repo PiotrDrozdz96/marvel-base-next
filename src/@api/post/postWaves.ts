@@ -6,19 +6,13 @@ import messages from 'utils/apiValidators/apiValidators.messages';
 import { interpolate } from 'utils/interpolate';
 import pick from 'utils/pick';
 import JsonData from 'types/JsonData';
-import reorderApi from '@api/reorder';
 
 const wavesField: (keyof ApiWave)[] = ['name', 'order'];
 const wavesRequiredFields: (keyof ApiWave)[] = ['name'];
 
-const postWaves: ApiHandler = async (req, res) => {
-  const { id: reqId, databaseName } = req.query as Record<string, string>;
-
-  if (reqId === 'reorder') {
-    return reorderApi(`db/${databaseName}/waves`, 'waves')(req, res);
-  }
-
-  return new Promise((resolve) => {
+const postWaves: ApiHandler = async (req, res) =>
+  new Promise((resolve) => {
+    const { id: reqId, databaseName } = req.query as Record<string, string>;
     const body: Partial<ApiWave> = pick(JSON.parse(req.body), wavesField);
     const emptyField = wavesRequiredFields.find((key) => !body[key] && body[key] !== 0);
 
@@ -65,6 +59,5 @@ const postWaves: ApiHandler = async (req, res) => {
       });
     });
   });
-};
 
 export default postWaves;

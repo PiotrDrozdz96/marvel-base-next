@@ -2,11 +2,13 @@ import { useState, useEffect } from 'react';
 import { arrayMoveImmutable } from 'array-move';
 
 import { DropResult } from '@lib/react-beautiful-dnd';
+import reorderApi from '@api/reorder';
 import OrderField from 'types/OrderField';
 
 const useDraggableItems = <T extends { id: number }>(
   initialItems: T[],
   databaseName: string,
+  itemsName: string,
   field: OrderField = 'order'
 ) => {
   const [items, setItems] = useState(initialItems);
@@ -15,20 +17,16 @@ const useDraggableItems = <T extends { id: number }>(
     setItems(initialItems);
   }, [initialItems]);
 
-  const reorder = (newItems: T[]) => {
-    setItems(newItems);
-    fetch(`/api/${databaseName}/reorder`, {
-      method: 'POST',
-      body: JSON.stringify({ ids: newItems.map(({ id }) => id), field }),
-    })
-      .then((response) => response.json())
-      .then((data) => setItems(data));
-  };
-
   const onDragEnd = ({ source, destination }: DropResult) => {
     if (destination) {
       const newItems = arrayMoveImmutable(items, source.index, destination.index);
-      reorder(newItems);
+      setItems(newItems);
+      reorderApi(
+        databaseName,
+        itemsName,
+        newItems.map((item) => item.id),
+        field
+      );
     }
   };
 
@@ -38,7 +36,7 @@ const useDraggableItems = <T extends { id: number }>(
     isDragDisabled: items.length === 1,
   });
 
-  return { items, onDragEnd, reorder, getRowProps };
+  return { items, onDragEnd, getRowProps };
 };
 
 export default useDraggableItems;

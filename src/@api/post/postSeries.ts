@@ -7,19 +7,13 @@ import { ApiWave } from 'types/Wave';
 import messages from 'utils/apiValidators/apiValidators.messages';
 import { interpolate } from 'utils/interpolate';
 import pick from 'utils/pick';
-import reorderApi from '@api/reorder';
 
 const seriesFields: (keyof ApiSerie)[] = ['name', 'order', 'wave_id', 'is_filter'];
 const seriesRequiredFields: (keyof ApiSerie)[] = ['name', 'wave_id'];
 
-const postSeries: ApiHandler = async (req, res) => {
-  const { id: reqId, databaseName } = req.query as Record<string, string>;
-
-  if (reqId === 'reorder') {
-    return reorderApi(`db/${databaseName}/series`, 'series')(req, res);
-  }
-
-  return new Promise((resolve) => {
+const postSeries: ApiHandler = async (req, res) =>
+  new Promise((resolve) => {
+    const { id: reqId, databaseName } = req.query as Record<string, string>;
     const body: Partial<ApiSerie> = pick(JSON.parse(req.body), seriesFields);
     const emptyField = seriesRequiredFields.find((key) => !body[key] && body[key] !== 0);
 
@@ -91,6 +85,5 @@ const postSeries: ApiHandler = async (req, res) => {
       });
     });
   });
-};
 
 export default postSeries;

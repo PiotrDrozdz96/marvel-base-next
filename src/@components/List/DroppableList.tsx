@@ -13,13 +13,21 @@ import BaseDroppableList from './BaseDroppableList';
 type Props = {
   initialItems: { id: number }[];
   databaseName: string;
+  itemsName: string;
   labels: string[];
   rows: Record<number, ReactNode>;
   field?: OrderField;
 };
 
-const DroppableList = ({ databaseName, initialItems, field = 'order', labels, rows }: Props): JSX.Element => {
-  const { items, onDragEnd, getRowProps } = useDraggableItems(initialItems, databaseName, field);
+const DroppableList = ({
+  databaseName,
+  initialItems,
+  itemsName,
+  field = 'order',
+  labels,
+  rows,
+}: Props): JSX.Element => {
+  const { items, onDragEnd, getRowProps } = useDraggableItems(initialItems, databaseName, itemsName, field);
 
   return (
     <DragDropContext onDragEnd={onDragEnd}>
