@@ -30,7 +30,7 @@ const Preview = ({ items, databaseName, filters, wavesIds, seriesIds }: Props): 
       <div className={classes.filtersHeader}>{messages.filters}</div>
       <div className={classes.filtersOptions}>
         <div className={classes.link}>
-          <Link href={`/preview/${databaseName}}`}>{messages.clear}</Link>
+          <Link href={`/preview/${databaseName}`}>{messages.clear}</Link>
         </div>
         <div className={classes.link}>
           <Link href={`/preview/${databaseName}?wavesIds=[${filters.map(({ id }) => id)}]`}>{messages.showAll}</Link>
