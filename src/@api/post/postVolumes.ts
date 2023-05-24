@@ -1,73 +1,40 @@
+'use server';
+
 import fs from 'fs';
 
-import ApiHandler from 'types/ApiHandler';
 import { ApiVolume } from 'types/Volume';
 import JsonData from 'types/JsonData';
 import { ApiSerie } from 'types/Serie';
 import messages from 'utils/apiValidators/apiValidators.messages';
 import { interpolate } from 'utils/interpolate';
-import pick from 'utils/pick';
 import stringifyDataBase from 'utils/stringifyDatabase';
 
-const volumesField: (keyof ApiVolume)[] = [
-  'title',
-  'subtitle',
-  'image_url',
-  'date',
-  'serie_id',
-  'order',
-  'global_order',
-  'notebooks',
-  'is_event',
-  'event_id',
-];
-const requiredVolumesField: (keyof ApiVolume)[] = ['title', 'image_url', 'date', 'serie_id'];
-
-const postVolumes: ApiHandler = async (req, res) =>
+const postVolumes = async (databaseName: string, body: Partial<ApiVolume>, reqId?: number) =>
   new Promise((resolve) => {
-    const { id: reqId, databaseName } = req.query as Record<string, string>;
-    const body: Partial<ApiVolume> = pick(JSON.parse(req.body), volumesField);
-    const emptyField = requiredVolumesField.find((key) => !body[key] && body[key] !== 0);
-
-    if (emptyField) {
-      resolve(res.status(400).send({ message: interpolate(messages.required, { field: emptyField }) }));
-      return;
-    }
-
     fs.readFile(`src/database/db/${databaseName}/series.json`, 'utf8', (seriesErr, seriesData) => {
       if (seriesErr) {
-        resolve(res.status(404).json(seriesErr));
-        return;
+        throw seriesErr;
       }
 
       const { series } = JSON.parse(seriesData) as JsonData<'series', ApiSerie>;
       if (body.serie_id && !series[body.serie_id]) {
-        resolve(
-          res.status(400).send({
-            messages: interpolate(messages.relations, {
-              field: 'serie_id',
-              value: body.serie_id,
-              baseName: 'series',
-            }),
+        throw new Error(
+          interpolate(messages.relations, {
+            field: 'serie_id',
+            value: body.serie_id,
+            baseName: 'series',
           })
         );
-        return;
       }
 
       fs.readFile(`src/database/db/${databaseName}/volumes.json`, 'utf8', (err, data) => {
         if (err) {
-          resolve(res.status(404).json(err));
-          return;
+          throw err;
         }
 
         const { volumes, meta } = JSON.parse(data) as JsonData<'volumes', ApiVolume>;
         if (reqId && !volumes[reqId as unknown as number]) {
-          resolve(
-            res
-              .status(404)
-              .send({ message: interpolate(messages.notFound, { id: reqId, baseName: `${databaseName}/volumes` }) })
-          );
-          return;
+          throw new Error(interpolate(messages.notFound, { id: reqId, baseName: `${databaseName}/volumes` }));
         }
 
         const id = reqId || meta.nextIndex;
@@ -86,10 +53,9 @@ const postVolumes: ApiHandler = async (req, res) =>
 
         fs.writeFile(`src/database/db/${databaseName}/volumes.json`, stringifyDataBase(newDatabase), (writeErr) => {
           if (writeErr) {
-            resolve(res.status(500).json(writeErr));
-            return;
+            throw writeErr;
           }
-          resolve(res.status(200).json({ ...body, id }));
+          resolve({ ...body, id });
         });
       });
     });
