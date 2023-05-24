@@ -1,3 +1,5 @@
+'use server';
+
 import fs from 'fs';
 
 import { Alias, ApiAlias } from 'types/Alias';
