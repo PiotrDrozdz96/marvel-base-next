@@ -36,6 +36,7 @@ const useSubmit = <FM extends FormPartial<unknown>, Id extends number | string =
   const onSubmit = async (formValues: FM) => {
     await callback(databaseName, valuesConverter(formValues, { numberFields, nullableFields, additionalValues }), id);
     router.back();
+    router.refresh();
   };
 
   return onSubmit;
