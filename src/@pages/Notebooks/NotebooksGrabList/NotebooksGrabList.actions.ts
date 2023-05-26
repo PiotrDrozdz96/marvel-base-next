@@ -9,9 +9,9 @@ import { ApiNotebook } from 'types/Notebook';
 import { nameRegExp } from 'consts/connect';
 import parseDate from 'utils/parseDate';
 
-import { FormValues } from './Notebooks.types';
+import { FormValues } from './NotebooksGrabList.types';
 
-export const getNotebooks = async ({ url, from, to }: FormValues): Promise<ApiNotebook[]> =>
+export const grabNotebooks = async ({ url, from, to }: FormValues): Promise<ApiNotebook[]> =>
   new Promise((resolve) => {
     try {
       got.get(url).then((response) => {
