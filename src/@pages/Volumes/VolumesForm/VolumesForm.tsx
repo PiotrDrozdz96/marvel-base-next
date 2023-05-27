@@ -6,8 +6,8 @@ import routes from 'config/routes';
 import SelectOption from 'types/SelectOption';
 import { ApiVolume } from 'types/Volume';
 import FormPartial from 'types/FormPartial';
-import { Serie } from 'types/Serie';
 import postVolumes from '@api/post/postVolumes';
+import getSeries from '@api/get/front/getSeries';
 import { Form } from '@lib/react-final-form';
 import { NotebooksContext } from '@pages/Notebooks/NotebooksProvider';
 import FormActions from '@components/FormActions';
@@ -17,7 +17,6 @@ import Select, { SelectInput } from '@components/Select';
 import ImageInput from '@components/ImageInput';
 import Spacing from '@components/Spacing';
 import Switch from '@components/Switch';
-import getFetch from 'utils/getFetch';
 import useSubmit from 'hooks/useSubmit';
 
 import { numberFields, nullableFields } from '../VolumeForm.consts';
@@ -52,9 +51,7 @@ const VolumesForm = ({
 
   useEffect(() => {
     const fetchSeries = async () => {
-      const { series: newSeries } = await getFetch<{ series: Serie[] }>(`/api/db/${databaseName}/series`, {
-        wave_id: waveId,
-      });
+      const newSeries = await getSeries(databaseName, Number(waveId));
 
       setSeries(newSeries || []);
     };

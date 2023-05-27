@@ -17,7 +17,7 @@ const WavesShowPage: NextPage = async ({ params }) => {
     notFound();
   }
 
-  const series = await getSeries(databaseName, (serie) => serie.wave_id === Number(id));
+  const series = await getSeries(databaseName, Number(id));
 
   return <WavesShow item={item} series={series} databaseName={databaseName} />;
 };
