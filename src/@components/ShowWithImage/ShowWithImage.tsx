@@ -13,7 +13,7 @@ const ShowWithImage = ({ imageUrl, alt, children, ...props }: Props): JSX.Elemen
     <div className={classes.wrapper}>
       <div>{children}</div>
       <div>
-        <Image preset="preview" alt={alt} src={imageUrl} withLink />
+        <Image preset="preview" alt={alt} src={imageUrl} priority withLink />
       </div>
     </div>
   </Show>

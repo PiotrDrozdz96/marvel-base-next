@@ -48,7 +48,7 @@ const VolumesShow = ({ item, databaseName, notebooks, isPreview }: Props): JSX.E
                 href={`${wikiUrl}/${notebook.title_long}`}
                 openInNewTab
               >
-                <Book {...notebook} />
+                <Book {...notebook} priority />
               </Link>
             ))}
           </div>

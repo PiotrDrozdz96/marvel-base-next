@@ -96,7 +96,7 @@ const Preview = ({ items, databaseName, filters, wavesIds, seriesIds }: Props): 
       </Button>
     </div>
     <div className={classes.content}>
-      {items.map((item) => (
+      {items.map((item, index) => (
         <Link
           key={item.id}
           className={classes.previewElement}
@@ -105,7 +105,7 @@ const Preview = ({ items, databaseName, filters, wavesIds, seriesIds }: Props): 
             query: { databaseName, id: item.id },
           }}
         >
-          <Book {...item} />
+          <Book {...item} priority={index <= 21} />
         </Link>
       ))}
     </div>
