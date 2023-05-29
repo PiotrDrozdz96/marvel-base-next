@@ -8,19 +8,16 @@ const getDatabases = async (): Promise<Database[]> =>
     fs.readdir('src/database/db', (err, files) => {
       if (err) {
         reject();
-        return;
       }
 
       if (files.length === 0) {
         resolve([]);
-        return;
       }
 
       const result: Partial<Database>[] = files.map((name) => ({ name }));
       for (let i = 0; i <= files.length - 1; i += 1) {
         fastFolderSize(`src/database/db/${files[i]}`, (sizeErr, bytes) => {
           if (sizeErr) {
-            // todo bin//du.exe
             result[i].size = NaN;
           } else {
             result[i].size = bytes;

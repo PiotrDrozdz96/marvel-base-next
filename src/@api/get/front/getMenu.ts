@@ -1,3 +1,5 @@
+'ues server';
+
 import { ApiMenuItem, MenuItem } from 'types/Menu';
 
 import mapObjectToArray from 'utils/mapObjectToArray';

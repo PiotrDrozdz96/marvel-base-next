@@ -1,3 +1,5 @@
+'use server';
+
 import fs from 'fs';
 
 import JsonData from 'types/JsonData';

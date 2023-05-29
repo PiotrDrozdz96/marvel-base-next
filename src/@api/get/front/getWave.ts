@@ -1,3 +1,5 @@
+'use server';
+
 import { Wave } from 'types/Wave';
 import get from '@api/get';
 

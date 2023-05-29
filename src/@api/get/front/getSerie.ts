@@ -1,3 +1,5 @@
+'use server';
+
 import { FrontSerie } from 'types/Serie';
 import get from '@api/get';
 
