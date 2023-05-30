@@ -23,9 +23,11 @@ export const loaders: ImageLoader[] = [
   },
   {
     name: 'marvel wiki',
-    regExp: /(https:\/\/)(static|vignette)(.*\/scale-to-width-down\/)(\d+)/,
+    regExp: /(https:\/\/)(static|vignette)(.*)(\/revision\/.*)/,
     loader: (preset, [, protocol, , start]) =>
-      `${protocol}vignette${start}${preset === 'full' ? 700 : dimensions[preset]?.width}`,
+      `${protocol}vignette${start}/revision/latest/scale-to-width-down/${
+        preset === 'full' ? 700 : dimensions[preset]?.width
+      }`,
   },
   {
     name: 'gildia komiks sklep',

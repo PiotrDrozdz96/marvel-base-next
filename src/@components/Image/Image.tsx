@@ -12,7 +12,7 @@ import classes from './Image.module.scss';
 
 const Image = ({ preset, src, alt, withLink, onError, onLoad }: Props): JSX.Element => {
   const [finalSrc, srcLink] = useMemo(() => {
-    let result = [src, src];
+    let result = [`/api/img/${preset}?url=${src}`, src];
 
     loaders.find(({ regExp, loader }) => {
       const match = src.match(regExp);
