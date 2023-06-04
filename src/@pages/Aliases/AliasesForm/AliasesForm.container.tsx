@@ -5,7 +5,7 @@ import { Props } from './AliasesForm.types';
 import AliasesForm from './AliasesForm';
 
 const AliasesFormContainer = ({ initialValues, databaseName }: Props): JSX.Element => (
-  <FormContainer variant="create" messages={aliasesMessages}>
+  <FormContainer messages={aliasesMessages}>
     <AliasesForm initialValues={initialValues} databaseName={databaseName} />
   </FormContainer>
 );

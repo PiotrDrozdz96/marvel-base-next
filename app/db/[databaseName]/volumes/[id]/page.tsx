@@ -60,7 +60,6 @@ const VolumesFormPage: NextPage = async ({ params, searchParams }) => {
 
   return (
     <VolumesForm
-      variant={isCreate ? 'create' : 'edit'}
       id={isCreate ? undefined : id}
       databaseName={databaseName}
       initialValues={initialValues}

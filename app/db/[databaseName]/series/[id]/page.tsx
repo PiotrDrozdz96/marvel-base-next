@@ -40,7 +40,6 @@ const SeriesFormPage: NextPage = async ({ params, searchParams }) => {
 
   return (
     <SeriesForm
-      variant={isCreate ? 'create' : 'edit'}
       id={isCreate ? undefined : id}
       databaseName={databaseName}
       initialValues={initialValues}

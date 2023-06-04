@@ -13,13 +13,8 @@ import useSubmit from 'hooks/useSubmit';
 import wavesMessages from '../Waves.messages';
 import { Props } from './WavesForm.types';
 
-const WavesForm = ({ variant, initialValues, databaseName, id }: Props): JSX.Element => {
-  const onSubmit = useSubmit<FormPartial<ApiWave>>(
-    databaseName,
-    postWaves,
-    { numberFields: ['order'] },
-    variant === 'create' ? undefined : id
-  );
+const WavesForm = ({ initialValues, databaseName, id }: Props): JSX.Element => {
+  const onSubmit = useSubmit<FormPartial<ApiWave>>(databaseName, postWaves, { numberFields: ['order'] }, id);
 
   return (
     <Form<FormPartial<ApiWave>> initialValues={initialValues} messages={wavesMessages} onSubmit={onSubmit}>

@@ -20,7 +20,7 @@ const DatabaseFormPage: NextPage = async ({ params }) => {
     notFound();
   }
 
-  return <DatabaseForm initialValues={isCreate ? { name: '' } : { name: id }} variant={isCreate ? 'create' : 'edit'} />;
+  return <DatabaseForm initialValues={isCreate ? { name: '' } : { name: id }} />;
 };
 
 export default DatabaseFormPage;

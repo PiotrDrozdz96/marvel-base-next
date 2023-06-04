@@ -9,7 +9,6 @@ import { Props } from './VolumesForm.types';
 import VolumesForm from './VolumesForm';
 
 const VolumesFormContainer = ({
-  variant,
   initialValues,
   databaseName,
   id,
@@ -21,7 +20,6 @@ const VolumesFormContainer = ({
 }: Props): JSX.Element => (
   <NotebooksProvider initialVolumeNotebooks={initialVolumeNotebooks}>
     <FormContainer
-      variant={variant}
       messages={volumesMessages}
       id={id}
       showPathname={routes.volumes.id.show.href}
@@ -32,7 +30,6 @@ const VolumesFormContainer = ({
         series={series}
         waves={waves}
         events={events}
-        variant={variant}
         databaseName={databaseName}
         id={id}
         waveId={waveId}

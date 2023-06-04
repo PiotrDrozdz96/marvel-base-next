@@ -5,9 +5,8 @@ import databaseMessages from '../Database.messages';
 import { Props } from './DatabaseForm.types';
 import DatabaseForm from './DatabaseForm';
 
-const DatabaseFormContainer = ({ variant, initialValues }: Props): JSX.Element => (
+const DatabaseFormContainer = ({ initialValues }: Props): JSX.Element => (
   <FormContainer
-    variant={variant}
     messages={databaseMessages}
     id={initialValues.name}
     showPathname={routes.db.id.show.href}

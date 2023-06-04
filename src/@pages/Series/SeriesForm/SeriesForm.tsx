@@ -17,15 +17,10 @@ import { numberFields } from '../SeriesForm.consts';
 import seriesMessages from '../Series.messages';
 import { Props } from './SeriesForm.types';
 
-const SeriesForm = ({ variant, initialValues, databaseName, id, waves }: Props): JSX.Element => {
+const SeriesForm = ({ initialValues, databaseName, id, waves }: Props): JSX.Element => {
   const wavesOptions: SelectOption[] = waves.map(({ id: waveId, name }) => ({ value: `${waveId}`, label: name }));
 
-  const onSubmit = useSubmit<FormPartial<ApiSerie, 'is_filter'>>(
-    databaseName,
-    postSeries,
-    { numberFields },
-    variant === 'create' ? undefined : id
-  );
+  const onSubmit = useSubmit<FormPartial<ApiSerie, 'is_filter'>>(databaseName, postSeries, { numberFields }, id);
 
   return (
     <Form<FormPartial<ApiSerie, 'is_filter'>>

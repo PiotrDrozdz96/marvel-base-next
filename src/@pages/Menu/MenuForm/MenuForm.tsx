@@ -15,15 +15,10 @@ import { iconOptions, typeOptions, numberFields } from '../MenuForm.consts';
 import menuMessages from '../Menu.messages';
 import { Props } from './MenuForm.types';
 
-const MenuForm = ({ menu, initialValues, variant, itemId }: Props): JSX.Element => {
+const MenuForm = ({ menu, initialValues, itemId }: Props): JSX.Element => {
   const menuOptions: SelectOption[] = menu.map(({ id, name }) => ({ value: `${id}`, label: name }));
 
-  const onSubmit = useSubmit<FormPartial<ApiMenuItem>>(
-    '',
-    postMenu,
-    { numberFields },
-    variant === 'create' ? undefined : itemId
-  );
+  const onSubmit = useSubmit<FormPartial<ApiMenuItem>>('', postMenu, { numberFields }, itemId);
 
   return (
     <Form initialValues={initialValues} onSubmit={onSubmit}>

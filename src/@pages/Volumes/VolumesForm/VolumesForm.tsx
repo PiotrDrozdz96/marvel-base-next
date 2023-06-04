@@ -28,7 +28,6 @@ type Props = Omit<ContainerProps, 'volumeNotebooks'> & {
 };
 
 const VolumesForm = ({
-  variant,
   initialValues,
   databaseName,
   waves,
@@ -67,7 +66,7 @@ const VolumesForm = ({
     databaseName,
     postVolumes,
     { numberFields, nullableFields, additionalValues: { notebooks: notebooksTitles } },
-    variant === 'create' ? undefined : id
+    id
   );
 
   return (

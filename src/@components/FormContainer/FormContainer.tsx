@@ -1,7 +1,6 @@
 import { ReactNode } from 'react';
 import { UrlObject } from 'url';
 
-import FormVariant from 'types/FormVariant';
 import Container from '@components/Container';
 import Paper from '@components/Paper';
 import Toolbar from '@components/Toolbar';
@@ -9,7 +8,6 @@ import ActionButton from '@components/ActionButton';
 import { interpolate } from 'utils/interpolate';
 
 type Props = {
-  variant: FormVariant;
   messages: {
     createName: string;
     editName: string;
@@ -21,10 +19,10 @@ type Props = {
   children: ReactNode;
 };
 
-const FormContainer = ({ variant, messages, id, actions, showPathname, children, query }: Props): JSX.Element => (
+const FormContainer = ({ messages, id, actions, showPathname, children, query }: Props): JSX.Element => (
   <Container>
-    <Toolbar name={variant === 'create' ? messages.createName : interpolate(messages.editName, { id })}>
-      {variant === 'edit' && !!showPathname && (
+    <Toolbar name={!id ? messages.createName : interpolate(messages.editName, { id })}>
+      {id && !!showPathname && (
         <ActionButton variant="show" href={{ pathname: showPathname, query: query || { id } }} />
       )}
       {actions}

@@ -36,14 +36,7 @@ const MenuPage: NextPage = async ({ params, searchParams }) => {
       }
     : { ...defaultValues, type: type || defaultValues.type, parent_id: parentId || defaultValues.parent_id };
 
-  return (
-    <MenuForm
-      menu={mapRawMenu(rawMenu)}
-      variant={isCreate ? 'create' : 'edit'}
-      itemId={isCreate ? undefined : id}
-      initialValues={initialValues}
-    />
-  );
+  return <MenuForm menu={mapRawMenu(rawMenu)} itemId={isCreate ? undefined : id} initialValues={initialValues} />;
 };
 
 export default MenuPage;

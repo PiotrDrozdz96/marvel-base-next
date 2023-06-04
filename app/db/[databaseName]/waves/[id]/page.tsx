@@ -28,14 +28,7 @@ const WavesFormPage: NextPage = async ({ params }) => {
 
   const initialValues = !isCreate ? (waves[id] as unknown as FormPartial<ApiWave>) : { name: '', order: '' };
 
-  return (
-    <WavesForm
-      variant={isCreate ? 'create' : 'edit'}
-      id={isCreate ? undefined : id}
-      databaseName={databaseName}
-      initialValues={initialValues}
-    />
-  );
+  return <WavesForm id={isCreate ? undefined : id} databaseName={databaseName} initialValues={initialValues} />;
 };
 
 export default WavesFormPage;
