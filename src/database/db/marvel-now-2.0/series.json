@@ -137,9 +137,15 @@
       "order": 40,
       "wave_id": 1,
       "is_filter": true
+    },
+    "24": {
+      "name": "Silver Surfer",
+      "order": 23,
+      "wave_id": 6,
+      "is_filter": true
     }
   },
   "meta": {
-    "nextIndex": 24
+    "nextIndex": 25
   }
 }

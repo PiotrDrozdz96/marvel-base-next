@@ -9,7 +9,17 @@
       "order": 1,
       "global_order": 0,
       "event_id": null,
-      "notebooks": ["Daredevil_Vol_1_158","Daredevil_Vol_1_159","Daredevil_Vol_1_160","Daredevil_Vol_1_161","Daredevil_Vol_1_163","Daredevil_Vol_1_164","Daredevil_Vol_1_165","Daredevil_Vol_1_166","Daredevil_Vol_1_167"]
+      "notebooks": [
+        "Daredevil_Vol_1_158",
+        "Daredevil_Vol_1_159",
+        "Daredevil_Vol_1_160",
+        "Daredevil_Vol_1_161",
+        "Daredevil_Vol_1_163",
+        "Daredevil_Vol_1_164",
+        "Daredevil_Vol_1_165",
+        "Daredevil_Vol_1_166",
+        "Daredevil_Vol_1_167"
+      ]
     },
     "2": {
       "title": "Daredevil",
@@ -20,7 +30,23 @@
       "order": 1,
       "global_order": 1,
       "event_id": null,
-      "notebooks": ["Daredevil_Vol_1_168","Daredevil_Vol_1_169","Daredevil_Vol_1_170","Daredevil_Vol_1_171","Daredevil_Vol_1_172","Daredevil_Vol_1_173","Daredevil_Vol_1_174","Daredevil_Vol_1_175","Daredevil_Vol_1_176","Daredevil_Vol_1_177","Daredevil_Vol_1_178","Daredevil_Vol_1_179","Daredevil_Vol_1_180","Daredevil_Vol_1_181","Daredevil_Vol_1_182"]
+      "notebooks": [
+        "Daredevil_Vol_1_168",
+        "Daredevil_Vol_1_169",
+        "Daredevil_Vol_1_170",
+        "Daredevil_Vol_1_171",
+        "Daredevil_Vol_1_172",
+        "Daredevil_Vol_1_173",
+        "Daredevil_Vol_1_174",
+        "Daredevil_Vol_1_175",
+        "Daredevil_Vol_1_176",
+        "Daredevil_Vol_1_177",
+        "Daredevil_Vol_1_178",
+        "Daredevil_Vol_1_179",
+        "Daredevil_Vol_1_180",
+        "Daredevil_Vol_1_181",
+        "Daredevil_Vol_1_182"
+      ]
     },
     "3": {
       "title": "Daredevil",
@@ -31,7 +57,17 @@
       "order": 2,
       "global_order": 2,
       "event_id": null,
-      "notebooks": ["Daredevil_Vol_1_183","Daredevil_Vol_1_184","Daredevil_Vol_1_185","Daredevil_Vol_1_186","Daredevil_Vol_1_187","Daredevil_Vol_1_188","Daredevil_Vol_1_189","Daredevil_Vol_1_190","Daredevil_Vol_1_191"]
+      "notebooks": [
+        "Daredevil_Vol_1_183",
+        "Daredevil_Vol_1_184",
+        "Daredevil_Vol_1_185",
+        "Daredevil_Vol_1_186",
+        "Daredevil_Vol_1_187",
+        "Daredevil_Vol_1_188",
+        "Daredevil_Vol_1_189",
+        "Daredevil_Vol_1_190",
+        "Daredevil_Vol_1_191"
+      ]
     },
     "4": {
       "title": "Daredevil",
@@ -42,7 +78,22 @@
       "order": 3,
       "global_order": 3,
       "event_id": null,
-      "notebooks": ["Daredevil_Vol_1_219","Daredevil_Vol_1_226","Daredevil_Vol_1_227","Daredevil_Vol_1_228","Daredevil_Vol_1_229","Daredevil_Vol_1_230","Daredevil_Vol_1_231","Daredevil_Vol_1_232","Daredevil_Vol_1_233","Daredevil:_The_Man_Without_Fear_Vol_1_1","Daredevil:_The_Man_Without_Fear_Vol_1_2","Daredevil:_The_Man_Without_Fear_Vol_1_3","Daredevil:_The_Man_Without_Fear_Vol_1_4","Daredevil:_The_Man_Without_Fear_Vol_1_5"]
+      "notebooks": [
+        "Daredevil_Vol_1_219",
+        "Daredevil_Vol_1_226",
+        "Daredevil_Vol_1_227",
+        "Daredevil_Vol_1_228",
+        "Daredevil_Vol_1_229",
+        "Daredevil_Vol_1_230",
+        "Daredevil_Vol_1_231",
+        "Daredevil_Vol_1_232",
+        "Daredevil_Vol_1_233",
+        "Daredevil:_The_Man_Without_Fear_Vol_1_1",
+        "Daredevil:_The_Man_Without_Fear_Vol_1_2",
+        "Daredevil:_The_Man_Without_Fear_Vol_1_3",
+        "Daredevil:_The_Man_Without_Fear_Vol_1_4",
+        "Daredevil:_The_Man_Without_Fear_Vol_1_5"
+      ]
     },
     "5": {
       "title": "Daredevil",
@@ -51,9 +102,37 @@
       "date": "2001-04-01T10:38:29.000Z",
       "serie_id": 2,
       "order": 4,
-      "global_order": 20,
+      "global_order": 21,
       "event_id": null,
-      "notebooks": ["Daredevil_Vol_2_0","Daredevil_Vol_2_1","Daredevil_Vol_2_2","Daredevil_Vol_2_3","Daredevil_Vol_2_4","Daredevil_Vol_2_5","Daredevil_Vol_2_6","Daredevil_Vol_2_7","Daredevil_Vol_2_8","Daredevil_Vol_2_9","Daredevil_Vol_2_10","Daredevil_Vol_2_11","Daredevil_Vol_2_12","Daredevil_Vol_2_13","Daredevil_Vol_2_14","Daredevil_Vol_2_15","Daredevil_Vol_2_20","Daredevil_Vol_2_21","Daredevil_Vol_2_22","Daredevil_Vol_2_23","Daredevil_Vol_2_24","Daredevil_Vol_2_25","Daredevil_Vol_2_51","Daredevil_Vol_2_52","Daredevil_Vol_2_53","Daredevil_Vol_2_54","Daredevil_Vol_2_55"]
+      "notebooks": [
+        "Daredevil_Vol_2_0",
+        "Daredevil_Vol_2_1",
+        "Daredevil_Vol_2_2",
+        "Daredevil_Vol_2_3",
+        "Daredevil_Vol_2_4",
+        "Daredevil_Vol_2_5",
+        "Daredevil_Vol_2_6",
+        "Daredevil_Vol_2_7",
+        "Daredevil_Vol_2_8",
+        "Daredevil_Vol_2_9",
+        "Daredevil_Vol_2_10",
+        "Daredevil_Vol_2_11",
+        "Daredevil_Vol_2_12",
+        "Daredevil_Vol_2_13",
+        "Daredevil_Vol_2_14",
+        "Daredevil_Vol_2_15",
+        "Daredevil_Vol_2_20",
+        "Daredevil_Vol_2_21",
+        "Daredevil_Vol_2_22",
+        "Daredevil_Vol_2_23",
+        "Daredevil_Vol_2_24",
+        "Daredevil_Vol_2_25",
+        "Daredevil_Vol_2_51",
+        "Daredevil_Vol_2_52",
+        "Daredevil_Vol_2_53",
+        "Daredevil_Vol_2_54",
+        "Daredevil_Vol_2_55"
+      ]
     },
     "6": {
       "title": "Daredevil",
@@ -62,9 +141,29 @@
       "date": "2003-02-01T11:40:41.000Z",
       "serie_id": 2,
       "order": 5,
-      "global_order": 29,
+      "global_order": 31,
       "event_id": null,
-      "notebooks": ["Daredevil_Vol_2_16","Daredevil_Vol_2_17","Daredevil_Vol_2_18","Daredevil_Vol_2_19","Daredevil_Vol_2_26","Daredevil_Vol_2_27","Daredevil_Vol_2_28","Daredevil_Vol_2_29","Daredevil_Vol_2_30","Daredevil_Vol_2_31","Daredevil_Vol_2_32","Daredevil_Vol_2_33","Daredevil_Vol_2_34","Daredevil_Vol_2_35","Daredevil_Vol_2_36","Daredevil_Vol_2_37","Daredevil_Vol_2_38","Daredevil_Vol_2_39","Daredevil_Vol_2_40"]
+      "notebooks": [
+        "Daredevil_Vol_2_16",
+        "Daredevil_Vol_2_17",
+        "Daredevil_Vol_2_18",
+        "Daredevil_Vol_2_19",
+        "Daredevil_Vol_2_26",
+        "Daredevil_Vol_2_27",
+        "Daredevil_Vol_2_28",
+        "Daredevil_Vol_2_29",
+        "Daredevil_Vol_2_30",
+        "Daredevil_Vol_2_31",
+        "Daredevil_Vol_2_32",
+        "Daredevil_Vol_2_33",
+        "Daredevil_Vol_2_34",
+        "Daredevil_Vol_2_35",
+        "Daredevil_Vol_2_36",
+        "Daredevil_Vol_2_37",
+        "Daredevil_Vol_2_38",
+        "Daredevil_Vol_2_39",
+        "Daredevil_Vol_2_40"
+      ]
     },
     "7": {
       "title": "Daredevil",
@@ -73,9 +172,25 @@
       "date": "2004-07-01T10:42:21.000Z",
       "serie_id": 2,
       "order": 6,
-      "global_order": 38,
+      "global_order": 40,
       "event_id": null,
-      "notebooks": ["Daredevil_Vol_2_41","Daredevil_Vol_2_42","Daredevil_Vol_2_43","Daredevil_Vol_2_44","Daredevil_Vol_2_45","Daredevil_Vol_2_46","Daredevil_Vol_2_47","Daredevil_Vol_2_48","Daredevil_Vol_2_49","Daredevil_Vol_2_50","Daredevil_Vol_2_56","Daredevil_Vol_2_57","Daredevil_Vol_2_58","Daredevil_Vol_2_59","Daredevil_Vol_2_60"]
+      "notebooks": [
+        "Daredevil_Vol_2_41",
+        "Daredevil_Vol_2_42",
+        "Daredevil_Vol_2_43",
+        "Daredevil_Vol_2_44",
+        "Daredevil_Vol_2_45",
+        "Daredevil_Vol_2_46",
+        "Daredevil_Vol_2_47",
+        "Daredevil_Vol_2_48",
+        "Daredevil_Vol_2_49",
+        "Daredevil_Vol_2_50",
+        "Daredevil_Vol_2_56",
+        "Daredevil_Vol_2_57",
+        "Daredevil_Vol_2_58",
+        "Daredevil_Vol_2_59",
+        "Daredevil_Vol_2_60"
+      ]
     },
     "8": {
       "title": "Daredevil",
@@ -84,9 +199,26 @@
       "date": "2006-01-25T11:44:33.000Z",
       "serie_id": 2,
       "order": 7,
-      "global_order": 46,
+      "global_order": 50,
       "event_id": null,
-      "notebooks": ["Daredevil_Vol_2_66","Daredevil_Vol_2_67","Daredevil_Vol_2_68","Daredevil_Vol_2_69","Daredevil_Vol_2_70","Daredevil_Vol_2_71","Daredevil_Vol_2_72","Daredevil_Vol_2_73","Daredevil_Vol_2_74","Daredevil_Vol_2_75","Daredevil_Vol_2_76","Daredevil_Vol_2_77","Daredevil_Vol_2_78","Daredevil_Vol_2_79","Daredevil_Vol_2_80","Daredevil_Vol_2_81"]
+      "notebooks": [
+        "Daredevil_Vol_2_66",
+        "Daredevil_Vol_2_67",
+        "Daredevil_Vol_2_68",
+        "Daredevil_Vol_2_69",
+        "Daredevil_Vol_2_70",
+        "Daredevil_Vol_2_71",
+        "Daredevil_Vol_2_72",
+        "Daredevil_Vol_2_73",
+        "Daredevil_Vol_2_74",
+        "Daredevil_Vol_2_75",
+        "Daredevil_Vol_2_76",
+        "Daredevil_Vol_2_77",
+        "Daredevil_Vol_2_78",
+        "Daredevil_Vol_2_79",
+        "Daredevil_Vol_2_80",
+        "Daredevil_Vol_2_81"
+      ]
     },
     "9": {
       "title": "Daredevil",
@@ -95,9 +227,22 @@
       "date": "2007-03-01T11:47:34.000Z",
       "serie_id": 2,
       "order": 8,
-      "global_order": 58,
+      "global_order": 62,
       "event_id": null,
-      "notebooks": ["Daredevil_Vol_2_82","Daredevil_Vol_2_83","Daredevil_Vol_2_84","Daredevil_Vol_2_85","Daredevil_Vol_2_86","Daredevil_Vol_2_87","Daredevil_Vol_2_88","Daredevil_Vol_2_89","Daredevil_Vol_2_90","Daredevil_Vol_2_91","Daredevil_Vol_2_92","Daredevil_Vol_2_93"]
+      "notebooks": [
+        "Daredevil_Vol_2_82",
+        "Daredevil_Vol_2_83",
+        "Daredevil_Vol_2_84",
+        "Daredevil_Vol_2_85",
+        "Daredevil_Vol_2_86",
+        "Daredevil_Vol_2_87",
+        "Daredevil_Vol_2_88",
+        "Daredevil_Vol_2_89",
+        "Daredevil_Vol_2_90",
+        "Daredevil_Vol_2_91",
+        "Daredevil_Vol_2_92",
+        "Daredevil_Vol_2_93"
+      ]
     },
     "10": {
       "title": "Daredevil",
@@ -106,9 +251,22 @@
       "date": "2008-04-01T10:48:55.000Z",
       "serie_id": 2,
       "order": 9,
-      "global_order": 69,
+      "global_order": 73,
       "event_id": null,
-      "notebooks": ["Daredevil_Vol_2_94","Daredevil_Vol_2_95","Daredevil_Vol_2_96","Daredevil_Vol_2_97","Daredevil_Vol_2_98","Daredevil_Vol_2_99","Daredevil_Vol_2_100","Daredevil_Vol_2_101","Daredevil_Vol_2_102","Daredevil_Vol_2_103","Daredevil_Vol_2_104","Daredevil_Vol_2_105"]
+      "notebooks": [
+        "Daredevil_Vol_2_94",
+        "Daredevil_Vol_2_95",
+        "Daredevil_Vol_2_96",
+        "Daredevil_Vol_2_97",
+        "Daredevil_Vol_2_98",
+        "Daredevil_Vol_2_99",
+        "Daredevil_Vol_2_100",
+        "Daredevil_Vol_2_101",
+        "Daredevil_Vol_2_102",
+        "Daredevil_Vol_2_103",
+        "Daredevil_Vol_2_104",
+        "Daredevil_Vol_2_105"
+      ]
     },
     "11": {
       "title": "Daredevil",
@@ -116,10 +274,25 @@
       "date": "2009-06-24T10:50:06.000Z",
       "serie_id": 2,
       "order": 10,
-      "global_order": 77,
+      "global_order": 81,
       "subtitle": "Nieustraszony - Tom 6",
       "event_id": null,
-      "notebooks": ["Daredevil_Vol_2_106","Daredevil_Vol_2_107","Daredevil_Vol_2_108","Daredevil_Vol_2_109","Daredevil_Vol_2_110","Daredevil_Vol_2_111","Daredevil_Vol_2_112","Daredevil_Vol_2_113","Daredevil_Vol_2_114","Daredevil_Vol_2_115","Daredevil_Vol_2_116","Daredevil_Vol_2_117","Daredevil_Vol_2_118","Daredevil_Vol_2_119"]
+      "notebooks": [
+        "Daredevil_Vol_2_106",
+        "Daredevil_Vol_2_107",
+        "Daredevil_Vol_2_108",
+        "Daredevil_Vol_2_109",
+        "Daredevil_Vol_2_110",
+        "Daredevil_Vol_2_111",
+        "Daredevil_Vol_2_112",
+        "Daredevil_Vol_2_113",
+        "Daredevil_Vol_2_114",
+        "Daredevil_Vol_2_115",
+        "Daredevil_Vol_2_116",
+        "Daredevil_Vol_2_117",
+        "Daredevil_Vol_2_118",
+        "Daredevil_Vol_2_119"
+      ]
     },
     "12": {
       "title": "Daredevil",
@@ -128,9 +301,33 @@
       "date": "2011-05-11T10:57:44.000Z",
       "serie_id": 2,
       "order": 11,
-      "global_order": 91,
+      "global_order": 98,
       "event_id": null,
-      "notebooks": ["Daredevil_Vol_1_500","Daredevil_Vol_1_501","Daredevil_Vol_1_502","Daredevil_Vol_1_503","Daredevil_Vol_1_504","Daredevil_Vol_1_505","Daredevil_Vol_1_506","Daredevil_Vol_1_507","Daredevil_Vol_1_508","Daredevil_Vol_1_509","Daredevil_Vol_1_510","Daredevil_Vol_1_511","Shadowland_Vol_1_1","Shadowland_Vol_1_2","Shadowland_Vol_1_3","Shadowland_Vol_1_4","Shadowland_Vol_1_5","Shadowland:_After_the_Fall_Vol_1_1","Daredevil_Vol_1_512","Daredevil:_Reborn_Vol_1_1","Daredevil:_Reborn_Vol_1_2","Daredevil:_Reborn_Vol_1_3","Daredevil:_Reborn_Vol_1_4"]
+      "notebooks": [
+        "Daredevil_Vol_1_500",
+        "Daredevil_Vol_1_501",
+        "Daredevil_Vol_1_502",
+        "Daredevil_Vol_1_503",
+        "Daredevil_Vol_1_504",
+        "Daredevil_Vol_1_505",
+        "Daredevil_Vol_1_506",
+        "Daredevil_Vol_1_507",
+        "Daredevil_Vol_1_508",
+        "Daredevil_Vol_1_509",
+        "Daredevil_Vol_1_510",
+        "Daredevil_Vol_1_511",
+        "Shadowland_Vol_1_1",
+        "Shadowland_Vol_1_2",
+        "Shadowland_Vol_1_3",
+        "Shadowland_Vol_1_4",
+        "Shadowland_Vol_1_5",
+        "Shadowland:_After_the_Fall_Vol_1_1",
+        "Daredevil_Vol_1_512",
+        "Daredevil:_Reborn_Vol_1_1",
+        "Daredevil:_Reborn_Vol_1_2",
+        "Daredevil:_Reborn_Vol_1_3",
+        "Daredevil:_Reborn_Vol_1_4"
+      ]
     },
     "13": {
       "title": "Elektra - Assassin",
@@ -141,7 +338,16 @@
       "order": 12,
       "global_order": 4,
       "event_id": null,
-      "notebooks": ["Elektra_Assassin_Vol_1_1","Elektra_Assassin_Vol_1_2","Elektra_Assassin_Vol_1_3","Elektra_Assassin_Vol_1_4","Elektra_Assassin_Vol_1_5","Elektra_Assassin_Vol_1_6","Elektra_Assassin_Vol_1_7","Elektra_Assassin_Vol_1_8"]
+      "notebooks": [
+        "Elektra_Assassin_Vol_1_1",
+        "Elektra_Assassin_Vol_1_2",
+        "Elektra_Assassin_Vol_1_3",
+        "Elektra_Assassin_Vol_1_4",
+        "Elektra_Assassin_Vol_1_5",
+        "Elektra_Assassin_Vol_1_6",
+        "Elektra_Assassin_Vol_1_7",
+        "Elektra_Assassin_Vol_1_8"
+      ]
     },
     "14": {
       "title": "Wojna Domowa",
@@ -150,9 +356,17 @@
       "date": "2007-02-21T11:39:22.000Z",
       "serie_id": 4,
       "order": 13,
-      "global_order": 56,
+      "global_order": 60,
       "event_id": null,
-      "notebooks": ["Civil_War_Vol_1_1","Civil_War_Vol_1_2","Civil_War_Vol_1_3","Civil_War_Vol_1_4","Civil_War_Vol_1_5","Civil_War_Vol_1_6","Civil_War_Vol_1_7"]
+      "notebooks": [
+        "Civil_War_Vol_1_1",
+        "Civil_War_Vol_1_2",
+        "Civil_War_Vol_1_3",
+        "Civil_War_Vol_1_4",
+        "Civil_War_Vol_1_5",
+        "Civil_War_Vol_1_6",
+        "Civil_War_Vol_1_7"
+      ]
     },
     "15": {
       "title": "Anihilacja",
@@ -161,9 +375,19 @@
       "date": "2006-07-19T10:50:07.000Z",
       "serie_id": 5,
       "order": 14,
-      "global_order": 51,
+      "global_order": 55,
       "event_id": null,
-      "notebooks": ["Drax_the_Destroyer_Vol_1_1","Drax_the_Destroyer_Vol_1_2","Drax_the_Destroyer_Vol_1_3","Drax_the_Destroyer_Vol_1_4","Annihilation:_Prologue_Vol_1_1","Annihilation:_Nova_Vol_1_1","Annihilation:_Nova_Vol_1_2","Annihilation:_Nova_Vol_1_3","Annihilation:_Nova_Vol_1_4"]
+      "notebooks": [
+        "Drax_the_Destroyer_Vol_1_1",
+        "Drax_the_Destroyer_Vol_1_2",
+        "Drax_the_Destroyer_Vol_1_3",
+        "Drax_the_Destroyer_Vol_1_4",
+        "Annihilation:_Prologue_Vol_1_1",
+        "Annihilation:_Nova_Vol_1_1",
+        "Annihilation:_Nova_Vol_1_2",
+        "Annihilation:_Nova_Vol_1_3",
+        "Annihilation:_Nova_Vol_1_4"
+      ]
     },
     "16": {
       "title": "Anihilacja",
@@ -172,9 +396,22 @@
       "date": "2006-07-26T10:52:42.000Z",
       "serie_id": 5,
       "order": 15,
-      "global_order": 52,
+      "global_order": 56,
       "event_id": null,
-      "notebooks": ["Annihilation:_Super-Skrull_Vol_1_1","Annihilation:_Super-Skrull_Vol_1_2","Annihilation:_Super-Skrull_Vol_1_3","Annihilation:_Super-Skrull_Vol_1_4","Annihilation:_Ronan_Vol_1_1","Annihilation:_Ronan_Vol_1_2","Annihilation:_Ronan_Vol_1_3","Annihilation:_Ronan_Vol_1_4","Annihilation:_Silver_Surfer_Vol_1_1","Annihilation:_Silver_Surfer_Vol_1_2","Annihilation:_Silver_Surfer_Vol_1_3","Annihilation:_Silver_Surfer_Vol_1_4"]
+      "notebooks": [
+        "Annihilation:_Super-Skrull_Vol_1_1",
+        "Annihilation:_Super-Skrull_Vol_1_2",
+        "Annihilation:_Super-Skrull_Vol_1_3",
+        "Annihilation:_Super-Skrull_Vol_1_4",
+        "Annihilation:_Ronan_Vol_1_1",
+        "Annihilation:_Ronan_Vol_1_2",
+        "Annihilation:_Ronan_Vol_1_3",
+        "Annihilation:_Ronan_Vol_1_4",
+        "Annihilation:_Silver_Surfer_Vol_1_1",
+        "Annihilation:_Silver_Surfer_Vol_1_2",
+        "Annihilation:_Silver_Surfer_Vol_1_3",
+        "Annihilation:_Silver_Surfer_Vol_1_4"
+      ]
     },
     "17": {
       "title": "Anihilacja",
@@ -183,9 +420,19 @@
       "date": "2007-04-04T10:54:48.000Z",
       "serie_id": 5,
       "order": 16,
-      "global_order": 59,
+      "global_order": 63,
       "event_id": null,
-      "notebooks": ["Annihilation_Vol_1_1","Annihilation_Vol_1_2","Annihilation_Vol_1_3","Annihilation_Vol_1_4","Annihilation_Vol_1_5","Annihilation_Vol_1_6","Annihilation:_Heralds_of_Galactus_Vol_1_1","Annihilation:_Heralds_of_Galactus_Vol_1_2","Annihilation:_The_Nova_Corps_Files_Vol_1_1"]
+      "notebooks": [
+        "Annihilation_Vol_1_1",
+        "Annihilation_Vol_1_2",
+        "Annihilation_Vol_1_3",
+        "Annihilation_Vol_1_4",
+        "Annihilation_Vol_1_5",
+        "Annihilation_Vol_1_6",
+        "Annihilation:_Heralds_of_Galactus_Vol_1_1",
+        "Annihilation:_Heralds_of_Galactus_Vol_1_2",
+        "Annihilation:_The_Nova_Corps_Files_Vol_1_1"
+      ]
     },
     "18": {
       "title": "Anihilacja",
@@ -194,9 +441,20 @@
       "date": "2007-10-31T11:03:05.000Z",
       "serie_id": 5,
       "order": 17,
-      "global_order": 64,
+      "global_order": 68,
       "event_id": null,
-      "notebooks": ["Annihilation:_Conquest_Prologue_Vol_1_1","Annihilation:_Conquest_-_Quasar_Vol_1_1","Annihilation:_Conquest_-_Quasar_Vol_1_2","Annihilation:_Conquest_-_Quasar_Vol_1_3","Annihilation:_Conquest_-_Quasar_Vol_1_4","Annihilation:_Conquest_-_Starlord_Vol_1_1","Annihilation:_Conquest_-_Starlord_Vol_1_2","Annihilation:_Conquest_-_Starlord_Vol_1_3","Annihilation:_Conquest_-_Starlord_Vol_1_4","Annihilation:_Saga_Vol_1_1"]
+      "notebooks": [
+        "Annihilation:_Conquest_Prologue_Vol_1_1",
+        "Annihilation:_Conquest_-_Quasar_Vol_1_1",
+        "Annihilation:_Conquest_-_Quasar_Vol_1_2",
+        "Annihilation:_Conquest_-_Quasar_Vol_1_3",
+        "Annihilation:_Conquest_-_Quasar_Vol_1_4",
+        "Annihilation:_Conquest_-_Starlord_Vol_1_1",
+        "Annihilation:_Conquest_-_Starlord_Vol_1_2",
+        "Annihilation:_Conquest_-_Starlord_Vol_1_3",
+        "Annihilation:_Conquest_-_Starlord_Vol_1_4",
+        "Annihilation:_Saga_Vol_1_1"
+      ]
     },
     "19": {
       "title": "Anihilacja",
@@ -205,9 +463,24 @@
       "date": "2008-04-16T10:30:44.000Z",
       "serie_id": 5,
       "order": 18,
-      "global_order": 70,
+      "global_order": 74,
       "event_id": null,
-      "notebooks": ["Annihilation:_Conquest_-_Wraith_Vol_1_1","Annihilation:_Conquest_-_Wraith_Vol_1_2","Annihilation:_Conquest_-_Wraith_Vol_1_3","Annihilation:_Conquest_-_Wraith_Vol_1_4","Nova_Vol_4_4","Nova_Vol_4_5","Nova_Vol_4_6","Nova_Vol_4_7","Annihilation:_Conquest_Vol_1_1","Annihilation:_Conquest_Vol_1_2","Annihilation:_Conquest_Vol_1_3","Annihilation:_Conquest_Vol_1_4","Annihilation:_Conquest_Vol_1_5","Annihilation:_Conquest_Vol_1_6"]
+      "notebooks": [
+        "Annihilation:_Conquest_-_Wraith_Vol_1_1",
+        "Annihilation:_Conquest_-_Wraith_Vol_1_2",
+        "Annihilation:_Conquest_-_Wraith_Vol_1_3",
+        "Annihilation:_Conquest_-_Wraith_Vol_1_4",
+        "Nova_Vol_4_4",
+        "Nova_Vol_4_5",
+        "Nova_Vol_4_6",
+        "Nova_Vol_4_7",
+        "Annihilation:_Conquest_Vol_1_1",
+        "Annihilation:_Conquest_Vol_1_2",
+        "Annihilation:_Conquest_Vol_1_3",
+        "Annihilation:_Conquest_Vol_1_4",
+        "Annihilation:_Conquest_Vol_1_5",
+        "Annihilation:_Conquest_Vol_1_6"
+      ]
     },
     "20": {
       "title": "Deadpool",
@@ -216,9 +489,20 @@
       "date": "1997-01-01T11:16:45.000Z",
       "serie_id": 6,
       "order": 19,
-      "global_order": 14,
+      "global_order": 15,
       "event_id": null,
-      "notebooks": ["New_Mutants_Vol_1_98","Deadpool_Vol_1_1","Deadpool:_The_Circle_Chase_Vol_1_2","Deadpool:_The_Circle_Chase_Vol_1_3","Deadpool:_The_Circle_Chase_Vol_1_4","Deadpool_Vol_2_1","Deadpool_Vol_2_2","Deadpool_Vol_2_3","Deadpool_Vol_2_4","Deadpool_Vol_3_1"]
+      "notebooks": [
+        "New_Mutants_Vol_1_98",
+        "Deadpool_Vol_1_1",
+        "Deadpool:_The_Circle_Chase_Vol_1_2",
+        "Deadpool:_The_Circle_Chase_Vol_1_3",
+        "Deadpool:_The_Circle_Chase_Vol_1_4",
+        "Deadpool_Vol_2_1",
+        "Deadpool_Vol_2_2",
+        "Deadpool_Vol_2_3",
+        "Deadpool_Vol_2_4",
+        "Deadpool_Vol_3_1"
+      ]
     },
     "21": {
       "title": "Deadpool",
@@ -227,9 +511,17 @@
       "date": "1997-07-30T10:21:25.000Z",
       "serie_id": 6,
       "order": 20,
-      "global_order": 15,
+      "global_order": 16,
       "event_id": null,
-      "notebooks": ["Deadpool_Vol_3_2","Deadpool_Vol_3_3","Deadpool_Vol_3_4","Deadpool_Vol_3_5","Deadpool_Vol_3_6","Deadpool_Vol_3_7","Deadpool_Vol_3_8"]
+      "notebooks": [
+        "Deadpool_Vol_3_2",
+        "Deadpool_Vol_3_3",
+        "Deadpool_Vol_3_4",
+        "Deadpool_Vol_3_5",
+        "Deadpool_Vol_3_6",
+        "Deadpool_Vol_3_7",
+        "Deadpool_Vol_3_8"
+      ]
     },
     "22": {
       "title": "Deadpool",
@@ -238,9 +530,19 @@
       "date": "1998-06-01T10:22:49.000Z",
       "serie_id": 6,
       "order": 21,
-      "global_order": 16,
+      "global_order": 17,
       "event_id": null,
-      "notebooks": ["Deadpool_Vol_3_9","Deadpool_Vol_3_10","Deadpool_Vol_3_11","Deadpool_Vol_3_12","Deadpool_Vol_3_13","Deadpool_Vol_3_14","Deadpool_Vol_3_15","Deadpool_Vol_3_16","Deadpool_Vol_3_17"]
+      "notebooks": [
+        "Deadpool_Vol_3_9",
+        "Deadpool_Vol_3_10",
+        "Deadpool_Vol_3_11",
+        "Deadpool_Vol_3_12",
+        "Deadpool_Vol_3_13",
+        "Deadpool_Vol_3_14",
+        "Deadpool_Vol_3_15",
+        "Deadpool_Vol_3_16",
+        "Deadpool_Vol_3_17"
+      ]
     },
     "23": {
       "title": "Deadpool",
@@ -249,9 +551,18 @@
       "date": "1998-12-23T11:23:52.000Z",
       "serie_id": 6,
       "order": 22,
-      "global_order": 17,
+      "global_order": 18,
       "event_id": null,
-      "notebooks": ["Deadpool_Vol_3_18","Deadpool_Vol_3_19","Deadpool_Vol_3_20","Deadpool_Vol_3_21","Deadpool_Vol_3_22","Deadpool_Vol_3_23","Deadpool_Vol_3_24","Deadpool_Vol_3_25"]
+      "notebooks": [
+        "Deadpool_Vol_3_18",
+        "Deadpool_Vol_3_19",
+        "Deadpool_Vol_3_20",
+        "Deadpool_Vol_3_21",
+        "Deadpool_Vol_3_22",
+        "Deadpool_Vol_3_23",
+        "Deadpool_Vol_3_24",
+        "Deadpool_Vol_3_25"
+      ]
     },
     "24": {
       "title": "Deadpool",
@@ -260,9 +571,18 @@
       "date": "1999-10-01T10:24:52.000Z",
       "serie_id": 6,
       "order": 23,
-      "global_order": 18,
+      "global_order": 19,
       "event_id": null,
-      "notebooks": ["Deadpool_Vol_3_26","Deadpool_Vol_3_27","Deadpool_Vol_3_28","Deadpool_Vol_3_29","Deadpool_Vol_3_30","Deadpool_Vol_3_31","Deadpool_Vol_3_32","Deadpool_Vol_3_33"]
+      "notebooks": [
+        "Deadpool_Vol_3_26",
+        "Deadpool_Vol_3_27",
+        "Deadpool_Vol_3_28",
+        "Deadpool_Vol_3_29",
+        "Deadpool_Vol_3_30",
+        "Deadpool_Vol_3_31",
+        "Deadpool_Vol_3_32",
+        "Deadpool_Vol_3_33"
+      ]
     },
     "25": {
       "title": "Deadpool",
@@ -271,9 +591,22 @@
       "date": "2000-08-23T10:26:08.000Z",
       "serie_id": 6,
       "order": 24,
-      "global_order": 19,
+      "global_order": 20,
       "event_id": null,
-      "notebooks": ["Deadpool_Vol_3_34","Deadpool_Vol_3_35","Deadpool_Vol_3_36","Deadpool_Vol_3_37","Deadpool_Vol_3_38","Deadpool_Vol_3_39","Deadpool_Vol_3_40","Deadpool_Vol_3_41","Deadpool_Vol_3_42","Deadpool_Vol_3_43","Deadpool_Vol_3_44","Deadpool_Vol_3_45"]
+      "notebooks": [
+        "Deadpool_Vol_3_34",
+        "Deadpool_Vol_3_35",
+        "Deadpool_Vol_3_36",
+        "Deadpool_Vol_3_37",
+        "Deadpool_Vol_3_38",
+        "Deadpool_Vol_3_39",
+        "Deadpool_Vol_3_40",
+        "Deadpool_Vol_3_41",
+        "Deadpool_Vol_3_42",
+        "Deadpool_Vol_3_43",
+        "Deadpool_Vol_3_44",
+        "Deadpool_Vol_3_45"
+      ]
     },
     "26": {
       "title": "Deadpool",
@@ -282,9 +615,21 @@
       "date": "2001-09-01T10:27:39.000Z",
       "serie_id": 6,
       "order": 25,
-      "global_order": 21,
+      "global_order": 22,
       "event_id": null,
-      "notebooks": ["Deadpool_Vol_3_46","Deadpool_Vol_3_47","Deadpool_Vol_3_48","Deadpool_Vol_3_49","Deadpool_Vol_3_50","Deadpool_Vol_3_51","Deadpool_Vol_3_52","Deadpool_Vol_3_53","Deadpool_Vol_3_54","Deadpool_Vol_3_55","Deadpool_Vol_3_56"]
+      "notebooks": [
+        "Deadpool_Vol_3_46",
+        "Deadpool_Vol_3_47",
+        "Deadpool_Vol_3_48",
+        "Deadpool_Vol_3_49",
+        "Deadpool_Vol_3_50",
+        "Deadpool_Vol_3_51",
+        "Deadpool_Vol_3_52",
+        "Deadpool_Vol_3_53",
+        "Deadpool_Vol_3_54",
+        "Deadpool_Vol_3_55",
+        "Deadpool_Vol_3_56"
+      ]
     },
     "27": {
       "title": "Deadpool",
@@ -293,9 +638,18 @@
       "date": "2002-05-01T10:28:50.000Z",
       "serie_id": 6,
       "order": 26,
-      "global_order": 25,
+      "global_order": 26,
       "event_id": null,
-      "notebooks": ["Deadpool_Vol_3_57","Deadpool_Vol_3_58","Deadpool_Vol_3_59","Deadpool_Vol_3_60","Deadpool_Vol_3_61","Deadpool_Vol_3_62","Deadpool_Vol_3_63","Deadpool_Vol_3_64"]
+      "notebooks": [
+        "Deadpool_Vol_3_57",
+        "Deadpool_Vol_3_58",
+        "Deadpool_Vol_3_59",
+        "Deadpool_Vol_3_60",
+        "Deadpool_Vol_3_61",
+        "Deadpool_Vol_3_62",
+        "Deadpool_Vol_3_63",
+        "Deadpool_Vol_3_64"
+      ]
     },
     "28": {
       "title": "Deadpool",
@@ -304,9 +658,20 @@
       "date": "2002-11-27T11:31:15.000Z",
       "serie_id": 6,
       "order": 27,
-      "global_order": 27,
+      "global_order": 29,
       "event_id": null,
-      "notebooks": ["Deadpool_Vol_3_65","Deadpool_Vol_3_66","Deadpool_Vol_3_67","Deadpool_Vol_3_68","Deadpool_Vol_3_69","Agent_X_Vol_1_1","Agent_X_Vol_1_2","Agent_X_Vol_1_3","Agent_X_Vol_1_4","Agent_X_Vol_1_5"]
+      "notebooks": [
+        "Deadpool_Vol_3_65",
+        "Deadpool_Vol_3_66",
+        "Deadpool_Vol_3_67",
+        "Deadpool_Vol_3_68",
+        "Deadpool_Vol_3_69",
+        "Agent_X_Vol_1_1",
+        "Agent_X_Vol_1_2",
+        "Agent_X_Vol_1_3",
+        "Agent_X_Vol_1_4",
+        "Agent_X_Vol_1_5"
+      ]
     },
     "29": {
       "title": "Deadpool",
@@ -315,9 +680,19 @@
       "date": "2003-10-15T10:32:22.000Z",
       "serie_id": 6,
       "order": 28,
-      "global_order": 33,
+      "global_order": 35,
       "event_id": null,
-      "notebooks": ["Agent_X_Vol_1_7","Agent_X_Vol_1_8","Agent_X_Vol_1_9","Agent_X_Vol_1_10","Agent_X_Vol_1_11","Agent_X_Vol_1_12","Agent_X_Vol_1_13","Agent_X_Vol_1_14","Agent_X_Vol_1_15"]
+      "notebooks": [
+        "Agent_X_Vol_1_7",
+        "Agent_X_Vol_1_8",
+        "Agent_X_Vol_1_9",
+        "Agent_X_Vol_1_10",
+        "Agent_X_Vol_1_11",
+        "Agent_X_Vol_1_12",
+        "Agent_X_Vol_1_13",
+        "Agent_X_Vol_1_14",
+        "Agent_X_Vol_1_15"
+      ]
     },
     "30": {
       "title": "X-Men",
@@ -326,9 +701,16 @@
       "date": "2006-05-17T10:39:04.000Z",
       "serie_id": 33,
       "order": 29,
-      "global_order": 50,
+      "global_order": 54,
       "event_id": null,
-      "notebooks": ["X-Men:_Deadly_Genesis_Vol_1_1","X-Men:_Deadly_Genesis_Vol_1_2","X-Men:_Deadly_Genesis_Vol_1_3","X-Men:_Deadly_Genesis_Vol_1_4","X-Men:_Deadly_Genesis_Vol_1_5","X-Men:_Deadly_Genesis_Vol_1_6"]
+      "notebooks": [
+        "X-Men:_Deadly_Genesis_Vol_1_1",
+        "X-Men:_Deadly_Genesis_Vol_1_2",
+        "X-Men:_Deadly_Genesis_Vol_1_3",
+        "X-Men:_Deadly_Genesis_Vol_1_4",
+        "X-Men:_Deadly_Genesis_Vol_1_5",
+        "X-Men:_Deadly_Genesis_Vol_1_6"
+      ]
     },
     "31": {
       "title": "Punisher",
@@ -337,9 +719,22 @@
       "date": "2004-12-01T11:44:01.000Z",
       "serie_id": 8,
       "order": 30,
-      "global_order": 40,
+      "global_order": 42,
       "event_id": null,
-      "notebooks": ["Punisher_Vol_7_1","Punisher_Vol_7_2","Punisher_Vol_7_3","Punisher_Vol_7_4","Punisher_Vol_7_5","Punisher_Vol_7_6","Punisher_Vol_7_7","Punisher_Vol_7_8","Punisher_Vol_7_9","Punisher_Vol_7_10","Punisher_Vol_7_11","Punisher_Vol_7_12"]
+      "notebooks": [
+        "Punisher_Vol_7_1",
+        "Punisher_Vol_7_2",
+        "Punisher_Vol_7_3",
+        "Punisher_Vol_7_4",
+        "Punisher_Vol_7_5",
+        "Punisher_Vol_7_6",
+        "Punisher_Vol_7_7",
+        "Punisher_Vol_7_8",
+        "Punisher_Vol_7_9",
+        "Punisher_Vol_7_10",
+        "Punisher_Vol_7_11",
+        "Punisher_Vol_7_12"
+      ]
     },
     "32": {
       "title": "Punisher",
@@ -348,9 +743,22 @@
       "date": "2005-10-01T10:45:08.000Z",
       "serie_id": 8,
       "order": 31,
-      "global_order": 42,
+      "global_order": 46,
       "event_id": null,
-      "notebooks": ["Punisher_Vol_7_13","Punisher_Vol_7_14","Punisher_Vol_7_15","Punisher_Vol_7_16","Punisher_Vol_7_17","Punisher_Vol_7_18","Punisher_Vol_7_19","Punisher_Vol_7_20","Punisher_Vol_7_21","Punisher_Vol_7_22","Punisher_Vol_7_23","Punisher_Vol_7_24"]
+      "notebooks": [
+        "Punisher_Vol_7_13",
+        "Punisher_Vol_7_14",
+        "Punisher_Vol_7_15",
+        "Punisher_Vol_7_16",
+        "Punisher_Vol_7_17",
+        "Punisher_Vol_7_18",
+        "Punisher_Vol_7_19",
+        "Punisher_Vol_7_20",
+        "Punisher_Vol_7_21",
+        "Punisher_Vol_7_22",
+        "Punisher_Vol_7_23",
+        "Punisher_Vol_7_24"
+      ]
     },
     "33": {
       "title": "Punisher",
@@ -359,9 +767,22 @@
       "date": "2006-10-01T10:46:09.000Z",
       "serie_id": 8,
       "order": 32,
-      "global_order": 55,
+      "global_order": 59,
       "event_id": null,
-      "notebooks": ["Punisher_Vol_7_25","Punisher_Vol_7_26","Punisher_Vol_7_27","Punisher_Vol_7_28","Punisher_Vol_7_29","Punisher_Vol_7_30","Punisher_Vol_7_31","Punisher_Vol_7_32","Punisher_Vol_7_33","Punisher_Vol_7_34","Punisher_Vol_7_35","Punisher_Vol_7_36"]
+      "notebooks": [
+        "Punisher_Vol_7_25",
+        "Punisher_Vol_7_26",
+        "Punisher_Vol_7_27",
+        "Punisher_Vol_7_28",
+        "Punisher_Vol_7_29",
+        "Punisher_Vol_7_30",
+        "Punisher_Vol_7_31",
+        "Punisher_Vol_7_32",
+        "Punisher_Vol_7_33",
+        "Punisher_Vol_7_34",
+        "Punisher_Vol_7_35",
+        "Punisher_Vol_7_36"
+      ]
     },
     "34": {
       "title": "Punisher",
@@ -370,9 +791,23 @@
       "date": "2007-07-05T10:47:36.000Z",
       "serie_id": 8,
       "order": 33,
-      "global_order": 61,
+      "global_order": 65,
       "event_id": null,
-      "notebooks": ["Punisher_Vol_7_37","Punisher_Vol_7_38","Punisher_Vol_7_39","Punisher_Vol_7_40","Punisher_Vol_7_41","Punisher_Vol_7_42","Punisher_Vol_7_43","Punisher_Vol_7_44","Punisher_Vol_7_45","Punisher_Vol_7_46","Punisher_Vol_7_47","Punisher_Vol_7_48","Punisher_Vol_7_49"]
+      "notebooks": [
+        "Punisher_Vol_7_37",
+        "Punisher_Vol_7_38",
+        "Punisher_Vol_7_39",
+        "Punisher_Vol_7_40",
+        "Punisher_Vol_7_41",
+        "Punisher_Vol_7_42",
+        "Punisher_Vol_7_43",
+        "Punisher_Vol_7_44",
+        "Punisher_Vol_7_45",
+        "Punisher_Vol_7_46",
+        "Punisher_Vol_7_47",
+        "Punisher_Vol_7_48",
+        "Punisher_Vol_7_49"
+      ]
     },
     "35": {
       "title": "Punisher",
@@ -381,9 +816,21 @@
       "date": "2008-10-01T10:48:47.000Z",
       "serie_id": 8,
       "order": 34,
-      "global_order": 72,
+      "global_order": 76,
       "event_id": null,
-      "notebooks": ["Punisher_Vol_7_50","Punisher_Vol_7_51","Punisher_Vol_7_52","Punisher_Vol_7_53","Punisher_Vol_7_54","Punisher_Vol_7_55","Punisher_Vol_7_56","Punisher_Vol_7_57","Punisher_Vol_7_58","Punisher_Vol_7_59","Punisher_Vol_7_60"]
+      "notebooks": [
+        "Punisher_Vol_7_50",
+        "Punisher_Vol_7_51",
+        "Punisher_Vol_7_52",
+        "Punisher_Vol_7_53",
+        "Punisher_Vol_7_54",
+        "Punisher_Vol_7_55",
+        "Punisher_Vol_7_56",
+        "Punisher_Vol_7_57",
+        "Punisher_Vol_7_58",
+        "Punisher_Vol_7_59",
+        "Punisher_Vol_7_60"
+      ]
     },
     "36": {
       "title": "Punisher",
@@ -392,9 +839,26 @@
       "date": "2009-09-10T10:49:45.000Z",
       "serie_id": 8,
       "order": 35,
-      "global_order": 81,
+      "global_order": 86,
       "event_id": null,
-      "notebooks": ["Punisher:_Force_of_Nature_Vol_1_1","Punisher_Max_Special:_Little_Black_Book_Vol_1_1","Punisher_Vol_7_61","Punisher_Vol_7_62","Punisher_Vol_7_63","Punisher_Vol_7_64","Punisher_Vol_7_65","Punisher:_Frank_Castle_Max_Vol_1_66","Punisher:_Frank_Castle_Max_Vol_1_67","Punisher:_Frank_Castle_Max_Vol_1_68","Punisher:_Frank_Castle_Max_Vol_1_69","Punisher:_Frank_Castle_Max_Vol_1_70","Punisher:_Frank_Castle_Max_Vol_1_71","Punisher:_Frank_Castle_Max_Vol_1_72","Punisher:_Frank_Castle_Max_Vol_1_73","Punisher:_Frank_Castle_Max_Vol_1_74"]
+      "notebooks": [
+        "Punisher:_Force_of_Nature_Vol_1_1",
+        "Punisher_Max_Special:_Little_Black_Book_Vol_1_1",
+        "Punisher_Vol_7_61",
+        "Punisher_Vol_7_62",
+        "Punisher_Vol_7_63",
+        "Punisher_Vol_7_64",
+        "Punisher_Vol_7_65",
+        "Punisher:_Frank_Castle_Max_Vol_1_66",
+        "Punisher:_Frank_Castle_Max_Vol_1_67",
+        "Punisher:_Frank_Castle_Max_Vol_1_68",
+        "Punisher:_Frank_Castle_Max_Vol_1_69",
+        "Punisher:_Frank_Castle_Max_Vol_1_70",
+        "Punisher:_Frank_Castle_Max_Vol_1_71",
+        "Punisher:_Frank_Castle_Max_Vol_1_72",
+        "Punisher:_Frank_Castle_Max_Vol_1_73",
+        "Punisher:_Frank_Castle_Max_Vol_1_74"
+      ]
     },
     "37": {
       "title": "Punisher",
@@ -403,9 +867,28 @@
       "date": "2007-07-05T10:58:17.000Z",
       "serie_id": 8,
       "order": 36,
-      "global_order": 62,
+      "global_order": 66,
       "event_id": null,
-      "notebooks": ["Born_Vol_1_1","Born_Vol_1_2","Born_Vol_1_3","Born_Vol_1_4","Punisher:_The_End_Vol_1_1","Punisher:_The_Cell_Vol_1_1","Punisher:_The_Tyger_Vol_1_1","Punisher_Presents_Barracuda_MAX_Vol_1_1","Punisher_Presents_Barracuda_MAX_Vol_1_2","Punisher_Presents_Barracuda_MAX_Vol_1_3","Punisher_Presents_Barracuda_MAX_Vol_1_4","Punisher_Presents_Barracuda_MAX_Vol_1_5","Punisher_MAX:_The_Platoon_Vol_1_1","Punisher_MAX:_The_Platoon_Vol_1_2","Punisher_MAX:_The_Platoon_Vol_1_3","Punisher_MAX:_The_Platoon_Vol_1_4","Punisher_MAX:_The_Platoon_Vol_1_5","Punisher_MAX:_The_Platoon_Vol_1_6"]
+      "notebooks": [
+        "Born_Vol_1_1",
+        "Born_Vol_1_2",
+        "Born_Vol_1_3",
+        "Born_Vol_1_4",
+        "Punisher:_The_End_Vol_1_1",
+        "Punisher:_The_Cell_Vol_1_1",
+        "Punisher:_The_Tyger_Vol_1_1",
+        "Punisher_Presents_Barracuda_MAX_Vol_1_1",
+        "Punisher_Presents_Barracuda_MAX_Vol_1_2",
+        "Punisher_Presents_Barracuda_MAX_Vol_1_3",
+        "Punisher_Presents_Barracuda_MAX_Vol_1_4",
+        "Punisher_Presents_Barracuda_MAX_Vol_1_5",
+        "Punisher_MAX:_The_Platoon_Vol_1_1",
+        "Punisher_MAX:_The_Platoon_Vol_1_2",
+        "Punisher_MAX:_The_Platoon_Vol_1_3",
+        "Punisher_MAX:_The_Platoon_Vol_1_4",
+        "Punisher_MAX:_The_Platoon_Vol_1_5",
+        "Punisher_MAX:_The_Platoon_Vol_1_6"
+      ]
     },
     "38": {
       "title": "Punisher",
@@ -414,9 +897,21 @@
       "date": "2011-03-09T11:03:09.000Z",
       "serie_id": 8,
       "order": 37,
-      "global_order": 90,
+      "global_order": 96,
       "event_id": null,
-      "notebooks": ["Punishermax_Vol_1_1","Punishermax_Vol_1_2","Punishermax_Vol_1_3","Punishermax_Vol_1_4","Punishermax_Vol_1_5","Punishermax_Vol_1_6","Punishermax_Vol_1_7","Punishermax_Vol_1_8","Punishermax_Vol_1_9","Punishermax_Vol_1_10","Punishermax_Vol_1_11"]
+      "notebooks": [
+        "Punishermax_Vol_1_1",
+        "Punishermax_Vol_1_2",
+        "Punishermax_Vol_1_3",
+        "Punishermax_Vol_1_4",
+        "Punishermax_Vol_1_5",
+        "Punishermax_Vol_1_6",
+        "Punishermax_Vol_1_7",
+        "Punishermax_Vol_1_8",
+        "Punishermax_Vol_1_9",
+        "Punishermax_Vol_1_10",
+        "Punishermax_Vol_1_11"
+      ]
     },
     "39": {
       "title": "Punisher",
@@ -425,9 +920,22 @@
       "date": "2012-02-08T11:04:13.000Z",
       "serie_id": 8,
       "order": 38,
-      "global_order": 94,
+      "global_order": 103,
       "event_id": null,
-      "notebooks": ["Punishermax_Vol_1_12","Punishermax_Vol_1_13","Punishermax_Vol_1_14","Punishermax_Vol_1_15","Punishermax_Vol_1_16","Punishermax_Vol_1_17","Punishermax_Vol_1_18","Punishermax_Vol_1_19","Punishermax_Vol_1_20","Punishermax_Vol_1_21","Punishermax_Vol_1_22","Punisher_MAX:_X-Mas_Special_Vol_1_1"]
+      "notebooks": [
+        "Punishermax_Vol_1_12",
+        "Punishermax_Vol_1_13",
+        "Punishermax_Vol_1_14",
+        "Punishermax_Vol_1_15",
+        "Punishermax_Vol_1_16",
+        "Punishermax_Vol_1_17",
+        "Punishermax_Vol_1_18",
+        "Punishermax_Vol_1_19",
+        "Punishermax_Vol_1_20",
+        "Punishermax_Vol_1_21",
+        "Punishermax_Vol_1_22",
+        "Punisher_MAX:_X-Mas_Special_Vol_1_1"
+      ]
     },
     "40": {
       "title": "Punisher",
@@ -436,9 +944,22 @@
       "date": "2012-10-17T10:12:04.000Z",
       "serie_id": 8,
       "order": 39,
-      "global_order": 96,
+      "global_order": 106,
       "event_id": null,
-      "notebooks": ["Punisher:_Frank_Castle_Max_Vol_1_75","Punisher_MAX:_Naked_Kill_Vol_1_1","Punisher_Max:_Get_Castle_Vol_1_1","Punisher_Max:_Butterfly_Vol_1_1","Punisher_Max:_Happy_Ending_Vol_1_1","Punisher_Max:_Hot_Rods_of_Death_Vol_1_1","Punisher_Max:_Tiny_Ugly_World_Vol_1_1","Untold_Tales_of_Punisher_MAX_Vol_1_1","Untold_Tales_of_Punisher_MAX_Vol_1_2","Untold_Tales_of_Punisher_MAX_Vol_1_3","Untold_Tales_of_Punisher_MAX_Vol_1_4","Untold_Tales_of_Punisher_MAX_Vol_1_5"]
+      "notebooks": [
+        "Punisher:_Frank_Castle_Max_Vol_1_75",
+        "Punisher_MAX:_Naked_Kill_Vol_1_1",
+        "Punisher_Max:_Get_Castle_Vol_1_1",
+        "Punisher_Max:_Butterfly_Vol_1_1",
+        "Punisher_Max:_Happy_Ending_Vol_1_1",
+        "Punisher_Max:_Hot_Rods_of_Death_Vol_1_1",
+        "Punisher_Max:_Tiny_Ugly_World_Vol_1_1",
+        "Untold_Tales_of_Punisher_MAX_Vol_1_1",
+        "Untold_Tales_of_Punisher_MAX_Vol_1_2",
+        "Untold_Tales_of_Punisher_MAX_Vol_1_3",
+        "Untold_Tales_of_Punisher_MAX_Vol_1_4",
+        "Untold_Tales_of_Punisher_MAX_Vol_1_5"
+      ]
     },
     "41": {
       "title": "Czarna Wdowa",
@@ -447,9 +968,22 @@
       "date": "2006-02-22T11:20:41.000Z",
       "serie_id": 9,
       "order": 40,
-      "global_order": 48,
+      "global_order": 52,
       "event_id": null,
-      "notebooks": ["Black_Widow_Vol_3_1","Black_Widow_Vol_3_2","Black_Widow_Vol_3_3","Black_Widow_Vol_3_4","Black_Widow_Vol_3_5","Black_Widow_Vol_3_6","Black_Widow_2_Vol_1_1","Black_Widow_2_Vol_1_2","Black_Widow_2_Vol_1_3","Black_Widow_2_Vol_1_4","Black_Widow_2_Vol_1_5","Black_Widow_2_Vol_1_6"]
+      "notebooks": [
+        "Black_Widow_Vol_3_1",
+        "Black_Widow_Vol_3_2",
+        "Black_Widow_Vol_3_3",
+        "Black_Widow_Vol_3_4",
+        "Black_Widow_Vol_3_5",
+        "Black_Widow_Vol_3_6",
+        "Black_Widow_2_Vol_1_1",
+        "Black_Widow_2_Vol_1_2",
+        "Black_Widow_2_Vol_1_3",
+        "Black_Widow_2_Vol_1_4",
+        "Black_Widow_2_Vol_1_5",
+        "Black_Widow_2_Vol_1_6"
+      ]
     },
     "42": {
       "title": "Hulk",
@@ -458,9 +992,17 @@
       "date": "2014-03-19T11:28:02.000Z",
       "serie_id": 10,
       "order": 41,
-      "global_order": 97,
+      "global_order": 107,
       "event_id": null,
-      "notebooks": ["Hulk:_Future_Imperfect_Vol_1_1","Hulk:_Future_Imperfect_Vol_1_2","Incredible_Hulk:_The_End_Vol_1_1","Marvel_Knights:_Hulk_Vol_1_1","Marvel_Knights:_Hulk_Vol_1_2","Marvel_Knights:_Hulk_Vol_1_3","Marvel_Knights:_Hulk_Vol_1_4"]
+      "notebooks": [
+        "Hulk:_Future_Imperfect_Vol_1_1",
+        "Hulk:_Future_Imperfect_Vol_1_2",
+        "Incredible_Hulk:_The_End_Vol_1_1",
+        "Marvel_Knights:_Hulk_Vol_1_1",
+        "Marvel_Knights:_Hulk_Vol_1_2",
+        "Marvel_Knights:_Hulk_Vol_1_3",
+        "Marvel_Knights:_Hulk_Vol_1_4"
+      ]
     },
     "43": {
       "title": "Wolverine",
@@ -469,9 +1011,26 @@
       "date": "2009-09-30T10:34:49.000Z",
       "serie_id": 11,
       "order": 1,
-      "global_order": 82,
+      "global_order": 87,
       "event_id": null,
-      "notebooks": ["Wolverine_Vol_3_56","Wolverine_Vol_3_62","Wolverine_Vol_3_63","Wolverine_Vol_3_64","Wolverine_Vol_3_65","Wolverine:_Manifest_Destiny_Vol_1_1","Wolverine:_Manifest_Destiny_Vol_1_2","Wolverine:_Manifest_Destiny_Vol_1_3","Wolverine:_Manifest_Destiny_Vol_1_4","Wolverine_Vol_3_73","Wolverine_Vol_3_74","Wolverine_Weapon_X_Vol_1_1","Wolverine_Weapon_X_Vol_1_2","Wolverine_Weapon_X_Vol_1_3","Wolverine_Weapon_X_Vol_1_4","Wolverine_Weapon_X_Vol_1_5"]
+      "notebooks": [
+        "Wolverine_Vol_3_56",
+        "Wolverine_Vol_3_62",
+        "Wolverine_Vol_3_63",
+        "Wolverine_Vol_3_64",
+        "Wolverine_Vol_3_65",
+        "Wolverine:_Manifest_Destiny_Vol_1_1",
+        "Wolverine:_Manifest_Destiny_Vol_1_2",
+        "Wolverine:_Manifest_Destiny_Vol_1_3",
+        "Wolverine:_Manifest_Destiny_Vol_1_4",
+        "Wolverine_Vol_3_73",
+        "Wolverine_Vol_3_74",
+        "Wolverine_Weapon_X_Vol_1_1",
+        "Wolverine_Weapon_X_Vol_1_2",
+        "Wolverine_Weapon_X_Vol_1_3",
+        "Wolverine_Weapon_X_Vol_1_4",
+        "Wolverine_Weapon_X_Vol_1_5"
+      ]
     },
     "44": {
       "title": "Wolverine",
@@ -480,9 +1039,24 @@
       "date": "2010-08-18T10:36:51.000Z",
       "serie_id": 11,
       "order": 2,
-      "global_order": 89,
+      "global_order": 94,
       "event_id": null,
-      "notebooks": ["All-New_Wolverine_Saga_Vol_1_1","Dark_X-Men:_The_Beginning_Vol_1_3","Dark_Reign:_The_List_-_Wolverine_Vol_1_1","Wolverine_Weapon_X_Vol_1_6","Wolverine_Weapon_X_Vol_1_7","Wolverine_Weapon_X_Vol_1_8","Wolverine_Weapon_X_Vol_1_9","Wolverine_Weapon_X_Vol_1_10","Wolverine_Weapon_X_Vol_1_11","Wolverine_Weapon_X_Vol_1_12","Wolverine_Weapon_X_Vol_1_13","Wolverine_Weapon_X_Vol_1_14","Wolverine_Weapon_X_Vol_1_15","Wolverine_Weapon_X_Vol_1_16"]
+      "notebooks": [
+        "All-New_Wolverine_Saga_Vol_1_1",
+        "Dark_X-Men:_The_Beginning_Vol_1_3",
+        "Dark_Reign:_The_List_-_Wolverine_Vol_1_1",
+        "Wolverine_Weapon_X_Vol_1_6",
+        "Wolverine_Weapon_X_Vol_1_7",
+        "Wolverine_Weapon_X_Vol_1_8",
+        "Wolverine_Weapon_X_Vol_1_9",
+        "Wolverine_Weapon_X_Vol_1_10",
+        "Wolverine_Weapon_X_Vol_1_11",
+        "Wolverine_Weapon_X_Vol_1_12",
+        "Wolverine_Weapon_X_Vol_1_13",
+        "Wolverine_Weapon_X_Vol_1_14",
+        "Wolverine_Weapon_X_Vol_1_15",
+        "Wolverine_Weapon_X_Vol_1_16"
+      ]
     },
     "45": {
       "title": "Wolverine",
@@ -491,9 +1065,27 @@
       "date": "2011-05-25T10:38:50.000Z",
       "serie_id": 11,
       "order": 3,
-      "global_order": 92,
+      "global_order": 99,
       "event_id": null,
-      "notebooks": ["Astonishing_Spider-Man_&_Wolverine_Vol_1_1","Astonishing_Spider-Man_&_Wolverine_Vol_1_2","Astonishing_Spider-Man_&_Wolverine_Vol_1_3","Astonishing_Spider-Man_&_Wolverine_Vol_1_4","Astonishing_Spider-Man_&_Wolverine_Vol_1_5","Astonishing_Spider-Man_&_Wolverine_Vol_1_6","Wolverine:_Road_to_Hell_Vol_1_1","Wolverine_Vol_4_1","Wolverine_Vol_4_2","Wolverine_Vol_4_3","Wolverine_Vol_4_4","Wolverine_Vol_4_5","Wolverine_Vol_4_5.1","Wolverine_Vol_4_6","Wolverine_Vol_4_7","Wolverine_Vol_4_8","Wolverine_Vol_4_9"]
+      "notebooks": [
+        "Astonishing_Spider-Man_&_Wolverine_Vol_1_1",
+        "Astonishing_Spider-Man_&_Wolverine_Vol_1_2",
+        "Astonishing_Spider-Man_&_Wolverine_Vol_1_3",
+        "Astonishing_Spider-Man_&_Wolverine_Vol_1_4",
+        "Astonishing_Spider-Man_&_Wolverine_Vol_1_5",
+        "Astonishing_Spider-Man_&_Wolverine_Vol_1_6",
+        "Wolverine:_Road_to_Hell_Vol_1_1",
+        "Wolverine_Vol_4_1",
+        "Wolverine_Vol_4_2",
+        "Wolverine_Vol_4_3",
+        "Wolverine_Vol_4_4",
+        "Wolverine_Vol_4_5",
+        "Wolverine_Vol_4_5.1",
+        "Wolverine_Vol_4_6",
+        "Wolverine_Vol_4_7",
+        "Wolverine_Vol_4_8",
+        "Wolverine_Vol_4_9"
+      ]
     },
     "46": {
       "title": "Wolverine",
@@ -502,9 +1094,26 @@
       "date": "2012-04-11T10:41:09.000Z",
       "serie_id": 11,
       "order": 4,
-      "global_order": 95,
+      "global_order": 104,
       "event_id": null,
-      "notebooks": ["Wolverine_Vol_4_10","Wolverine_Vol_4_11","Wolverine_Vol_4_12","Wolverine_Vol_4_13","Wolverine_Vol_4_14","Wolverine_Vol_4_15","Wolverine_Vol_4_16","Wolverine_Vol_4_17","Wolverine_Vol_4_18","Wolverine_Vol_4_19","Wolverine_Vol_4_20","Wolverine_Vol_2_300","Wolverine_Vol_2_301","Wolverine_Vol_2_302","Wolverine_Vol_2_303","Wolverine_Vol_2_304"]
+      "notebooks": [
+        "Wolverine_Vol_4_10",
+        "Wolverine_Vol_4_11",
+        "Wolverine_Vol_4_12",
+        "Wolverine_Vol_4_13",
+        "Wolverine_Vol_4_14",
+        "Wolverine_Vol_4_15",
+        "Wolverine_Vol_4_16",
+        "Wolverine_Vol_4_17",
+        "Wolverine_Vol_4_18",
+        "Wolverine_Vol_4_19",
+        "Wolverine_Vol_4_20",
+        "Wolverine_Vol_2_300",
+        "Wolverine_Vol_2_301",
+        "Wolverine_Vol_2_302",
+        "Wolverine_Vol_2_303",
+        "Wolverine_Vol_2_304"
+      ]
     },
     "47": {
       "title": "Wolverine",
@@ -513,8 +1122,17 @@
       "date": "2009-06-01T10:42:45.000Z",
       "serie_id": 11,
       "order": 47,
-      "global_order": 76,
-      "notebooks": ["Wolverine_Vol_3_66","Wolverine_Vol_3_67","Wolverine_Vol_3_68","Wolverine_Vol_3_69","Wolverine_Vol_3_70","Wolverine_Vol_3_71","Wolverine_Vol_3_72","Wolverine:_Old_Man_Logan_Giant-Size_Vol_1_1"]
+      "global_order": 80,
+      "notebooks": [
+        "Wolverine_Vol_3_66",
+        "Wolverine_Vol_3_67",
+        "Wolverine_Vol_3_68",
+        "Wolverine_Vol_3_69",
+        "Wolverine_Vol_3_70",
+        "Wolverine_Vol_3_71",
+        "Wolverine_Vol_3_72",
+        "Wolverine:_Old_Man_Logan_Giant-Size_Vol_1_1"
+      ]
     },
     "48": {
       "title": "Spider-Man i Czarna Kotka",
@@ -523,9 +1141,16 @@
       "date": "2006-01-25T11:20:48.000Z",
       "serie_id": 12,
       "order": 47,
-      "global_order": 45,
+      "global_order": 49,
       "event_id": null,
-      "notebooks": ["Spider-Man/Black_Cat:_The_Evil_That_Men_Do_Vol_1_1","Spider-Man/Black_Cat:_The_Evil_That_Men_Do_Vol_1_2","Spider-Man/Black_Cat:_The_Evil_That_Men_Do_Vol_1_3","Spider-Man/Black_Cat:_The_Evil_That_Men_Do_Vol_1_4","Spider-Man/Black_Cat:_The_Evil_That_Men_Do_Vol_1_5","Spider-Man/Black_Cat:_The_Evil_That_Men_Do_Vol_1_6"]
+      "notebooks": [
+        "Spider-Man/Black_Cat:_The_Evil_That_Men_Do_Vol_1_1",
+        "Spider-Man/Black_Cat:_The_Evil_That_Men_Do_Vol_1_2",
+        "Spider-Man/Black_Cat:_The_Evil_That_Men_Do_Vol_1_3",
+        "Spider-Man/Black_Cat:_The_Evil_That_Men_Do_Vol_1_4",
+        "Spider-Man/Black_Cat:_The_Evil_That_Men_Do_Vol_1_5",
+        "Spider-Man/Black_Cat:_The_Evil_That_Men_Do_Vol_1_6"
+      ]
     },
     "49": {
       "title": "Ultimate Spider-Man",
@@ -533,21 +1158,50 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/359/420/359420/1520370564/300.jpg",
       "date": "2001-11-01T11:26:19.000Z",
       "serie_id": 13,
-      "order": 48,
-      "global_order": 22,
+      "order": 0,
+      "global_order": 23,
       "event_id": null,
-      "notebooks": ["Ultimate_Spider-Man_Vol_1_1","Ultimate_Spider-Man_Vol_1_2","Ultimate_Spider-Man_Vol_1_3","Ultimate_Spider-Man_Vol_1_4","Ultimate_Spider-Man_Vol_1_5","Ultimate_Spider-Man_Vol_1_6","Ultimate_Spider-Man_Vol_1_7","Ultimate_Spider-Man_Vol_1_8","Ultimate_Spider-Man_Vol_1_9","Ultimate_Spider-Man_Vol_1_10","Ultimate_Spider-Man_Vol_1_11","Ultimate_Spider-Man_Vol_1_12","Ultimate_Spider-Man_Vol_1_13"]
+      "notebooks": [
+        "Ultimate_Spider-Man_Vol_1_1",
+        "Ultimate_Spider-Man_Vol_1_2",
+        "Ultimate_Spider-Man_Vol_1_3",
+        "Ultimate_Spider-Man_Vol_1_4",
+        "Ultimate_Spider-Man_Vol_1_5",
+        "Ultimate_Spider-Man_Vol_1_6",
+        "Ultimate_Spider-Man_Vol_1_7",
+        "Ultimate_Spider-Man_Vol_1_8",
+        "Ultimate_Spider-Man_Vol_1_9",
+        "Ultimate_Spider-Man_Vol_1_10",
+        "Ultimate_Spider-Man_Vol_1_11",
+        "Ultimate_Spider-Man_Vol_1_12",
+        "Ultimate_Spider-Man_Vol_1_13"
+      ]
     },
     "50": {
       "title": "Ultimate Spider-Man",
       "subtitle": "Tom 2",
       "date": "2002-11-01T11:27:35.000Z",
       "serie_id": 13,
-      "order": 49,
-      "global_order": 26,
+      "order": 1,
+      "global_order": 28,
       "image_url": "https://assets.gildia.pl/system/thumbs/000/370/561/370561/1532433428/300.jpg",
       "event_id": null,
-      "notebooks": ["Ultimate_Spider-Man_Vol_1_14","Ultimate_Spider-Man_Vol_1_15","Ultimate_Spider-Man_Vol_1_16","Ultimate_Spider-Man_Vol_1_17","Ultimate_Spider-Man_Vol_1_18","Ultimate_Spider-Man_Vol_1_19","Ultimate_Spider-Man_Vol_1_20","Ultimate_Spider-Man_Vol_1_21","Ultimate_Spider-Man_Vol_1_22","Ultimate_Spider-Man_Vol_1_23","Ultimate_Spider-Man_Vol_1_24","Ultimate_Spider-Man_Vol_1_25","Ultimate_Spider-Man_Vol_1_26","Ultimate_Spider-Man_Vol_1_27"]
+      "notebooks": [
+        "Ultimate_Spider-Man_Vol_1_14",
+        "Ultimate_Spider-Man_Vol_1_15",
+        "Ultimate_Spider-Man_Vol_1_16",
+        "Ultimate_Spider-Man_Vol_1_17",
+        "Ultimate_Spider-Man_Vol_1_18",
+        "Ultimate_Spider-Man_Vol_1_19",
+        "Ultimate_Spider-Man_Vol_1_20",
+        "Ultimate_Spider-Man_Vol_1_21",
+        "Ultimate_Spider-Man_Vol_1_22",
+        "Ultimate_Spider-Man_Vol_1_23",
+        "Ultimate_Spider-Man_Vol_1_24",
+        "Ultimate_Spider-Man_Vol_1_25",
+        "Ultimate_Spider-Man_Vol_1_26",
+        "Ultimate_Spider-Man_Vol_1_27"
+      ]
     },
     "51": {
       "title": "Ultimate Spider-Man",
@@ -555,10 +1209,23 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/388/305/388305/1548952255/300.jpg",
       "date": "2003-06-01T10:30:06.000Z",
       "serie_id": 13,
-      "order": 50,
-      "global_order": 30,
+      "order": 2,
+      "global_order": 32,
       "event_id": null,
-      "notebooks": ["Ultimate_Spider-Man_Vol_1_28","Ultimate_Spider-Man_Vol_1_29","Ultimate_Spider-Man_Vol_1_30","Ultimate_Spider-Man_Vol_1_31","Ultimate_Spider-Man_Vol_1_32","Ultimate_Spider-Man_Vol_1_33","Ultimate_Spider-Man_Vol_1_34","Ultimate_Spider-Man_Vol_1_35","Ultimate_Spider-Man_Vol_1_36","Ultimate_Spider-Man_Vol_1_37","Ultimate_Spider-Man_Vol_1_38","Ultimate_Spider-Man_Vol_1_39"]
+      "notebooks": [
+        "Ultimate_Spider-Man_Vol_1_28",
+        "Ultimate_Spider-Man_Vol_1_29",
+        "Ultimate_Spider-Man_Vol_1_30",
+        "Ultimate_Spider-Man_Vol_1_31",
+        "Ultimate_Spider-Man_Vol_1_32",
+        "Ultimate_Spider-Man_Vol_1_33",
+        "Ultimate_Spider-Man_Vol_1_34",
+        "Ultimate_Spider-Man_Vol_1_35",
+        "Ultimate_Spider-Man_Vol_1_36",
+        "Ultimate_Spider-Man_Vol_1_37",
+        "Ultimate_Spider-Man_Vol_1_38",
+        "Ultimate_Spider-Man_Vol_1_39"
+      ]
     },
     "52": {
       "title": "Ultimate Spider-Man",
@@ -566,10 +1233,24 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/398/959/398959/1558800236/300.jpg",
       "date": "2004-02-04T11:31:27.000Z",
       "serie_id": 13,
-      "order": 51,
-      "global_order": 35,
+      "order": 3,
+      "global_order": 37,
       "event_id": null,
-      "notebooks": ["Ultimate_Spider-Man_Vol_1_40","Ultimate_Spider-Man_Vol_1_41","Ultimate_Spider-Man_Vol_1_42","Ultimate_Spider-Man_Vol_1_43","Ultimate_Spider-Man_Vol_1_44","Ultimate_Spider-Man_Vol_1_45","Ultimate_Spider-Man_Vol_1_47","Ultimate_Spider-Man_Vol_1_48","Ultimate_Spider-Man_Vol_1_49","Ultimate_Spider-Man_Vol_1_50","Ultimate_Spider-Man_Vol_1_51","Ultimate_Spider-Man_Vol_1_52","Ultimate_Spider-Man_Vol_1_53"]
+      "notebooks": [
+        "Ultimate_Spider-Man_Vol_1_40",
+        "Ultimate_Spider-Man_Vol_1_41",
+        "Ultimate_Spider-Man_Vol_1_42",
+        "Ultimate_Spider-Man_Vol_1_43",
+        "Ultimate_Spider-Man_Vol_1_44",
+        "Ultimate_Spider-Man_Vol_1_45",
+        "Ultimate_Spider-Man_Vol_1_47",
+        "Ultimate_Spider-Man_Vol_1_48",
+        "Ultimate_Spider-Man_Vol_1_49",
+        "Ultimate_Spider-Man_Vol_1_50",
+        "Ultimate_Spider-Man_Vol_1_51",
+        "Ultimate_Spider-Man_Vol_1_52",
+        "Ultimate_Spider-Man_Vol_1_53"
+      ]
     },
     "53": {
       "title": "Ultimate Spider-Man",
@@ -577,10 +1258,25 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/410/599/410599/1568325303/300.jpg",
       "date": "2004-07-01T10:37:32.000Z",
       "serie_id": 13,
-      "order": 52,
-      "global_order": 37,
+      "order": 4,
+      "global_order": 39,
       "event_id": null,
-      "notebooks": ["Ultimate_Six_Vol_1_1","Ultimate_Six_Vol_1_2","Ultimate_Six_Vol_1_3","Ultimate_Six_Vol_1_4","Ultimate_Six_Vol_1_5","Ultimate_Six_Vol_1_6","Ultimate_Six_Vol_1_7","Ultimate_Spider-Man_Vol_1_46","Ultimate_Spider-Man_Vol_1_54","Ultimate_Spider-Man_Vol_1_55","Ultimate_Spider-Man_Vol_1_56","Ultimate_Spider-Man_Vol_1_57","Ultimate_Spider-Man_Vol_1_58","Ultimate_Spider-Man_Vol_1_59"]
+      "notebooks": [
+        "Ultimate_Six_Vol_1_1",
+        "Ultimate_Six_Vol_1_2",
+        "Ultimate_Six_Vol_1_3",
+        "Ultimate_Six_Vol_1_4",
+        "Ultimate_Six_Vol_1_5",
+        "Ultimate_Six_Vol_1_6",
+        "Ultimate_Six_Vol_1_7",
+        "Ultimate_Spider-Man_Vol_1_46",
+        "Ultimate_Spider-Man_Vol_1_54",
+        "Ultimate_Spider-Man_Vol_1_55",
+        "Ultimate_Spider-Man_Vol_1_56",
+        "Ultimate_Spider-Man_Vol_1_57",
+        "Ultimate_Spider-Man_Vol_1_58",
+        "Ultimate_Spider-Man_Vol_1_59"
+      ]
     },
     "54": {
       "title": "Ultimate Spider-Man",
@@ -588,10 +1284,23 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/421/483/421483/1579300755/300.jpg",
       "date": "2005-03-01T11:39:23.000Z",
       "serie_id": 13,
-      "order": 53,
-      "global_order": 41,
+      "order": 5,
+      "global_order": 43,
       "event_id": null,
-      "notebooks": ["Ultimate_Spider-Man_Vol_1_60","Ultimate_Spider-Man_Vol_1_61","Ultimate_Spider-Man_Vol_1_62","Ultimate_Spider-Man_Vol_1_63","Ultimate_Spider-Man_Vol_1_64","Ultimate_Spider-Man_Vol_1_65","Ultimate_Spider-Man_Vol_1_66","Ultimate_Spider-Man_Vol_1_67","Ultimate_Spider-Man_Vol_1_68","Ultimate_Spider-Man_Vol_1_69","Ultimate_Spider-Man_Vol_1_70","Ultimate_Spider-Man_Vol_1_71"]
+      "notebooks": [
+        "Ultimate_Spider-Man_Vol_1_60",
+        "Ultimate_Spider-Man_Vol_1_61",
+        "Ultimate_Spider-Man_Vol_1_62",
+        "Ultimate_Spider-Man_Vol_1_63",
+        "Ultimate_Spider-Man_Vol_1_64",
+        "Ultimate_Spider-Man_Vol_1_65",
+        "Ultimate_Spider-Man_Vol_1_66",
+        "Ultimate_Spider-Man_Vol_1_67",
+        "Ultimate_Spider-Man_Vol_1_68",
+        "Ultimate_Spider-Man_Vol_1_69",
+        "Ultimate_Spider-Man_Vol_1_70",
+        "Ultimate_Spider-Man_Vol_1_71"
+      ]
     },
     "55": {
       "title": "Ultimate Spider-Man",
@@ -599,9 +1308,24 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/429/809/429809/1588943743/231.jpg",
       "date": "2006-01-01T11:40:22.000Z",
       "serie_id": 13,
-      "order": 54,
-      "global_order": 44,
-      "notebooks": ["Ultimate_Spider-Man_Vol_1_72","Ultimate_Spider-Man_Vol_1_73","Ultimate_Spider-Man_Vol_1_74","Ultimate_Spider-Man_Vol_1_75","Ultimate_Spider-Man_Vol_1_76","Ultimate_Spider-Man_Vol_1_77","Ultimate_Spider-Man_Vol_1_78","Ultimate_Spider-Man_Vol_1_79","Ultimate_Spider-Man_Vol_1_80","Ultimate_Spider-Man_Vol_1_81","Ultimate_Spider-Man_Vol_1_82","Ultimate_Spider-Man_Vol_1_83","Ultimate_Spider-Man_Vol_1_84","Ultimate_Spider-Man_Vol_1_85"]
+      "order": 6,
+      "global_order": 48,
+      "notebooks": [
+        "Ultimate_Spider-Man_Vol_1_72",
+        "Ultimate_Spider-Man_Vol_1_73",
+        "Ultimate_Spider-Man_Vol_1_74",
+        "Ultimate_Spider-Man_Vol_1_75",
+        "Ultimate_Spider-Man_Vol_1_76",
+        "Ultimate_Spider-Man_Vol_1_77",
+        "Ultimate_Spider-Man_Vol_1_78",
+        "Ultimate_Spider-Man_Vol_1_79",
+        "Ultimate_Spider-Man_Vol_1_80",
+        "Ultimate_Spider-Man_Vol_1_81",
+        "Ultimate_Spider-Man_Vol_1_82",
+        "Ultimate_Spider-Man_Vol_1_83",
+        "Ultimate_Spider-Man_Vol_1_84",
+        "Ultimate_Spider-Man_Vol_1_85"
+      ]
     },
     "56": {
       "title": "Ultimate Spider-Man",
@@ -609,9 +1333,21 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/449/309/449309/1604678914/231.jpg",
       "date": "2006-08-01T10:42:30.000Z",
       "serie_id": 13,
-      "order": 55,
-      "global_order": 53,
-      "notebooks": ["Ultimate_Spider-Man_Vol_1_86","Ultimate_Spider-Man_Vol_1_87","Ultimate_Spider-Man_Vol_1_88","Ultimate_Spider-Man_Vol_1_89","Ultimate_Spider-Man_Vol_1_90","Ultimate_Spider-Man_Vol_1_91","Ultimate_Spider-Man_Vol_1_92","Ultimate_Spider-Man_Vol_1_93","Ultimate_Spider-Man_Vol_1_94","Ultimate_Spider-Man_Vol_1_95","Ultimate_Spider-Man_Vol_1_96"]
+      "order": 7,
+      "global_order": 57,
+      "notebooks": [
+        "Ultimate_Spider-Man_Vol_1_86",
+        "Ultimate_Spider-Man_Vol_1_87",
+        "Ultimate_Spider-Man_Vol_1_88",
+        "Ultimate_Spider-Man_Vol_1_89",
+        "Ultimate_Spider-Man_Vol_1_90",
+        "Ultimate_Spider-Man_Vol_1_91",
+        "Ultimate_Spider-Man_Vol_1_92",
+        "Ultimate_Spider-Man_Vol_1_93",
+        "Ultimate_Spider-Man_Vol_1_94",
+        "Ultimate_Spider-Man_Vol_1_95",
+        "Ultimate_Spider-Man_Vol_1_96"
+      ]
     },
     "57": {
       "title": "Ultimate Spider-Man",
@@ -619,10 +1355,26 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/464/905/464905/1620772988/300.jpg",
       "date": "2007-09-01T10:44:20.000Z",
       "serie_id": 13,
-      "order": 56,
-      "global_order": 63,
+      "order": 8,
+      "global_order": 67,
       "event_id": null,
-      "notebooks": ["Ultimate_Spider-Man_Vol_1_97","Ultimate_Spider-Man_Vol_1_98","Ultimate_Spider-Man_Vol_1_99","Ultimate_Spider-Man_Vol_1_100","Ultimate_Spider-Man_Vol_1_101","Ultimate_Spider-Man_Vol_1_102","Ultimate_Spider-Man_Vol_1_103","Ultimate_Spider-Man_Vol_1_104","Ultimate_Spider-Man_Vol_1_105","Ultimate_Spider-Man_Vol_1_106","Ultimate_Spider-Man_Vol_1_107","Ultimate_Spider-Man_Vol_1_108","Ultimate_Spider-Man_Vol_1_109","Ultimate_Spider-Man_Vol_1_110","Ultimate_Spider-Man_Vol_1_111"]
+      "notebooks": [
+        "Ultimate_Spider-Man_Vol_1_97",
+        "Ultimate_Spider-Man_Vol_1_98",
+        "Ultimate_Spider-Man_Vol_1_99",
+        "Ultimate_Spider-Man_Vol_1_100",
+        "Ultimate_Spider-Man_Vol_1_101",
+        "Ultimate_Spider-Man_Vol_1_102",
+        "Ultimate_Spider-Man_Vol_1_103",
+        "Ultimate_Spider-Man_Vol_1_104",
+        "Ultimate_Spider-Man_Vol_1_105",
+        "Ultimate_Spider-Man_Vol_1_106",
+        "Ultimate_Spider-Man_Vol_1_107",
+        "Ultimate_Spider-Man_Vol_1_108",
+        "Ultimate_Spider-Man_Vol_1_109",
+        "Ultimate_Spider-Man_Vol_1_110",
+        "Ultimate_Spider-Man_Vol_1_111"
+      ]
     },
     "58": {
       "title": "Ultimate Spider-Man",
@@ -630,10 +1382,22 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/494/853/494853/1646762415/300.jpg",
       "date": "2008-05-29T10:45:36.000Z",
       "serie_id": 13,
-      "order": 57,
-      "global_order": 71,
+      "order": 9,
+      "global_order": 75,
       "event_id": null,
-      "notebooks": ["Ultimate_Spider-Man_Vol_1_112","Ultimate_Spider-Man_Vol_1_113","Ultimate_Spider-Man_Vol_1_114","Ultimate_Spider-Man_Vol_1_115","Ultimate_Spider-Man_Vol_1_116","Ultimate_Spider-Man_Vol_1_117","Ultimate_Spider-Man_Vol_1_118","Ultimate_Spider-Man_Vol_1_119","Ultimate_Spider-Man_Vol_1_120","Ultimate_Spider-Man_Vol_1_121","Ultimate_Spider-Man_Vol_1_122"]
+      "notebooks": [
+        "Ultimate_Spider-Man_Vol_1_112",
+        "Ultimate_Spider-Man_Vol_1_113",
+        "Ultimate_Spider-Man_Vol_1_114",
+        "Ultimate_Spider-Man_Vol_1_115",
+        "Ultimate_Spider-Man_Vol_1_116",
+        "Ultimate_Spider-Man_Vol_1_117",
+        "Ultimate_Spider-Man_Vol_1_118",
+        "Ultimate_Spider-Man_Vol_1_119",
+        "Ultimate_Spider-Man_Vol_1_120",
+        "Ultimate_Spider-Man_Vol_1_121",
+        "Ultimate_Spider-Man_Vol_1_122"
+      ]
     },
     "59": {
       "title": "Runaways",
@@ -642,9 +1406,28 @@
       "date": "2004-11-01T11:05:44.000Z",
       "serie_id": 14,
       "order": 58,
-      "global_order": 39,
+      "global_order": 41,
       "event_id": null,
-      "notebooks": ["Runaways_Vol_1_1","Runaways_Vol_1_2","Runaways_Vol_1_3","Runaways_Vol_1_4","Runaways_Vol_1_5","Runaways_Vol_1_6","Runaways_Vol_1_7","Runaways_Vol_1_8","Runaways_Vol_1_9","Runaways_Vol_1_10","Runaways_Vol_1_11","Runaways_Vol_1_12","Runaways_Vol_1_13","Runaways_Vol_1_14","Runaways_Vol_1_15","Runaways_Vol_1_16","Runaways_Vol_1_17","Runaways_Vol_1_18"]
+      "notebooks": [
+        "Runaways_Vol_1_1",
+        "Runaways_Vol_1_2",
+        "Runaways_Vol_1_3",
+        "Runaways_Vol_1_4",
+        "Runaways_Vol_1_5",
+        "Runaways_Vol_1_6",
+        "Runaways_Vol_1_7",
+        "Runaways_Vol_1_8",
+        "Runaways_Vol_1_9",
+        "Runaways_Vol_1_10",
+        "Runaways_Vol_1_11",
+        "Runaways_Vol_1_12",
+        "Runaways_Vol_1_13",
+        "Runaways_Vol_1_14",
+        "Runaways_Vol_1_15",
+        "Runaways_Vol_1_16",
+        "Runaways_Vol_1_17",
+        "Runaways_Vol_1_18"
+      ]
     },
     "60": {
       "title": "Runaways",
@@ -653,9 +1436,22 @@
       "date": "2006-03-01T11:06:46.000Z",
       "serie_id": 14,
       "order": 59,
-      "global_order": 49,
+      "global_order": 53,
       "event_id": null,
-      "notebooks": ["Runaways_Vol_2_1","Runaways_Vol_2_2","Runaways_Vol_2_3","Runaways_Vol_2_4","Runaways_Vol_2_5","Runaways_Vol_2_6","Runaways_Vol_2_7","Runaways_Vol_2_8","Runaways_Vol_2_9","Runaways_Vol_2_10","Runaways_Vol_2_11","Runaways_Vol_2_12"]
+      "notebooks": [
+        "Runaways_Vol_2_1",
+        "Runaways_Vol_2_2",
+        "Runaways_Vol_2_3",
+        "Runaways_Vol_2_4",
+        "Runaways_Vol_2_5",
+        "Runaways_Vol_2_6",
+        "Runaways_Vol_2_7",
+        "Runaways_Vol_2_8",
+        "Runaways_Vol_2_9",
+        "Runaways_Vol_2_10",
+        "Runaways_Vol_2_11",
+        "Runaways_Vol_2_12"
+      ]
     },
     "61": {
       "title": "Runaways",
@@ -664,9 +1460,22 @@
       "date": "2007-03-01T11:07:41.000Z",
       "serie_id": 14,
       "order": 60,
-      "global_order": 57,
+      "global_order": 61,
       "event_id": null,
-      "notebooks": ["Runaways_Vol_2_13","Runaways_Vol_2_14","Runaways_Vol_2_15","Runaways_Vol_2_16","Runaways_Vol_2_17","Runaways_Vol_2_18","Runaways_Vol_2_19","Runaways_Vol_2_20","Runaways_Vol_2_21","Runaways_Vol_2_22","Runaways_Vol_2_23","Runaways_Vol_2_24"]
+      "notebooks": [
+        "Runaways_Vol_2_13",
+        "Runaways_Vol_2_14",
+        "Runaways_Vol_2_15",
+        "Runaways_Vol_2_16",
+        "Runaways_Vol_2_17",
+        "Runaways_Vol_2_18",
+        "Runaways_Vol_2_19",
+        "Runaways_Vol_2_20",
+        "Runaways_Vol_2_21",
+        "Runaways_Vol_2_22",
+        "Runaways_Vol_2_23",
+        "Runaways_Vol_2_24"
+      ]
     },
     "62": {
       "title": "Rękawica Nieskończoności",
@@ -675,9 +1484,18 @@
       "date": "1991-10-15T11:55:55.000Z",
       "serie_id": 32,
       "order": 61,
-      "global_order": 10,
+      "global_order": 11,
       "event_id": null,
-      "notebooks": ["Thanos_Quest_Vol_1_1","Thanos_Quest_Vol_1_2","Infinity_Gauntlet_Vol_1_1","Infinity_Gauntlet_Vol_1_2","Infinity_Gauntlet_Vol_1_3","Infinity_Gauntlet_Vol_1_4","Infinity_Gauntlet_Vol_1_5","Infinity_Gauntlet_Vol_1_6"]
+      "notebooks": [
+        "Thanos_Quest_Vol_1_1",
+        "Thanos_Quest_Vol_1_2",
+        "Infinity_Gauntlet_Vol_1_1",
+        "Infinity_Gauntlet_Vol_1_2",
+        "Infinity_Gauntlet_Vol_1_3",
+        "Infinity_Gauntlet_Vol_1_4",
+        "Infinity_Gauntlet_Vol_1_5",
+        "Infinity_Gauntlet_Vol_1_6"
+      ]
     },
     "63": {
       "title": "Wojna nieskończoności",
@@ -686,9 +1504,24 @@
       "date": "1992-09-01T10:00:26.000Z",
       "serie_id": 32,
       "order": 62,
-      "global_order": 12,
+      "global_order": 13,
       "event_id": null,
-      "notebooks": ["Infinity_War_Vol_1_1","Infinity_War_Vol_1_2","Infinity_War_Vol_1_3","Infinity_War_Vol_1_4","Infinity_War_Vol_1_5","Infinity_War_Vol_1_6","Warlock_and_the_Infinity_Watch_Vol_1_7","Warlock_and_the_Infinity_Watch_Vol_1_8","Warlock_and_the_Infinity_Watch_Vol_1_9","Warlock_and_the_Infinity_Watch_Vol_1_10","Marvel_Comics_Presents_Vol_1_108","Marvel_Comics_Presents_Vol_1_109","Marvel_Comics_Presents_Vol_1_110","Marvel_Comics_Presents_Vol_1_111"]
+      "notebooks": [
+        "Infinity_War_Vol_1_1",
+        "Infinity_War_Vol_1_2",
+        "Infinity_War_Vol_1_3",
+        "Infinity_War_Vol_1_4",
+        "Infinity_War_Vol_1_5",
+        "Infinity_War_Vol_1_6",
+        "Warlock_and_the_Infinity_Watch_Vol_1_7",
+        "Warlock_and_the_Infinity_Watch_Vol_1_8",
+        "Warlock_and_the_Infinity_Watch_Vol_1_9",
+        "Warlock_and_the_Infinity_Watch_Vol_1_10",
+        "Marvel_Comics_Presents_Vol_1_108",
+        "Marvel_Comics_Presents_Vol_1_109",
+        "Marvel_Comics_Presents_Vol_1_110",
+        "Marvel_Comics_Presents_Vol_1_111"
+      ]
     },
     "64": {
       "title": "Spider-Man",
@@ -697,8 +1530,24 @@
       "date": "1991-11-01T11:05:11.000Z",
       "serie_id": 17,
       "order": 63,
-      "global_order": 11,
-      "notebooks": ["Spider-Man_Vol_1_1","Spider-Man_Vol_1_2","Spider-Man_Vol_1_3","Spider-Man_Vol_1_4","Spider-Man_Vol_1_5","Spider-Man_Vol_1_6","Spider-Man_Vol_1_7","Spider-Man_Vol_1_8","Spider-Man_Vol_1_9","Spider-Man_Vol_1_10","Spider-Man_Vol_1_11","Spider-Man_Vol_1_12","Spider-Man_Vol_1_13","Spider-Man_Vol_1_14","Spider-Man_Vol_1_16"]
+      "global_order": 12,
+      "notebooks": [
+        "Spider-Man_Vol_1_1",
+        "Spider-Man_Vol_1_2",
+        "Spider-Man_Vol_1_3",
+        "Spider-Man_Vol_1_4",
+        "Spider-Man_Vol_1_5",
+        "Spider-Man_Vol_1_6",
+        "Spider-Man_Vol_1_7",
+        "Spider-Man_Vol_1_8",
+        "Spider-Man_Vol_1_9",
+        "Spider-Man_Vol_1_10",
+        "Spider-Man_Vol_1_11",
+        "Spider-Man_Vol_1_12",
+        "Spider-Man_Vol_1_13",
+        "Spider-Man_Vol_1_14",
+        "Spider-Man_Vol_1_16"
+      ]
     },
     "65": {
       "title": "Uncanny X-Men",
@@ -707,9 +1556,22 @@
       "date": "2007-07-01T10:18:01.000Z",
       "serie_id": 33,
       "order": 1,
-      "global_order": 60,
+      "global_order": 64,
       "event_id": null,
-      "notebooks": ["Uncanny_X-Men_Vol_1_475","Uncanny_X-Men_Vol_1_476","Uncanny_X-Men_Vol_1_477","Uncanny_X-Men_Vol_1_478","Uncanny_X-Men_Vol_1_479","Uncanny_X-Men_Vol_1_480","Uncanny_X-Men_Vol_1_481","Uncanny_X-Men_Vol_1_482","Uncanny_X-Men_Vol_1_483","Uncanny_X-Men_Vol_1_484","Uncanny_X-Men_Vol_1_485","Uncanny_X-Men_Vol_1_486"]
+      "notebooks": [
+        "Uncanny_X-Men_Vol_1_475",
+        "Uncanny_X-Men_Vol_1_476",
+        "Uncanny_X-Men_Vol_1_477",
+        "Uncanny_X-Men_Vol_1_478",
+        "Uncanny_X-Men_Vol_1_479",
+        "Uncanny_X-Men_Vol_1_480",
+        "Uncanny_X-Men_Vol_1_481",
+        "Uncanny_X-Men_Vol_1_482",
+        "Uncanny_X-Men_Vol_1_483",
+        "Uncanny_X-Men_Vol_1_484",
+        "Uncanny_X-Men_Vol_1_485",
+        "Uncanny_X-Men_Vol_1_486"
+      ]
     },
     "66": {
       "title": "Uncanny X-Men",
@@ -718,9 +1580,21 @@
       "date": "1991-06-01T10:20:16.000Z",
       "serie_id": 18,
       "order": 0,
-      "global_order": 9,
+      "global_order": 10,
       "event_id": null,
-      "notebooks": ["Uncanny_X-Men_Vol_1_248","Uncanny_X-Men_Vol_1_256","Uncanny_X-Men_Vol_1_257","Uncanny_X-Men_Vol_1_258","Uncanny_X-Men_Vol_1_268","Uncanny_X-Men_Vol_1_269","Uncanny_X-Men_Vol_1_273","Uncanny_X-Men_Vol_1_274","Uncanny_X-Men_Vol_1_275","Uncanny_X-Men_Vol_1_276","Uncanny_X-Men_Vol_1_277"]
+      "notebooks": [
+        "Uncanny_X-Men_Vol_1_248",
+        "Uncanny_X-Men_Vol_1_256",
+        "Uncanny_X-Men_Vol_1_257",
+        "Uncanny_X-Men_Vol_1_258",
+        "Uncanny_X-Men_Vol_1_268",
+        "Uncanny_X-Men_Vol_1_269",
+        "Uncanny_X-Men_Vol_1_273",
+        "Uncanny_X-Men_Vol_1_274",
+        "Uncanny_X-Men_Vol_1_275",
+        "Uncanny_X-Men_Vol_1_276",
+        "Uncanny_X-Men_Vol_1_277"
+      ]
     },
     "67": {
       "title": "Kapitan Ameryka",
@@ -728,10 +1602,24 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/398/960/398960/1558800684/300.jpg",
       "date": "2006-02-01T11:26:21.000Z",
       "serie_id": 19,
-      "order": 66,
-      "global_order": 47,
+      "order": 0,
+      "global_order": 51,
       "event_id": null,
-      "notebooks": ["Captain_America_Vol_5_1","Captain_America_Vol_5_2","Captain_America_Vol_5_3","Captain_America_Vol_5_4","Captain_America_Vol_5_5","Captain_America_Vol_5_6","Captain_America_Vol_5_7","Captain_America_Vol_5_8","Captain_America_Vol_5_9","Captain_America_Vol_5_11","Captain_America_Vol_5_12","Captain_America_Vol_5_13","Captain_America_Vol_5_14"]
+      "notebooks": [
+        "Captain_America_Vol_5_1",
+        "Captain_America_Vol_5_2",
+        "Captain_America_Vol_5_3",
+        "Captain_America_Vol_5_4",
+        "Captain_America_Vol_5_5",
+        "Captain_America_Vol_5_6",
+        "Captain_America_Vol_5_7",
+        "Captain_America_Vol_5_8",
+        "Captain_America_Vol_5_9",
+        "Captain_America_Vol_5_11",
+        "Captain_America_Vol_5_12",
+        "Captain_America_Vol_5_13",
+        "Captain_America_Vol_5_14"
+      ]
     },
     "68": {
       "title": "Kapitan Ameryka",
@@ -739,10 +1627,18 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/413/695/413695/1570809015/300.jpg",
       "date": "2006-10-01T10:28:25.000Z",
       "serie_id": 19,
-      "order": 67,
-      "global_order": 54,
+      "order": 1,
+      "global_order": 58,
       "event_id": null,
-      "notebooks": ["Captain_America_Vol_5_15","Captain_America_Vol_5_16","Captain_America_Vol_5_17","Captain_America_Vol_5_18","Captain_America_Vol_5_19","Captain_America_Vol_5_20","Captain_America_Vol_5_21"]
+      "notebooks": [
+        "Captain_America_Vol_5_15",
+        "Captain_America_Vol_5_16",
+        "Captain_America_Vol_5_17",
+        "Captain_America_Vol_5_18",
+        "Captain_America_Vol_5_19",
+        "Captain_America_Vol_5_20",
+        "Captain_America_Vol_5_21"
+      ]
     },
     "69": {
       "title": "Kapitan Ameryka",
@@ -750,10 +1646,20 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/428/650/428650/1587303846/300.jpg",
       "date": "2007-11-01T11:30:02.000Z",
       "serie_id": 19,
-      "order": 68,
-      "global_order": 65,
+      "order": 2,
+      "global_order": 69,
       "event_id": null,
-      "notebooks": ["Captain_America_Vol_5_22","Captain_America_Vol_5_23","Captain_America_Vol_5_24","Captain_America_Vol_5_25","Captain_America_Vol_5_26","Captain_America_Vol_5_27","Captain_America_Vol_5_28","Captain_America_Vol_5_29","Captain_America_Vol_5_30"]
+      "notebooks": [
+        "Captain_America_Vol_5_22",
+        "Captain_America_Vol_5_23",
+        "Captain_America_Vol_5_24",
+        "Captain_America_Vol_5_25",
+        "Captain_America_Vol_5_26",
+        "Captain_America_Vol_5_27",
+        "Captain_America_Vol_5_28",
+        "Captain_America_Vol_5_29",
+        "Captain_America_Vol_5_30"
+      ]
     },
     "70": {
       "title": "Kapitan Ameryka",
@@ -761,10 +1667,23 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/446/431/446431/1602261524/300.jpg",
       "date": "2008-11-01T11:33:22.000Z",
       "serie_id": 19,
-      "order": 69,
-      "global_order": 73,
+      "order": 3,
+      "global_order": 77,
       "event_id": null,
-      "notebooks": ["Captain_America_Vol_5_31","Captain_America_Vol_5_32","Captain_America_Vol_5_33","Captain_America_Vol_5_34","Captain_America_Vol_5_35","Captain_America_Vol_5_36","Captain_America_Vol_5_37","Captain_America_Vol_5_38","Captain_America_Vol_5_39","Captain_America_Vol_5_40","Captain_America_Vol_5_41","Captain_America_Vol_5_42"]
+      "notebooks": [
+        "Captain_America_Vol_5_31",
+        "Captain_America_Vol_5_32",
+        "Captain_America_Vol_5_33",
+        "Captain_America_Vol_5_34",
+        "Captain_America_Vol_5_35",
+        "Captain_America_Vol_5_36",
+        "Captain_America_Vol_5_37",
+        "Captain_America_Vol_5_38",
+        "Captain_America_Vol_5_39",
+        "Captain_America_Vol_5_40",
+        "Captain_America_Vol_5_41",
+        "Captain_America_Vol_5_42"
+      ]
     },
     "71": {
       "title": "Kapitan Ameryka",
@@ -772,10 +1691,21 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/462/067/462067/1618325596/300.jpg",
       "date": "2009-07-15T10:34:44.000Z",
       "serie_id": 19,
-      "order": 70,
-      "global_order": 79,
+      "order": 4,
+      "global_order": 83,
       "event_id": null,
-      "notebooks": ["Captain_America_Vol_5_43","Captain_America_Vol_5_44","Captain_America_Vol_5_45","Captain_America_Vol_5_46","Captain_America_Vol_5_47","Captain_America_Vol_5_48","Captain_America_Vol_5_49","Captain_America_Vol_5_50","Captain_America_Vol_1_600","Captain_America_Vol_1_601"]
+      "notebooks": [
+        "Captain_America_Vol_5_43",
+        "Captain_America_Vol_5_44",
+        "Captain_America_Vol_5_45",
+        "Captain_America_Vol_5_46",
+        "Captain_America_Vol_5_47",
+        "Captain_America_Vol_5_48",
+        "Captain_America_Vol_5_49",
+        "Captain_America_Vol_5_50",
+        "Captain_America_Vol_1_600",
+        "Captain_America_Vol_1_601"
+      ]
     },
     "72": {
       "title": "Kapitan Ameryka",
@@ -783,10 +1713,17 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/483/976/483976/1637109331/300.jpg",
       "date": "2010-01-27T11:39:01.000Z",
       "serie_id": 19,
-      "order": 71,
-      "global_order": 84,
+      "order": 5,
+      "global_order": 89,
       "event_id": null,
-      "notebooks": ["Captain_America:_Reborn_Vol_1_1","Captain_America:_Reborn_Vol_1_2","Captain_America:_Reborn_Vol_1_3","Captain_America:_Reborn_Vol_1_4","Captain_America:_Reborn_Vol_1_5","Captain_America:_Reborn_Vol_1_6"]
+      "notebooks": [
+        "Captain_America:_Reborn_Vol_1_1",
+        "Captain_America:_Reborn_Vol_1_2",
+        "Captain_America:_Reborn_Vol_1_3",
+        "Captain_America:_Reborn_Vol_1_4",
+        "Captain_America:_Reborn_Vol_1_5",
+        "Captain_America:_Reborn_Vol_1_6"
+      ]
     },
     "73": {
       "title": "Strażnicy Galaktyki",
@@ -795,9 +1732,22 @@
       "date": "2009-05-01T10:45:11.000Z",
       "serie_id": 20,
       "order": 72,
-      "global_order": 75,
+      "global_order": 79,
       "event_id": null,
-      "notebooks": ["Guardians_of_the_Galaxy_Vol_2_1","Guardians_of_the_Galaxy_Vol_2_2","Guardians_of_the_Galaxy_Vol_2_3","Guardians_of_the_Galaxy_Vol_2_4","Guardians_of_the_Galaxy_Vol_2_5","Guardians_of_the_Galaxy_Vol_2_6","Guardians_of_the_Galaxy_Vol_2_7","Guardians_of_the_Galaxy_Vol_2_8","Guardians_of_the_Galaxy_Vol_2_9","Guardians_of_the_Galaxy_Vol_2_10","Guardians_of_the_Galaxy_Vol_2_11","Guardians_of_the_Galaxy_Vol_2_12"]
+      "notebooks": [
+        "Guardians_of_the_Galaxy_Vol_2_1",
+        "Guardians_of_the_Galaxy_Vol_2_2",
+        "Guardians_of_the_Galaxy_Vol_2_3",
+        "Guardians_of_the_Galaxy_Vol_2_4",
+        "Guardians_of_the_Galaxy_Vol_2_5",
+        "Guardians_of_the_Galaxy_Vol_2_6",
+        "Guardians_of_the_Galaxy_Vol_2_7",
+        "Guardians_of_the_Galaxy_Vol_2_8",
+        "Guardians_of_the_Galaxy_Vol_2_9",
+        "Guardians_of_the_Galaxy_Vol_2_10",
+        "Guardians_of_the_Galaxy_Vol_2_11",
+        "Guardians_of_the_Galaxy_Vol_2_12"
+      ]
     },
     "74": {
       "title": "Strażnicy Galaktyki",
@@ -806,9 +1756,23 @@
       "date": "2010-04-21T10:46:12.000Z",
       "serie_id": 20,
       "order": 73,
-      "global_order": 85,
+      "global_order": 90,
       "event_id": null,
-      "notebooks": ["Guardians_of_the_Galaxy_Vol_2_13","Guardians_of_the_Galaxy_Vol_2_14","Guardians_of_the_Galaxy_Vol_2_15","Guardians_of_the_Galaxy_Vol_2_16","Guardians_of_the_Galaxy_Vol_2_17","Guardians_of_the_Galaxy_Vol_2_18","Guardians_of_the_Galaxy_Vol_2_19","Guardians_of_the_Galaxy_Vol_2_20","Guardians_of_the_Galaxy_Vol_2_21","Guardians_of_the_Galaxy_Vol_2_22","Guardians_of_the_Galaxy_Vol_2_23","Guardians_of_the_Galaxy_Vol_2_24","Guardians_of_the_Galaxy_Vol_2_25"]
+      "notebooks": [
+        "Guardians_of_the_Galaxy_Vol_2_13",
+        "Guardians_of_the_Galaxy_Vol_2_14",
+        "Guardians_of_the_Galaxy_Vol_2_15",
+        "Guardians_of_the_Galaxy_Vol_2_16",
+        "Guardians_of_the_Galaxy_Vol_2_17",
+        "Guardians_of_the_Galaxy_Vol_2_18",
+        "Guardians_of_the_Galaxy_Vol_2_19",
+        "Guardians_of_the_Galaxy_Vol_2_20",
+        "Guardians_of_the_Galaxy_Vol_2_21",
+        "Guardians_of_the_Galaxy_Vol_2_22",
+        "Guardians_of_the_Galaxy_Vol_2_23",
+        "Guardians_of_the_Galaxy_Vol_2_24",
+        "Guardians_of_the_Galaxy_Vol_2_25"
+      ]
     },
     "75": {
       "title": "Krucjata nieskończoności",
@@ -817,8 +1781,25 @@
       "date": "1993-11-01T11:52:53.000Z",
       "serie_id": 32,
       "order": 74,
-      "global_order": 13,
-      "notebooks": ["Infinity_Crusade_Vol_1_1","Infinity_Crusade_Vol_1_2","Infinity_Crusade_Vol_1_3","Infinity_Crusade_Vol_1_4","Infinity_Crusade_Vol_1_5","Infinity_Crusade_Vol_1_6","Warlock_Chronicles_Vol_1_1","Warlock_Chronicles_Vol_1_2","Warlock_Chronicles_Vol_1_3","Warlock_Chronicles_Vol_1_4","Warlock_Chronicles_Vol_1_5","Warlock_and_the_Infinity_Watch_Vol_1_18","Warlock_and_the_Infinity_Watch_Vol_1_19","Warlock_and_the_Infinity_Watch_Vol_1_20","Warlock_and_the_Infinity_Watch_Vol_1_21","Warlock_and_the_Infinity_Watch_Vol_1_22"],
+      "global_order": 14,
+      "notebooks": [
+        "Infinity_Crusade_Vol_1_1",
+        "Infinity_Crusade_Vol_1_2",
+        "Infinity_Crusade_Vol_1_3",
+        "Infinity_Crusade_Vol_1_4",
+        "Infinity_Crusade_Vol_1_5",
+        "Infinity_Crusade_Vol_1_6",
+        "Warlock_Chronicles_Vol_1_1",
+        "Warlock_Chronicles_Vol_1_2",
+        "Warlock_Chronicles_Vol_1_3",
+        "Warlock_Chronicles_Vol_1_4",
+        "Warlock_Chronicles_Vol_1_5",
+        "Warlock_and_the_Infinity_Watch_Vol_1_18",
+        "Warlock_and_the_Infinity_Watch_Vol_1_19",
+        "Warlock_and_the_Infinity_Watch_Vol_1_20",
+        "Warlock_and_the_Infinity_Watch_Vol_1_21",
+        "Warlock_and_the_Infinity_Watch_Vol_1_22"
+      ],
       "event_id": null
     },
     "76": {
@@ -828,9 +1809,22 @@
       "date": "2009-03-18T11:06:47.000Z",
       "serie_id": 22,
       "order": 0,
-      "global_order": 74,
+      "global_order": 78,
       "event_id": null,
-      "notebooks": ["X-Men:_Emperor_Vulcan_Vol_1_1","X-Men:_Emperor_Vulcan_Vol_1_2","X-Men:_Emperor_Vulcan_Vol_1_3","X-Men:_Emperor_Vulcan_Vol_1_4","X-Men:_Emperor_Vulcan_Vol_1_5","X-Men_Divided_We_Stand_Vol_1_2","Secret_Invasion:_War_of_Kings_Vol_1_1","War_of_Kings_Saga_Vol_1_1","X-Men:_Kingbreaker_Vol_1_1","X-Men:_Kingbreaker_Vol_1_2","X-Men:_Kingbreaker_Vol_1_3","X-Men:_Kingbreaker_Vol_1_4"]
+      "notebooks": [
+        "X-Men:_Emperor_Vulcan_Vol_1_1",
+        "X-Men:_Emperor_Vulcan_Vol_1_2",
+        "X-Men:_Emperor_Vulcan_Vol_1_3",
+        "X-Men:_Emperor_Vulcan_Vol_1_4",
+        "X-Men:_Emperor_Vulcan_Vol_1_5",
+        "X-Men_Divided_We_Stand_Vol_1_2",
+        "Secret_Invasion:_War_of_Kings_Vol_1_1",
+        "War_of_Kings_Saga_Vol_1_1",
+        "X-Men:_Kingbreaker_Vol_1_1",
+        "X-Men:_Kingbreaker_Vol_1_2",
+        "X-Men:_Kingbreaker_Vol_1_3",
+        "X-Men:_Kingbreaker_Vol_1_4"
+      ]
     },
     "77": {
       "title": "Wojna Królów",
@@ -839,9 +1833,26 @@
       "date": "2009-08-05T10:13:10.000Z",
       "serie_id": 22,
       "order": 1,
-      "global_order": 80,
+      "global_order": 85,
       "event_id": null,
-      "notebooks": ["War_of_Kings_Vol_1_1","War_of_Kings_Vol_1_2","War_of_Kings_Vol_1_3","War_of_Kings_Vol_1_4","War_of_Kings_Vol_1_5","War_of_Kings_Vol_1_6","War_of_Kings:_Who_Will_Rule?_Vol_1_1","War_of_Kings:_Darkhawk_Vol_1_1","War_of_Kings:_Darkhawk_Vol_1_2","War_of_Kings:_Ascension_Vol_1_1","War_of_Kings:_Ascension_Vol_1_2","War_of_Kings:_Ascension_Vol_1_3","War_of_Kings:_Ascension_Vol_1_4","War_of_Kings:_Savage_World_of_Skaar_Vol_1_1","War_of_Kings:_Warriors_Vol_1_1","War_of_Kings:_Warriors_Vol_1_2"]
+      "notebooks": [
+        "War_of_Kings_Vol_1_1",
+        "War_of_Kings_Vol_1_2",
+        "War_of_Kings_Vol_1_3",
+        "War_of_Kings_Vol_1_4",
+        "War_of_Kings_Vol_1_5",
+        "War_of_Kings_Vol_1_6",
+        "War_of_Kings:_Who_Will_Rule?_Vol_1_1",
+        "War_of_Kings:_Darkhawk_Vol_1_1",
+        "War_of_Kings:_Darkhawk_Vol_1_2",
+        "War_of_Kings:_Ascension_Vol_1_1",
+        "War_of_Kings:_Ascension_Vol_1_2",
+        "War_of_Kings:_Ascension_Vol_1_3",
+        "War_of_Kings:_Ascension_Vol_1_4",
+        "War_of_Kings:_Savage_World_of_Skaar_Vol_1_1",
+        "War_of_Kings:_Warriors_Vol_1_1",
+        "War_of_Kings:_Warriors_Vol_1_2"
+      ]
     },
     "78": {
       "title": "Silver Surfer",
@@ -850,9 +1861,20 @@
       "date": "2008-02-06T11:21:31.000Z",
       "serie_id": 23,
       "order": 77,
-      "global_order": 66,
+      "global_order": 70,
       "event_id": null,
-      "notebooks": ["Silver_Surfer_Vol_4_1","Silver_Surfer_Vol_4_2","Silver_Surfer:_Requiem_Vol_1_1","Silver_Surfer:_Requiem_Vol_1_2","Silver_Surfer:_Requiem_Vol_1_3","Silver_Surfer:_Requiem_Vol_1_4","Silver_Surfer:_In_Thy_Name_Vol_1_1","Silver_Surfer:_In_Thy_Name_Vol_1_2","Silver_Surfer:_In_Thy_Name_Vol_1_3","Silver_Surfer:_In_Thy_Name_Vol_1_4"]
+      "notebooks": [
+        "Silver_Surfer_Vol_4_1",
+        "Silver_Surfer_Vol_4_2",
+        "Silver_Surfer:_Requiem_Vol_1_1",
+        "Silver_Surfer:_Requiem_Vol_1_2",
+        "Silver_Surfer:_Requiem_Vol_1_3",
+        "Silver_Surfer:_Requiem_Vol_1_4",
+        "Silver_Surfer:_In_Thy_Name_Vol_1_1",
+        "Silver_Surfer:_In_Thy_Name_Vol_1_2",
+        "Silver_Surfer:_In_Thy_Name_Vol_1_3",
+        "Silver_Surfer:_In_Thy_Name_Vol_1_4"
+      ]
     },
     "79": {
       "title": "Ultimate X-Men",
@@ -860,9 +1882,22 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/441/930/441930/1598341407/231.jpg",
       "date": "2002-01-01T11:26:02.000Z",
       "serie_id": 24,
-      "order": 78,
-      "global_order": 24,
-      "notebooks": ["Ultimate_X-Men_Vol_1_1","Ultimate_X-Men_Vol_1_2","Ultimate_X-Men_Vol_1_3","Ultimate_X-Men_Vol_1_4","Ultimate_X-Men_Vol_1_5","Ultimate_X-Men_Vol_1_6","Ultimate_X-Men_Vol_1_7","Ultimate_X-Men_Vol_1_8","Ultimate_X-Men_Vol_1_9","Ultimate_X-Men_Vol_1_10","Ultimate_X-Men_Vol_1_11","Ultimate_X-Men_Vol_1_12"]
+      "order": 0,
+      "global_order": 25,
+      "notebooks": [
+        "Ultimate_X-Men_Vol_1_1",
+        "Ultimate_X-Men_Vol_1_2",
+        "Ultimate_X-Men_Vol_1_3",
+        "Ultimate_X-Men_Vol_1_4",
+        "Ultimate_X-Men_Vol_1_5",
+        "Ultimate_X-Men_Vol_1_6",
+        "Ultimate_X-Men_Vol_1_7",
+        "Ultimate_X-Men_Vol_1_8",
+        "Ultimate_X-Men_Vol_1_9",
+        "Ultimate_X-Men_Vol_1_10",
+        "Ultimate_X-Men_Vol_1_11",
+        "Ultimate_X-Men_Vol_1_12"
+      ]
     },
     "80": {
       "title": "Ultimate X-Men",
@@ -870,9 +1905,23 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/455/511/455511/1612451094/231.jpg",
       "date": "2003-01-01T11:30:10.000Z",
       "serie_id": 24,
-      "order": 79,
-      "global_order": 28,
-      "notebooks": ["Ultimate_X-Men_Vol_1_13","Ultimate_X-Men_Vol_1_14","Ultimate_X-Men_Vol_1_15","Ultimate_X-Men_Vol_1_16","Ultimate_X-Men_Vol_1_17","Ultimate_X-Men_Vol_1_18","Ultimate_X-Men_Vol_1_19","Ultimate_X-Men_Vol_1_20","Ultimate_X-Men_Vol_1_21","Ultimate_X-Men_Vol_1_22","Ultimate_X-Men_Vol_1_23","Ultimate_X-Men_Vol_1_24","Ultimate_X-Men_Vol_1_25"]
+      "order": 1,
+      "global_order": 30,
+      "notebooks": [
+        "Ultimate_X-Men_Vol_1_13",
+        "Ultimate_X-Men_Vol_1_14",
+        "Ultimate_X-Men_Vol_1_15",
+        "Ultimate_X-Men_Vol_1_16",
+        "Ultimate_X-Men_Vol_1_17",
+        "Ultimate_X-Men_Vol_1_18",
+        "Ultimate_X-Men_Vol_1_19",
+        "Ultimate_X-Men_Vol_1_20",
+        "Ultimate_X-Men_Vol_1_21",
+        "Ultimate_X-Men_Vol_1_22",
+        "Ultimate_X-Men_Vol_1_23",
+        "Ultimate_X-Men_Vol_1_24",
+        "Ultimate_X-Men_Vol_1_25"
+      ]
     },
     "81": {
       "title": "Ultimate X-Men",
@@ -880,9 +1929,22 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/468/197/468197/1623883686/231.jpg",
       "date": "2003-07-01T10:31:14.000Z",
       "serie_id": 24,
-      "order": 80,
-      "global_order": 31,
-      "notebooks": ["Ultimate_War_Vol_1_1","Ultimate_War_Vol_1_2","Ultimate_War_Vol_1_3","Ultimate_War_Vol_1_4","Ultimate_X-Men_Vol_1_26","Ultimate_X-Men_Vol_1_27","Ultimate_X-Men_Vol_1_28","Ultimate_X-Men_Vol_1_29","Ultimate_X-Men_Vol_1_30","Ultimate_X-Men_Vol_1_31","Ultimate_X-Men_Vol_1_32","Ultimate_X-Men_Vol_1_33"]
+      "order": 2,
+      "global_order": 33,
+      "notebooks": [
+        "Ultimate_War_Vol_1_1",
+        "Ultimate_War_Vol_1_2",
+        "Ultimate_War_Vol_1_3",
+        "Ultimate_War_Vol_1_4",
+        "Ultimate_X-Men_Vol_1_26",
+        "Ultimate_X-Men_Vol_1_27",
+        "Ultimate_X-Men_Vol_1_28",
+        "Ultimate_X-Men_Vol_1_29",
+        "Ultimate_X-Men_Vol_1_30",
+        "Ultimate_X-Men_Vol_1_31",
+        "Ultimate_X-Men_Vol_1_32",
+        "Ultimate_X-Men_Vol_1_33"
+      ]
     },
     "82": {
       "title": "Ultimate X-Men",
@@ -890,9 +1952,22 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/487/631/487631/1640688915/231.jpg",
       "date": "2004-07-01T10:33:18.000Z",
       "serie_id": 24,
-      "order": 81,
-      "global_order": 36,
-      "notebooks": ["Ultimate_X-Men_Vol_1_34","Ultimate_X-Men_Vol_1_35","Ultimate_X-Men_Vol_1_36","Ultimate_X-Men_Vol_1_37","Ultimate_X-Men_Vol_1_38","Ultimate_X-Men_Vol_1_39","Ultimate_X-Men_Vol_1_40","Ultimate_X-Men_Vol_1_41","Ultimate_X-Men_Vol_1_42","Ultimate_X-Men_Vol_1_43","Ultimate_X-Men_Vol_1_44","Ultimate_X-Men_Vol_1_45"]
+      "order": 3,
+      "global_order": 38,
+      "notebooks": [
+        "Ultimate_X-Men_Vol_1_34",
+        "Ultimate_X-Men_Vol_1_35",
+        "Ultimate_X-Men_Vol_1_36",
+        "Ultimate_X-Men_Vol_1_37",
+        "Ultimate_X-Men_Vol_1_38",
+        "Ultimate_X-Men_Vol_1_39",
+        "Ultimate_X-Men_Vol_1_40",
+        "Ultimate_X-Men_Vol_1_41",
+        "Ultimate_X-Men_Vol_1_42",
+        "Ultimate_X-Men_Vol_1_43",
+        "Ultimate_X-Men_Vol_1_44",
+        "Ultimate_X-Men_Vol_1_45"
+      ]
     },
     "83": {
       "title": "Amazing Spider-Man",
@@ -900,10 +1975,23 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/455/320/455320/1618838839/231.jpg",
       "date": "1987-11-01T11:08:02.000Z",
       "serie_id": 25,
-      "order": 82,
+      "order": 0,
       "global_order": 5,
       "event_id": null,
-      "notebooks": ["Amazing_Spider-Man_Vol_1_289","Amazing_Spider-Man_Vol_1_290","Amazing_Spider-Man_Vol_1_291","Amazing_Spider-Man_Vol_1_292","Amazing_Spider-Man_Vol_1_293","Amazing_Spider-Man_Vol_1_294","Web_of_Spider-Man_Vol_1_29","Web_of_Spider-Man_Vol_1_30","Web_of_Spider-Man_Vol_1_31","Web_of_Spider-Man_Vol_1_32","Peter_Parker,_The_Spectacular_Spider-Man_Vol_1_131","Peter_Parker,_The_Spectacular_Spider-Man_Vol_1_132"]
+      "notebooks": [
+        "Amazing_Spider-Man_Vol_1_289",
+        "Amazing_Spider-Man_Vol_1_290",
+        "Amazing_Spider-Man_Vol_1_291",
+        "Amazing_Spider-Man_Vol_1_292",
+        "Amazing_Spider-Man_Vol_1_293",
+        "Amazing_Spider-Man_Vol_1_294",
+        "Web_of_Spider-Man_Vol_1_29",
+        "Web_of_Spider-Man_Vol_1_30",
+        "Web_of_Spider-Man_Vol_1_31",
+        "Web_of_Spider-Man_Vol_1_32",
+        "Peter_Parker,_The_Spectacular_Spider-Man_Vol_1_131",
+        "Peter_Parker,_The_Spectacular_Spider-Man_Vol_1_132"
+      ]
     },
     "84": {
       "title": "Amazing Spider-Man",
@@ -911,10 +1999,29 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/461/793/461793/1617983493/231.jpg",
       "date": "1988-12-01T11:09:31.000Z",
       "serie_id": 25,
-      "order": 83,
-      "global_order": 6,
+      "order": 1,
+      "global_order": 7,
       "event_id": null,
-      "notebooks": ["Web_of_Spider-Man_Vol_1_33","Peter_Parker,_The_Spectacular_Spider-Man_Vol_1_133","Amazing_Spider-Man_Vol_1_295","Amazing_Spider-Man_Vol_1_296","Amazing_Spider-Man_Vol_1_297","Amazing_Spider-Man_Vol_1_298","Amazing_Spider-Man_Vol_1_299","Amazing_Spider-Man_Vol_1_300","Amazing_Spider-Man_Vol_1_301","Amazing_Spider-Man_Vol_1_302","Amazing_Spider-Man_Vol_1_303","Amazing_Spider-Man_Vol_1_304","Amazing_Spider-Man_Vol_1_305","Amazing_Spider-Man_Vol_1_306","Amazing_Spider-Man_Vol_1_307","Amazing_Spider-Man_Vol_1_308","Amazing_Spider-Man_Vol_1_309","Amazing_Spider-Man_Vol_1_310"]
+      "notebooks": [
+        "Web_of_Spider-Man_Vol_1_33",
+        "Peter_Parker,_The_Spectacular_Spider-Man_Vol_1_133",
+        "Amazing_Spider-Man_Vol_1_295",
+        "Amazing_Spider-Man_Vol_1_296",
+        "Amazing_Spider-Man_Vol_1_297",
+        "Amazing_Spider-Man_Vol_1_298",
+        "Amazing_Spider-Man_Vol_1_299",
+        "Amazing_Spider-Man_Vol_1_300",
+        "Amazing_Spider-Man_Vol_1_301",
+        "Amazing_Spider-Man_Vol_1_302",
+        "Amazing_Spider-Man_Vol_1_303",
+        "Amazing_Spider-Man_Vol_1_304",
+        "Amazing_Spider-Man_Vol_1_305",
+        "Amazing_Spider-Man_Vol_1_306",
+        "Amazing_Spider-Man_Vol_1_307",
+        "Amazing_Spider-Man_Vol_1_308",
+        "Amazing_Spider-Man_Vol_1_309",
+        "Amazing_Spider-Man_Vol_1_310"
+      ]
     },
     "85": {
       "title": "Amazing Spider-Man",
@@ -922,10 +2029,26 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/477/042/477042/1631806933/231.jpg",
       "date": "1989-11-01T11:11:51.000Z",
       "serie_id": 25,
-      "order": 84,
-      "global_order": 7,
+      "order": 2,
+      "global_order": 8,
       "event_id": null,
-      "notebooks": ["Amazing_Spider-Man_Vol_1_311","Amazing_Spider-Man_Vol_1_312","Amazing_Spider-Man_Vol_1_313","Amazing_Spider-Man_Vol_1_314","Amazing_Spider-Man_Vol_1_315","Amazing_Spider-Man_Vol_1_316","Amazing_Spider-Man_Vol_1_317","Amazing_Spider-Man_Vol_1_318","Amazing_Spider-Man_Vol_1_319","Amazing_Spider-Man_Vol_1_320","Amazing_Spider-Man_Vol_1_321","Amazing_Spider-Man_Vol_1_322","Amazing_Spider-Man_Vol_1_323","Amazing_Spider-Man_Vol_1_324","Amazing_Spider-Man_Vol_1_325"]
+      "notebooks": [
+        "Amazing_Spider-Man_Vol_1_311",
+        "Amazing_Spider-Man_Vol_1_312",
+        "Amazing_Spider-Man_Vol_1_313",
+        "Amazing_Spider-Man_Vol_1_314",
+        "Amazing_Spider-Man_Vol_1_315",
+        "Amazing_Spider-Man_Vol_1_316",
+        "Amazing_Spider-Man_Vol_1_317",
+        "Amazing_Spider-Man_Vol_1_318",
+        "Amazing_Spider-Man_Vol_1_319",
+        "Amazing_Spider-Man_Vol_1_320",
+        "Amazing_Spider-Man_Vol_1_321",
+        "Amazing_Spider-Man_Vol_1_322",
+        "Amazing_Spider-Man_Vol_1_323",
+        "Amazing_Spider-Man_Vol_1_324",
+        "Amazing_Spider-Man_Vol_1_325"
+      ]
     },
     "86": {
       "title": "Amazing Spider-Man",
@@ -933,10 +2056,25 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/489/610/489610/1642787097/231.jpg",
       "date": "1990-06-01T10:13:19.000Z",
       "serie_id": 25,
-      "order": 85,
-      "global_order": 8,
+      "order": 3,
+      "global_order": 9,
       "event_id": null,
-      "notebooks": ["Spectacular_Spider-Man_Vol_1_158","Spectacular_Spider-Man_Vol_1_159","Spectacular_Spider-Man_Vol_1_160","Web_of_Spider-Man_Vol_1_59","Web_of_Spider-Man_Vol_1_60","Web_of_Spider-Man_Vol_1_61","Amazing_Spider-Man_Vol_1_326","Amazing_Spider-Man_Vol_1_327","Amazing_Spider-Man_Vol_1_328","Amazing_Spider-Man_Vol_1_329","Amazing_Spider-Man_Vol_1_330","Amazing_Spider-Man_Vol_1_331","Amazing_Spider-Man_Vol_1_332","Amazing_Spider-Man_Vol_1_333"]
+      "notebooks": [
+        "Spectacular_Spider-Man_Vol_1_158",
+        "Spectacular_Spider-Man_Vol_1_159",
+        "Spectacular_Spider-Man_Vol_1_160",
+        "Web_of_Spider-Man_Vol_1_59",
+        "Web_of_Spider-Man_Vol_1_60",
+        "Web_of_Spider-Man_Vol_1_61",
+        "Amazing_Spider-Man_Vol_1_326",
+        "Amazing_Spider-Man_Vol_1_327",
+        "Amazing_Spider-Man_Vol_1_328",
+        "Amazing_Spider-Man_Vol_1_329",
+        "Amazing_Spider-Man_Vol_1_330",
+        "Amazing_Spider-Man_Vol_1_331",
+        "Amazing_Spider-Man_Vol_1_332",
+        "Amazing_Spider-Man_Vol_1_333"
+      ]
     },
     "87": {
       "title": "Domena królów",
@@ -945,9 +2083,25 @@
       "date": "2010-05-05T10:26:49.000Z",
       "serie_id": 22,
       "order": 2,
-      "global_order": 87,
+      "global_order": 92,
       "event_id": null,
-      "notebooks": ["Realm_of_Kings_Vol_1_1","Realm_of_Kings:_Inhumans_Vol_1_1","Realm_of_Kings:_Inhumans_Vol_1_2","Realm_of_Kings:_Inhumans_Vol_1_3","Realm_of_Kings:_Inhumans_Vol_1_4","Realm_of_Kings:_Inhumans_Vol_1_5","Realm_of_Kings:_Son_of_Hulk_Vol_1_1","Realm_of_Kings:_Son_of_Hulk_Vol_1_2","Realm_of_Kings:_Son_of_Hulk_Vol_1_3","Realm_of_Kings:_Son_of_Hulk_Vol_1_4","Realm_of_Kings:_Imperial_Guard_Vol_1_1","Realm_of_Kings:_Imperial_Guard_Vol_1_2","Realm_of_Kings:_Imperial_Guard_Vol_1_3","Realm_of_Kings:_Imperial_Guard_Vol_1_4","Realm_of_Kings:_Imperial_Guard_Vol_1_5"]
+      "notebooks": [
+        "Realm_of_Kings_Vol_1_1",
+        "Realm_of_Kings:_Inhumans_Vol_1_1",
+        "Realm_of_Kings:_Inhumans_Vol_1_2",
+        "Realm_of_Kings:_Inhumans_Vol_1_3",
+        "Realm_of_Kings:_Inhumans_Vol_1_4",
+        "Realm_of_Kings:_Inhumans_Vol_1_5",
+        "Realm_of_Kings:_Son_of_Hulk_Vol_1_1",
+        "Realm_of_Kings:_Son_of_Hulk_Vol_1_2",
+        "Realm_of_Kings:_Son_of_Hulk_Vol_1_3",
+        "Realm_of_Kings:_Son_of_Hulk_Vol_1_4",
+        "Realm_of_Kings:_Imperial_Guard_Vol_1_1",
+        "Realm_of_Kings:_Imperial_Guard_Vol_1_2",
+        "Realm_of_Kings:_Imperial_Guard_Vol_1_3",
+        "Realm_of_Kings:_Imperial_Guard_Vol_1_4",
+        "Realm_of_Kings:_Imperial_Guard_Vol_1_5"
+      ]
     },
     "88": {
       "title": "Deadpool i Cable",
@@ -956,9 +2110,33 @@
       "date": "2005-12-14T11:34:02.000Z",
       "serie_id": 27,
       "order": 0,
-      "global_order": 43,
+      "global_order": 47,
       "event_id": null,
-      "notebooks": ["Cable_&_Deadpool_Vol_1_1","Cable_&_Deadpool_Vol_1_2","Cable_&_Deadpool_Vol_1_3","Cable_&_Deadpool_Vol_1_4","Cable_&_Deadpool_Vol_1_5","Cable_&_Deadpool_Vol_1_6","Cable_&_Deadpool_Vol_1_7","Cable_&_Deadpool_Vol_1_8","Cable_&_Deadpool_Vol_1_9","Cable_&_Deadpool_Vol_1_10","Cable_&_Deadpool_Vol_1_11","Cable_&_Deadpool_Vol_1_12","Cable_&_Deadpool_Vol_1_13","Cable_&_Deadpool_Vol_1_14","Cable_&_Deadpool_Vol_1_15","Cable_&_Deadpool_Vol_1_16","Cable_&_Deadpool_Vol_1_17","Cable_&_Deadpool_Vol_1_18","Cable_&_Deadpool_Vol_1_19","Cable_&_Deadpool_Vol_1_20","Cable_&_Deadpool_Vol_1_21","Cable_&_Deadpool_Vol_1_22","Cable_&_Deadpool_Vol_1_23"]
+      "notebooks": [
+        "Cable_&_Deadpool_Vol_1_1",
+        "Cable_&_Deadpool_Vol_1_2",
+        "Cable_&_Deadpool_Vol_1_3",
+        "Cable_&_Deadpool_Vol_1_4",
+        "Cable_&_Deadpool_Vol_1_5",
+        "Cable_&_Deadpool_Vol_1_6",
+        "Cable_&_Deadpool_Vol_1_7",
+        "Cable_&_Deadpool_Vol_1_8",
+        "Cable_&_Deadpool_Vol_1_9",
+        "Cable_&_Deadpool_Vol_1_10",
+        "Cable_&_Deadpool_Vol_1_11",
+        "Cable_&_Deadpool_Vol_1_12",
+        "Cable_&_Deadpool_Vol_1_13",
+        "Cable_&_Deadpool_Vol_1_14",
+        "Cable_&_Deadpool_Vol_1_15",
+        "Cable_&_Deadpool_Vol_1_16",
+        "Cable_&_Deadpool_Vol_1_17",
+        "Cable_&_Deadpool_Vol_1_18",
+        "Cable_&_Deadpool_Vol_1_19",
+        "Cable_&_Deadpool_Vol_1_20",
+        "Cable_&_Deadpool_Vol_1_21",
+        "Cable_&_Deadpool_Vol_1_22",
+        "Cable_&_Deadpool_Vol_1_23"
+      ]
     },
     "89": {
       "title": "Marvel Knights Punisher",
@@ -967,9 +2145,27 @@
       "date": "2001-12-01T11:39:41.000Z",
       "serie_id": 28,
       "order": 0,
-      "global_order": 23,
+      "global_order": 24,
       "event_id": null,
-      "notebooks": ["Punisher_Vol_5_1","Punisher_Vol_5_2","Punisher_Vol_5_3","Punisher_Vol_5_4","Punisher_Vol_5_5","Punisher_Vol_5_6","Punisher_Vol_5_7","Punisher_Vol_5_8","Punisher_Vol_5_9","Punisher_Vol_5_10","Punisher_Vol_5_11","Punisher_Vol_5_12","Punisher_Vol_6_1","Punisher_Vol_6_2","Punisher_Vol_6_3","Punisher_Vol_6_4","Punisher_Vol_6_5"]
+      "notebooks": [
+        "Punisher_Vol_5_1",
+        "Punisher_Vol_5_2",
+        "Punisher_Vol_5_3",
+        "Punisher_Vol_5_4",
+        "Punisher_Vol_5_5",
+        "Punisher_Vol_5_6",
+        "Punisher_Vol_5_7",
+        "Punisher_Vol_5_8",
+        "Punisher_Vol_5_9",
+        "Punisher_Vol_5_10",
+        "Punisher_Vol_5_11",
+        "Punisher_Vol_5_12",
+        "Punisher_Vol_6_1",
+        "Punisher_Vol_6_2",
+        "Punisher_Vol_6_3",
+        "Punisher_Vol_6_4",
+        "Punisher_Vol_6_5"
+      ]
     },
     "90": {
       "title": "Marvel Knights Punisher",
@@ -978,9 +2174,26 @@
       "date": "2003-07-01T10:41:25.000Z",
       "serie_id": 28,
       "order": 1,
-      "global_order": 32,
+      "global_order": 34,
       "event_id": null,
-      "notebooks": ["Punisher_Vol_6_6","Punisher_Vol_6_7","Punisher_Vol_6_13","Punisher_Vol_6_14","Punisher_Vol_6_15","Punisher_Vol_6_16","Punisher_Vol_6_17","Punisher_Vol_6_18","Punisher_Vol_6_19","Punisher_Vol_6_20","Punisher_Vol_6_21","Punisher_Vol_6_22","Punisher_Vol_6_23","Punisher_Vol_6_24","Punisher_Vol_6_25","Punisher_Vol_6_26"]
+      "notebooks": [
+        "Punisher_Vol_6_6",
+        "Punisher_Vol_6_7",
+        "Punisher_Vol_6_13",
+        "Punisher_Vol_6_14",
+        "Punisher_Vol_6_15",
+        "Punisher_Vol_6_16",
+        "Punisher_Vol_6_17",
+        "Punisher_Vol_6_18",
+        "Punisher_Vol_6_19",
+        "Punisher_Vol_6_20",
+        "Punisher_Vol_6_21",
+        "Punisher_Vol_6_22",
+        "Punisher_Vol_6_23",
+        "Punisher_Vol_6_24",
+        "Punisher_Vol_6_25",
+        "Punisher_Vol_6_26"
+      ]
     },
     "91": {
       "title": "Fantastyczna Czwórka",
@@ -988,10 +2201,25 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/477/041/477041/1631806932/300.jpg",
       "date": "2010-04-28T10:46:23.000Z",
       "serie_id": 29,
-      "order": 90,
-      "global_order": 86,
+      "order": 0,
+      "global_order": 91,
       "event_id": null,
-      "notebooks": ["Dark_Reign:_Fantastic_Four_Vol_1_1","Dark_Reign:_Fantastic_Four_Vol_1_2","Dark_Reign:_Fantastic_Four_Vol_1_3","Dark_Reign:_Fantastic_Four_Vol_1_4","Dark_Reign:_Fantastic_Four_Vol_1_5","Fantastic_Four_Vol_1_570","Fantastic_Four_Vol_1_571","Fantastic_Four_Vol_1_572","Fantastic_Four_Vol_1_573","Fantastic_Four_Vol_1_574","Fantastic_Four_Vol_1_575","Fantastic_Four_Vol_1_576","Fantastic_Four_Vol_1_577","Fantastic_Four_Vol_1_578"]
+      "notebooks": [
+        "Dark_Reign:_Fantastic_Four_Vol_1_1",
+        "Dark_Reign:_Fantastic_Four_Vol_1_2",
+        "Dark_Reign:_Fantastic_Four_Vol_1_3",
+        "Dark_Reign:_Fantastic_Four_Vol_1_4",
+        "Dark_Reign:_Fantastic_Four_Vol_1_5",
+        "Fantastic_Four_Vol_1_570",
+        "Fantastic_Four_Vol_1_571",
+        "Fantastic_Four_Vol_1_572",
+        "Fantastic_Four_Vol_1_573",
+        "Fantastic_Four_Vol_1_574",
+        "Fantastic_Four_Vol_1_575",
+        "Fantastic_Four_Vol_1_576",
+        "Fantastic_Four_Vol_1_577",
+        "Fantastic_Four_Vol_1_578"
+      ]
     },
     "92": {
       "title": "X-Men: Punkty zwrotne",
@@ -999,10 +2227,18 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/494/850/494850/1646762414/300.jpg",
       "date": "2009-06-24T10:53:08.000Z",
       "serie_id": 30,
-      "order": 1,
-      "global_order": 78,
+      "order": 2,
+      "global_order": 82,
       "event_id": null,
-      "notebooks": ["X-Force_/_Cable:_Messiah_War_Vol_1_1","Cable_Vol_2_13","X-Force_Vol_3_14","Cable_Vol_2_14","X-Force_Vol_3_15","Cable_Vol_2_15","X-Force_Vol_3_16"]
+      "notebooks": [
+        "X-Force_/_Cable:_Messiah_War_Vol_1_1",
+        "Cable_Vol_2_13",
+        "X-Force_Vol_3_14",
+        "Cable_Vol_2_14",
+        "X-Force_Vol_3_15",
+        "Cable_Vol_2_15",
+        "X-Force_Vol_3_16"
+      ]
     },
     "93": {
       "title": "Thor",
@@ -1011,9 +2247,26 @@
       "date": "2009-09-30T10:37:12.000Z",
       "serie_id": 31,
       "order": 92,
-      "global_order": 83,
+      "global_order": 88,
       "event_id": null,
-      "notebooks": ["Thor_Vol_3_1","Thor_Vol_3_2","Thor_Vol_3_3","Thor_Vol_3_4","Thor_Vol_3_5","Thor_Vol_3_6","Thor_Vol_3_7","Thor_Vol_3_8","Thor_Vol_3_9","Thor_Vol_3_10","Thor_Vol_3_11","Thor_Vol_3_12","Thor_Vol_1_600","Thor_Vol_1_601","Thor_Vol_1_602","Thor_Vol_1_603"]
+      "notebooks": [
+        "Thor_Vol_3_1",
+        "Thor_Vol_3_2",
+        "Thor_Vol_3_3",
+        "Thor_Vol_3_4",
+        "Thor_Vol_3_5",
+        "Thor_Vol_3_6",
+        "Thor_Vol_3_7",
+        "Thor_Vol_3_8",
+        "Thor_Vol_3_9",
+        "Thor_Vol_3_10",
+        "Thor_Vol_3_11",
+        "Thor_Vol_3_12",
+        "Thor_Vol_1_600",
+        "Thor_Vol_1_601",
+        "Thor_Vol_1_602",
+        "Thor_Vol_1_603"
+      ]
     },
     "94": {
       "title": "X-Men: Punkty zwrotne",
@@ -1021,9 +2274,23 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/480/000/480000/1633956150/231.jpg",
       "date": "2008-03-01T11:23:52.000Z",
       "serie_id": 30,
-      "order": 0,
-      "global_order": 68,
-      "notebooks": ["X-Men:MessiahComplex_Vol_1_1","UncannyX-Men_Vol_1_492","X-Factor_Vol_3_25","NewX-Men_Vol_2_44","X-Men_Vol_2_205","UncannyX-Men_Vol_1_493","X-Factor_Vol_3_26","NewX-Men_Vol_2_45","X-Men_Vol_2_206","UncannyX-Men_Vol_1_494","X-Factor_Vol_3_27","NewX-Men_Vol_2_46","X-Men_Vol_2_207"],
+      "order": 1,
+      "global_order": 72,
+      "notebooks": [
+        "X-Men:_Messiah_Complex_Vol_1_1",
+        "Uncanny_X-Men_Vol_1_492",
+        "X-Factor_Vol_3_25",
+        "New_X-Men_Vol_2_44",
+        "X-Men_Vol_2_205",
+        "Uncanny_X-Men_Vol_1_493",
+        "X-Factor_Vol_3_26",
+        "New_X-Men_Vol_2_45",
+        "X-Men_Vol_2_206",
+        "Uncanny_X-Men_Vol_1_494",
+        "X-Factor_Vol_3_27",
+        "New_X-Men_Vol_2_46",
+        "X-Men_Vol_2_207"
+      ],
       "event_id": 0
     },
     "95": {
@@ -1033,8 +2300,36 @@
       "date": "2008-02-20T11:32:58.000Z",
       "serie_id": 27,
       "order": 1,
-      "global_order": 67,
-      "notebooks": ["Cable&Deadpool_Vol_1_24","Cable&Deadpool_Vol_1_25","Cable&Deadpool_Vol_1_26","Cable&Deadpool_Vol_1_27","Cable&Deadpool_Vol_1_28","Cable&Deadpool_Vol_1_29","Cable&Deadpool_Vol_1_30","Cable&Deadpool_Vol_1_31","Cable&Deadpool_Vol_1_32","Cable&Deadpool_Vol_1_33","Cable&Deadpool_Vol_1_34","Cable&Deadpool_Vol_1_35","Cable&Deadpool_Vol_1_36","Cable&Deadpool_Vol_1_37","Cable&Deadpool_Vol_1_38","Cable&Deadpool_Vol_1_39","Cable&Deadpool_Vol_1_40","Cable&Deadpool_Vol_1_41","Cable&Deadpool_Vol_1_42","Cable&Deadpool_Vol_1_43","Cable&Deadpool_Vol_1_44","Cable&Deadpool_Vol_1_45","Cable&Deadpool_Vol_1_46","Cable&Deadpool_Vol_1_47","Cable&Deadpool_Vol_1_48","Cable&Deadpool_Vol_1_49","Cable&Deadpool_Vol_1_50"],
+      "global_order": 71,
+      "notebooks": [
+        "Cable_&_Deadpool_Vol_1_24",
+        "Cable_&_Deadpool_Vol_1_25",
+        "Cable_&_Deadpool_Vol_1_26",
+        "Cable_&_Deadpool_Vol_1_27",
+        "Cable_&_Deadpool_Vol_1_28",
+        "Cable_&_Deadpool_Vol_1_29",
+        "Cable_&_Deadpool_Vol_1_30",
+        "Cable_&_Deadpool_Vol_1_31",
+        "Cable_&_Deadpool_Vol_1_32",
+        "Cable_&_Deadpool_Vol_1_33",
+        "Cable_&_Deadpool_Vol_1_34",
+        "Cable_&_Deadpool_Vol_1_35",
+        "Cable_&_Deadpool_Vol_1_36",
+        "Cable_&_Deadpool_Vol_1_37",
+        "Cable_&_Deadpool_Vol_1_38",
+        "Cable_&_Deadpool_Vol_1_39",
+        "Cable_&_Deadpool_Vol_1_40",
+        "Cable_&_Deadpool_Vol_1_41",
+        "Cable_&_Deadpool_Vol_1_42",
+        "Cable_&_Deadpool_Vol_1_43",
+        "Cable_&_Deadpool_Vol_1_44",
+        "Cable_&_Deadpool_Vol_1_45",
+        "Cable_&_Deadpool_Vol_1_46",
+        "Cable_&_Deadpool_Vol_1_47",
+        "Cable_&_Deadpool_Vol_1_48",
+        "Cable_&_Deadpool_Vol_1_49",
+        "Cable_&_Deadpool_Vol_1_50"
+      ],
       "event_id": 0
     },
     "96": {
@@ -1044,8 +2339,25 @@
       "date": "2011-12-28T11:47:52.000Z",
       "serie_id": 22,
       "order": 3,
-      "global_order": 93,
-      "notebooks": ["ThanosImperative:Ignition_Vol_1_1","ThanosImperative_Vol_1_1","ThanosImperative_Vol_1_2","ThanosImperative_Vol_1_3","ThanosImperative_Vol_1_4","ThanosImperative_Vol_1_5","ThanosImperative_Vol_1_6","ThanosImperative:Devastation_Vol_1_1","Annihilators_Vol_1_1","Annihilators_Vol_1_2","Annihilators_Vol_1_3","Annihilators_Vol_1_4","Annihilators:Earthfall_Vol_1_1","Annihilators:Earthfall_Vol_1_2","Annihilators:Earthfall_Vol_1_3","Annihilators:Earthfall_Vol_1_4"],
+      "global_order": 102,
+      "notebooks": [
+        "Thanos_Imperative:_Ignition_Vol_1_1",
+        "Thanos_Imperative_Vol_1_1",
+        "Thanos_Imperative_Vol_1_2",
+        "Thanos_Imperative_Vol_1_3",
+        "Thanos_Imperative_Vol_1_4",
+        "Thanos_Imperative_Vol_1_5",
+        "Thanos_Imperative_Vol_1_6",
+        "Thanos_Imperative:Devastation_Vol_1_1",
+        "Annihilators_Vol_1_1",
+        "Annihilators_Vol_1_2",
+        "Annihilators_Vol_1_3",
+        "Annihilators_Vol_1_4",
+        "Annihilators:_Earthfall_Vol_1_1",
+        "Annihilators:_Earthfall_Vol_1_2",
+        "Annihilators:_Earthfall_Vol_1_3",
+        "Annihilators:_Earthfall_Vol_1_4"
+      ],
       "event_id": 0
     },
     "97": {
@@ -1054,9 +2366,25 @@
       "image_url": "https://assets.gildia.pl/system/thumbs/000/504/285/504285/1652875999/231.jpg",
       "date": "2010-07-14T10:56:45.000Z",
       "serie_id": 30,
-      "order": 2,
-      "global_order": 88,
-      "notebooks": ["SecondComing:Prepare_Vol_1_1","X-Men:SecondComing_Vol_1_1","UncannyX-Men_Vol_1_523","NewMutants_Vol_3_12","X-Men:Legacy_Vol_1_235","X-Force_Vol_3_26","UncannyX-Men_Vol_1_524","NewMutants_Vol_3_13","X-Men:Legacy_Vol_1_236","X-Force_Vol_3_27","UncannyX-Men_Vol_1_525","NewMutants_Vol_3_14","X-Men:Legacy_Vol_1_237","X-Force_Vol_3_28","X-Men:SecondComing_Vol_1_2"],
+      "order": 3,
+      "global_order": 93,
+      "notebooks": [
+        "Second_Coming:_Prepare_Vol_1_1",
+        "X-Men:_Second_Coming_Vol_1_1",
+        "Uncanny_X-Men_Vol_1_523",
+        "New_Mutants_Vol_3_12",
+        "X-Men:_Legacy_Vol_1_235",
+        "X-Force_Vol_3_26",
+        "Uncanny_X-Men_Vol_1_524",
+        "New_Mutants_Vol_3_13",
+        "X-Men:_Legacy_Vol_1_236",
+        "X-Force_Vol_3_27",
+        "Uncanny_X-Men_Vol_1_525",
+        "New_Mutants_Vol_3_14",
+        "X-Men:_Legacy_Vol_1_237",
+        "X-Force_Vol_3_28",
+        "X-Men:_Second_Coming_Vol_1_2"
+      ],
       "event_id": 0
     },
     "98": {
@@ -1066,12 +2394,275 @@
       "date": "2004-02-01T11:01:38.000Z",
       "serie_id": 28,
       "order": 2,
-      "global_order": 34,
-      "notebooks": ["Punisher_Vol_6_27","Punisher_Vol_6_28","Punisher_Vol_6_29","Punisher_Vol_6_30","Punisher_Vol_6_31","Punisher_Vol_6_32","Punisher_Vol_6_33","Punisher_Vol_6_34","Punisher_Vol_6_35","Punisher_Vol_6_36","Punisher_Vol_6_37","Punisher:WarZone_Vol_2_1","Punisher:WarZone_Vol_2_2","Punisher:WarZone_Vol_2_3","Punisher:WarZone_Vol_2_4","Punisher:WarZone_Vol_2_5","Punisher:WarZone_Vol_2_6"],
+      "global_order": 36,
+      "notebooks": [
+        "Punisher_Vol_6_27",
+        "Punisher_Vol_6_28",
+        "Punisher_Vol_6_29",
+        "Punisher_Vol_6_30",
+        "Punisher_Vol_6_31",
+        "Punisher_Vol_6_32",
+        "Punisher_Vol_6_33",
+        "Punisher_Vol_6_34",
+        "Punisher_Vol_6_35",
+        "Punisher_Vol_6_36",
+        "Punisher_Vol_6_37",
+        "Punisher:_War_Zone_Vol_2_1",
+        "Punisher:_War_Zone_Vol_2_2",
+        "Punisher:_War_Zone_Vol_2_3",
+        "Punisher:_War_Zone_Vol_2_4",
+        "Punisher:_War_Zone_Vol_2_5",
+        "Punisher:_War_Zone_Vol_2_6"
+      ],
+      "event_id": 0
+    },
+    "99": {
+      "title": "Ultimate X-Men",
+      "subtitle": "Tom 5",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/510/766/510766/1658408509/231.jpg",
+      "date": "2005-03-16T11:13:03.000Z",
+      "serie_id": 24,
+      "order": 4,
+      "global_order": 44,
+      "notebooks": [
+        "Ultimate_X-Men_Vol_1_46",
+        "Ultimate_X-Men_Vol_1_47",
+        "Ultimate_X-Men_Vol_1_48",
+        "Ultimate_X-Men_Vol_1_49",
+        "Ultimate_X-Men_Vol_1_50",
+        "Ultimate_X-Men_Vol_1_51",
+        "Ultimate_X-Men_Vol_1_52",
+        "Ultimate_X-Men_Vol_1_53",
+        "Ultimate_X-Men_Vol_1_54",
+        "Ultimate_X-Men_Vol_1_55",
+        "Ultimate_X-Men_Vol_1_56",
+        "Ultimate_X-Men_Vol_1_57"
+      ],
+      "event_id": 0
+    },
+    "100": {
+      "title": "Kapitan Ameryka",
+      "subtitle": "Tom 7 - Proces Kapitana Ameryki",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/519/741/519741/1665498605/231.jpg",
+      "date": "2011-03-23T11:41:04.000Z",
+      "serie_id": 19,
+      "order": 6,
+      "global_order": 97,
+      "notebooks": [
+        "Captain_America:_Who_Will_Wield_the_Shield?_Vol_1_1",
+        "Captain_America_Vol_1_602",
+        "Captain_America_Vol_1_603",
+        "Captain_America_Vol_1_604",
+        "Captain_America_Vol_1_605",
+        "Captain_America_Vol_1_606",
+        "Captain_America_Vol_1_607",
+        "Captain_America_Vol_1_608",
+        "Captain_America_Vol_1_609",
+        "Captain_America_Vol_1_610",
+        "Steve_Rogers:_Super-Soldier_Vol_1_1",
+        "Steve_Rogers:_Super-Soldier_Vol_1_2",
+        "Steve_Rogers:_Super-Soldier_Vol_1_3",
+        "Steve_Rogers:_Super-Soldier_Vol_1_4",
+        "Captain_America_Vol_1_611",
+        "Captain_America_Vol_1_612",
+        "Captain_America_Vol_1_613",
+        "Captain_America_Vol_1_614",
+        "Captain_America_Vol_1_615",
+        "Captain_America_Vol_1_615.1"
+      ],
+      "event_id": 0
+    },
+    "101": {
+      "title": "Kapitan Ameryka",
+      "subtitle": "Tom 8 - Amerykańscy marzyciele",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/529/053/529053/1672672157/231.jpg",
+      "date": "2012-04-25T10:46:24.000Z",
+      "serie_id": 19,
+      "order": 7,
+      "global_order": 105,
+      "notebooks": [
+        "Captain_America_Vol_1_616",
+        "Captain_America_Vol_1_617",
+        "Captain_America_Vol_1_618",
+        "Captain_America_Vol_1_619",
+        "Captain_America_Vol_6_1",
+        "Captain_America_Vol_6_2",
+        "Captain_America_Vol_6_3",
+        "Captain_America_Vol_6_4",
+        "Captain_America_Vol_6_5",
+        "Captain_America_Vol_6_6",
+        "Captain_America_Vol_6_7",
+        "Captain_America_Vol_6_8",
+        "Captain_America_Vol_6_9",
+        "Captain_America_Vol_6_10"
+      ],
+      "event_id": 0
+    },
+    "102": {
+      "title": "Fantastyczna Czwórka",
+      "subtitle": "Tom 2",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/519/732/519732/1665493388/231.jpg",
+      "date": "2011-06-29T10:12:39.000Z",
+      "serie_id": 29,
+      "order": 1,
+      "global_order": 100,
+      "notebooks": [
+        "Fantastic_Four_Vol_1_579",
+        "Fantastic_Four_Vol_1_580",
+        "Fantastic_Four_Vol_1_581",
+        "Fantastic_Four_Vol_1_582",
+        "Fantastic_Four_Vol_1_583",
+        "Fantastic_Four_Vol_1_584",
+        "Fantastic_Four_Vol_1_585",
+        "Fantastic_Four_Vol_1_586",
+        "Fantastic_Four_Vol_1_587",
+        "Fantastic_Four_Vol_1_588",
+        "FF_Vol_1_1",
+        "FF_Vol_1_2",
+        "FF_Vol_1_3",
+        "FF_Vol_1_4",
+        "FF_Vol_1_5"
+      ],
+      "event_id": 0
+    },
+    "104": {
+      "title": "Ultimate Spider-Man",
+      "subtitle": "Tom 11",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/499/933/499933/1650030410/231.jpg",
+      "date": "2009-07-29T10:25:16.000Z",
+      "serie_id": 13,
+      "order": 10,
+      "global_order": 84,
+      "notebooks": [
+        "Ultimate_Spider-Man_Vol_1_123",
+        "Ultimate_Spider-Man_Vol_1_124",
+        "Ultimate_Spider-Man_Vol_1_125",
+        "Ultimate_Spider-Man_Vol_1_126",
+        "Ultimate_Spider-Man_Vol_1_127",
+        "Ultimate_Spider-Man_Vol_1_128",
+        "Ultimate_Spider-Man_Vol_1_129",
+        "Ultimate_Spider-Man_Vol_1_130",
+        "Ultimate_Spider-Man_Vol_1_131",
+        "Ultimate_Spider-Man_Vol_1_132",
+        "Ultimate_Spider-Man_Vol_1_133",
+        "Ultimatum:_Spider-ManRequiem_Vol_1_1",
+        "Ultimatum:_Spider-ManRequiem_Vol_1_2"
+      ],
+      "event_id": 0
+    },
+    "105": {
+      "title": "Ultimate Spider-Man",
+      "subtitle": "Tom 12",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/513/625/513625/1660740156/231.jpg",
+      "date": "2010-10-27T10:27:35.000Z",
+      "serie_id": 13,
+      "order": 11,
+      "global_order": 95,
+      "notebooks": [
+        "Ultimate_Spider-Man_Vol_2_1",
+        "Ultimate_Spider-Man_Vol_2_2",
+        "Ultimate_Spider-Man_Vol_2_3",
+        "Ultimate_Spider-Man_Vol_2_4",
+        "Ultimate_Spider-Man_Vol_2_5",
+        "Ultimate_Spider-Man_Vol_2_6",
+        "Ultimate_Spider-Man_Vol_2_7",
+        "Ultimate_Spider-Man_Vol_2_8",
+        "Ultimate_Spider-Man_Vol_2_9",
+        "Ultimate_Spider-Man_Vol_2_10",
+        "Ultimate_Spider-Man_Vol_2_11",
+        "Ultimate_Spider-Man_Vol_2_12",
+        "Ultimate_Spider-Man_Vol_2_13",
+        "Ultimate_Spider-Man_Vol_2_14"
+      ],
+      "event_id": 0
+    },
+    "106": {
+      "title": "Ultimate Spider-Man",
+      "subtitle": "Tom 13",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/530/564/530564/1674222401/231.jpg",
+      "date": "2011-08-17T10:33:18.000Z",
+      "serie_id": 13,
+      "order": 12,
+      "global_order": 101,
+      "notebooks": [
+        "Ultimate_Spider-Man_Vol_2_15",
+        "Ultimate_Spider-Man_Vol_1_150",
+        "Ultimate_Spider-Man_Vol_1_151",
+        "Ultimate_Spider-Man_Vol_1_152",
+        "Ultimate_Spider-Man_Vol_1_153",
+        "Ultimate_Spider-Man_Vol_1_154",
+        "Ultimate_Spider-Man_Vol_1_155",
+        "Ultimate_Spider-Man_Vol_1_156",
+        "Ultimate_Spider-Man_Vol_1_157",
+        "Ultimate_Spider-Man_Vol_1_158",
+        "Ultimate_Spider-Man_Vol_1_159",
+        "Ultimate_Spider-Man_Vol_1_160",
+        "Ultimate_Avengers_vs._New_Ultimates_Vol_1_1",
+        "Ultimate_Avengers_vs._New_Ultimates_Vol_1_2",
+        "Ultimate_Avengers_vs._New_Ultimates_Vol_1_3",
+        "Ultimate_Avengers_vs._New_Ultimates_Vol_1_4",
+        "Ultimate_Avengers_vs._New_Ultimates_Vol_1_5",
+        "Ultimate_Avengers_vs._New_Ultimates_Vol_1_6",
+        "Ultimate_Fallout_Vol_1_1",
+        "Ultimate_Fallout_Vol_1_2",
+        "Ultimate_Fallout_Vol_1_3",
+        "Ultimate_Fallout_Vol_1_4",
+        "Ultimate_Fallout_Vol_1_5",
+        "Ultimate_Fallout_Vol_1_6"
+      ],
+      "event_id": 0
+    },
+    "107": {
+      "title": "X-Men: Punkty zwrotne",
+      "subtitle": "Upadek mutantów",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/533/052/533052/1676473951/231.jpg",
+      "date": "1988-03-01T11:02:49.000Z",
+      "serie_id": 30,
+      "order": 0,
+      "global_order": 6,
+      "notebooks": [
+        "New_Mutants_Vol_1_59",
+        "New_Mutants_Vol_1_60",
+        "New_Mutants_Vol_1_61",
+        "Uncanny_X-Men_Vol_1_225",
+        "X-Factor_Vol_1_24",
+        "Uncanny_X-Men_Vol_1_226",
+        "X-Factor_Vol_1_25",
+        "Uncanny_X-Men_Vol_1_227",
+        "X-Factor_Vol_1_26"
+      ],
+      "event_id": 0
+    },
+    "108": {
+      "title": "Amazing Spider-Man",
+      "subtitle": "Tom 1",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/533/033/533033/1676467598/231.jpg",
+      "date": "2002-09-25T10:09:26.000Z",
+      "serie_id": 25,
+      "order": 4,
+      "global_order": 27,
+      "notebooks": [
+        "Amazing_Spider-Man_Vol_2_30",
+        "Amazing_Spider-Man_Vol_2_31",
+        "Amazing_Spider-Man_Vol_2_32",
+        "Amazing_Spider-Man_Vol_2_33",
+        "Amazing_Spider-Man_Vol_2_34",
+        "Amazing_Spider-Man_Vol_2_35",
+        "Amazing_Spider-Man_Vol_2_36",
+        "Amazing_Spider-Man_Vol_2_37",
+        "Amazing_Spider-Man_Vol_2_38",
+        "Amazing_Spider-Man_Vol_2_39",
+        "Amazing_Spider-Man_Vol_2_40",
+        "Amazing_Spider-Man_Vol_2_41",
+        "Amazing_Spider-Man_Vol_2_42",
+        "Amazing_Spider-Man_Vol_2_43",
+        "Amazing_Spider-Man_Vol_2_44",
+        "Amazing_Spider-Man_Vol_2_45"
+      ],
       "event_id": 0
     }
   },
   "meta": {
-    "nextIndex": 99
+    "nextIndex": 109
   }
 }

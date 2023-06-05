@@ -172,7 +172,7 @@
       "date": "2017-08-30T10:19:13.000Z",
       "serie_id": 2,
       "order": 9,
-      "global_order": 62,
+      "global_order": 63,
       "event_id": 93,
       "notebooks": ["Deadpool_Vol_6_31","Deadpool_Vol_6_32","Deadpool_Vol_6_33","Deadpool_Vol_6_34","Deadpool_Vol_6_35"]
     },
@@ -183,7 +183,7 @@
       "date": "2017-12-27T11:22:15.000Z",
       "serie_id": 2,
       "order": 10,
-      "global_order": 70,
+      "global_order": 71,
       "event_id": 0,
       "notebooks": ["Despicable_Deadpool_Vol_1_287","Despicable_Deadpool_Vol_1_288","Despicable_Deadpool_Vol_1_289","Despicable_Deadpool_Vol_1_290","Despicable_Deadpool_Vol_1_291"]
     },
@@ -194,7 +194,7 @@
       "date": "2018-03-14T11:24:28.000Z",
       "serie_id": 2,
       "order": 12,
-      "global_order": 78,
+      "global_order": 79,
       "event_id": 0,
       "notebooks": ["Despicable_Deadpool_Vol_1_292","Despicable_Deadpool_Vol_1_293","Despicable_Deadpool_Vol_1_294","Despicable_Deadpool_Vol_1_295","Despicable_Deadpool_Vol_1_296"]
     },
@@ -205,7 +205,7 @@
       "date": "2018-05-09T10:25:41.000Z",
       "serie_id": 2,
       "order": 13,
-      "global_order": 82,
+      "global_order": 83,
       "event_id": 0,
       "notebooks": ["Despicable_Deadpool_Vol_1_297","Despicable_Deadpool_Vol_1_298","Despicable_Deadpool_Vol_1_299","Despicable_Deadpool_Vol_1_300"]
     },
@@ -216,7 +216,7 @@
       "date": "2018-02-21T11:27:32.000Z",
       "serie_id": 2,
       "order": 11,
-      "global_order": 75,
+      "global_order": 76,
       "event_id": 0,
       "notebooks": ["Deadpool_vs._Old_Man_Logan_Vol_1_1","Deadpool_vs._Old_Man_Logan_Vol_1_2","Deadpool_vs._Old_Man_Logan_Vol_1_3","Deadpool_vs._Old_Man_Logan_Vol_1_4","Deadpool_vs._Old_Man_Logan_Vol_1_5"]
     },
@@ -337,7 +337,7 @@
       "date": "2017-09-13T10:55:37.000Z",
       "serie_id": 4,
       "order": 7,
-      "global_order": 63,
+      "global_order": 64,
       "event_id": 93,
       "notebooks": ["Amazing_Spider-Man_Vol_4_29","Amazing_Spider-Man_Vol_4_30","Amazing_Spider-Man_Vol_4_31","Amazing_Spider-Man_Vol_4_32"]
     },
@@ -348,7 +348,7 @@
       "date": "2018-01-17T11:09:29.000Z",
       "serie_id": 4,
       "order": 8,
-      "global_order": 72,
+      "global_order": 73,
       "event_id": 0,
       "notebooks": ["Amazing_Spider-Man:_Venom_Inc._Alpha_Vol_1_1","Amazing_Spider-Man_Vol_1_792","Venom_Vol_1_159","Amazing_Spider-Man_Vol_1_793","Venom_Vol_1_160","Amazing_Spider-Man:_Venom_Inc._Omega_Vol_1_1"]
     },
@@ -359,7 +359,7 @@
       "date": "2018-02-21T11:10:45.000Z",
       "serie_id": 4,
       "order": 9,
-      "global_order": 76,
+      "global_order": 77,
       "event_id": 0,
       "notebooks": ["Amazing_Spider-Man_Vol_1_794","Amazing_Spider-Man_Vol_1_795","Amazing_Spider-Man_Vol_1_796"]
     },
@@ -370,7 +370,7 @@
       "date": "2018-06-20T10:12:27.000Z",
       "serie_id": 4,
       "order": 10,
-      "global_order": 86,
+      "global_order": 87,
       "event_id": 0,
       "notebooks": ["Amazing_Spider-Man_Vol_1_797","Amazing_Spider-Man_Vol_1_798","Amazing_Spider-Man_Vol_1_799","Amazing_Spider-Man_Vol_1_800","Amazing_Spider-Man_Vol_1_801"]
     },
@@ -425,7 +425,7 @@
       "date": "2018-01-31T11:33:41.000Z",
       "serie_id": 5,
       "order": 38,
-      "global_order": 73,
+      "global_order": 74,
       "event_id": 0,
       "notebooks": ["All-New_Wolverine_Vol_1_25","All-New_Wolverine_Vol_1_26","All-New_Wolverine_Vol_1_27","All-New_Wolverine_Vol_1_28","All-New_Wolverine_Vol_1_29","All-New_Wolverine_Vol_1_30"]
     },
@@ -436,7 +436,7 @@
       "date": "2018-05-16T10:34:48.000Z",
       "serie_id": 5,
       "order": 39,
-      "global_order": 83,
+      "global_order": 84,
       "event_id": 0,
       "notebooks": ["All-New_Wolverine_Vol_1_31","All-New_Wolverine_Vol_1_32","All-New_Wolverine_Vol_1_33","All-New_Wolverine_Vol_1_34","All-New_Wolverine_Vol_1_35"]
     },
@@ -502,7 +502,7 @@
       "date": "2017-09-20T10:59:45.000Z",
       "serie_id": 6,
       "order": 5,
-      "global_order": 64,
+      "global_order": 65,
       "event_id": 93,
       "notebooks": ["Avengers_Vol_7_7","Avengers_Vol_7_8","Avengers_Vol_7_9","Avengers_Vol_7_10","Avengers_Vol_7_11"]
     },
@@ -513,7 +513,7 @@
       "date": "2017-12-06T11:02:05.000Z",
       "serie_id": 6,
       "order": 6,
-      "global_order": 69,
+      "global_order": 70,
       "event_id": 0,
       "notebooks": ["Avengers_Vol_1_672","Avengers_Vol_1_673","Avengers_Vol_1_674"]
     },
@@ -524,7 +524,7 @@
       "date": "2018-04-25T10:03:26.000Z",
       "serie_id": 6,
       "order": 7,
-      "global_order": 80,
+      "global_order": 81,
       "event_id": 0,
       "notebooks": ["Avengers_Vol_1_675","Avengers_Vol_1_676","Avengers_Vol_1_677","Avengers_Vol_1_678","Avengers_Vol_1_679","Avengers_Vol_1_680","Avengers_Vol_1_681","Avengers_Vol_1_682","Avengers_Vol_1_683","Avengers_Vol_1_684","Avengers_Vol_1_685","Avengers_Vol_1_686","Avengers_Vol_1_687","Avengers_Vol_1_688","Avengers_Vol_1_689","Avengers_Vol_1_690"]
     },
@@ -579,7 +579,7 @@
       "date": "2018-05-30T10:32:48.000Z",
       "serie_id": 7,
       "order": 52,
-      "global_order": 84,
+      "global_order": 85,
       "event_id": 0,
       "notebooks": ["Ms._Marvel_Vol_4_25","Ms._Marvel_Vol_4_26","Ms._Marvel_Vol_4_27","Ms._Marvel_Vol_4_28","Ms._Marvel_Vol_4_29","Ms._Marvel_Vol_4_30"]
     },
@@ -590,7 +590,7 @@
       "date": "2019-02-13T11:34:16.000Z",
       "serie_id": 7,
       "order": 53,
-      "global_order": 89,
+      "global_order": 90,
       "event_id": 0,
       "notebooks": ["Ms._Marvel_Vol_4_31","Ms._Marvel_Vol_4_32","Ms._Marvel_Vol_4_33","Ms._Marvel_Vol_4_34","Ms._Marvel_Vol_4_35","Ms._Marvel_Vol_4_36","Ms._Marvel_Vol_4_37","Ms._Marvel_Vol_4_38"]
     },
@@ -645,7 +645,7 @@
       "date": "2017-09-27T10:42:48.000Z",
       "serie_id": 9,
       "order": 4,
-      "global_order": 59,
+      "global_order": 60,
       "event_id": 0,
       "notebooks": ["Mighty_Thor_Vol_3_20","Mighty_Thor_Vol_3_21","Mighty_Thor_Vol_3_22","Mighty_Thor_Vol_3_23"]
     },
@@ -656,7 +656,7 @@
       "date": "2018-04-25T10:45:06.000Z",
       "serie_id": 9,
       "order": 5,
-      "global_order": 87,
+      "global_order": 88,
       "event_id": 0,
       "notebooks": ["Mighty_Thor_Vol_2_700","Mighty_Thor_Vol_2_701","Mighty_Thor_Vol_2_702","Mighty_Thor_Vol_2_703","Mighty_Thor_Vol_2_704","Mighty_Thor_Vol_2_705","Mighty_Thor_Vol_2_706"]
     },
@@ -689,7 +689,7 @@
       "date": "2018-02-14T11:49:59.000Z",
       "serie_id": 10,
       "order": 62,
-      "global_order": 74,
+      "global_order": 75,
       "event_id": 93,
       "notebooks": ["Doctor_Strange_Vol_4_21","Doctor_Strange_Vol_4_22","Doctor_Strange_Vol_4_23","Doctor_Strange_Vol_4_24","Doctor_Strange_Vol_4_25","Doctor_Strange_Vol_4_26","Doctor_Strange_Vol_1_381","Doctor_Strange_Vol_1_382","Doctor_Strange_Vol_1_383","Doctor_Strange_Vol_1_384","Doctor_Strange_Vol_1_385"]
     },
@@ -700,7 +700,7 @@
       "date": "2018-05-23T10:50:52.000Z",
       "serie_id": 10,
       "order": 63,
-      "global_order": 81,
+      "global_order": 82,
       "event_id": 0,
       "notebooks": ["Doctor_Strange:_Damnation_Vol_1_1","Doctor_Strange_Vol_1_386","Doctor_Strange:_Damnation_Vol_1_2","Doctor_Strange_Vol_1_387","Ben_Reilly:_Scarlet_Spider_Vol_1_15","Doctor_Strange:_Damnation_Vol_1_3","Iron_Fist_Vol_1_78","Ben_Reilly:_Scarlet_Spider_Vol_1_16","Damnation:_Johnny_Blaze_-_Ghost_Rider_Vol_1_1","Doctor_Strange_Vol_1_388","Iron_Fist_Vol_1_79","Iron_Fist_Vol_1_80","Ben_Reilly:_Scarlet_Spider_Vol_1_17","Doctor_Strange:_Damnation_Vol_1_4","Doctor_Strange_Vol_1_389","Doctor_Strange_Vol_1_390"]
     },
@@ -733,7 +733,7 @@
       "date": "2018-03-07T11:05:47.000Z",
       "serie_id": 11,
       "order": 66,
-      "global_order": 77,
+      "global_order": 78,
       "event_id": 0,
       "notebooks": ["Hawkeye_Vol_5_1","Hawkeye_Vol_5_2","Hawkeye_Vol_5_3","Hawkeye_Vol_5_4","Hawkeye_Vol_5_5","Hawkeye_Vol_5_6","Hawkeye_Vol_5_7","Hawkeye_Vol_5_8","Hawkeye_Vol_5_9","Hawkeye_Vol_5_10","Hawkeye_Vol_5_11","Hawkeye_Vol_5_12","Hawkeye_Vol_5_13","Hawkeye_Vol_5_14","Hawkeye_Vol_5_15","Hawkeye_Vol_5_16"]
     },
@@ -821,7 +821,7 @@
       "date": "2017-12-06T11:29:01.000Z",
       "serie_id": 15,
       "order": 74,
-      "global_order": 67,
+      "global_order": 68,
       "event_id": 0,
       "notebooks": ["Astonishing_X-Men_Vol_4_1","Astonishing_X-Men_Vol_4_2","Astonishing_X-Men_Vol_4_3","Astonishing_X-Men_Vol_4_4","Astonishing_X-Men_Vol_4_5","Astonishing_X-Men_Vol_4_6"]
     },
@@ -832,7 +832,7 @@
       "date": "2018-05-02T10:29:42.000Z",
       "serie_id": 15,
       "order": 75,
-      "global_order": 85,
+      "global_order": 86,
       "event_id": 0,
       "notebooks": ["Astonishing_X-Men_Vol_4_7","Astonishing_X-Men_Vol_4_8","Astonishing_X-Men_Vol_4_9","Astonishing_X-Men_Vol_4_10","Astonishing_X-Men_Vol_4_11"]
     },
@@ -843,7 +843,7 @@
       "date": "2018-11-21T11:31:21.000Z",
       "serie_id": 15,
       "order": 76,
-      "global_order": 88,
+      "global_order": 89,
       "event_id": 0,
       "notebooks": ["Astonishing_X-Men_Vol_4_13","Astonishing_X-Men_Vol_4_14","Astonishing_X-Men_Vol_4_15","Astonishing_X-Men_Vol_4_16","Astonishing_X-Men_Vol_4_17"]
     },
@@ -865,7 +865,7 @@
       "date": "2017-07-26T10:35:37.000Z",
       "serie_id": 16,
       "order": 78,
-      "global_order": 60,
+      "global_order": 61,
       "event_id": 93,
       "notebooks": ["Captain_America:_Steve_Rogers_Vol_1_12","Captain_America:_Steve_Rogers_Vol_1_13","Captain_America:_Steve_Rogers_Vol_1_14","Captain_America:_Steve_Rogers_Vol_1_15","Captain_America:_Steve_Rogers_Vol_1_16","Captain_America:_Steve_Rogers_Vol_1_17","Captain_America:_Steve_Rogers_Vol_1_18","Captain_America:_Steve_Rogers_Vol_1_19","Captain_America:_Sam_Wilson_Vol_1_22","Captain_America:_Sam_Wilson_Vol_1_23","Captain_America:_Sam_Wilson_Vol_1_24"]
     },
@@ -909,7 +909,7 @@
       "date": "2017-09-13T10:47:44.000Z",
       "serie_id": 19,
       "order": 82,
-      "global_order": 61,
+      "global_order": 62,
       "event_id": 93,
       "notebooks": ["Secret_Empire_Vol_1_0","Secret_Empire_Vol_1_1","Secret_Empire_Vol_1_2","Secret_Empire_Vol_1_3","Secret_Empire_Vol_1_4","Secret_Empire_Vol_1_5","Secret_Empire_Vol_1_6","Secret_Empire_Vol_1_7","Captain_America_Vol_8_25","Secret_Empire_Vol_1_8","Secret_Empire_Vol_1_9","Secret_Empire_Vol_1_10","Secret_Empire_Omega_Vol_1_1"]
     },
@@ -942,7 +942,7 @@
       "date": "2018-01-03T11:02:34.000Z",
       "serie_id": 20,
       "order": 85,
-      "global_order": 71,
+      "global_order": 72,
       "event_id": 0,
       "notebooks": ["Guardians_of_the_Galaxy_Vol_1_146","Guardians_of_the_Galaxy_Vol_1_147","Guardians_of_the_Galaxy_Vol_1_148","Guardians_of_the_Galaxy_Vol_1_149","Guardians_of_the_Galaxy_Vol_1_150"]
     },
@@ -953,7 +953,7 @@
       "date": "2017-09-27T10:14:01.000Z",
       "serie_id": 21,
       "order": 86,
-      "global_order": 65,
+      "global_order": 66,
       "event_id": 0,
       "notebooks": ["Generations:_Banner_Hulk_&_The_Totally_Awesome_Hulk_Vol_1_1","Generations:_Phoenix_&_Jean_Grey_Vol_1_1","Generations:_Wolverine_&_All-New_Wolverine_Vol_1_1","Generations:_The_Unworthy_Thor_&_The_Mighty_Thor_Vol_1_1","Generations:_Hawkeye_&_Hawkeye_Vol_1_1","Generations:_Captain_Marvel_&_Captain_Mar-Vell_Vol_1_1","Generations:_Ms._Marvel_&_Ms._Marvel_Vol_1_1","Generations:_Iron_Man_&_Ironheart_Vol_1_1","Generations:_Miles_Morales_Spider-Man_&_Peter_Parker_Spider-Man_Vol_1_1","Generations:_Sam_Wilson_Captain_America_&_Steve_Rogers_Captain_America_Vol_1_1"]
     },
@@ -964,7 +964,7 @@
       "date": "2017-10-25T10:15:36.000Z",
       "serie_id": 22,
       "order": 87,
-      "global_order": 66,
+      "global_order": 67,
       "event_id": 0,
       "notebooks": ["Thanos_Vol_2_1","Thanos_Vol_2_2","Thanos_Vol_2_3","Thanos_Vol_2_4","Thanos_Vol_2_5","Thanos_Vol_2_6","Thanos_Vol_2_7","Thanos_Vol_2_8","Thanos_Vol_2_9","Thanos_Vol_2_10","Thanos_Vol_2_11","Thanos_Vol_2_12"]
     },
@@ -975,7 +975,7 @@
       "date": "2018-11-14T11:17:44.000Z",
       "serie_id": 22,
       "order": 88,
-      "global_order": 79,
+      "global_order": 80,
       "event_id": 0,
       "notebooks": ["Thanos_Vol_2_13","Thanos_Vol_2_14","Thanos_Vol_2_15","Thanos_Vol_2_16","Thanos_Vol_2_17","Thanos_Vol_2_18","Cosmic_Ghost_Rider_Vol_1_1","Cosmic_Ghost_Rider_Vol_1_2","Cosmic_Ghost_Rider_Vol_1_3","Cosmic_Ghost_Rider_Vol_1_4","Cosmic_Ghost_Rider_Vol_1_5"]
     },
@@ -986,7 +986,7 @@
       "date": "2018-01-31T11:20:24.000Z",
       "serie_id": 23,
       "order": 89,
-      "global_order": 68,
+      "global_order": 69,
       "event_id": 0,
       "notebooks": ["Phoenix_Resurrection:_The_Return_of_Jean_Grey_Vol_1_1","Phoenix_Resurrection:_The_Return_of_Jean_Grey_Vol_1_2","Phoenix_Resurrection:_The_Return_of_Jean_Grey_Vol_1_3","Phoenix_Resurrection:_The_Return_of_Jean_Grey_Vol_1_4","Phoenix_Resurrection:_The_Return_of_Jean_Grey_Vol_1_5"]
     },
@@ -1024,9 +1024,20 @@
       "is_event": true,
       "event_id": 0,
       "notebooks": ["Captain_America:_Steve_Rogers_Vol_1_15","Deadpool_Vol_6_31","Captain_America:_Steve_Rogers_Vol_1_16","Secret_Empire_Vol_1_0","Amazing_Spider-Man_Vol_4_29","Amazing_Spider-Man_Vol_4_30","Amazing_Spider-Man_Vol_4_31","Avengers_Vol_7_9","Secret_Empire_Vol_1_1","Deadpool_Vol_6_32","Deadpool_Vol_6_33","Deadpool_Vol_6_34","Secret_Empire_Vol_1_2","Captain_America:_Sam_Wilson_Vol_1_22","Captain_America:_Steve_Rogers_Vol_1_17","Secret_Empire_Vol_1_3","Avengers_Vol_7_10","Doctor_Strange_Vol_4_21","Doctor_Strange_Vol_4_22","Doctor_Strange_Vol_4_23","Doctor_Strange_Vol_4_24","Captain_America:_Sam_Wilson_Vol_1_23","Secret_Empire_Vol_1_4","Captain_America:_Steve_Rogers_Vol_1_18","Secret_Empire_Vol_1_5","Secret_Empire_Vol_1_6","Secret_Empire_Vol_1_7","Captain_America:_Sam_Wilson_Vol_1_24","Captain_America:_Steve_Rogers_Vol_1_19","Captain_America_Vol_8_25","Secret_Empire_Vol_1_8","Secret_Empire_Vol_1_9","Secret_Empire_Vol_1_10","Deadpool_Vol_6_35","Secret_Empire_Omega_Vol_1_1"]
+    },
+    "94": {
+      "title": "Silver Surfer",
+      "subtitle": "Tom 2",
+      "image_url": "https://assets.gildia.pl/system/thumbs/000/527/105/527105/1670504115/231.jpg",
+      "date": "2017-10-25T10:27:05.000Z",
+      "serie_id": 24,
+      "order": 0,
+      "global_order": 59,
+      "notebooks": ["SilverSurfer_Vol_8_1","SilverSurfer_Vol_8_2","SilverSurfer_Vol_8_3","SilverSurfer_Vol_8_4","SilverSurfer_Vol_8_5","SilverSurfer_Vol_8_6","SilverSurfer_Vol_8_7","SilverSurfer_Vol_8_8","SilverSurfer_Vol_8_9","SilverSurfer_Vol_8_10","SilverSurfer_Vol_8_11","SilverSurfer_Vol_8_12","SilverSurfer_Vol_8_13","SilverSurfer_Vol_8_14"],
+      "event_id": 0
     }
   },
   "meta": {
-    "nextIndex": 94
+    "nextIndex": 95
   }
 }
