@@ -1,4 +1,4 @@
-'ues server';
+import { cache } from 'react';
 
 import { ApiMenuItem, MenuItem } from 'types/Menu';
 
@@ -21,10 +21,10 @@ export const mapRawMenu = (menu: Record<number, ApiMenuItem>): MenuItem[] => {
   }));
 };
 
-const getMenu = async (): Promise<MenuItem[]> => {
+const getMenu = cache(async (): Promise<MenuItem[]> => {
   const { menu } = await getApiMenu();
 
   return mapRawMenu(menu);
-};
+});
 
 export default getMenu;

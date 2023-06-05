@@ -22,7 +22,9 @@ const MenuPage: NextPage = async ({ params }) => {
     notFound();
   }
 
-  return <MenuShow menu={menu} item={item} />;
+  const parentName = (!!item.parent_id && menu.find(({ id: menuId }) => menuId === item.parent_id)?.name) || undefined;
+
+  return <MenuShow item={item} parentName={parentName} />;
 };
 
 export default MenuPage;
