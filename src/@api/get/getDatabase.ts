@@ -7,13 +7,11 @@ const getDatabase = async (id: string): Promise<Database | void> =>
   new Promise((resolve) => {
     if (!fs.existsSync(`src/database/db/${id}`)) {
       resolve();
-      return;
     }
 
     fastFolderSize(`src/database/db/${id}`, (err, size) => {
       if (err) {
         resolve();
-        return;
       }
       resolve({ name: id, size: size || 0 });
     });

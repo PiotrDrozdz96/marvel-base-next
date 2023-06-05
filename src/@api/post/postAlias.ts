@@ -1,30 +1,14 @@
+'use server';
+
 import fs from 'fs';
 
-import ApiHandler from 'types/ApiHandler';
 import { Alias, ApiAlias } from 'types/Alias';
-import messages from 'utils/apiValidators/apiValidators.messages';
-import { interpolate } from 'utils/interpolate';
-import pick from 'utils/pick';
 
-const aliasField: (keyof Alias)[] = ['name', 'params'];
-const aliasRequiredField: (keyof Alias)[] = ['name', 'params'];
-
-const postAlias: ApiHandler = async (req, res) => {
-  const { databaseName } = req.query as Record<string, string>;
-
-  return new Promise((resolve) => {
-    const body: Alias = pick(JSON.parse(req.body), aliasField);
-    const emptyField = aliasRequiredField.find((key) => !body[key]);
-
-    if (emptyField) {
-      resolve(res.status(400).send({ message: interpolate(messages.required, { field: emptyField }) }));
-      return;
-    }
-
+const postAlias = async (databaseName: string, body: Alias) =>
+  new Promise((resolve) => {
     fs.readFile(`src/database/db/${databaseName}/aliases.json`, 'utf8', (err, data) => {
       if (err) {
-        resolve(res.status(404).json(err));
-        return;
+        throw err;
       }
 
       const aliases = JSON.parse(data) as Record<string, ApiAlias>;
@@ -36,13 +20,11 @@ const postAlias: ApiHandler = async (req, res) => {
 
       fs.writeFile(`src/database/db/${databaseName}/aliases.json`, JSON.stringify(newDatabase, null, 2), (writeErr) => {
         if (writeErr) {
-          resolve(res.status(500).json(writeErr));
-          return;
+          throw writeErr;
         }
-        resolve(res.status(200).json(body));
+        resolve(body);
       });
     });
   });
-};
 
 export default postAlias;

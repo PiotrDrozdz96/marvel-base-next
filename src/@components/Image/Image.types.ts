@@ -1,4 +1,4 @@
-import { DetailedHTMLProps, ImgHTMLAttributes } from 'react';
+import { ImageProps } from 'next/image';
 
 import { Preset } from 'types/Image';
 
@@ -8,11 +8,8 @@ export type ImageLoader = {
   loader: (preset: Preset | 'full', matchArray: RegExpMatchArray) => string;
 };
 
-export type Props = Omit<
-  DetailedHTMLProps<ImgHTMLAttributes<HTMLImageElement>, HTMLImageElement>,
-  'width' | 'height' | 'alt'
-> & {
+export type Props = Pick<ImageProps, 'alt' | 'priority' | 'onError' | 'onLoad'> & {
+  src: string;
   preset: Preset;
-  alt: string;
   withLink?: boolean;
 };

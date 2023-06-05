@@ -5,6 +5,10 @@
   to { opacity: 1 }
 }
 
+body:has(> .wrapper) {
+  overflow: hidden;
+}
+
 .wrapper {
   position: fixed;
   top: 0;

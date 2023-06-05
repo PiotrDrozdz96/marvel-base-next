@@ -1,3 +1,5 @@
+'use client';
+
 import { ChangeEvent, useRef, useState } from 'react';
 import classNames from 'classnames';
 

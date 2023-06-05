@@ -1,4 +1,7 @@
+'use client';
+
 import { createContext } from 'react';
+
 import { ApiNotebook } from 'types/Notebook';
 import SetState from 'types/SetState';
 

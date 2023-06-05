@@ -25,7 +25,9 @@ const ImageInput = ({ value, initialValue, onBlur, onLoad, onError, ...props }: 
     <div>
       <Input value={value} onBlur={finalOnBlur} {...props} />
       {!!src && (
-        <Image src={src} className={classes.imagePreview} preset="thumb" alt="" onLoad={onLoad} onError={onError} />
+        <div className={classes.imagePreview}>
+          <Image src={src} preset="thumb" alt="" onLoad={onLoad} onError={onError} />
+        </div>
       )}
     </div>
   );

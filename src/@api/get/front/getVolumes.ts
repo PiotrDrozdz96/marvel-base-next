@@ -1,4 +1,5 @@
 import { Volume } from 'types/Volume';
+import OrderField from 'types/OrderField';
 import get from '@api/get';
 import mapApiToFront from 'utils/mapApiToFront';
 
@@ -9,7 +10,7 @@ const defaultFilter = () => true;
 const getVolumes = async (
   databaseName: string,
   filter: VolumeFilter = defaultFilter,
-  order: 'order' | 'global_order' = 'order'
+  order: OrderField = 'order'
 ): Promise<Volume[]> => {
   const { volumes } = await get(databaseName, 'volumes');
   const volumesArray = mapApiToFront(volumes, order);

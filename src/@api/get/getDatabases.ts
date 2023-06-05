@@ -8,12 +8,10 @@ const getDatabases = async (): Promise<Database[]> =>
     fs.readdir('src/database/db', (err, files) => {
       if (err) {
         reject();
-        return;
       }
 
       if (files.length === 0) {
         resolve([]);
-        return;
       }
 
       const result: Partial<Database>[] = files.map((name) => ({ name }));

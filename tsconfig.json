@@ -1,7 +1,11 @@
 {
   "compilerOptions": {
     "target": "es5",
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "lib": [
+      "DOM",
+      "DOM.iterable",
+      "esnext"
+    ],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
@@ -15,16 +19,36 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "downlevelIteration": true,
-    "typeRoots": ["@types/custom.d.ts"],
+    "typeRoots": [
+      "@types/custom.d.ts"
+    ],
     "jsx": "preserve",
-    "types": ["node"],
+    "types": [
+      "node"
+    ],
     "baseUrl": "./src",
     "paths": {
-      "core/*": ["../core/*"],
-      "containers/*": ["../containers/*"],
+      "core/*": [
+        "../core/*"
+      ],
+      "containers/*": [
+        "../containers/*"
+      ]
     },
-    "incremental": true
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ]
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
-  "exclude": ["node_modules"]
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
 }

@@ -1,7 +1,8 @@
+'use client';
+
 import { CSSProperties, ReactNode, useRef, useState } from 'react';
 import classNames from 'classnames';
 
-// import { NOSCRIPT_CLASSES } from 'core/noscript.styles';
 import useElementHeight from 'hooks/useElementHeight';
 
 import classes from './Collapsible.module.scss';

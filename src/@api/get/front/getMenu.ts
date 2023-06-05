@@ -1,3 +1,5 @@
+import { cache } from 'react';
+
 import { ApiMenuItem, MenuItem } from 'types/Menu';
 
 import mapObjectToArray from 'utils/mapObjectToArray';
@@ -19,10 +21,10 @@ export const mapRawMenu = (menu: Record<number, ApiMenuItem>): MenuItem[] => {
   }));
 };
 
-const getMenu = async (): Promise<MenuItem[]> => {
+const getMenu = cache(async (): Promise<MenuItem[]> => {
   const { menu } = await getApiMenu();
 
   return mapRawMenu(menu);
-};
+});
 
 export default getMenu;

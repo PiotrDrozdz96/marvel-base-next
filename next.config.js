@@ -1,5 +1,9 @@
 module.exports = {
   reactStrictMode: false,
+  productionBrowserSourceMaps: true,
+  experimental: {
+    serverActions: true,
+  },
   async rewrites() {
     return [
       {

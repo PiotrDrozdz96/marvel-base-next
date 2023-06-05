@@ -1,10 +1,10 @@
+import { ReactNode } from 'react';
+
 import routes from 'config/routes';
 import { Serie } from 'types/Serie';
-import List from '@components/List';
-import ListRow from '@components/ListRow';
+import { ListWrapper, DroppableList } from '@components/List';
 import ActionsButtons from '@components/ActionsButtons';
 import BooleanField from '@components/BooleanField';
-import useDraggableItems from 'hooks/useDraggableItems';
 import width from 'utils/width';
 
 import seriesMessages from './Series.messages';
@@ -17,33 +17,44 @@ type Props = {
 
 const labels: string[] = [seriesMessages.id, seriesMessages.name, seriesMessages.isFilter, ''];
 
-const SeriesList = ({ series, databaseName, waveId }: Props): JSX.Element => {
-  const { items, onDragEnd, getRowProps } = useDraggableItems(series, `db/${databaseName}/series`);
+const getRows = (series: Serie[], databaseName: string) => {
+  const rows: Record<number, ReactNode> = {};
 
-  return (
-    <List
-      name={seriesMessages.listName}
-      addHref={{ pathname: routes.series.id.href, query: { databaseName, id: 'create', wave_id: waveId } }}
-      labels={labels}
-      onDragEnd={onDragEnd}
-    >
-      {items.map((serie, index) => (
-        <ListRow key={serie.id} {...getRowProps(serie, index)}>
-          <td style={width(100)}>{serie.id}</td>
-          <td style={width('100%')}>{serie.name}</td>
-          <td style={width(100)}>
-            <BooleanField value={serie.is_filter} />
-          </td>
-          <ActionsButtons
-            routeItem={routes.series}
-            id={serie.id}
-            databaseName={`db/${databaseName}/series`}
-            query={{ databaseName, id: serie.id }}
-          />
-        </ListRow>
-      ))}
-    </List>
-  );
+  series.forEach((serie) => {
+    rows[serie.id] = (
+      <>
+        <td style={width(100)}>{serie.id}</td>
+        <td style={width('100%')}>{serie.name}</td>
+        <td style={width(100)}>
+          <BooleanField value={serie.is_filter} />
+        </td>
+        <ActionsButtons
+          routeItem={routes.series}
+          id={serie.id}
+          resource="series"
+          databaseName={databaseName}
+          query={{ databaseName, id: serie.id }}
+        />
+      </>
+    );
+  });
+
+  return rows;
 };
+
+const SeriesList = ({ series, databaseName, waveId }: Props): JSX.Element => (
+  <ListWrapper
+    name={seriesMessages.listName}
+    addHref={{ pathname: routes.series.id.href, query: { databaseName, id: 'create', wave_id: waveId } }}
+  >
+    <DroppableList
+      initialItems={series}
+      databaseName={`db/${databaseName}/series`}
+      itemsName="series"
+      labels={labels}
+      rows={getRows(series, databaseName)}
+    />
+  </ListWrapper>
+);
 
 export default SeriesList;

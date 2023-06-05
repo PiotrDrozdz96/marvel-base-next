@@ -1,13 +1,14 @@
 import { useState } from 'react';
-import { useRouter } from 'next/router';
-import { Form } from 'react-final-form';
+import { useRouter } from 'next/navigation';
 import { ParsedUrlQueryInput } from 'querystring';
 import { IoCloudDownload, IoAlertCircleOutline } from 'react-icons/io5';
 
+import { Form } from '@lib/react-final-form';
 import Modal from '@components/Modal';
 import Button from '@components/Button';
 import Input from '@components/Input';
-import classes from '@components/ActionButton/ActionButton.module.scss';
+import classes from '@components/DeleteButton/DeleteButton.module.scss';
+import stringifyHref from 'utils/stringifyHref';
 
 import messages from './ImportButton.messages';
 
@@ -34,7 +35,7 @@ const ImportButton = ({ url, type = 'push', withRange = false }: Props): JSX.Ele
         <Form
           onSubmit={(values) => {
             setIsOpen(false);
-            const finalUrl = { pathname: url.pathname, query: { ...url.query, ...values } };
+            const finalUrl = stringifyHref({ pathname: url.pathname, query: { ...url.query, ...values } });
             if (type === 'push') {
               router.push(finalUrl);
             } else {

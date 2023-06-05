@@ -1,5 +1,6 @@
 import { ReactNode } from 'react';
-import { Draggable } from 'react-beautiful-dnd';
+
+import { Draggable } from '@lib/react-beautiful-dnd';
 
 type Props = {
   draggableId: string;

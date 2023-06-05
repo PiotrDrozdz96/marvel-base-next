@@ -1,4 +1,4 @@
-import { Field } from 'react-final-form';
+import { Field } from '@lib/react-final-form';
 
 import Switch from './Switch';
 

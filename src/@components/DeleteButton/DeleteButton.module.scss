@@ -1,0 +1,29 @@
+@import 'styles/variables';
+
+.modalHeader {
+  padding: 16px 24px;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 32px;
+  color: $color-text;
+};
+
+.modalContent {
+  padding: 8px 24px 16px 24px;
+  color: rgba(255, 255, 255, 0.7);
+};
+
+.modalActions {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 8px;
+
+  & svg {
+    font-size: 25px;
+  }
+};
+
+.button {
+  margin-right: 8px;
+}

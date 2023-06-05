@@ -7,15 +7,14 @@ import classes from './FormActions.module.scss';
 
 export type Props = {
   backHref: BackButtonProps['href'];
-  onSave?: () => void;
   withoutSave?: boolean;
   withoutMovement?: boolean;
 };
 
-const FormActions = ({ withoutSave, withoutMovement, backHref, onSave }: Props): JSX.Element => (
+const FormActions = ({ withoutSave, withoutMovement, backHref }: Props): JSX.Element => (
   <div className={classNames(classes.formActions, { [classes.movement]: !withoutMovement })}>
     <BackButton href={backHref} />
-    {!withoutSave && <SaveButton onSave={onSave} />}
+    {!withoutSave && <SaveButton />}
   </div>
 );
 

@@ -1,67 +1,39 @@
+'use server';
+
 import fs from 'fs';
 
-import ApiHandler from 'types/ApiHandler';
 import { ApiSerie } from 'types/Serie';
 import JsonData from 'types/JsonData';
 import { ApiWave } from 'types/Wave';
 import messages from 'utils/apiValidators/apiValidators.messages';
 import { interpolate } from 'utils/interpolate';
-import pick from 'utils/pick';
-import reorderApi from '@api/reorder';
 
-const seriesFields: (keyof ApiSerie)[] = ['name', 'order', 'wave_id', 'is_filter'];
-const seriesRequiredFields: (keyof ApiSerie)[] = ['name', 'wave_id'];
-
-const postSeries: ApiHandler = async (req, res) => {
-  const { id: reqId, databaseName } = req.query as Record<string, string>;
-
-  if (reqId === 'reorder') {
-    return reorderApi(`db/${databaseName}/series`, 'series')(req, res);
-  }
-
-  return new Promise((resolve) => {
-    const body: Partial<ApiSerie> = pick(JSON.parse(req.body), seriesFields);
-    const emptyField = seriesRequiredFields.find((key) => !body[key] && body[key] !== 0);
-
-    if (emptyField) {
-      resolve(res.status(400).send({ message: interpolate(messages.required, { field: emptyField }) }));
-      return;
-    }
-
+const postSeries = async (databaseName: string, body: Partial<ApiSerie>, reqId?: number) =>
+  new Promise((resolve) => {
     fs.readFile(`src/database/db/${databaseName}/waves.json`, 'utf8', (wavesErr, wavesData) => {
       if (wavesErr) {
-        resolve(res.status(404).json(wavesErr));
-        return;
+        throw wavesErr;
       }
 
       const { waves } = JSON.parse(wavesData) as JsonData<'waves', ApiWave>;
       if (body.wave_id && !waves[body.wave_id]) {
-        resolve(
-          res.status(400).send({
-            messages: interpolate(messages.relations, {
-              field: 'wave_id',
-              value: body.wave_id,
-              baseName: 'waves',
-            }),
+        throw new Error(
+          interpolate(messages.relations, {
+            field: 'wave_id',
+            value: body.wave_id,
+            baseName: 'waves',
           })
         );
-        return;
       }
 
       fs.readFile(`src/database/db/${databaseName}/series.json`, 'utf8', (err, data) => {
         if (err) {
-          resolve(res.status(404).json(err));
-          return;
+          throw err;
         }
 
         const { series, meta } = JSON.parse(data) as JsonData<'series', ApiSerie>;
         if (reqId && !series[reqId as unknown as number]) {
-          resolve(
-            res
-              .status(404)
-              .send({ message: interpolate(messages.notFound, { id: reqId, baseName: `${databaseName}/series` }) })
-          );
-          return;
+          throw new Error(interpolate(messages.notFound, { id: reqId, baseName: `${databaseName}/series` }));
         }
 
         const id = reqId || meta.nextIndex;
@@ -82,15 +54,13 @@ const postSeries: ApiHandler = async (req, res) => {
           JSON.stringify(newDatabase, null, 2),
           (writeErr) => {
             if (writeErr) {
-              resolve(res.status(500).json(writeErr));
-              return;
+              throw writeErr;
             }
-            resolve(res.status(200).json({ ...body, id }));
+            resolve({ ...body, id });
           }
         );
       });
     });
   });
-};
 
 export default postSeries;

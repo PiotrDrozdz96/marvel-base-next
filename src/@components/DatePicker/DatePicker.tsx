@@ -19,7 +19,7 @@ type Props = Omit<DetailedHTMLProps<InputHTMLAttributes<HTMLInputElement>, HTMLI
 };
 
 const getCustomInput = ({ placeholder = '', error, required }: Partial<Props>) =>
-  forwardRef<HTMLInputElement, unknown>((props, ref) => (
+  forwardRef<HTMLInputElement, Record<string, unknown>>((props, ref) => (
     <Input ref={ref} {...props} placeholder={placeholder} error={error} required={required} />
   ));
 
