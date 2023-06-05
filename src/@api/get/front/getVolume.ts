@@ -1,5 +1,3 @@
-'use server';
-
 import { FrontVolume } from 'types/Volume';
 import get from '@api/get';
 

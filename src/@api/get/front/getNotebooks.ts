@@ -1,5 +1,3 @@
-'use server';
-
 import { MarvelFandomPageInfo, MarvelFandomImageInfo } from 'types/MarvelFandom';
 import { Notebook } from 'types/Notebook';
 import { nameRegExp } from 'consts/connect';

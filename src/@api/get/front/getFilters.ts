@@ -1,5 +1,3 @@
-'use server';
-
 import { Filters } from 'types/Filter';
 import get from '@api/get';
 import sortBy from 'utils/sortBy';

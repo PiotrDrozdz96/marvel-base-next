@@ -1,5 +1,3 @@
-'use server';
-
 import { Serie } from 'types/Serie';
 import get from '@api/get';
 import mapApiToFront from 'utils/mapApiToFront';
