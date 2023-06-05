@@ -24,7 +24,9 @@ const grabAllNotebooks = unstableCache(
           $body('.wikia-gallery-item').each(function (_, el) {
             const $item = $.load(el);
             const imageUrl = $item('img').attr('data-src') || '';
-            const name = $item('.lightbox-caption > center > div a').attr('title') || '';
+            const $anchor = $item('.lightbox-caption > center > div a');
+            const name = $anchor.attr('title') || '';
+            const href = ($anchor.attr('href') || '').replace('/wiki/', '');
             const [, title, vol, no] = name.match(nameRegExp) || [];
             const description = $item('center > div span:nth-child(2)').text();
             const [, subtitle, , releaseDate, coverDate] =
@@ -41,7 +43,7 @@ const grabAllNotebooks = unstableCache(
 
             notebooks.push({
               title: title || '',
-              title_long: `${title}_Vol_${vol}_${no}`,
+              title_long: href,
               vol: vol || '',
               no: no || '',
               subtitle: subtitle || alternativeSubtitle,
