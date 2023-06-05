@@ -29,7 +29,7 @@ const getTwoDigitNumber = (number: string): string => `0${number}`.substring(num
 
 const getDateFromContent = (content: string): string => {
   const releaseDate = getParamFromContent(content, 'ReleaseDate');
-  if (releaseDate) {
+  if (releaseDate && releaseDate.match(/\d+-\d+-\d+/)) {
     const [month, day, year] = releaseDate.split('-');
     return `${[year, getTwoDigitNumber(month), getTwoDigitNumber(day)].join('-')}T11:00:00.000Z`;
   }
