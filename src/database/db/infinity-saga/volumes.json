@@ -96,7 +96,7 @@
       "date": "2015-04-13T10:49:41.000Z",
       "serie_id": 1,
       "order": 10,
-      "global_order": 21
+      "global_order": 22
     },
     "12": {
       "title": "Ant-Man",
@@ -105,7 +105,7 @@
       "date": "2015-06-29T10:50:31.000Z",
       "serie_id": 1,
       "order": 11,
-      "global_order": 25
+      "global_order": 24
     },
     "13": {
       "title": "Kapitan Ameryka",
@@ -114,7 +114,7 @@
       "date": "2016-04-12T10:51:47.000Z",
       "serie_id": 1,
       "order": 12,
-      "global_order": 28
+      "global_order": 29
     },
     "14": {
       "title": "Doctor Strange",
@@ -123,7 +123,7 @@
       "date": "2016-10-20T10:06:09.000Z",
       "serie_id": 1,
       "order": 13,
-      "global_order": 31
+      "global_order": 32
     },
     "15": {
       "title": "Strażnicy Galaktyki",
@@ -132,7 +132,7 @@
       "date": "2017-04-10T10:07:09.000Z",
       "serie_id": 1,
       "order": 14,
-      "global_order": 17
+      "global_order": 16
     },
     "16": {
       "title": "Spider-Man",
@@ -141,7 +141,7 @@
       "date": "2017-06-28T10:08:13.000Z",
       "serie_id": 1,
       "order": 15,
-      "global_order": 37
+      "global_order": 36
     },
     "17": {
       "title": "Thor",
@@ -150,7 +150,7 @@
       "date": "2017-10-10T10:09:39.000Z",
       "serie_id": 1,
       "order": 16,
-      "global_order": 51
+      "global_order": 53
     },
     "18": {
       "title": "Czarna Pantera",
@@ -159,7 +159,7 @@
       "date": "2018-01-29T11:10:31.000Z",
       "serie_id": 1,
       "order": 17,
-      "global_order": 32
+      "global_order": 33
     },
     "19": {
       "title": "Avenges",
@@ -168,7 +168,7 @@
       "date": "2018-04-23T10:11:17.000Z",
       "serie_id": 1,
       "order": 18,
-      "global_order": 53
+      "global_order": 55
     },
     "20": {
       "title": "Ant-Man i Osa",
@@ -176,7 +176,7 @@
       "date": "2018-06-25T10:12:07.000Z",
       "serie_id": 1,
       "order": 19,
-      "global_order": 52,
+      "global_order": 54,
       "event_id": null,
       "notebooks": []
     },
@@ -196,7 +196,7 @@
       "date": "2019-04-21T10:13:32.000Z",
       "serie_id": 1,
       "order": 21,
-      "global_order": 57
+      "global_order": 58
     },
     "24": {
       "title": "Agenci T.A.R.C.Z.Y.",
@@ -232,7 +232,7 @@
       "date": "2015-04-28T10:02:16.000Z",
       "serie_id": 2,
       "order": 26,
-      "global_order": 20
+      "global_order": 21
     },
     "28": {
       "title": "Agenci T.A.R.C.Z.Y.",
@@ -241,7 +241,7 @@
       "date": "2015-05-12T10:02:53.000Z",
       "serie_id": 2,
       "order": 27,
-      "global_order": 22
+      "global_order": 23
     },
     "29": {
       "title": "Agenci T.A.R.C.Z.Y.",
@@ -250,7 +250,7 @@
       "date": "2016-05-03T10:03:33.000Z",
       "serie_id": 2,
       "order": 28,
-      "global_order": 27
+      "global_order": 28
     },
     "30": {
       "title": "Agenci T.A.R.C.Z.Y.",
@@ -259,7 +259,7 @@
       "date": "2016-05-17T10:04:13.000Z",
       "serie_id": 2,
       "order": 29,
-      "global_order": 29
+      "global_order": 30
     },
     "31": {
       "title": "Agenci T.A.R.C.Z.Y.",
@@ -268,7 +268,7 @@
       "date": "2016-12-06T11:04:53.000Z",
       "serie_id": 2,
       "order": 30,
-      "global_order": 34
+      "global_order": 39
     },
     "32": {
       "title": "Agenci T.A.R.C.Z.Y.",
@@ -277,7 +277,7 @@
       "date": "2017-02-21T11:05:28.000Z",
       "serie_id": 2,
       "order": 31,
-      "global_order": 35
+      "global_order": 40
     },
     "33": {
       "title": "Agenci T.A.R.C.Z.Y.",
@@ -286,7 +286,7 @@
       "date": "2017-05-16T10:07:50.000Z",
       "serie_id": 2,
       "order": 32,
-      "global_order": 36
+      "global_order": 41
     },
     "34": {
       "title": "Agenci T.A.R.C.Z.Y.",
@@ -295,7 +295,7 @@
       "date": "2018-05-18T10:08:56.000Z",
       "serie_id": 2,
       "order": 33,
-      "global_order": 41
+      "global_order": 52
     },
     "35": {
       "title": "Agenci T.A.R.C.Z.Y.",
@@ -304,7 +304,7 @@
       "date": "2019-08-02T10:09:39.000Z",
       "serie_id": 2,
       "order": 34,
-      "global_order": 54
+      "global_order": 56
     },
     "36": {
       "title": "Agenci T.A.R.C.Z.Y.",
@@ -313,7 +313,7 @@
       "date": "2020-08-12T10:11:27.000Z",
       "serie_id": 2,
       "order": 35,
-      "global_order": 55
+      "global_order": 57
     },
     "37": {
       "title": "Agentka Carter",
@@ -340,7 +340,7 @@
       "date": "2017-11-10T11:15:16.000Z",
       "serie_id": 4,
       "order": 38,
-      "global_order": 38
+      "global_order": 35
     },
     "40": {
       "title": "Daredevil",
@@ -349,7 +349,7 @@
       "date": "2015-04-10T10:21:57.000Z",
       "serie_id": 5,
       "order": 39,
-      "global_order": 18
+      "global_order": 19
     },
     "41": {
       "title": "Daredevil",
@@ -358,7 +358,7 @@
       "date": "2016-03-18T11:23:14.000Z",
       "serie_id": 5,
       "order": 40,
-      "global_order": 23
+      "global_order": 25
     },
     "42": {
       "title": "Daredevil",
@@ -367,7 +367,7 @@
       "date": "2018-10-19T10:23:55.000Z",
       "serie_id": 5,
       "order": 41,
-      "global_order": 47
+      "global_order": 45
     },
     "43": {
       "title": "Jessica Jones",
@@ -376,7 +376,7 @@
       "date": "2015-11-20T11:24:44.000Z",
       "serie_id": 5,
       "order": 42,
-      "global_order": 19
+      "global_order": 20
     },
     "44": {
       "subtitle": "Sezon 2",
@@ -403,7 +403,7 @@
       "date": "2016-09-30T10:27:48.000Z",
       "serie_id": 5,
       "order": 45,
-      "global_order": 24
+      "global_order": 26
     },
     "47": {
       "subtitle": "Sezon 2",
@@ -411,7 +411,7 @@
       "date": "2018-06-22T10:28:52.000Z",
       "serie_id": 5,
       "order": 46,
-      "global_order": 45,
+      "global_order": 43,
       "title": "Luke Cage"
     },
     "48": {
@@ -421,7 +421,7 @@
       "date": "2017-03-17T11:29:43.000Z",
       "serie_id": 5,
       "order": 47,
-      "global_order": 26
+      "global_order": 27
     },
     "49": {
       "title": "Iron Fist",
@@ -430,7 +430,7 @@
       "date": "2018-09-07T10:30:33.000Z",
       "serie_id": 5,
       "order": 48,
-      "global_order": 46
+      "global_order": 44
     },
     "50": {
       "title": "Defenders",
@@ -439,7 +439,7 @@
       "date": "2017-08-18T10:31:22.000Z",
       "serie_id": 5,
       "order": 49,
-      "global_order": 33
+      "global_order": 34
     },
     "51": {
       "title": "Punisher",
@@ -448,7 +448,7 @@
       "date": "2017-11-17T11:32:54.000Z",
       "serie_id": 5,
       "order": 50,
-      "global_order": 39
+      "global_order": 37
     },
     "52": {
       "title": "Punisher",
@@ -466,7 +466,7 @@
       "date": "2018-08-02T10:35:16.000Z",
       "serie_id": 6,
       "order": 52,
-      "global_order": 43
+      "global_order": 38
     },
     "54": {
       "title": "Cloak & Dagger",
@@ -475,7 +475,7 @@
       "date": "2019-05-30T10:36:26.000Z",
       "serie_id": 6,
       "order": 53,
-      "global_order": 44
+      "global_order": 46
     },
     "55": {
       "title": "Runaways",
@@ -484,7 +484,7 @@
       "date": "2017-11-21T11:37:11.000Z",
       "serie_id": 6,
       "order": 54,
-      "global_order": 40
+      "global_order": 47
     },
     "56": {
       "title": "Runaways",
@@ -502,7 +502,7 @@
       "date": "2019-12-13T11:38:42.000Z",
       "serie_id": 6,
       "order": 56,
-      "global_order": 56
+      "global_order": 51
     },
     "58": {
       "subtitle": "",
@@ -510,7 +510,7 @@
       "date": "2021-07-03T10:18:10.000Z",
       "serie_id": 1,
       "order": 57,
-      "global_order": 30,
+      "global_order": 31,
       "title": "Czarna Wdowa"
     },
     "59": {
@@ -519,13 +519,24 @@
       "date": "2022-08-10T10:06:15.000Z",
       "serie_id": 7,
       "order": 0,
-      "global_order": 16,
+      "global_order": 17,
       "notebooks": [],
       "title": "Ja jestem Groot",
+      "event_id": 0
+    },
+    "60": {
+      "title": "Ja Jestem Groot",
+      "subtitle": "Sezon 2",
+      "image_url": "https://fwcdn.pl/fpo/68/31/866831/8092063.6.jpg",
+      "date": "2023-09-06T10:43:22.000Z",
+      "serie_id": 7,
+      "order": 0,
+      "global_order": 18,
+      "notebooks": [],
       "event_id": 0
     }
   },
   "meta": {
-    "nextIndex": 60
+    "nextIndex": 61
   }
 }

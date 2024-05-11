@@ -23,9 +23,15 @@
       "order": 3,
       "wave_id": 4,
       "is_filter": true
+    },
+    "5": {
+      "name": "Spider-Verse",
+      "order": 4,
+      "wave_id": 5,
+      "is_filter": true
     }
   },
   "meta": {
-    "nextIndex": 5
+    "nextIndex": 6
   }
 }

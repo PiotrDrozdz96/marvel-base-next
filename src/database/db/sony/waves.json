@@ -9,15 +9,19 @@
       "order": 1
     },
     "3": {
-      "name": "Holland Spider-Man",
+      "name": "MCU Spider-Man",
       "order": 2
     },
     "4": {
       "name": "Venom",
       "order": 3
+    },
+    "5": {
+      "order": 4,
+      "name": "Spider-Verse"
     }
   },
   "meta": {
-    "nextIndex": 5
+    "nextIndex": 6
   }
 }

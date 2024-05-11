@@ -7,7 +7,7 @@
       "date": "2021-09-01T10:11:40.000Z",
       "serie_id": 1,
       "order": 0,
-      "global_order": 4
+      "global_order": 2
     },
     "2": {
       "title": "Eternals",
@@ -16,7 +16,7 @@
       "date": "2021-10-18T10:12:51.000Z",
       "serie_id": 1,
       "order": 1,
-      "global_order": 5
+      "global_order": 6
     },
     "3": {
       "title": "Spider-Man",
@@ -25,7 +25,7 @@
       "date": "2019-06-26T10:13:50.000Z",
       "serie_id": 1,
       "order": 2,
-      "global_order": 6
+      "global_order": 5
     },
     "4": {
       "title": "Spider-Man",
@@ -46,13 +46,15 @@
       "subtitle": "Sezon 1"
     },
     "6": {
-      "title": "What if...?",
+      "title": "A Gdyby...?",
       "subtitle": "Sezon 1",
       "image_url": "https://fwcdn.pl/fpo/64/42/836442/7965843.6.jpg",
       "date": "2021-10-06T10:18:23.000Z",
       "serie_id": 2,
       "order": 1,
-      "global_order": 1
+      "global_order": 4,
+      "event_id": null,
+      "notebooks": []
     },
     "7": {
       "title": "WandaVision",
@@ -61,7 +63,7 @@
       "date": "2021-03-05T11:20:16.000Z",
       "serie_id": 2,
       "order": 2,
-      "global_order": 2
+      "global_order": 1
     },
     "8": {
       "title": "Falcon i Zimowy Żołnierz",
@@ -79,7 +81,7 @@
       "date": "2021-12-22T11:22:45.000Z",
       "serie_id": 2,
       "order": 4,
-      "global_order": 10,
+      "global_order": 9,
       "event_id": null,
       "notebooks_ids": []
     },
@@ -90,7 +92,7 @@
       "date": "2022-05-04T10:53:40.000Z",
       "serie_id": 2,
       "order": 5,
-      "global_order": 11,
+      "global_order": 10,
       "notebooks_ids": [],
       "event_id": 0
     },
@@ -112,7 +114,7 @@
       "date": "2022-07-13T10:30:05.000Z",
       "serie_id": 2,
       "order": 6,
-      "global_order": 12,
+      "global_order": 15,
       "notebooks_ids": [],
       "event_id": 0
     },
@@ -123,7 +125,7 @@
       "date": "2022-07-08T10:31:54.000Z",
       "serie_id": 1,
       "order": 5,
-      "global_order": 13,
+      "global_order": 14,
       "notebooks_ids": [],
       "event_id": 0
     },
@@ -134,7 +136,7 @@
       "date": "2022-10-07T10:19:55.000Z",
       "serie_id": 1,
       "order": 6,
-      "global_order": 14,
+      "global_order": 16,
       "notebooks": [],
       "event_id": 0
     },
@@ -145,7 +147,7 @@
       "date": "2022-10-13T10:10:39.000Z",
       "serie_id": 2,
       "order": 7,
-      "global_order": 9,
+      "global_order": 13,
       "notebooks": [],
       "event_id": 0
     },
@@ -156,7 +158,7 @@
       "date": "2022-11-11T11:51:56.000Z",
       "serie_id": 1,
       "order": 7,
-      "global_order": 15,
+      "global_order": 11,
       "notebooks": [],
       "event_id": 0
     },
@@ -167,7 +169,7 @@
       "date": "2022-11-25T11:04:28.000Z",
       "serie_id": 1,
       "order": 8,
-      "global_order": 16,
+      "global_order": 17,
       "notebooks": [],
       "event_id": 0
     },
@@ -178,7 +180,7 @@
       "date": "2023-02-15T11:25:05.000Z",
       "serie_id": 1,
       "order": 9,
-      "global_order": 17,
+      "global_order": 19,
       "notebooks": [],
       "event_id": 0
     },
@@ -189,12 +191,67 @@
       "date": "2023-05-05T10:59:05.000Z",
       "serie_id": 1,
       "order": 10,
+      "global_order": 20,
+      "notebooks": [],
+      "event_id": 0
+    },
+    "20": {
+      "subtitle": "",
+      "image_url": "https://fwcdn.pl/fpo/68/29/866829/8072735.6.jpg",
+      "date": "2023-07-26T10:10:28.000Z",
+      "serie_id": 2,
+      "order": 8,
+      "global_order": 21,
+      "notebooks": [],
+      "title": "Tajna Inwazja",
+      "event_id": 0
+    },
+    "21": {
+      "title": "Loki",
+      "subtitle": "Sezon 2",
+      "image_url": "https://fwcdn.pl/fpo/27/64/832764/8084110.6.jpg",
+      "date": "2023-11-09T11:55:56.000Z",
+      "serie_id": 2,
+      "order": 9,
       "global_order": 18,
+      "notebooks": [],
+      "event_id": 0
+    },
+    "22": {
+      "title": "Marvels",
+      "subtitle": "",
+      "image_url": "https://fwcdn.pl/fpo/16/29/851629/8095510.6.jpg",
+      "date": "2023-11-08T11:57:51.000Z",
+      "serie_id": 1,
+      "order": 0,
+      "global_order": 22,
+      "notebooks": [],
+      "event_id": 0
+    },
+    "23": {
+      "title": "A Gdyby...?",
+      "subtitle": "Sezon 2",
+      "image_url": "https://fwcdn.pl/fpo/64/42/836442/8105576.6.jpg",
+      "date": "2023-12-30T11:01:01.000Z",
+      "serie_id": 2,
+      "order": 10,
+      "global_order": 23,
+      "notebooks": [],
+      "event_id": 0
+    },
+    "24": {
+      "title": "Echo",
+      "subtitle": "",
+      "image_url": "https://fwcdn.pl/fpo/18/14/871814/8107269.6.jpg",
+      "date": "2024-01-10T11:07:21.000Z",
+      "serie_id": 2,
+      "order": 11,
+      "global_order": 12,
       "notebooks": [],
       "event_id": 0
     }
   },
   "meta": {
-    "nextIndex": 20
+    "nextIndex": 25
   }
 }

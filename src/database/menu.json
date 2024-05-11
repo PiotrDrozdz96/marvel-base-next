@@ -33,10 +33,10 @@
       "parent_id": 2
     },
     "5": {
-      "name": "Spider-Universe",
+      "name": "Sony",
       "type": "SUB_MENU",
       "order": 1,
-      "url": "/preview/sony/spider-verse",
+      "url": "/preview/sony/sony",
       "icon": "",
       "parent_id": 2
     },
