@@ -3,11 +3,13 @@
     "1": {
       "title": "Shang-Chi",
       "subtitle": "i legenda dziesięciu pierścieni",
-      "image_url": "https://fwcdn.pl/fpo/85/47/698547/7972234.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/85/47/698547/7972234_1.6.jpg",
       "date": "2021-09-01T10:11:40.000Z",
       "serie_id": 1,
       "order": 0,
-      "global_order": 2
+      "global_order": 2,
+      "event_id": null,
+      "notebooks": []
     },
     "2": {
       "title": "Eternals",
@@ -249,9 +251,20 @@
       "global_order": 12,
       "notebooks": [],
       "event_id": 0
+    },
+    "25": {
+      "title": "X-Men '97",
+      "subtitle": "Sezon 1",
+      "image_url": "https://fwcdn.pl/fpo/66/29/10016629/8119717.6.jpg",
+      "date": "2024-05-15T10:44:38.000Z",
+      "serie_id": 2,
+      "order": 12,
+      "global_order": 24,
+      "notebooks": [],
+      "event_id": 0
     }
   },
   "meta": {
-    "nextIndex": 25
+    "nextIndex": 26
   }
 }

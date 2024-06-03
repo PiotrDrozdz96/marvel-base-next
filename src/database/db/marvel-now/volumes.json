@@ -1271,7 +1271,7 @@
     "116": {
       "title": "Iron Man",
       "subtitle": "Tom 1 - Belive",
-      "image_url": "https://kbimages1-a.akamaihd.net/e47b4492-e372-493c-882a-510f4514793f/353/569/90/False/iron-man-vol-1-believe.jpg",
+      "image_url": "https://static2.redcart.pl/templates/images/thumb/38742/1500/1500/pl/0/templates/images/products/38742/d450721904855fe8b5f5db209b65490b.jpeg",
       "date": "2013-01-02T11:46:47.000Z",
       "serie_id": 34,
       "order": 115,
@@ -1282,7 +1282,7 @@
     "117": {
       "title": "Iron Man",
       "subtitle": "Tom 2 - The Secret Origin of Tony Stark",
-      "image_url": "https://kbimages1-a.akamaihd.net/27feb372-348f-4536-a7b1-4cfff466b44f/353/569/90/False/iron-man-vol-2-the-secret-origin-of-tony-stark-book-1.jpg",
+      "image_url": "https://static1.redcart.pl/templates/images/thumb/38742/1500/1500/pl/0/templates/images/products/38742/a6511b25e06f299f9c589503b092ac0e.jpg",
       "date": "2013-06-05T10:53:07.000Z",
       "serie_id": 34,
       "order": 116,
@@ -1293,7 +1293,7 @@
     "118": {
       "title": "Iron Man",
       "subtitle": "Tom 3 - The Secret Origin of Tony Stark",
-      "image_url": "https://kbimages1-a.akamaihd.net/c5d99bfa-694b-4a18-89be-d88409af04c9/353/569/90/False/iron-man-vol-3-the-secret-origin-of-tony-stark-book-2.jpg",
+      "image_url": "https://static5.redcart.pl/templates/images/thumb/38742/1500/1500/pl/0/templates/images/products/38742/777319a4f5361be44f54455a3011a8b1.jpeg",
       "date": "2013-10-23T10:54:54.000Z",
       "serie_id": 34,
       "order": 117,
@@ -1304,13 +1304,13 @@
     "119": {
       "title": "Iron Man",
       "subtitle": "Tom 4 - Iron Metropolitan",
-      "image_url": "https://kbimages1-a.akamaihd.net/477ab292-fa3f-4464-98d2-74ea8b123664/353/569/90/False/iron-man-2013-4.jpg",
+      "image_url": "https://m.media-amazon.com/images/I/71T1goA1OPL._SL1400_.jpg",
       "date": "2014-03-05T11:10:04.000Z",
       "serie_id": 34,
       "order": 118,
       "global_order": 62,
       "event_id": 0,
-      "notebooks": ["Iron_Man_Vol_5_18","Iron_Man_Vol_5_19","Iron_Man_Vol_5_20","Iron_Man_Vol_5_20.1","Iron_Man_Vol_5_21","Iron_Man_Vol_5_22"]
+      "notebooks": ["Iron_Man_Vol_5_18","Iron_Man_Vol_5_19","Iron_Man_Vol_5_20","Iron_Man_Vol_5_20.INH","Iron_Man_Vol_5_21","Iron_Man_Vol_5_22"]
     },
     "120": {
       "title": "Iron Man",
@@ -1381,7 +1381,7 @@
     "126": {
       "title": "Captain America",
       "subtitle": "Tom 1 - Castaway In Dimension Z",
-      "image_url": "https://kbimages1-a.akamaihd.net/055c1ea1-79ee-4a0e-9685-e141e05b0cbd/353/569/90/False/captain-america-vol-1-castaway-in-dimension-z-book-1.jpg",
+      "image_url": "https://m.media-amazon.com/images/I/71iwUYn9l1L._SL1400_.jpg",
       "date": "2013-03-20T11:53:34.000Z",
       "serie_id": 36,
       "order": 125,
@@ -1392,7 +1392,7 @@
     "127": {
       "title": "Captain America",
       "subtitle": "Tom 2 - Castaway In Dimension Z",
-      "image_url": "https://kbimages1-a.akamaihd.net/1d9ed88a-95ae-462d-9cd0-c0a248063733/353/569/90/False/captain-america-vol-2-castaway-in-dimension-z-book-2.jpg",
+      "image_url": "https://m.media-amazon.com/images/I/71uuEK8w2SL._SL1500_.jpg",
       "date": "2013-08-28T10:54:38.000Z",
       "serie_id": 36,
       "order": 126,
@@ -1436,7 +1436,7 @@
     "131": {
       "title": "All-New Captain America",
       "subtitle": "Tom 1 - Hydra Ascendant",
-      "image_url": "https://kbimages1-a.akamaihd.net/f465b773-56c3-499c-a72b-751129b39e45/353/569/90/False/all-new-captain-america-2015-t01.jpg",
+      "image_url": "https://bigimg.taniaksiazka.pl/images/popups/FD7/9780785193760.jpg",
       "date": "2015-04-25T10:13:52.000Z",
       "serie_id": 36,
       "order": 130,

@@ -3,11 +3,13 @@
     "1": {
       "title": "Spider-Man",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/96/95/9695/7518091.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/96/95/9695/7518091_1.6.jpg",
       "date": "2002-04-30T10:47:20.000Z",
       "serie_id": 1,
       "order": 0,
-      "global_order": 0
+      "global_order": 0,
+      "event_id": null,
+      "notebooks": []
     },
     "2": {
       "title": "Spider-Man 2",

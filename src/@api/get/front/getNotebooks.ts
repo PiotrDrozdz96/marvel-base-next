@@ -52,7 +52,7 @@ const mapNotebooks = (notebooksTitles: string[], pagesInfo?: Partial<MarvelFando
   return notebooksTitles
     .map((notebookTitle) => {
       const currentPage = pages.find((page) => page.title.replaceAll(' ', '_') === notebookTitle);
-      if (!currentPage) {
+      if (!currentPage?.revisions) {
         return undefined;
       }
       const content = currentPage.revisions[0].slots.main['*'];

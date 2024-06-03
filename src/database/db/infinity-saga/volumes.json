@@ -3,11 +3,13 @@
     "1": {
       "title": "Iron Man",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/25/41/122541/7211112.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/25/41/122541/7211112_1.6.jpg",
       "date": "2008-04-14T10:36:59.000Z",
       "serie_id": 1,
       "order": 0,
-      "global_order": 4
+      "global_order": 4,
+      "event_id": null,
+      "notebooks": []
     },
     "2": {
       "title": "Incredible Hulk",
@@ -318,11 +320,13 @@
     "37": {
       "title": "Agentka Carter",
       "subtitle": "Sezon 1",
-      "image_url": "https://fwcdn.pl/fpo/66/62/716662/7675628.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/66/62/716662/7675628_1.6.jpg",
       "date": "2015-02-24T11:12:57.000Z",
       "serie_id": 3,
       "order": 36,
-      "global_order": 1
+      "global_order": 1,
+      "event_id": null,
+      "notebooks": []
     },
     "38": {
       "title": "Agentka Carter",
@@ -336,11 +340,13 @@
     "39": {
       "title": "Inhumans",
       "subtitle": "Sezon 1",
-      "image_url": "https://fwcdn.pl/fpo/50/77/785077/7801062.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/50/77/785077/7801062_1.6.jpg",
       "date": "2017-11-10T11:15:16.000Z",
       "serie_id": 4,
       "order": 38,
-      "global_order": 35
+      "global_order": 35,
+      "event_id": null,
+      "notebooks": []
     },
     "40": {
       "title": "Daredevil",
@@ -462,11 +468,13 @@
     "53": {
       "title": "Cloak & Dagger",
       "subtitle": "Sezon 1",
-      "image_url": "https://fwcdn.pl/fpo/10/80/771080/7843594_1.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/10/80/771080/7847055_1.6.jpg",
       "date": "2018-08-02T10:35:16.000Z",
       "serie_id": 6,
       "order": 52,
-      "global_order": 38
+      "global_order": 38,
+      "event_id": null,
+      "notebooks": []
     },
     "54": {
       "title": "Cloak & Dagger",

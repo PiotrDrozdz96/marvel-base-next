@@ -3,20 +3,24 @@
     "1": {
       "title": "X-Men",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/09/69/969/7692697.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/09/69/969/7692832_1.6.jpg",
       "date": "2000-07-12T10:51:57.000Z",
       "serie_id": 1,
       "order": 0,
-      "global_order": 5
+      "global_order": 5,
+      "event_id": null,
+      "notebooks": []
     },
     "2": {
       "title": "X-Men 2",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/33/93/33393/7570222.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/33/93/33393/7570222_1.6.jpg",
       "date": "2003-04-24T10:53:25.000Z",
       "serie_id": 1,
       "order": 1,
-      "global_order": 6
+      "global_order": 6,
+      "event_id": null,
+      "notebooks": []
     },
     "3": {
       "title": "X-Men",
