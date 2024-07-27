@@ -3,7 +3,7 @@
     "1": {
       "title": "Shang-Chi",
       "subtitle": "i legenda dziesięciu pierścieni",
-      "image_url": "https://fwcdn.pl/fpo/85/47/698547/7972234_1.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/85/47/698547/7972234_2.6.jpg",
       "date": "2021-09-01T10:11:40.000Z",
       "serie_id": 1,
       "order": 0,
@@ -14,43 +14,51 @@
     "2": {
       "title": "Eternals",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/61/19/836119/7980524.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/61/19/836119/7980524_1.6.jpg",
       "date": "2021-10-18T10:12:51.000Z",
       "serie_id": 1,
       "order": 1,
-      "global_order": 6
+      "global_order": 6,
+      "event_id": null,
+      "notebooks": []
     },
     "3": {
       "title": "Spider-Man",
       "subtitle": "Daleko od domu",
-      "image_url": "https://fwcdn.pl/fpo/98/69/789869/7892960.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/98/69/789869/7892960_1.6.jpg",
       "date": "2019-06-26T10:13:50.000Z",
       "serie_id": 1,
       "order": 2,
-      "global_order": 5
+      "global_order": 5,
+      "event_id": null,
+      "notebooks": []
     },
     "4": {
       "title": "Spider-Man",
       "subtitle": "Bez drogi do domu",
-      "image_url": "https://fwcdn.pl/fpo/02/61/850261/7985244.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/02/61/850261/7985244_2.6.jpg",
       "date": "2021-12-15T11:14:56.000Z",
       "serie_id": 1,
       "order": 3,
-      "global_order": 7
+      "global_order": 7,
+      "event_id": null,
+      "notebooks": []
     },
     "5": {
       "title": "Loki",
-      "image_url": "https://fwcdn.pl/fpo/27/64/832764/7951218.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/27/64/832764/7951218_1.10.webp",
       "date": "2021-07-14T10:15:46.000Z",
       "serie_id": 2,
       "order": 0,
       "global_order": 0,
-      "subtitle": "Sezon 1"
+      "subtitle": "Sezon 1",
+      "event_id": null,
+      "notebooks": []
     },
     "6": {
       "title": "A Gdyby...?",
       "subtitle": "Sezon 1",
-      "image_url": "https://fwcdn.pl/fpo/64/42/836442/7965843.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/64/42/836442/7965843_1.10.webp",
       "date": "2021-10-06T10:18:23.000Z",
       "serie_id": 2,
       "order": 1,
@@ -61,45 +69,51 @@
     "7": {
       "title": "WandaVision",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/36/43/833643/7943721.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/36/43/833643/7943721_1.10.webp",
       "date": "2021-03-05T11:20:16.000Z",
       "serie_id": 2,
       "order": 2,
-      "global_order": 1
+      "global_order": 1,
+      "event_id": null,
+      "notebooks": []
     },
     "8": {
       "title": "Falcon i Zimowy Żołnierz",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/39/04/833904/7939072.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/39/04/833904/7950487_1.6.jpg",
       "date": "2021-04-23T10:21:26.000Z",
       "serie_id": 2,
       "order": 3,
-      "global_order": 3
+      "global_order": 3,
+      "event_id": null,
+      "notebooks": []
     },
     "9": {
       "title": "Hawkeye",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/39/75/833975/8008629.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/39/75/833975/8008629_1.10.webp",
       "date": "2021-12-22T11:22:45.000Z",
       "serie_id": 2,
       "order": 4,
       "global_order": 9,
       "event_id": null,
-      "notebooks_ids": []
+      "notebooks_ids": [],
+      "notebooks": []
     },
     "10": {
       "title": "Moon Knight",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/35/38/843538/8000749.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/35/38/843538/8030496_2.6.jpg",
       "date": "2022-05-04T10:53:40.000Z",
       "serie_id": 2,
       "order": 5,
       "global_order": 10,
       "notebooks_ids": [],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": []
     },
     "11": {
-      "image_url": "https://fwcdn.pl/fpo/64/40/836440/8008985.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/64/40/836440/8008985_1.6.jpg",
       "date": "2022-05-06T10:38:04.000Z",
       "serie_id": 1,
       "order": 4,
@@ -107,34 +121,37 @@
       "notebooks_ids": [],
       "title": "Doktor Strange",
       "subtitle": "w Multiwersum Obłędu",
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": []
     },
     "12": {
       "title": "Ms. Marvel",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/35/39/843539/8017560.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/35/39/843539/8009080_1.6.jpg",
       "date": "2022-07-13T10:30:05.000Z",
       "serie_id": 2,
       "order": 6,
       "global_order": 15,
       "notebooks_ids": [],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": []
     },
     "13": {
       "title": "Thor",
       "subtitle": "Miłość i Grom",
-      "image_url": "https://fwcdn.pl/fpo/64/41/836441/8021424.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/64/41/836441/8021424_1.6.jpg",
       "date": "2022-07-08T10:31:54.000Z",
       "serie_id": 1,
       "order": 5,
       "global_order": 14,
       "notebooks_ids": [],
-      "event_id": 0
+      "event_id": 0,
+      "notebooks": []
     },
     "14": {
       "title": "Wilkołak nocą",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/97/53/10019753/8030726.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/97/53/10019753/8030726_1.6.jpg",
       "date": "2022-10-07T10:19:55.000Z",
       "serie_id": 1,
       "order": 6,
@@ -145,7 +162,7 @@
     "15": {
       "title": "Mecenas She-Hulk",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/35/37/843537/8026857.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/35/37/843537/8026857_1.6.jpg",
       "date": "2022-10-13T10:10:39.000Z",
       "serie_id": 2,
       "order": 7,
@@ -156,7 +173,7 @@
     "16": {
       "title": "Czarna Pantera",
       "subtitle": "Wakanda w moim sercu",
-      "image_url": "https://fwcdn.pl/fpo/79/29/837929/8038537.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/79/29/837929/8038537_1.6.jpg",
       "date": "2022-11-11T11:51:56.000Z",
       "serie_id": 1,
       "order": 7,
@@ -167,7 +184,7 @@
     "17": {
       "title": "Strażnicy Galaktyki",
       "subtitle": "Coraz bliżej święta",
-      "image_url": "https://fwcdn.pl/fpo/75/73/877573/8038502.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/75/73/877573/8041847_2.6.jpg",
       "date": "2022-11-25T11:04:28.000Z",
       "serie_id": 1,
       "order": 8,
@@ -178,7 +195,7 @@
     "18": {
       "title": "Ant-Man i Osa",
       "subtitle": "Kwantomania",
-      "image_url": "https://fwcdn.pl/fpo/28/25/842825/8058951.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/28/25/842825/8058951_1.6.jpg",
       "date": "2023-02-15T11:25:05.000Z",
       "serie_id": 1,
       "order": 9,
@@ -189,7 +206,7 @@
     "19": {
       "title": "Strażnicy Galaktyki",
       "subtitle": "Vol. 3",
-      "image_url": "https://fwcdn.pl/fpo/60/77/806077/8072082.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/60/77/806077/8072082_1.6.jpg",
       "date": "2023-05-05T10:59:05.000Z",
       "serie_id": 1,
       "order": 10,
@@ -199,7 +216,7 @@
     },
     "20": {
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/68/29/866829/8072735.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/68/29/866829/8072735_1.6.jpg",
       "date": "2023-07-26T10:10:28.000Z",
       "serie_id": 2,
       "order": 8,
@@ -211,7 +228,7 @@
     "21": {
       "title": "Loki",
       "subtitle": "Sezon 2",
-      "image_url": "https://fwcdn.pl/fpo/27/64/832764/8084110.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/27/64/832764/8084110_1.10.webp",
       "date": "2023-11-09T11:55:56.000Z",
       "serie_id": 2,
       "order": 9,
@@ -222,7 +239,7 @@
     "22": {
       "title": "Marvels",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/16/29/851629/8095510.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/16/29/851629/8095510_1.6.jpg",
       "date": "2023-11-08T11:57:51.000Z",
       "serie_id": 1,
       "order": 0,
@@ -233,7 +250,7 @@
     "23": {
       "title": "A Gdyby...?",
       "subtitle": "Sezon 2",
-      "image_url": "https://fwcdn.pl/fpo/64/42/836442/8105576.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/64/42/836442/8105576_1.10.webp",
       "date": "2023-12-30T11:01:01.000Z",
       "serie_id": 2,
       "order": 10,
@@ -244,22 +261,11 @@
     "24": {
       "title": "Echo",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/18/14/871814/8107269.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/18/14/871814/8107269_1.6.jpg",
       "date": "2024-01-10T11:07:21.000Z",
       "serie_id": 2,
       "order": 11,
       "global_order": 12,
-      "notebooks": [],
-      "event_id": 0
-    },
-    "25": {
-      "title": "X-Men '97",
-      "subtitle": "Sezon 1",
-      "image_url": "https://fwcdn.pl/fpo/66/29/10016629/8119717.6.jpg",
-      "date": "2024-05-15T10:44:38.000Z",
-      "serie_id": 2,
-      "order": 12,
-      "global_order": 24,
       "notebooks": [],
       "event_id": 0
     }

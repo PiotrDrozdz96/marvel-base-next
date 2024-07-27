@@ -3,18 +3,30 @@ import { dimensions } from 'consts/presets';
 
 import { ImageLoader } from './Image.types';
 
-const filmwebPresetMap: Record<Preset | 'full', 1 | 2 | 3 | 4 | 5> = {
+const filmwebJpgPresetMap: Record<Preset | 'full', 1 | 2 | 3 | 4 | 5> = {
   thumb: 2,
   preview: 5,
   mini: 4,
   full: 3,
 };
 
+const filmwebWebpPresetMap: Record<Preset | 'full', 7 | 8 | 11> = {
+  thumb: 7,
+  preview: 8,
+  mini: 7,
+  full: 11,
+};
+
 export const loaders: ImageLoader[] = [
   {
-    name: 'filmweb',
-    regExp: /^(https:\/\/fwcdn.pl\/[^.]*.)(\d)(\..*)$/,
-    loader: (preset, [, start, , end]) => `${start}${filmwebPresetMap[preset]}${end}`,
+    name: 'filmwebJpg',
+    regExp: /^(https:\/\/fwcdn.pl\/[^.]*.)(\d+)(\.jpg)$/,
+    loader: (preset, [, start, , end]) => `${start}${filmwebJpgPresetMap[preset]}${end}`,
+  },
+  {
+    name: 'filmwebWebp',
+    regExp: /^(https:\/\/fwcdn.pl\/[^.]*.)(\d+)(\.webp)$/,
+    loader: (preset, [, start, , end]) => `${start}${filmwebWebpPresetMap[preset]}${end}`,
   },
   {
     name: 'gildia komiks',

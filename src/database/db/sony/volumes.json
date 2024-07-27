@@ -14,88 +14,106 @@
     "2": {
       "title": "Spider-Man 2",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/42/81/34281/7537326.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/42/81/34281/7537326_1.6.jpg",
       "date": "2004-06-22T10:47:55.000Z",
       "serie_id": 1,
       "order": 1,
-      "global_order": 1
+      "global_order": 1,
+      "event_id": null,
+      "notebooks": []
     },
     "3": {
       "title": "Spider-Man 3",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/87/13/138713/7533442.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/87/13/138713/7533442_2.6.jpg",
       "date": "2007-04-03T10:48:34.000Z",
       "serie_id": 1,
       "order": 2,
-      "global_order": 2
+      "global_order": 2,
+      "event_id": null,
+      "notebooks": []
     },
     "4": {
       "title": "Niesamowity Spider-Man",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/14/36/401436/7464039.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/14/36/401436/7464039_1.6.jpg",
       "date": "2012-03-13T11:50:26.000Z",
       "serie_id": 2,
       "order": 3,
-      "global_order": 3
+      "global_order": 3,
+      "event_id": null,
+      "notebooks": []
     },
     "5": {
       "title": "Niesamowity Spider-Man 2",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/20/28/622028/7607190.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/20/28/622028/7607190_1.6.jpg",
       "date": "2014-04-10T10:51:19.000Z",
       "serie_id": 2,
       "order": 4,
-      "global_order": 4
+      "global_order": 4,
+      "event_id": null,
+      "notebooks": []
     },
     "6": {
       "title": "Spider-Man",
       "subtitle": "Homecoming",
-      "image_url": "https://fwcdn.pl/fpo/96/76/659676/7796301.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/96/76/659676/7796301_1.6.jpg",
       "date": "2017-06-28T10:52:08.000Z",
       "serie_id": 3,
       "order": 5,
-      "global_order": 5
+      "global_order": 5,
+      "event_id": null,
+      "notebooks": []
     },
     "7": {
       "title": "Spider-Man",
       "subtitle": "Daleko od domu",
-      "image_url": "https://fwcdn.pl/fpo/98/69/789869/7892960.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/98/69/789869/7892960_1.6.jpg",
       "date": "2019-06-26T10:53:10.000Z",
       "serie_id": 3,
       "order": 6,
-      "global_order": 8
+      "global_order": 8,
+      "event_id": null,
+      "notebooks": []
     },
     "8": {
       "title": "Spider-Man",
       "subtitle": "Bez drogi do domu",
-      "image_url": "https://fwcdn.pl/fpo/02/61/850261/7985244.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/02/61/850261/7985244_2.6.jpg",
       "date": "2021-12-15T11:54:05.000Z",
       "serie_id": 3,
       "order": 7,
-      "global_order": 10
+      "global_order": 10,
+      "event_id": null,
+      "notebooks": []
     },
     "9": {
       "title": "Venom",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/99/06/519906/7857303.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/99/06/519906/7857303_2.6.jpg",
       "date": "2018-10-01T10:56:44.000Z",
       "serie_id": 4,
       "order": 0,
-      "global_order": 6
+      "global_order": 6,
+      "event_id": null,
+      "notebooks": []
     },
     "10": {
       "title": "Venom 2",
       "subtitle": "Carnage",
-      "image_url": "https://fwcdn.pl/fpo/65/19/836519/7973189.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/65/19/836519/7973189_2.6.jpg",
       "date": "2021-09-14T10:57:39.000Z",
       "serie_id": 4,
       "order": 1,
-      "global_order": 9
+      "global_order": 9,
+      "event_id": null,
+      "notebooks": []
     },
     "11": {
       "title": "Morbius",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/70/46/817046/7987451.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/70/46/817046/7987451_1.6.jpg",
       "date": "2022-03-30T10:32:31.000Z",
       "serie_id": 4,
       "order": 2,
@@ -106,7 +124,7 @@
     "12": {
       "title": "Spider-Man",
       "subtitle": "Uniwersum",
-      "image_url": "https://fwcdn.pl/fpo/32/33/743233/7866074.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/32/33/743233/7866074_2.6.jpg",
       "date": "2018-12-07T11:37:33.000Z",
       "serie_id": 5,
       "order": 0,
@@ -116,7 +134,7 @@
     },
     "13": {
       "subtitle": "Poprzez Multiwersum",
-      "image_url": "https://fwcdn.pl/fpo/28/26/842826/8068847.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/28/26/842826/8068847_1.6.jpg",
       "date": "2023-05-31T10:38:35.000Z",
       "serie_id": 5,
       "order": 0,

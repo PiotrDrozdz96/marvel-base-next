@@ -25,146 +25,178 @@
     "3": {
       "title": "X-Men",
       "subtitle": "Ostatni Bastion",
-      "image_url": "https://fwcdn.pl/fpo/64/11/106411/7529194.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/64/11/106411/7529194_2.6.jpg",
       "date": "2006-05-22T10:55:18.000Z",
       "serie_id": 1,
       "order": 2,
-      "global_order": 7
+      "global_order": 7,
+      "event_id": null,
+      "notebooks": []
     },
     "4": {
       "title": "X-Men",
       "subtitle": "Pierwsza klasa",
-      "image_url": "https://fwcdn.pl/fpo/92/80/489280/7371009.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/92/80/489280/7371009_1.10.webp",
       "date": "2011-05-25T10:57:03.000Z",
       "serie_id": 2,
       "order": 3,
-      "global_order": 0
+      "global_order": 0,
+      "event_id": null,
+      "notebooks": []
     },
     "5": {
       "title": "X-Men",
       "subtitle": "Przeszłość która nadejdzie",
-      "image_url": "https://fwcdn.pl/fpo/08/08/630808/7604711.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/08/08/630808/7604711_2.10.webp",
       "date": "2014-05-10T10:57:56.000Z",
       "serie_id": 2,
       "order": 4,
-      "global_order": 1
+      "global_order": 1,
+      "event_id": null,
+      "notebooks": []
     },
     "6": {
       "title": "X-Men",
       "subtitle": "Apoccalypse",
-      "image_url": "https://fwcdn.pl/fpo/80/51/698051/7733303_1.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/80/51/698051/7733303_3.10.webp",
       "date": "2016-05-09T10:58:48.000Z",
       "serie_id": 2,
       "order": 5,
-      "global_order": 2
+      "global_order": 2,
+      "event_id": null,
+      "notebooks": []
     },
     "7": {
       "title": "X-Men",
       "subtitle": "Mroczna Phoenix",
-      "image_url": "https://fwcdn.pl/fpo/55/52/785552/7878546.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/55/52/785552/7878546_1.6.jpg",
       "date": "2019-06-04T10:00:54.000Z",
       "serie_id": 2,
       "order": 6,
-      "global_order": 3
+      "global_order": 3,
+      "event_id": null,
+      "notebooks": []
     },
     "8": {
       "subtitle": "Wolverine",
-      "image_url": "https://fwcdn.pl/fpo/43/07/214307/7236694.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/43/07/214307/7236694_2.6.jpg",
       "date": "2009-04-08T10:02:15.000Z",
       "serie_id": 3,
       "order": 7,
       "global_order": 4,
-      "title": "X-Men Geneza"
+      "title": "X-Men Geneza",
+      "event_id": null,
+      "notebooks": []
     },
     "9": {
       "title": "Wolverine",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/50/48/515048/7559330.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/50/48/515048/7559330_1.6.jpg",
       "date": "2013-07-16T10:03:21.000Z",
       "serie_id": 3,
       "order": 8,
-      "global_order": 8
+      "global_order": 8,
+      "event_id": null,
+      "notebooks": []
     },
     "10": {
       "subtitle": "Wolverine",
-      "image_url": "https://fwcdn.pl/fpo/35/52/713552/7774933.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/35/52/713552/7774933_2.6.jpg",
       "date": "2017-02-17T11:04:08.000Z",
       "serie_id": 3,
       "order": 9,
       "global_order": 17,
-      "title": "Logan"
+      "title": "Logan",
+      "event_id": null,
+      "notebooks": []
     },
     "11": {
       "title": "Deadpool",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/46/75/514675/7716978.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/46/75/514675/7716978_1.6.jpg",
       "date": "2016-01-21T11:05:28.000Z",
       "serie_id": 4,
       "order": 10,
-      "global_order": 9
+      "global_order": 9,
+      "event_id": null,
+      "notebooks": []
     },
     "12": {
       "title": "Deadpool 2",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/04/29/760429/7840533.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/04/29/760429/7840533_2.6.jpg",
       "date": "2018-05-01T10:06:21.000Z",
       "serie_id": 4,
       "order": 11,
-      "global_order": 10
+      "global_order": 10,
+      "event_id": null,
+      "notebooks": []
     },
     "13": {
       "title": "Legion",
       "subtitle": "Sezon 1",
-      "image_url": "https://fwcdn.pl/fpo/94/08/769408/7772666.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/94/08/769408/7772666_1.10.webp",
       "date": "2017-03-29T10:07:25.000Z",
       "serie_id": 5,
       "order": 12,
-      "global_order": 13
+      "global_order": 13,
+      "event_id": null,
+      "notebooks": []
     },
     "14": {
       "title": "Legion",
       "subtitle": "Sezon 2",
-      "image_url": "https://fwcdn.pl/fpo/94/08/769408/7835845.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/94/08/769408/7835845_1.10.webp",
       "date": "2018-06-12T10:08:13.000Z",
       "serie_id": 5,
       "order": 13,
-      "global_order": 14
+      "global_order": 14,
+      "event_id": null,
+      "notebooks": []
     },
     "15": {
       "title": "Legion",
       "subtitle": "Sezon 3",
-      "image_url": "https://fwcdn.pl/fpo/94/08/769408/7885645.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/94/08/769408/7885645_1.10.webp",
       "date": "2019-08-12T10:09:05.000Z",
       "serie_id": 5,
       "order": 14,
-      "global_order": 15
+      "global_order": 15,
+      "event_id": null,
+      "notebooks": []
     },
     "16": {
       "title": "Gifted: Naznaczeni",
       "subtitle": "Sezon 1",
-      "image_url": "https://fwcdn.pl/fpo/09/97/740997/7810098.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/09/97/740997/7810098_1.6.jpg",
       "date": "2018-01-15T11:10:04.000Z",
       "serie_id": 6,
       "order": 15,
-      "global_order": 11
+      "global_order": 11,
+      "event_id": null,
+      "notebooks": []
     },
     "17": {
       "title": "Gifted: Naznaczeni",
       "subtitle": "Sezon 2",
-      "image_url": "https://fwcdn.pl/fpo/09/97/740997/7857611.6.jpg",
+      "image_url": "https://fwcdn.pl/fpo/09/97/740997/7857611_1.10.webp",
       "date": "2019-02-26T11:10:52.000Z",
       "serie_id": 6,
       "order": 16,
-      "global_order": 12
+      "global_order": 12,
+      "event_id": null,
+      "notebooks": []
     },
     "18": {
       "title": "Nowi Mutanci",
       "subtitle": "",
-      "image_url": "https://fwcdn.pl/fpo/36/03/763603/7928920.2.jpg",
+      "image_url": "https://fwcdn.pl/fpo/36/03/763603/7928920_2.6.jpg",
       "date": "2020-08-26T10:39:01.000Z",
       "serie_id": 7,
       "order": 17,
-      "global_order": 16
+      "global_order": 16,
+      "event_id": null,
+      "notebooks": []
     }
   },
   "meta": {
