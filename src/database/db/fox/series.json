@@ -41,9 +41,33 @@
       "order": 4,
       "wave_id": 1,
       "is_filter": true
+    },
+    "8": {
+      "name": "Blade",
+      "order": 7,
+      "wave_id": 3,
+      "is_filter": true
+    },
+    "9": {
+      "name": "Daredevil",
+      "order": 8,
+      "wave_id": 3,
+      "is_filter": true
+    },
+    "10": {
+      "name": "Punisher",
+      "order": 9,
+      "wave_id": 3,
+      "is_filter": true
+    },
+    "11": {
+      "name": "Fantastyczna Czwórka",
+      "order": 10,
+      "wave_id": 3,
+      "is_filter": true
     }
   },
   "meta": {
-    "nextIndex": 8
+    "nextIndex": 12
   }
 }

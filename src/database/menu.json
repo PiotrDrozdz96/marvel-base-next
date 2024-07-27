@@ -25,10 +25,10 @@
       "parent_id": 2
     },
     "4": {
-      "name": "X-Men",
+      "name": "Fox",
       "type": "SUB_MENU",
       "order": 0,
-      "url": "/preview/fox/x-men",
+      "url": "/preview/fox/fox",
       "icon": "",
       "parent_id": 2
     },
@@ -43,7 +43,7 @@
     "6": {
       "name": "Multiverse Saga",
       "type": "SUB_MENU",
-      "order": 5,
+      "order": 3,
       "url": "/preview/multiverse-saga/filmy",
       "icon": "",
       "parent_id": 2

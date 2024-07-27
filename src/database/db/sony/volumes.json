@@ -142,9 +142,20 @@
       "notebooks": [],
       "title": "Spider-Man",
       "event_id": 0
+    },
+    "14": {
+      "title": "Madame Web",
+      "subtitle": "",
+      "image_url": "https://fwcdn.pl/fpo/78/69/10007869/8105004_1.6.jpg",
+      "date": "2024-02-14T11:31:59.000Z",
+      "serie_id": 4,
+      "order": 3,
+      "global_order": 13,
+      "notebooks": [],
+      "event_id": 0
     }
   },
   "meta": {
-    "nextIndex": 14
+    "nextIndex": 15
   }
 }

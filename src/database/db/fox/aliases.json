@@ -1,5 +1,1 @@
-{
-  "x-men": {
-    "params": "seriesIds=[1,2]"
-  }
-}
+{"fox":{"params":"seriesIds=[1,2,3,4]"}}

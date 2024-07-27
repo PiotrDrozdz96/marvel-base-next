@@ -1,15 +1,19 @@
 {
   "waves": {
     "1": {
-      "name": "Filmy",
+      "name": "Mutanci",
       "order": 0
     },
     "2": {
       "name": "Seriale",
+      "order": 2
+    },
+    "3": {
+      "name": "Pozostałe",
       "order": 1
     }
   },
   "meta": {
-    "nextIndex": 3
+    "nextIndex": 4
   }
 }
