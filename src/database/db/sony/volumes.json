@@ -153,9 +153,31 @@
       "global_order": 13,
       "notebooks": [],
       "event_id": 0
+    },
+    "15": {
+      "title": "Venom 3",
+      "subtitle": "Ostatni taniec",
+      "image_url": "https://fwcdn.pl/fpo/24/58/10022458/8142511.10.webp",
+      "date": "2024-10-25T10:37:54.000Z",
+      "serie_id": 4,
+      "order": 4,
+      "global_order": 14,
+      "notebooks": [],
+      "event_id": 0
+    },
+    "16": {
+      "subtitle": "",
+      "image_url": "https://fwcdn.pl/fpo/50/11/875011/8151359.10.webp",
+      "date": "2024-12-12T11:38:26.000Z",
+      "serie_id": 4,
+      "order": 5,
+      "global_order": 15,
+      "notebooks": [],
+      "title": "Kraven Łowca",
+      "event_id": 0
     }
   },
   "meta": {
-    "nextIndex": 15
+    "nextIndex": 17
   }
 }
